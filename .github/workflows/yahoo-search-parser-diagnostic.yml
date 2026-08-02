@@ -1,0 +1,82 @@
+name: Inspect Yahoo Japan search result structure
+
+on:
+  push:
+    paths:
+      - '.github/workflows/yahoo-search-parser-diagnostic.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  parse-yahoo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 0
+      - run: python3 -m pip install --disable-pip-version-check requests beautifulsoup4
+      - name: Parse Yahoo search anchors
+        run: |
+          mkdir -p catalog-audit/yahoo-diagnostic
+          python3 - <<'PY'
+          import json, pathlib, requests, re
+          from bs4 import BeautifulSoup
+          from urllib.parse import quote_plus, urlparse, parse_qs, unquote
+
+          ua = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/136.0 Safari/537.36'
+          queries = [
+              'Shu Uemura Botanic Cleansing Oil 450ml 公式',
+              'Copic Sketch 24色 公式',
+              'IPSA ザ タイムR アクア 200ml 公式',
+              '木屋 エーデルワイス パン切り 225mm',
+          ]
+          out=[]
+          for q in queries:
+              url='https://search.yahoo.co.jp/search?p='+quote_plus(q)
+              r=requests.get(url,headers={'User-Agent':ua,'Accept-Language':'ja-JP,ja;q=0.9'},timeout=25)
+              soup=BeautifulSoup(r.text,'html.parser')
+              anchors=[]
+              seen=set()
+              for a in soup.find_all('a', href=True):
+                  href=a.get('href','')
+                  text=re.sub(r'\s+',' ',a.get_text(' ',strip=True))
+                  if not text or len(text)<3:
+                      continue
+                  # Yahoo may use direct external URLs or redirect wrappers.
+                  if href.startswith('//'):
+                      href='https:'+href
+                  if href.startswith('/'):
+                      continue
+                  if 'r.search.yahoo.co.jp' in href or 'search.yahoo.co.jp/redirect' in href:
+                      qs=parse_qs(urlparse(href).query)
+                      for key in ('RU','u','url'):
+                          if qs.get(key):
+                              href=unquote(qs[key][0]); break
+                  if not href.startswith('http'):
+                      continue
+                  domain=urlparse(href).netloc.lower()
+                  if any(x in domain for x in ('yahoo.co.jp','yimg.jp','line.me')):
+                      continue
+                  key=href.split('#')[0]
+                  if key in seen:
+                      continue
+                  seen.add(key)
+                  parent=re.sub(r'\s+',' ',a.parent.get_text(' ',strip=True))[:600] if a.parent else ''
+                  anchors.append({'text':text[:250],'href':href,'domain':domain,'parent_text':parent})
+                  if len(anchors)>=30:
+                      break
+              out.append({'query':q,'status':r.status_code,'bytes':len(r.content),'anchors':anchors})
+          pathlib.Path('catalog-audit/yahoo-diagnostic/parsed_results.json').write_text(json.dumps(out,ensure_ascii=False,indent=2),encoding='utf-8')
+          print(json.dumps(out,ensure_ascii=False,indent=2))
+          PY
+      - name: Commit parsed results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalog-audit/yahoo-diagnostic/parsed_results.json
+          git commit -m "data: add Yahoo Japan result parser diagnostic"
+          git push origin HEAD:master

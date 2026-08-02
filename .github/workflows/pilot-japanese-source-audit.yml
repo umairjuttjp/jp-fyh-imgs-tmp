@@ -22,22 +22,50 @@ jobs:
       - name: Install audit dependencies
         run: python3 -m pip install --disable-pip-version-check requests beautifulsoup4
 
-      - name: Run conservative pilot
+      - name: Compile engine and run conservative pilot with diagnostics
+        shell: bash
         run: |
           mkdir -p catalog-audit/pilot
-          python3 catalog-audit/source_audit_engine.py \
-            --input catalog-audit/chunks/products_0001_0100.json \
-            --output catalog-audit/pilot/pilot_first_12.json \
-            --limit 12 --delay 0.2
+          set +e
+          python3 -m py_compile catalog-audit/source_audit_engine.py \
+            > catalog-audit/pilot/compile_stdout.log \
+            2> catalog-audit/pilot/compile_stderr.log
+          COMPILE_STATUS=$?
+          echo "$COMPILE_STATUS" > catalog-audit/pilot/compile_status.txt
+
+          if [ "$COMPILE_STATUS" -eq 0 ]; then
+            python3 catalog-audit/source_audit_engine.py \
+              --input catalog-audit/chunks/products_0001_0100.json \
+              --output catalog-audit/pilot/pilot_first_12.json \
+              --limit 12 --delay 0.2 \
+              > catalog-audit/pilot/run_stdout.log \
+              2> catalog-audit/pilot/run_stderr.log
+            RUN_STATUS=$?
+          else
+            RUN_STATUS=99
+            echo "Engine compile failed; run skipped" > catalog-audit/pilot/run_stderr.log
+            : > catalog-audit/pilot/run_stdout.log
+          fi
+          echo "$RUN_STATUS" > catalog-audit/pilot/run_status.txt
+          exit 0
 
       - name: Build pilot summary
         if: always()
         run: |
           python3 - <<'PY'
           import json, pathlib, collections
-          path = pathlib.Path('catalog-audit/pilot/pilot_first_12.json')
+          base = pathlib.Path('catalog-audit/pilot')
+          path = base / 'pilot_first_12.json'
           rows = json.loads(path.read_text(encoding='utf-8')) if path.exists() else []
+          def read(name):
+              p = base / name
+              return p.read_text(encoding='utf-8', errors='replace')[-12000:] if p.exists() else ''
           summary = {
+              'compile_status': read('compile_status.txt').strip(),
+              'run_status': read('run_status.txt').strip(),
+              'compile_stderr': read('compile_stderr.log'),
+              'run_stderr': read('run_stderr.log'),
+              'run_stdout_tail': read('run_stdout.log'),
               'count': len(rows),
               'status_counts': dict(collections.Counter(r.get('final_status') for r in rows)),
               'rows': [
@@ -48,14 +76,16 @@ jobs:
                       'status': r.get('final_status'),
                       'url': r.get('final_source_url'),
                       'best_candidate': r.get('best_candidate_url'),
+                      'best_status': r.get('best_candidate_status'),
                       'score': r.get('best_candidate_score'),
                       'evidence': r.get('verification_evidence'),
                       'queries': r.get('queries'),
+                      'elapsed': r.get('elapsed_seconds'),
                   }
                   for r in rows
               ],
           }
-          pathlib.Path('catalog-audit/pilot/pilot_summary.json').write_text(
+          (base / 'pilot_summary.json').write_text(
               json.dumps(summary, ensure_ascii=False, indent=2), encoding='utf-8'
           )
           print(json.dumps(summary, ensure_ascii=False, indent=2))
@@ -70,6 +100,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No pilot output to commit"
           else
-            git commit -m "data: add exact-source audit pilot results"
+            git commit -m "data: update exact-source audit pilot diagnostics"
             git push origin HEAD:master
           fi

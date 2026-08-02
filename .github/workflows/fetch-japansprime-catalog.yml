@@ -1,0 +1,93 @@
+name: Fetch JapansPrime catalog audit export
+
+on:
+  push:
+    paths:
+      - '.github/workflows/fetch-japansprime-catalog.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-catalog:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: Download Shopify bulk export
+        env:
+          CATALOG_URL: https://cdn.shopify.com/s/files/1/0641/9546/1231/files/56f025b2a730fe1efe5a79dda3ad?v=1785628354
+        run: |
+          mkdir -p catalog-audit
+          curl --fail --location --retry 3 --retry-delay 2 "$CATALOG_URL" -o catalog-audit/japansprime_catalog.jsonl
+          test -s catalog-audit/japansprime_catalog.jsonl
+          wc -c catalog-audit/japansprime_catalog.jsonl
+          wc -l catalog-audit/japansprime_catalog.jsonl
+
+      - name: Build product-only CSV and manifest
+        run: |
+          python3 - <<'PY'
+          import csv, json, pathlib, datetime
+
+          src = pathlib.Path('catalog-audit/japansprime_catalog.jsonl')
+          rows = []
+          total_lines = 0
+          child_lines = 0
+          for line in src.open(encoding='utf-8'):
+              total_lines += 1
+              obj = json.loads(line)
+              if obj.get('__parentId'):
+                  child_lines += 1
+                  continue
+              rows.append(obj)
+
+          all_keys = sorted({k for row in rows for k in row.keys() if k != '__parentId'})
+          preferred = [
+              'id','legacyResourceId','handle','title','vendor','productType','status',
+              'onlineStoreUrl','createdAt','updatedAt'
+          ]
+          fields = [k for k in preferred if k in all_keys] + [k for k in all_keys if k not in preferred]
+
+          out = pathlib.Path('catalog-audit/japansprime_products.csv')
+          with out.open('w', encoding='utf-8-sig', newline='') as f:
+              w = csv.DictWriter(f, fieldnames=fields, extrasaction='ignore')
+              w.writeheader()
+              for row in rows:
+                  flat = {}
+                  for k in fields:
+                      v = row.get(k)
+                      if isinstance(v, (dict, list)):
+                          v = json.dumps(v, ensure_ascii=False, separators=(',', ':'))
+                      flat[k] = v
+                  w.writerow(flat)
+
+          manifest = {
+              'generated_at_utc': datetime.datetime.now(datetime.timezone.utc).isoformat(),
+              'total_jsonl_lines': total_lines,
+              'root_product_rows': len(rows),
+              'child_rows': child_lines,
+              'raw_bytes': src.stat().st_size,
+              'csv_bytes': out.stat().st_size,
+          }
+          pathlib.Path('catalog-audit/manifest.json').write_text(
+              json.dumps(manifest, ensure_ascii=False, indent=2), encoding='utf-8'
+          )
+          print(json.dumps(manifest, indent=2))
+          PY
+
+      - name: Commit audit export
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalog-audit/japansprime_catalog.jsonl catalog-audit/japansprime_products.csv catalog-audit/manifest.json
+          if git diff --cached --quiet; then
+            echo "No catalog changes to commit"
+          else
+            git commit -m "data: add full JapansPrime catalog audit export"
+            git push origin HEAD:master
+          fi

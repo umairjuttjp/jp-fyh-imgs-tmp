@@ -1,4 +1,9 @@
 {
+  "compile_status": "1",
+  "run_status": "99",
+  "compile_stderr": "  File \"catalog-audit/source_audit_engine.py\", line 438\n    exact_models = sorted(m for m in model_tokens if len(m) >= 4 and m in ncombined, key=lambda x: (-len(x), x))\n                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nSyntaxError: Generator expression must be parenthesized\n",
+  "run_stderr": "Engine compile failed; run skipped\n",
+  "run_stdout_tail": "",
   "count": 0,
   "status_counts": {},
   "rows": []

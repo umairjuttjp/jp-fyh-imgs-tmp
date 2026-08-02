@@ -435,7 +435,7 @@ def evaluate_candidate(product: dict, clue: dict, result: SearchResult, amazon: 
     measure_tokens = extract_measure_tokens(product_title + " " + clue.get("text", "")[:5000])
 
     exact_jans = sorted(j for j in known_jans if j and j in combined)
-    exact_models = sorted(m for m in model_tokens if len(m) >= 4 and m in ncombined, key=lambda x: (-len(x), x))
+    exact_models = sorted((m for m in model_tokens if len(m) >= 4 and m in ncombined), key=lambda x: (-len(x), x))
     exact_measures = sorted(m for m in measure_tokens if m and m in ncombined)
     title_overlap = overlap_ratio(product_title, combined)
     vendor_match = domain_similarity(vendor, page.get("domain", ""), combined)

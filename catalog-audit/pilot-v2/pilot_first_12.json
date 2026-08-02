@@ -1,0 +1,521 @@
+[
+  {
+    "shopify_product_id": "7895542038639",
+    "handle": "kewpie-verde-melon-pan-whip-toast-spread-100g",
+    "store_title": "Kewpie Verde Melon Pan Whip Toast Spread - 100g Authentic Japanese Flavor",
+    "vendor": "Kewpie",
+    "catalog_status": "ACTIVE",
+    "store_url": "https://japansprime.com/products/kewpie-verde-melon-pan-whip-toast-spread-100g",
+    "variant_skus": [
+      "KWPI-MPNSPD-100"
+    ],
+    "variant_barcodes": [],
+    "existing_reseller_clue": "https://japanesetaste.com//products/verde-melon-pan-whip-japanese-melon-bread-toast-spread-100g",
+    "clue_jans": [],
+    "public_model_codes": [],
+    "localized_identity_clues": [
+      "ヴェルデメロンパン風トーストスプレッド | 商品情報 | キユーピー",
+      "ヴェルデメロンパン風トーストスプレッドの、原材料名、栄養成分表示、アレルゲン情報などの商品情報を詳しくご紹介します。 塗って焼くだけで、バターが香るサクサク食感のメロンパン風トーストが楽しめます。",
+      "Kewpie Verde Melon Pan Whip Toast Spread - 100g ...",
+      "ヴェルデメロンパンホイップ メロンパントーストスプレッド 100g",
+      "このスプレッドには、京都の漬物から発見された植物性乳酸菌「ラブレ乳酸菌」（15gあたり約3億個）も配合されています。 この善玉菌は、腸内環境を整え、お肌のうるおいを保つのに役立ちます。",
+      "Kewpie Verde Melon Bread Toast Spread 100g - Japanese ...",
+      "全国のヴェルデメロンパン風トーストスプレッド 100g販売店一覧 ...",
+      "全国のヴェルデメロンパン風トーストスプレッド 100g 販売店一覧になります。 キユーピー商品の販売店が検索できます。 住所検索、地図検索ができます。"
+    ],
+    "official_domains": [
+      "kewpie.co.jp",
+      "kewpie.com"
+    ],
+    "final_source_url": "https://www.kewpie.co.jp/products/product/spread/toast/4562452232126/",
+    "source_type": "OFFICIAL_BRAND_JP",
+    "final_status": "VERIFIED_OFFICIAL_TITLE_SIZE",
+    "confidence": "HIGH",
+    "verification_evidence": [
+      "verified official brand domain",
+      "matching size/count 100g",
+      "localized title similarity 0.54",
+      "title-token overlap 1.00",
+      "brand/domain name alignment"
+    ],
+    "matched_model_codes": [],
+    "matched_jans": [],
+    "matched_size_count": [
+      "100g"
+    ],
+    "best_candidate_url": "https://www.kewpie.co.jp/products/product/spread/toast/4562452232126/",
+    "best_candidate_status": "VERIFIED_OFFICIAL_TITLE_SIZE",
+    "best_candidate_score": 108,
+    "queries": [
+      "site:kewpie.co.jp ヴェルデメロンパン風トーストスプレッド | 商品情報 | キユーピー",
+      "site:kewpie.co.jp ヴェルデメロンパン風トーストスプレッドの、原材料名、栄養成分表示、アレルゲン情報などの商品情報を詳しくご紹介します。 塗って焼くだけで、バターが香るサクサク食感のメロンパン風トーストが楽しめます。",
+      "site:kewpie.co.jp Kewpie Verde Melon Pan Whip Toast Spread - 100g ...",
+      "site:kewpie.com ヴェルデメロンパン風トーストスプレッド | 商品情報 | キユーピー",
+      "site:kewpie.com ヴェルデメロンパン風トーストスプレッドの、原材料名、栄養成分表示、アレルゲン情報などの商品情報を詳しくご紹介します。 塗って焼くだけで、バターが香るサクサク食感のメロンパン風トーストが楽しめます。",
+      "site:kewpie.com Kewpie Verde Melon Pan Whip Toast Spread - 100g ..."
+    ],
+    "official_candidates_reviewed": [
+      {
+        "url": "https://www.kewpie.co.jp/products/product/spread/toast/4562452232126/",
+        "domain": "kewpie.co.jp",
+        "status": "VERIFIED_OFFICIAL_TITLE_SIZE",
+        "score": 108,
+        "official": true,
+        "search_title": "ヴェルデメロンパン風トーストスプレッド | 商品情報 | キユーピー",
+        "page_title": "ヴェルデメロンパン風トーストスプレッド | 商品情報 | キユーピー",
+        "evidence": [
+          "verified official brand domain",
+          "matching size/count 100g",
+          "localized title similarity 0.54",
+          "title-token overlap 1.00",
+          "brand/domain name alignment"
+        ],
+        "matched_models": [],
+        "matched_jans": [],
+        "matched_measures": [
+          "100g"
+        ],
+        "localized_title_similarity": 0.538,
+        "title_token_overlap": 1.0,
+        "engine": "ddg"
+      },
+      {
+        "url": "https://www.kewpie.co.jp/products/product/spread/toast/",
+        "domain": "kewpie.co.jp",
+        "status": "HOLD_OFFICIAL_CANDIDATE",
+        "score": 104,
+        "official": true,
+        "search_title": "ヴェルデ トーストスプレッド | 商品情報 | キユーピー",
+        "page_title": "ヴェルデ　トーストスプレッド | 商品情報 | キユーピー",
+        "evidence": [
+          "verified official brand domain",
+          "localized title similarity 0.60",
+          "title-token overlap 0.75",
+          "brand/domain name alignment"
+        ],
+        "matched_models": [],
+        "matched_jans": [],
+        "matched_measures": [],
+        "localized_title_similarity": 0.603,
+        "title_token_overlap": 0.75,
+        "engine": "ddg"
+      }
+    ],
+    "amazon_candidates_reviewed": [],
+    "elapsed_seconds": 15.85,
+    "engine_version": "2026-08-02.2"
+  },
+  {
+    "shopify_product_id": "7895542071407",
+    "handle": "shu-uemura-botanic-yuzu-cleansing-oil-450ml",
+    "store_title": "Shu Uemura Botanic Yuzu Cleansing Oil 450ml - Soothing Face Cleanser",
+    "vendor": "Shu Uemura",
+    "catalog_status": "ACTIVE",
+    "store_url": "https://japansprime.com/products/shu-uemura-botanic-yuzu-cleansing-oil-450ml",
+    "variant_skus": [
+      "SHUE-BCLOIL-450"
+    ],
+    "variant_barcodes": [],
+    "existing_reseller_clue": "https://japanesetaste.com//products/shu-uemura-botanic-cleansing-oil-450ml",
+    "clue_jans": [],
+    "public_model_codes": [],
+    "localized_identity_clues": [],
+    "official_domains": [
+      "shuuemura.jp"
+    ],
+    "final_source_url": "",
+    "source_type": "",
+    "final_status": "UNRESOLVED_ON_KNOWN_OFFICIAL_DOMAIN",
+    "confidence": "NONE",
+    "verification_evidence": [],
+    "matched_model_codes": [],
+    "matched_jans": [],
+    "matched_size_count": [],
+    "best_candidate_url": "",
+    "best_candidate_status": "",
+    "best_candidate_score": null,
+    "queries": [
+      "site:shuuemura.jp Shu Uemura Botanic Yuzu Cleansing Oil 450ml",
+      "site:shuuemura.jp shu uemura botanic cleansing oil 450ml",
+      "site:amazon.co.jp Shu Uemura Shu Uemura Botanic Yuzu Cleansing Oil 450ml"
+    ],
+    "official_candidates_reviewed": [],
+    "amazon_candidates_reviewed": [],
+    "elapsed_seconds": 3.62,
+    "engine_version": "2026-08-02.2"
+  },
+  {
+    "shopify_product_id": "7895542104175",
+    "handle": "akagawa-20cm-stainless-steel-yukihira-pan-non-stick-silkware-finish",
+    "store_title": "Akagawa 20cm Stainless Steel Yukihira Pan - Non-Stick Silkware Finish",
+    "vendor": "Akagawa Kibutsu",
+    "catalog_status": "ACTIVE",
+    "store_url": "https://japansprime.com/products/akagawa-20cm-stainless-steel-yukihira-pan-non-stick-silkware-finish",
+    "variant_skus": [
+      "AKGW-YKIPAN-19120"
+    ],
+    "variant_barcodes": [],
+    "existing_reseller_clue": "https://japanesetaste.com//products/yukihira-pot-stainless-steel-deep-saucepan-20cm",
+    "clue_jans": [],
+    "public_model_codes": [
+      "19120"
+    ],
+    "localized_identity_clues": [],
+    "official_domains": [],
+    "final_source_url": "",
+    "source_type": "",
+    "final_status": "UNRESOLVED_NO_OFFICIAL_DOMAIN",
+    "confidence": "NONE",
+    "verification_evidence": [],
+    "matched_model_codes": [],
+    "matched_jans": [],
+    "matched_size_count": [],
+    "best_candidate_url": "",
+    "best_candidate_status": "",
+    "best_candidate_score": null,
+    "queries": [
+      "site:amazon.co.jp Akagawa Kibutsu 19120"
+    ],
+    "official_candidates_reviewed": [],
+    "amazon_candidates_reviewed": [],
+    "elapsed_seconds": 3.26,
+    "engine_version": "2026-08-02.2"
+  },
+  {
+    "shopify_product_id": "7895542792303",
+    "handle": "akagawa-18cm-oyakodon-pan",
+    "store_title": "Akagawa 18cm Oyakodon Pan: Authentic Japanese Flavor with Non-Stick Silkware Coating & Ergonomic Wooden Handle",
+    "vendor": "Akagawa",
+    "catalog_status": "ACTIVE",
+    "store_url": "https://japansprime.com/products/akagawa-18cm-oyakodon-pan",
+    "variant_skus": [
+      "AKGW-OYKPAN-91031"
+    ],
+    "variant_barcodes": [],
+    "existing_reseller_clue": "https://japanesetaste.com//products/japanese-oyako-nabe-pan-ih-compatible-oyakodon-pan-178mm",
+    "clue_jans": [],
+    "public_model_codes": [
+      "91031"
+    ],
+    "localized_identity_clues": [],
+    "official_domains": [],
+    "final_source_url": "",
+    "source_type": "",
+    "final_status": "UNRESOLVED_NO_OFFICIAL_DOMAIN",
+    "confidence": "NONE",
+    "verification_evidence": [],
+    "matched_model_codes": [],
+    "matched_jans": [],
+    "matched_size_count": [],
+    "best_candidate_url": "",
+    "best_candidate_status": "",
+    "best_candidate_score": null,
+    "queries": [
+      "site:amazon.co.jp Akagawa 91031"
+    ],
+    "official_candidates_reviewed": [],
+    "amazon_candidates_reviewed": [],
+    "elapsed_seconds": 4.96,
+    "engine_version": "2026-08-02.2"
+  },
+  {
+    "shopify_product_id": "7895542890607",
+    "handle": "dr-ci-labo-enrich-lift-up-lotion-ex-firming-anti-aging-toner-150ml",
+    "store_title": "Dr.Ci:Labo Enrich Lift Up Lotion EX - Firming Anti-Aging Toner 150ml",
+    "vendor": "Dr.Ci:Labo",
+    "catalog_status": "ACTIVE",
+    "store_url": "https://japansprime.com/products/dr-ci-labo-enrich-lift-up-lotion-ex-firming-anti-aging-toner-150ml",
+    "variant_skus": [
+      "DCLB-ELUPLO-150"
+    ],
+    "variant_barcodes": [],
+    "existing_reseller_clue": "https://japanesetaste.com//products/dr-ci-labo-enrich-lift-up-lotion-150ml",
+    "clue_jans": [],
+    "public_model_codes": [],
+    "localized_identity_clues": [],
+    "official_domains": [
+      "ci-labo.com"
+    ],
+    "final_source_url": "",
+    "source_type": "",
+    "final_status": "UNRESOLVED_ON_KNOWN_OFFICIAL_DOMAIN",
+    "confidence": "NONE",
+    "verification_evidence": [],
+    "matched_model_codes": [],
+    "matched_jans": [],
+    "matched_size_count": [],
+    "best_candidate_url": "",
+    "best_candidate_status": "",
+    "best_candidate_score": null,
+    "queries": [
+      "site:ci-labo.com Dr.Ci:Labo Enrich Lift Up Lotion EX - Firming Anti-Aging Toner 150ml",
+      "site:ci-labo.com dr ci labo enrich lift up lotion 150ml",
+      "site:amazon.co.jp Dr.Ci:Labo Dr.Ci:Labo Enrich Lift Up Lotion EX - Firming Anti-Aging Toner 150ml"
+    ],
+    "official_candidates_reviewed": [],
+    "amazon_candidates_reviewed": [],
+    "elapsed_seconds": 3.52,
+    "engine_version": "2026-08-02.2"
+  },
+  {
+    "shopify_product_id": "7895542923375",
+    "handle": "copic-sketch-marker-set-24-professional-alcohol-based-colors",
+    "store_title": "Copic Sketch Marker Set - 24 Professional Alcohol-Based Colors",
+    "vendor": "Copic",
+    "catalog_status": "ACTIVE",
+    "store_url": "https://japansprime.com/products/copic-sketch-marker-set-24-professional-alcohol-based-colors",
+    "variant_skus": [
+      "CPIC-SKTMRK-SET24"
+    ],
+    "variant_barcodes": [],
+    "existing_reseller_clue": "https://japanesetaste.com//products/copic-markers-sketch-marker-set-24-colors",
+    "clue_jans": [],
+    "public_model_codes": [],
+    "localized_identity_clues": [],
+    "official_domains": [
+      "copic.jp"
+    ],
+    "final_source_url": "",
+    "source_type": "",
+    "final_status": "UNRESOLVED_ON_KNOWN_OFFICIAL_DOMAIN",
+    "confidence": "NONE",
+    "verification_evidence": [],
+    "matched_model_codes": [],
+    "matched_jans": [],
+    "matched_size_count": [],
+    "best_candidate_url": "",
+    "best_candidate_status": "",
+    "best_candidate_score": null,
+    "queries": [
+      "site:copic.jp Copic Sketch Marker - 24 Alcohol-Based Colors",
+      "site:copic.jp copic markers sketch marker set 24 colors",
+      "site:amazon.co.jp Copic Copic Sketch Marker - 24 Alcohol-Based Colors"
+    ],
+    "official_candidates_reviewed": [],
+    "amazon_candidates_reviewed": [],
+    "elapsed_seconds": 3.51,
+    "engine_version": "2026-08-02.2"
+  },
+  {
+    "shopify_product_id": "7895542956143",
+    "handle": "kao-clear-clean-natural-mint-toothpaste-120g",
+    "store_title": "Kao Clear Clean Natural Mint Toothpaste 120g - Deep Cleaning Cavity Care",
+    "vendor": "Kao",
+    "catalog_status": "ACTIVE",
+    "store_url": "https://japansprime.com/products/kao-clear-clean-natural-mint-toothpaste-120g",
+    "variant_skus": [
+      "KAO-PRDTPA-MI120"
+    ],
+    "variant_barcodes": [],
+    "existing_reseller_clue": "https://japanesetaste.com//products/kao-clear-clean-natural-mint-periodontal-toothpaste-120g",
+    "clue_jans": [],
+    "public_model_codes": [],
+    "localized_identity_clues": [],
+    "official_domains": [
+      "kao.com"
+    ],
+    "final_source_url": "",
+    "source_type": "",
+    "final_status": "UNRESOLVED_ON_KNOWN_OFFICIAL_DOMAIN",
+    "confidence": "NONE",
+    "verification_evidence": [],
+    "matched_model_codes": [],
+    "matched_jans": [],
+    "matched_size_count": [],
+    "best_candidate_url": "",
+    "best_candidate_status": "",
+    "best_candidate_score": null,
+    "queries": [
+      "site:kao.com Kao Clear Clean Mint Toothpaste 120g",
+      "site:kao.com kao clear clean natural mint periodontal toothpaste 120g",
+      "site:amazon.co.jp Kao Kao Clear Clean Mint Toothpaste 120g"
+    ],
+    "official_candidates_reviewed": [],
+    "amazon_candidates_reviewed": [],
+    "elapsed_seconds": 3.64,
+    "engine_version": "2026-08-02.2"
+  },
+  {
+    "shopify_product_id": "7895542988911",
+    "handle": "j-taste-premium-hidaka-kombu-100g-authentic-japanese-kelp",
+    "store_title": "J Taste Premium Hidaka Kombu - 100g Authentic Japanese Kelp for Dashi",
+    "vendor": "J Taste",
+    "catalog_status": "ACTIVE",
+    "store_url": "https://japansprime.com/products/j-taste-premium-hidaka-kombu-100g-authentic-japanese-kelp",
+    "variant_skus": [
+      "JPNT-HDKKMB-100"
+    ],
+    "variant_barcodes": [],
+    "existing_reseller_clue": "https://japanesetaste.com//products/j-taste-hidaka-kombu-seaweed-dried-japanese-kelp-100g",
+    "clue_jans": [],
+    "public_model_codes": [],
+    "localized_identity_clues": [],
+    "official_domains": [],
+    "final_source_url": "",
+    "source_type": "",
+    "final_status": "UNRESOLVED_NO_OFFICIAL_DOMAIN",
+    "confidence": "NONE",
+    "verification_evidence": [],
+    "matched_model_codes": [],
+    "matched_jans": [],
+    "matched_size_count": [],
+    "best_candidate_url": "",
+    "best_candidate_status": "",
+    "best_candidate_score": null,
+    "queries": [
+      "site:amazon.co.jp J Taste J Taste Hidaka Kombu - 100g Kelp Dashi"
+    ],
+    "official_candidates_reviewed": [],
+    "amazon_candidates_reviewed": [],
+    "elapsed_seconds": 3.36,
+    "engine_version": "2026-08-02.2"
+  },
+  {
+    "shopify_product_id": "7895543021679",
+    "handle": "ipsa-time-reset-aqua-w-medicated-hydrating-lotion-200ml",
+    "store_title": "IPSA Time Reset Aqua W Medicated Hydrating Lotion 200ml",
+    "vendor": "IPSA",
+    "catalog_status": "ACTIVE",
+    "store_url": "https://japansprime.com/products/ipsa-time-reset-aqua-w-medicated-hydrating-lotion-200ml",
+    "variant_skus": [
+      "IPSA-TTRLOT-200"
+    ],
+    "variant_barcodes": [],
+    "existing_reseller_clue": "https://japanesetaste.com//products/ipsa-the-time-reset-aqua-moisturizing-lotion-200ml",
+    "clue_jans": [],
+    "public_model_codes": [],
+    "localized_identity_clues": [],
+    "official_domains": [
+      "ipsa.co.jp"
+    ],
+    "final_source_url": "",
+    "source_type": "",
+    "final_status": "UNRESOLVED_ON_KNOWN_OFFICIAL_DOMAIN",
+    "confidence": "NONE",
+    "verification_evidence": [],
+    "matched_model_codes": [],
+    "matched_jans": [],
+    "matched_size_count": [],
+    "best_candidate_url": "",
+    "best_candidate_status": "",
+    "best_candidate_score": null,
+    "queries": [
+      "site:ipsa.co.jp IPSA Time Reset Aqua W Medicated Hydrating Lotion 200ml",
+      "site:ipsa.co.jp ipsa the time reset aqua moisturizing lotion 200ml",
+      "site:amazon.co.jp IPSA IPSA Time Reset Aqua W Medicated Hydrating Lotion 200ml"
+    ],
+    "official_candidates_reviewed": [],
+    "amazon_candidates_reviewed": [],
+    "elapsed_seconds": 3.55,
+    "engine_version": "2026-08-02.2"
+  },
+  {
+    "shopify_product_id": "7895543119983",
+    "handle": "kanebo-kate-double-line-expert-lb-1-ultralight-brown-eyeliner",
+    "store_title": "Kanebo KATE Double Line Expert LB-1 - Ultralight Brown Eye Contour Liner",
+    "vendor": "Kanebo",
+    "catalog_status": "ACTIVE",
+    "store_url": "https://japansprime.com/products/kanebo-kate-double-line-expert-lb-1-ultralight-brown-eyeliner",
+    "variant_skus": [
+      "KATE-DBLEYL-LB1"
+    ],
+    "variant_barcodes": [],
+    "existing_reseller_clue": "https://japanesetaste.com//products/kanebo-kate-double-line-expert-eyeliner-lb-1-ultralight-brown-0-5ml",
+    "clue_jans": [],
+    "public_model_codes": [],
+    "localized_identity_clues": [],
+    "official_domains": [
+      "kanebo-cosmetics.jp"
+    ],
+    "final_source_url": "",
+    "source_type": "",
+    "final_status": "UNRESOLVED_ON_KNOWN_OFFICIAL_DOMAIN",
+    "confidence": "NONE",
+    "verification_evidence": [],
+    "matched_model_codes": [],
+    "matched_jans": [],
+    "matched_size_count": [],
+    "best_candidate_url": "",
+    "best_candidate_status": "",
+    "best_candidate_score": null,
+    "queries": [
+      "site:kanebo-cosmetics.jp Kanebo KATE Double Line Expert LB-1 - Ultralight Brown Eye Contour Liner",
+      "site:kanebo-cosmetics.jp kanebo kate double line expert eyeliner lb 1 ultralight brown 0 5ml",
+      "site:amazon.co.jp Kanebo Kanebo KATE Double Line Expert LB-1 - Ultralight Brown Eye Contour Liner"
+    ],
+    "official_candidates_reviewed": [],
+    "amazon_candidates_reviewed": [],
+    "elapsed_seconds": 2.36,
+    "engine_version": "2026-08-02.2"
+  },
+  {
+    "shopify_product_id": "7895543152751",
+    "handle": "kiya-no-180-edelweiss-japanese-bread-knife-225mm-professional-serrated",
+    "store_title": "Kiya No.180 Edelweiss Japanese Bread Knife - 225mm Professional Serrated",
+    "vendor": "Nihonbashi Kiya",
+    "catalog_status": "ACTIVE",
+    "store_url": "https://japansprime.com/products/kiya-no-180-edelweiss-japanese-bread-knife-225mm-professional-serrated",
+    "variant_skus": [
+      "KIYA-BRDKNF-225"
+    ],
+    "variant_barcodes": [],
+    "existing_reseller_clue": "https://japanesetaste.com//products/kiya-no-180-edelweiss-steel-japanese-bread-knife-225mm",
+    "clue_jans": [],
+    "public_model_codes": [],
+    "localized_identity_clues": [],
+    "official_domains": [],
+    "final_source_url": "",
+    "source_type": "",
+    "final_status": "UNRESOLVED_NO_OFFICIAL_DOMAIN",
+    "confidence": "NONE",
+    "verification_evidence": [],
+    "matched_model_codes": [],
+    "matched_jans": [],
+    "matched_size_count": [],
+    "best_candidate_url": "",
+    "best_candidate_status": "",
+    "best_candidate_score": null,
+    "queries": [
+      "site:amazon.co.jp Nihonbashi Kiya Kiya No.180 Edelweiss Bread Knife - 225mm Serrated"
+    ],
+    "official_candidates_reviewed": [],
+    "amazon_candidates_reviewed": [],
+    "elapsed_seconds": 3.21,
+    "engine_version": "2026-08-02.2"
+  },
+  {
+    "shopify_product_id": "7895543185519",
+    "handle": "kiya-no-160-edelweiss-steel-18cm-kamagata-usuba-vegetable-knife",
+    "store_title": "Kiya No. 160 Edelweiss Steel 18cm Kamagata Usuba Vegetable Knife",
+    "vendor": "Kiya",
+    "catalog_status": "ACTIVE",
+    "store_url": "https://japansprime.com/products/kiya-no-160-edelweiss-steel-18cm-kamagata-usuba-vegetable-knife",
+    "variant_skus": [
+      "KIYA-USBKNF-180"
+    ],
+    "variant_barcodes": [],
+    "existing_reseller_clue": "https://japanesetaste.com//products/kiya-no-160-edelweiss-steel-japanese-kamagata-usuba-knife-18cm",
+    "clue_jans": [],
+    "public_model_codes": [],
+    "localized_identity_clues": [],
+    "official_domains": [],
+    "final_source_url": "",
+    "source_type": "",
+    "final_status": "UNRESOLVED_NO_OFFICIAL_DOMAIN",
+    "confidence": "NONE",
+    "verification_evidence": [],
+    "matched_model_codes": [],
+    "matched_jans": [],
+    "matched_size_count": [],
+    "best_candidate_url": "",
+    "best_candidate_status": "",
+    "best_candidate_score": null,
+    "queries": [
+      "site:amazon.co.jp Kiya Kiya No. 160 Edelweiss Steel 18cm Kamagata Usuba Vegetable Knife"
+    ],
+    "official_candidates_reviewed": [],
+    "amazon_candidates_reviewed": [],
+    "elapsed_seconds": 3.25,
+    "engine_version": "2026-08-02.2"
+  }
+]

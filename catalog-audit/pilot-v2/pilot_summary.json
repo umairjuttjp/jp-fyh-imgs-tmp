@@ -1,0 +1,229 @@
+{
+  "compile_status": "0",
+  "run_status": "0",
+  "compile_stderr": "",
+  "run_stderr": "",
+  "run_stdout_tail": "{\"n\": 1, \"id\": \"7895542038639\", \"status\": \"VERIFIED_OFFICIAL_TITLE_SIZE\", \"url\": \"https://www.kewpie.co.jp/products/product/spread/toast/4562452232126/\", \"domains\": [\"kewpie.co.jp\", \"kewpie.com\"], \"elapsed\": 15.85}\n{\"n\": 2, \"id\": \"7895542071407\", \"status\": \"UNRESOLVED_ON_KNOWN_OFFICIAL_DOMAIN\", \"url\": \"\", \"domains\": [\"shuuemura.jp\"], \"elapsed\": 3.62}\n{\"n\": 3, \"id\": \"7895542104175\", \"status\": \"UNRESOLVED_NO_OFFICIAL_DOMAIN\", \"url\": \"\", \"domains\": [], \"elapsed\": 3.26}\n{\"n\": 4, \"id\": \"7895542792303\", \"status\": \"UNRESOLVED_NO_OFFICIAL_DOMAIN\", \"url\": \"\", \"domains\": [], \"elapsed\": 4.96}\n{\"n\": 5, \"id\": \"7895542890607\", \"status\": \"UNRESOLVED_ON_KNOWN_OFFICIAL_DOMAIN\", \"url\": \"\", \"domains\": [\"ci-labo.com\"], \"elapsed\": 3.52}\n{\"n\": 6, \"id\": \"7895542923375\", \"status\": \"UNRESOLVED_ON_KNOWN_OFFICIAL_DOMAIN\", \"url\": \"\", \"domains\": [\"copic.jp\"], \"elapsed\": 3.51}\n{\"n\": 7, \"id\": \"7895542956143\", \"status\": \"UNRESOLVED_ON_KNOWN_OFFICIAL_DOMAIN\", \"url\": \"\", \"domains\": [\"kao.com\"], \"elapsed\": 3.64}\n{\"n\": 8, \"id\": \"7895542988911\", \"status\": \"UNRESOLVED_NO_OFFICIAL_DOMAIN\", \"url\": \"\", \"domains\": [], \"elapsed\": 3.36}\n{\"n\": 9, \"id\": \"7895543021679\", \"status\": \"UNRESOLVED_ON_KNOWN_OFFICIAL_DOMAIN\", \"url\": \"\", \"domains\": [\"ipsa.co.jp\"], \"elapsed\": 3.55}\n{\"n\": 10, \"id\": \"7895543119983\", \"status\": \"UNRESOLVED_ON_KNOWN_OFFICIAL_DOMAIN\", \"url\": \"\", \"domains\": [\"kanebo-cosmetics.jp\"], \"elapsed\": 2.36}\n{\"n\": 11, \"id\": \"7895543152751\", \"status\": \"UNRESOLVED_NO_OFFICIAL_DOMAIN\", \"url\": \"\", \"domains\": [], \"elapsed\": 3.21}\n{\"n\": 12, \"id\": \"7895543185519\", \"status\": \"UNRESOLVED_NO_OFFICIAL_DOMAIN\", \"url\": \"\", \"domains\": [], \"elapsed\": 3.25}\n",
+  "count": 12,
+  "status_counts": {
+    "VERIFIED_OFFICIAL_TITLE_SIZE": 1,
+    "UNRESOLVED_ON_KNOWN_OFFICIAL_DOMAIN": 6,
+    "UNRESOLVED_NO_OFFICIAL_DOMAIN": 5
+  },
+  "rows": [
+    {
+      "id": "7895542038639",
+      "title": "Kewpie Verde Melon Pan Whip Toast Spread - 100g Authentic Japanese Flavor",
+      "vendor": "Kewpie",
+      "domains": [
+        "kewpie.co.jp",
+        "kewpie.com"
+      ],
+      "models": [],
+      "localized": [
+        "ヴェルデメロンパン風トーストスプレッド | 商品情報 | キユーピー",
+        "ヴェルデメロンパン風トーストスプレッドの、原材料名、栄養成分表示、アレルゲン情報などの商品情報を詳しくご紹介します。 塗って焼くだけで、バターが香るサクサク食感のメロンパン風トーストが楽しめます。",
+        "Kewpie Verde Melon Pan Whip Toast Spread - 100g ...",
+        "ヴェルデメロンパンホイップ メロンパントーストスプレッド 100g",
+        "このスプレッドには、京都の漬物から発見された植物性乳酸菌「ラブレ乳酸菌」（15gあたり約3億個）も配合されています。 この善玉菌は、腸内環境を整え、お肌のうるおいを保つのに役立ちます。",
+        "Kewpie Verde Melon Bread Toast Spread 100g - Japanese ...",
+        "全国のヴェルデメロンパン風トーストスプレッド 100g販売店一覧 ...",
+        "全国のヴェルデメロンパン風トーストスプレッド 100g 販売店一覧になります。 キユーピー商品の販売店が検索できます。 住所検索、地図検索ができます。"
+      ],
+      "status": "VERIFIED_OFFICIAL_TITLE_SIZE",
+      "url": "https://www.kewpie.co.jp/products/product/spread/toast/4562452232126/",
+      "best_candidate": "https://www.kewpie.co.jp/products/product/spread/toast/4562452232126/",
+      "best_status": "VERIFIED_OFFICIAL_TITLE_SIZE",
+      "score": 108,
+      "evidence": [
+        "verified official brand domain",
+        "matching size/count 100g",
+        "localized title similarity 0.54",
+        "title-token overlap 1.00",
+        "brand/domain name alignment"
+      ],
+      "elapsed": 15.85
+    },
+    {
+      "id": "7895542071407",
+      "title": "Shu Uemura Botanic Yuzu Cleansing Oil 450ml - Soothing Face Cleanser",
+      "vendor": "Shu Uemura",
+      "domains": [
+        "shuuemura.jp"
+      ],
+      "models": [],
+      "localized": [],
+      "status": "UNRESOLVED_ON_KNOWN_OFFICIAL_DOMAIN",
+      "url": "",
+      "best_candidate": "",
+      "best_status": "",
+      "score": null,
+      "evidence": [],
+      "elapsed": 3.62
+    },
+    {
+      "id": "7895542104175",
+      "title": "Akagawa 20cm Stainless Steel Yukihira Pan - Non-Stick Silkware Finish",
+      "vendor": "Akagawa Kibutsu",
+      "domains": [],
+      "models": [
+        "19120"
+      ],
+      "localized": [],
+      "status": "UNRESOLVED_NO_OFFICIAL_DOMAIN",
+      "url": "",
+      "best_candidate": "",
+      "best_status": "",
+      "score": null,
+      "evidence": [],
+      "elapsed": 3.26
+    },
+    {
+      "id": "7895542792303",
+      "title": "Akagawa 18cm Oyakodon Pan: Authentic Japanese Flavor with Non-Stick Silkware Coating & Ergonomic Wooden Handle",
+      "vendor": "Akagawa",
+      "domains": [],
+      "models": [
+        "91031"
+      ],
+      "localized": [],
+      "status": "UNRESOLVED_NO_OFFICIAL_DOMAIN",
+      "url": "",
+      "best_candidate": "",
+      "best_status": "",
+      "score": null,
+      "evidence": [],
+      "elapsed": 4.96
+    },
+    {
+      "id": "7895542890607",
+      "title": "Dr.Ci:Labo Enrich Lift Up Lotion EX - Firming Anti-Aging Toner 150ml",
+      "vendor": "Dr.Ci:Labo",
+      "domains": [
+        "ci-labo.com"
+      ],
+      "models": [],
+      "localized": [],
+      "status": "UNRESOLVED_ON_KNOWN_OFFICIAL_DOMAIN",
+      "url": "",
+      "best_candidate": "",
+      "best_status": "",
+      "score": null,
+      "evidence": [],
+      "elapsed": 3.52
+    },
+    {
+      "id": "7895542923375",
+      "title": "Copic Sketch Marker Set - 24 Professional Alcohol-Based Colors",
+      "vendor": "Copic",
+      "domains": [
+        "copic.jp"
+      ],
+      "models": [],
+      "localized": [],
+      "status": "UNRESOLVED_ON_KNOWN_OFFICIAL_DOMAIN",
+      "url": "",
+      "best_candidate": "",
+      "best_status": "",
+      "score": null,
+      "evidence": [],
+      "elapsed": 3.51
+    },
+    {
+      "id": "7895542956143",
+      "title": "Kao Clear Clean Natural Mint Toothpaste 120g - Deep Cleaning Cavity Care",
+      "vendor": "Kao",
+      "domains": [
+        "kao.com"
+      ],
+      "models": [],
+      "localized": [],
+      "status": "UNRESOLVED_ON_KNOWN_OFFICIAL_DOMAIN",
+      "url": "",
+      "best_candidate": "",
+      "best_status": "",
+      "score": null,
+      "evidence": [],
+      "elapsed": 3.64
+    },
+    {
+      "id": "7895542988911",
+      "title": "J Taste Premium Hidaka Kombu - 100g Authentic Japanese Kelp for Dashi",
+      "vendor": "J Taste",
+      "domains": [],
+      "models": [],
+      "localized": [],
+      "status": "UNRESOLVED_NO_OFFICIAL_DOMAIN",
+      "url": "",
+      "best_candidate": "",
+      "best_status": "",
+      "score": null,
+      "evidence": [],
+      "elapsed": 3.36
+    },
+    {
+      "id": "7895543021679",
+      "title": "IPSA Time Reset Aqua W Medicated Hydrating Lotion 200ml",
+      "vendor": "IPSA",
+      "domains": [
+        "ipsa.co.jp"
+      ],
+      "models": [],
+      "localized": [],
+      "status": "UNRESOLVED_ON_KNOWN_OFFICIAL_DOMAIN",
+      "url": "",
+      "best_candidate": "",
+      "best_status": "",
+      "score": null,
+      "evidence": [],
+      "elapsed": 3.55
+    },
+    {
+      "id": "7895543119983",
+      "title": "Kanebo KATE Double Line Expert LB-1 - Ultralight Brown Eye Contour Liner",
+      "vendor": "Kanebo",
+      "domains": [
+        "kanebo-cosmetics.jp"
+      ],
+      "models": [],
+      "localized": [],
+      "status": "UNRESOLVED_ON_KNOWN_OFFICIAL_DOMAIN",
+      "url": "",
+      "best_candidate": "",
+      "best_status": "",
+      "score": null,
+      "evidence": [],
+      "elapsed": 2.36
+    },
+    {
+      "id": "7895543152751",
+      "title": "Kiya No.180 Edelweiss Japanese Bread Knife - 225mm Professional Serrated",
+      "vendor": "Nihonbashi Kiya",
+      "domains": [],
+      "models": [],
+      "localized": [],
+      "status": "UNRESOLVED_NO_OFFICIAL_DOMAIN",
+      "url": "",
+      "best_candidate": "",
+      "best_status": "",
+      "score": null,
+      "evidence": [],
+      "elapsed": 3.21
+    },
+    {
+      "id": "7895543185519",
+      "title": "Kiya No. 160 Edelweiss Steel 18cm Kamagata Usuba Vegetable Knife",
+      "vendor": "Kiya",
+      "domains": [],
+      "models": [],
+      "localized": [],
+      "status": "UNRESOLVED_NO_OFFICIAL_DOMAIN",
+      "url": "",
+      "best_candidate": "",
+      "best_status": "",
+      "score": null,
+      "evidence": [],
+      "elapsed": 3.25
+    }
+  ]
+}

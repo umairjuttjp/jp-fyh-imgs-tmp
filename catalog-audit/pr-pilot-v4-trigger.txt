@@ -1,0 +1,2 @@
+Run fast conservative V4 source audit pilot.
+Triggered: 2026-08-02

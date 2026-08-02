@@ -1,10 +1,220 @@
 {
-  "compile_status": "1",
-  "run_status": "99",
-  "compile_stderr": "  File \"catalog-audit/source_audit_engine.py\", line 438\n    exact_models = sorted(m for m in model_tokens if len(m) >= 4 and m in ncombined, key=lambda x: (-len(x), x))\n                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nSyntaxError: Generator expression must be parenthesized\n",
-  "run_stderr": "Engine compile failed; run skipped\n",
-  "run_stdout_tail": "",
-  "count": 0,
-  "status_counts": {},
-  "rows": []
+  "compile_status": "0",
+  "run_status": "0",
+  "compile_stderr": "",
+  "run_stderr": "",
+  "run_stdout_tail": "{\"n\": 1, \"id\": \"7895542038639\", \"status\": \"UNRESOLVED_NO_EXACT_SOURCE\", \"url\": \"\", \"elapsed\": 17.41}\n{\"n\": 2, \"id\": \"7895542071407\", \"status\": \"UNRESOLVED_NO_EXACT_SOURCE\", \"url\": \"\", \"elapsed\": 5.29}\n{\"n\": 3, \"id\": \"7895542104175\", \"status\": \"UNRESOLVED_NO_EXACT_SOURCE\", \"url\": \"\", \"elapsed\": 1.18}\n{\"n\": 4, \"id\": \"7895542792303\", \"status\": \"UNRESOLVED_NO_EXACT_SOURCE\", \"url\": \"\", \"elapsed\": 2.68}\n{\"n\": 5, \"id\": \"7895542890607\", \"status\": \"UNRESOLVED_NO_EXACT_SOURCE\", \"url\": \"\", \"elapsed\": 4.74}\n{\"n\": 6, \"id\": \"7895542923375\", \"status\": \"UNRESOLVED_NO_EXACT_SOURCE\", \"url\": \"\", \"elapsed\": 4.67}\n{\"n\": 7, \"id\": \"7895542956143\", \"status\": \"UNRESOLVED_NO_EXACT_SOURCE\", \"url\": \"\", \"elapsed\": 4.67}\n{\"n\": 8, \"id\": \"7895542988911\", \"status\": \"UNRESOLVED_NO_EXACT_SOURCE\", \"url\": \"\", \"elapsed\": 4.69}\n{\"n\": 9, \"id\": \"7895543021679\", \"status\": \"UNRESOLVED_NO_EXACT_SOURCE\", \"url\": \"\", \"elapsed\": 1.32}\n{\"n\": 10, \"id\": \"7895543119983\", \"status\": \"UNRESOLVED_NO_EXACT_SOURCE\", \"url\": \"\", \"elapsed\": 4.67}\n{\"n\": 11, \"id\": \"7895543152751\", \"status\": \"UNRESOLVED_NO_EXACT_SOURCE\", \"url\": \"\", \"elapsed\": 4.71}\n{\"n\": 12, \"id\": \"7895543185519\", \"status\": \"UNRESOLVED_NO_EXACT_SOURCE\", \"url\": \"\", \"elapsed\": 4.72}\n",
+  "count": 12,
+  "status_counts": {
+    "UNRESOLVED_NO_EXACT_SOURCE": 12
+  },
+  "rows": [
+    {
+      "id": "7895542038639",
+      "title": "Kewpie Verde Melon Pan Whip Toast Spread - 100g Authentic Japanese Flavor",
+      "vendor": "Kewpie",
+      "status": "UNRESOLVED_NO_EXACT_SOURCE",
+      "url": "",
+      "best_candidate": "https://www.weee.com/ja/product/Kewpie-VERDE-Pineapple-Bun-Flavored-Toast-Spread/2877447",
+      "best_status": "REJECTED_OR_WEAK",
+      "score": 25,
+      "evidence": [
+        "brand/domain identity",
+        "product-detail path"
+      ],
+      "queries": [
+        "\"Kewpie\" \"kwpimpnspd100\" 公式 商品",
+        "\"Kewpie\" Kewpie Verde Melon Pan Whip Toast Spread - 100g Authentic Japanese 公式",
+        "site:amazon.co.jp \"Kewpie\" \"kwpimpnspd100\""
+      ],
+      "elapsed": 17.41
+    },
+    {
+      "id": "7895542071407",
+      "title": "Shu Uemura Botanic Yuzu Cleansing Oil 450ml - Soothing Face Cleanser",
+      "vendor": "Shu Uemura",
+      "status": "UNRESOLVED_NO_EXACT_SOURCE",
+      "url": "",
+      "best_candidate": "",
+      "best_status": "",
+      "score": null,
+      "evidence": [],
+      "queries": [
+        "\"Shu Uemura\" \"shuebcloil450\" 公式 商品",
+        "\"Shu Uemura\" Shu Uemura Botanic Yuzu Cleansing Oil 450ml - Soothing Face Cleanser 公式",
+        "site:amazon.co.jp \"Shu Uemura\" \"shuebcloil450\""
+      ],
+      "elapsed": 5.29
+    },
+    {
+      "id": "7895542104175",
+      "title": "Akagawa 20cm Stainless Steel Yukihira Pan - Non-Stick Silkware Finish",
+      "vendor": "Akagawa Kibutsu",
+      "status": "UNRESOLVED_NO_EXACT_SOURCE",
+      "url": "",
+      "best_candidate": "",
+      "best_status": "",
+      "score": null,
+      "evidence": [],
+      "queries": [
+        "\"Akagawa Kibutsu\" \"akgwykipan19120\" 公式 商品",
+        "\"Akagawa Kibutsu\" Akagawa 20cm Stainless Steel Yukihira Pan - Non-Stick Silkware Finish 公式",
+        "site:amazon.co.jp \"Akagawa Kibutsu\" \"akgwykipan19120\""
+      ],
+      "elapsed": 1.18
+    },
+    {
+      "id": "7895542792303",
+      "title": "Akagawa 18cm Oyakodon Pan: Authentic Japanese Flavor with Non-Stick Silkware Coating & Ergonomic Wooden Handle",
+      "vendor": "Akagawa",
+      "status": "UNRESOLVED_NO_EXACT_SOURCE",
+      "url": "",
+      "best_candidate": "",
+      "best_status": "",
+      "score": null,
+      "evidence": [],
+      "queries": [
+        "\"Akagawa\" \"akagawa18cmoyakodonpan\" 公式 商品",
+        "\"Akagawa\" Akagawa 18cm Oyakodon Pan: Authentic Japanese Flavor with Non-Stick Silkware Coating 公式",
+        "site:amazon.co.jp \"Akagawa\" \"akagawa18cmoyakodonpan\""
+      ],
+      "elapsed": 2.68
+    },
+    {
+      "id": "7895542890607",
+      "title": "Dr.Ci:Labo Enrich Lift Up Lotion EX - Firming Anti-Aging Toner 150ml",
+      "vendor": "Dr.Ci:Labo",
+      "status": "UNRESOLVED_NO_EXACT_SOURCE",
+      "url": "",
+      "best_candidate": "",
+      "best_status": "",
+      "score": null,
+      "evidence": [],
+      "queries": [
+        "\"Dr.Ci:Labo\" \"dclbeluplo150\" 公式 商品",
+        "\"Dr.Ci:Labo\" Dr.Ci:Labo Enrich Lift Up Lotion EX - Firming Anti-Aging Toner 150ml 公式",
+        "site:amazon.co.jp \"Dr.Ci:Labo\" \"dclbeluplo150\""
+      ],
+      "elapsed": 4.74
+    },
+    {
+      "id": "7895542923375",
+      "title": "Copic Sketch Marker Set - 24 Professional Alcohol-Based Colors",
+      "vendor": "Copic",
+      "status": "UNRESOLVED_NO_EXACT_SOURCE",
+      "url": "",
+      "best_candidate": "",
+      "best_status": "",
+      "score": null,
+      "evidence": [],
+      "queries": [
+        "\"Copic\" \"cpicsktmrkset24\" 公式 商品",
+        "\"Copic\" Copic Sketch Marker Set - 24 Professional Alcohol-Based Colors 公式",
+        "site:amazon.co.jp \"Copic\" \"cpicsktmrkset24\""
+      ],
+      "elapsed": 4.67
+    },
+    {
+      "id": "7895542956143",
+      "title": "Kao Clear Clean Natural Mint Toothpaste 120g - Deep Cleaning Cavity Care",
+      "vendor": "Kao",
+      "status": "UNRESOLVED_NO_EXACT_SOURCE",
+      "url": "",
+      "best_candidate": "",
+      "best_status": "",
+      "score": null,
+      "evidence": [],
+      "queries": [
+        "\"Kao\" \"kaoprdtpami120\" 公式 商品",
+        "\"Kao\" Kao Clear Clean Natural Mint Toothpaste 120g - Deep Cleaning Cavity 公式",
+        "site:amazon.co.jp \"Kao\" \"kaoprdtpami120\""
+      ],
+      "elapsed": 4.67
+    },
+    {
+      "id": "7895542988911",
+      "title": "J Taste Premium Hidaka Kombu - 100g Authentic Japanese Kelp for Dashi",
+      "vendor": "J Taste",
+      "status": "UNRESOLVED_NO_EXACT_SOURCE",
+      "url": "",
+      "best_candidate": "",
+      "best_status": "",
+      "score": null,
+      "evidence": [],
+      "queries": [
+        "\"J Taste\" \"jpnthdkkmb100\" 公式 商品",
+        "\"J Taste\" J Taste Premium Hidaka Kombu - 100g Authentic Japanese Kelp for 公式",
+        "site:amazon.co.jp \"J Taste\" \"jpnthdkkmb100\""
+      ],
+      "elapsed": 4.69
+    },
+    {
+      "id": "7895543021679",
+      "title": "IPSA Time Reset Aqua W Medicated Hydrating Lotion 200ml",
+      "vendor": "IPSA",
+      "status": "UNRESOLVED_NO_EXACT_SOURCE",
+      "url": "",
+      "best_candidate": "",
+      "best_status": "",
+      "score": null,
+      "evidence": [],
+      "queries": [
+        "\"IPSA\" \"ipsattrlot200\" 公式 商品",
+        "\"IPSA\" IPSA Time Reset Aqua W Medicated Hydrating Lotion 200ml 公式",
+        "site:amazon.co.jp \"IPSA\" \"ipsattrlot200\""
+      ],
+      "elapsed": 1.32
+    },
+    {
+      "id": "7895543119983",
+      "title": "Kanebo KATE Double Line Expert LB-1 - Ultralight Brown Eye Contour Liner",
+      "vendor": "Kanebo",
+      "status": "UNRESOLVED_NO_EXACT_SOURCE",
+      "url": "",
+      "best_candidate": "",
+      "best_status": "",
+      "score": null,
+      "evidence": [],
+      "queries": [
+        "\"Kanebo\" \"katedbleyllb1\" 公式 商品",
+        "\"Kanebo\" Kanebo KATE Double Line Expert LB-1 - Ultralight Brown Eye Contour 公式",
+        "site:amazon.co.jp \"Kanebo\" \"katedbleyllb1\""
+      ],
+      "elapsed": 4.67
+    },
+    {
+      "id": "7895543152751",
+      "title": "Kiya No.180 Edelweiss Japanese Bread Knife - 225mm Professional Serrated",
+      "vendor": "Nihonbashi Kiya",
+      "status": "UNRESOLVED_NO_EXACT_SOURCE",
+      "url": "",
+      "best_candidate": "",
+      "best_status": "",
+      "score": null,
+      "evidence": [],
+      "queries": [
+        "\"Nihonbashi Kiya\" \"kiyabrdknf225\" 公式 商品",
+        "\"Nihonbashi Kiya\" Kiya No.180 Edelweiss Japanese Bread Knife - 225mm Professional Serrated 公式",
+        "site:amazon.co.jp \"Nihonbashi Kiya\" \"kiyabrdknf225\""
+      ],
+      "elapsed": 4.71
+    },
+    {
+      "id": "7895543185519",
+      "title": "Kiya No. 160 Edelweiss Steel 18cm Kamagata Usuba Vegetable Knife",
+      "vendor": "Kiya",
+      "status": "UNRESOLVED_NO_EXACT_SOURCE",
+      "url": "",
+      "best_candidate": "",
+      "best_status": "",
+      "score": null,
+      "evidence": [],
+      "queries": [
+        "\"Kiya\" \"kiyausbknf180\" 公式 商品",
+        "\"Kiya\" Kiya No. 160 Edelweiss Steel 18cm Kamagata Usuba Vegetable Knife 公式",
+        "site:amazon.co.jp \"Kiya\" \"kiyausbknf180\""
+      ],
+      "elapsed": 4.72
+    }
+  ]
 }

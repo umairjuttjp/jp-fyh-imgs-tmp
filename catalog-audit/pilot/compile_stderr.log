@@ -1,4 +1,0 @@
-  File "catalog-audit/source_audit_engine.py", line 438
-    exact_models = sorted(m for m in model_tokens if len(m) >= 4 and m in ncombined, key=lambda x: (-len(x), x))
-                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-SyntaxError: Generator expression must be parenthesized

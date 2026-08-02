@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - '.github/workflows/pilot-japanese-source-audit.yml'
+      - 'catalog-audit/source_audit_engine.py'
   workflow_dispatch:
 
 permissions:

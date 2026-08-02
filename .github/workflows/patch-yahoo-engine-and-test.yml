@@ -1,0 +1,190 @@
+name: Patch Yahoo Japan source engine and test
+
+on:
+  push:
+    paths:
+      - '.github/workflows/patch-yahoo-engine-and-test.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  patch-and-test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 0
+      - run: python3 -m pip install --disable-pip-version-check requests beautifulsoup4
+
+      - name: Patch engine to use Yahoo Japan and branded Amazon evidence
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('catalog-audit/source_audit_engine_v2.py')
+          text = p.read_text(encoding='utf-8')
+
+          marker = '''def search_ddg(query: str, limit: int = 10) -> list[SResult]:\n'''
+          yahoo_fn = r'''def search_yahoo(query: str, limit: int = 10) -> list[SResult]:
+    key = "yahoo:" + query
+    if key in SEARCH_CACHE:
+        return SEARCH_CACHE[key][:limit]
+    # Yahoo Japan returns usable server-rendered results. A small pause avoids burst blocking.
+    time.sleep(0.35)
+    r = get("https://search.yahoo.co.jp/search?p=" + quote_plus(query), 25, 1)
+    out: list[SResult] = []
+    if r:
+        soup = BeautifulSoup(r.text, "html.parser")
+        seen = set()
+        for a in soup.find_all("a", href=True):
+            url = clean_url(a.get("href", ""))
+            title = re.sub(r"\s+", " ", a.get_text(" ", strip=True))
+            if not url.startswith("http") or len(title) < 4:
+                continue
+            d = domain_of(url)
+            if not d or any(x in d for x in ("yahoo.co.jp", "yimg.jp", "lycorp.co.jp", "lycbiz.com", "yahoo-net.jp", "line.me")):
+                continue
+            dedupe = url.split("#")[0]
+            if dedupe in seen:
+                continue
+            seen.add(dedupe)
+            parent = re.sub(r"\s+", " ", a.parent.get_text(" ", strip=True))[:900] if a.parent else ""
+            out.append(SResult(url, title[:350], parent, "yahoo_jp"))
+            if len(out) >= limit:
+                break
+    SEARCH_CACHE[key] = out
+    return out
+
+
+'''
+          if 'def search_yahoo(' not in text:
+              if marker not in text:
+                  raise SystemExit('search_ddg marker missing')
+              text = text.replace(marker, yahoo_fn + marker, 1)
+
+          old_search = '''def search(query: str, limit: int = 10) -> list[SResult]:
+    # DDG tends to expose Japanese titles more consistently. Bing is a fallback.
+    rows = search_ddg(query, limit)
+    if not rows:
+        rows = search_bing(query, limit)
+    seen = set()
+    out = []
+    for row in rows:
+        key = clean_url(row.url).split("?")[0].rstrip("/")
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(row)
+    return out[:limit]
+'''
+          new_search = '''def search(query: str, limit: int = 10) -> list[SResult]:
+    # Yahoo Japan is the primary engine because it returns server-rendered Japanese results.
+    rows = search_yahoo(query, limit)
+    if not rows:
+        rows = search_ddg(query, limit)
+    if not rows:
+        rows = search_bing(query, limit)
+    seen = set()
+    out = []
+    for row in rows:
+        key = clean_url(row.url).split("?")[0].rstrip("/")
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(row)
+    return out[:limit]
+'''
+          if old_search not in text:
+              raise SystemExit('old search block missing')
+          text = text.replace(old_search, new_search, 1)
+
+          old_scoring_tail = '''    size_gate = bool(exact_measures) or not measures
+    exact_identifier = bool(exact_models or exact_jans)
+    strong_title = title_seq >= 0.62 or title_words >= 0.70
+
+    if amazon:
+        if exact_identifier and size_gate and (title_seq >= 0.40 or title_words >= 0.38):
+            status = "VERIFIED_AMAZON_JP_EXACT"
+        else:
+            status = "AMAZON_JP_INSUFFICIENT"
+'''
+          new_scoring_tail = '''    size_gate = bool(exact_measures) or not measures
+    exact_identifier = bool(exact_models or exact_jans)
+    strong_title = title_seq >= 0.62 or title_words >= 0.70
+    result_text = candidate.title + " " + candidate.snippet
+    amazon_official_hint = amazon and ("公式" in result_text or "official" in result_text.lower())
+    amazon_vendor_match = amazon and norm(product.get("vendor", "")) in norm(result_text)
+    if amazon_official_hint and amazon_vendor_match:
+        score += 28
+        ev.append("Amazon Japan result explicitly marked official brand listing")
+
+    if amazon:
+        if exact_identifier and size_gate and (title_seq >= 0.40 or title_words >= 0.38):
+            status = "VERIFIED_AMAZON_JP_EXACT"
+        elif amazon_official_hint and amazon_vendor_match and strong_title and size_gate:
+            status = "VERIFIED_AMAZON_JP_BRAND_TITLE_SIZE"
+        else:
+            status = "AMAZON_JP_INSUFFICIENT"
+'''
+          if old_scoring_tail not in text:
+              raise SystemExit('old amazon scoring block missing')
+          text = text.replace(old_scoring_tail, new_scoring_tail, 1)
+
+          text = text.replace(
+              'av = [x for x in amazon_candidates if x.get("status") == "VERIFIED_AMAZON_JP_EXACT"]',
+              'av = [x for x in amazon_candidates if x.get("status") in ("VERIFIED_AMAZON_JP_EXACT", "VERIFIED_AMAZON_JP_BRAND_TITLE_SIZE")]'
+          )
+          text = text.replace(
+              '("VERIFIED_OFFICIAL_EXACT", "VERIFIED_OFFICIAL_TITLE_SIZE", "VERIFIED_AMAZON_JP_EXACT"):',
+              '("VERIFIED_OFFICIAL_EXACT", "VERIFIED_OFFICIAL_TITLE_SIZE", "VERIFIED_AMAZON_JP_EXACT", "VERIFIED_AMAZON_JP_BRAND_TITLE_SIZE"):'
+          )
+          text = text.replace('VERSION = "2026-08-02.2"', 'VERSION = "2026-08-02.3"')
+          p.write_text(text, encoding='utf-8')
+          PY
+          python3 -m py_compile catalog-audit/source_audit_engine_v2.py
+
+      - name: Run 12-product Yahoo pilot
+        run: |
+          rm -rf catalog-audit/pilot-v3
+          mkdir -p catalog-audit/pilot-v3
+          python3 catalog-audit/source_audit_engine_v2.py \
+            --input catalog-audit/chunks/products_0001_0100.json \
+            --output catalog-audit/pilot-v3/pilot_first_12.json \
+            --limit 12 --delay 0.1 \
+            > catalog-audit/pilot-v3/run_stdout.log \
+            2> catalog-audit/pilot-v3/run_stderr.log
+
+      - name: Build quality summary
+        run: |
+          python3 - <<'PY'
+          import json, pathlib, collections
+          b=pathlib.Path('catalog-audit/pilot-v3')
+          rows=json.loads((b/'pilot_first_12.json').read_text(encoding='utf-8'))
+          summary={
+            'count':len(rows),
+            'status_counts':dict(collections.Counter(x.get('final_status') for x in rows)),
+            'stdout_tail':(b/'run_stdout.log').read_text(encoding='utf-8',errors='replace')[-16000:],
+            'stderr_tail':(b/'run_stderr.log').read_text(encoding='utf-8',errors='replace')[-16000:],
+            'rows':[{
+              'id':x.get('shopify_product_id'),'title':x.get('store_title'),'vendor':x.get('vendor'),
+              'domains':x.get('official_domains'),'models':x.get('public_model_codes'),
+              'localized':x.get('localized_identity_clues'),'status':x.get('final_status'),
+              'url':x.get('final_source_url'),'best':x.get('best_candidate_url'),
+              'best_status':x.get('best_candidate_status'),'score':x.get('best_candidate_score'),
+              'evidence':x.get('verification_evidence'),'elapsed':x.get('elapsed_seconds')
+            } for x in rows]
+          }
+          (b/'pilot_summary.json').write_text(json.dumps(summary,ensure_ascii=False,indent=2),encoding='utf-8')
+          print(json.dumps(summary,ensure_ascii=False,indent=2))
+          PY
+
+      - name: Commit engine and pilot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalog-audit/source_audit_engine_v2.py catalog-audit/pilot-v3/
+          git commit -m "feat: use Yahoo Japan for exact-source discovery"
+          git push origin HEAD:master

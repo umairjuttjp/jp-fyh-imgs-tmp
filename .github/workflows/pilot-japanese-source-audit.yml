@@ -1,0 +1,75 @@
+name: Pilot exact Japanese source audit
+
+on:
+  push:
+    paths:
+      - '.github/workflows/pilot-japanese-source-audit.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pilot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 0
+
+      - name: Install audit dependencies
+        run: python3 -m pip install --disable-pip-version-check requests beautifulsoup4
+
+      - name: Run conservative pilot
+        run: |
+          mkdir -p catalog-audit/pilot
+          python3 catalog-audit/source_audit_engine.py \
+            --input catalog-audit/chunks/products_0001_0100.json \
+            --output catalog-audit/pilot/pilot_first_12.json \
+            --limit 12 --delay 0.2
+
+      - name: Build pilot summary
+        if: always()
+        run: |
+          python3 - <<'PY'
+          import json, pathlib, collections
+          path = pathlib.Path('catalog-audit/pilot/pilot_first_12.json')
+          rows = json.loads(path.read_text(encoding='utf-8')) if path.exists() else []
+          summary = {
+              'count': len(rows),
+              'status_counts': dict(collections.Counter(r.get('final_status') for r in rows)),
+              'rows': [
+                  {
+                      'id': r.get('shopify_product_id'),
+                      'title': r.get('store_title'),
+                      'vendor': r.get('vendor'),
+                      'status': r.get('final_status'),
+                      'url': r.get('final_source_url'),
+                      'best_candidate': r.get('best_candidate_url'),
+                      'score': r.get('best_candidate_score'),
+                      'evidence': r.get('verification_evidence'),
+                      'queries': r.get('queries'),
+                  }
+                  for r in rows
+              ],
+          }
+          pathlib.Path('catalog-audit/pilot/pilot_summary.json').write_text(
+              json.dumps(summary, ensure_ascii=False, indent=2), encoding='utf-8'
+          )
+          print(json.dumps(summary, ensure_ascii=False, indent=2))
+          PY
+
+      - name: Commit pilot output
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalog-audit/pilot/
+          if git diff --cached --quiet; then
+            echo "No pilot output to commit"
+          else
+            git commit -m "data: add exact-source audit pilot results"
+            git push origin HEAD:master
+          fi

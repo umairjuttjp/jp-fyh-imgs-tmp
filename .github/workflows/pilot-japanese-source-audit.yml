@@ -1,11 +1,11 @@
-# pilot revision 3
+# pilot revision 4 — localized official-domain engine v2
 name: Pilot exact Japanese source audit
 
 on:
   push:
     paths:
       - '.github/workflows/pilot-japanese-source-audit.yml'
-      - 'catalog-audit/source_audit_engine.py'
+      - 'catalog-audit/source_audit_engine_v2.py'
   workflow_dispatch:
 
 permissions:
@@ -14,7 +14,7 @@ permissions:
 jobs:
   pilot:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
         with:
@@ -27,28 +27,28 @@ jobs:
       - name: Compile engine and run conservative pilot with diagnostics
         shell: bash
         run: |
-          mkdir -p catalog-audit/pilot
+          mkdir -p catalog-audit/pilot-v2
           set +e
-          python3 -m py_compile catalog-audit/source_audit_engine.py \
-            > catalog-audit/pilot/compile_stdout.log \
-            2> catalog-audit/pilot/compile_stderr.log
+          python3 -m py_compile catalog-audit/source_audit_engine_v2.py \
+            > catalog-audit/pilot-v2/compile_stdout.log \
+            2> catalog-audit/pilot-v2/compile_stderr.log
           COMPILE_STATUS=$?
-          echo "$COMPILE_STATUS" > catalog-audit/pilot/compile_status.txt
+          echo "$COMPILE_STATUS" > catalog-audit/pilot-v2/compile_status.txt
 
           if [ "$COMPILE_STATUS" -eq 0 ]; then
-            python3 catalog-audit/source_audit_engine.py \
+            python3 catalog-audit/source_audit_engine_v2.py \
               --input catalog-audit/chunks/products_0001_0100.json \
-              --output catalog-audit/pilot/pilot_first_12.json \
-              --limit 12 --delay 0.2 \
-              > catalog-audit/pilot/run_stdout.log \
-              2> catalog-audit/pilot/run_stderr.log
+              --output catalog-audit/pilot-v2/pilot_first_12.json \
+              --limit 12 --delay 0.15 \
+              > catalog-audit/pilot-v2/run_stdout.log \
+              2> catalog-audit/pilot-v2/run_stderr.log
             RUN_STATUS=$?
           else
             RUN_STATUS=99
-            echo "Engine compile failed; run skipped" > catalog-audit/pilot/run_stderr.log
-            : > catalog-audit/pilot/run_stdout.log
+            echo "Engine compile failed; run skipped" > catalog-audit/pilot-v2/run_stderr.log
+            : > catalog-audit/pilot-v2/run_stdout.log
           fi
-          echo "$RUN_STATUS" > catalog-audit/pilot/run_status.txt
+          echo "$RUN_STATUS" > catalog-audit/pilot-v2/run_status.txt
           exit 0
 
       - name: Build pilot summary
@@ -56,12 +56,12 @@ jobs:
         run: |
           python3 - <<'PY'
           import json, pathlib, collections
-          base = pathlib.Path('catalog-audit/pilot')
+          base = pathlib.Path('catalog-audit/pilot-v2')
           path = base / 'pilot_first_12.json'
           rows = json.loads(path.read_text(encoding='utf-8')) if path.exists() else []
           def read(name):
               p = base / name
-              return p.read_text(encoding='utf-8', errors='replace')[-12000:] if p.exists() else ''
+              return p.read_text(encoding='utf-8', errors='replace')[-16000:] if p.exists() else ''
           summary = {
               'compile_status': read('compile_status.txt').strip(),
               'run_status': read('run_status.txt').strip(),
@@ -75,13 +75,15 @@ jobs:
                       'id': r.get('shopify_product_id'),
                       'title': r.get('store_title'),
                       'vendor': r.get('vendor'),
+                      'domains': r.get('official_domains'),
+                      'models': r.get('public_model_codes'),
+                      'localized': r.get('localized_identity_clues'),
                       'status': r.get('final_status'),
                       'url': r.get('final_source_url'),
                       'best_candidate': r.get('best_candidate_url'),
                       'best_status': r.get('best_candidate_status'),
                       'score': r.get('best_candidate_score'),
                       'evidence': r.get('verification_evidence'),
-                      'queries': r.get('queries'),
                       'elapsed': r.get('elapsed_seconds'),
                   }
                   for r in rows
@@ -98,10 +100,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add catalog-audit/pilot/
+          git add catalog-audit/pilot-v2/
           if git diff --cached --quiet; then
             echo "No pilot output to commit"
           else
-            git commit -m "data: update exact-source audit pilot diagnostics"
+            git commit -m "data: add localized exact-source audit pilot v2"
             git push origin HEAD:master
           fi

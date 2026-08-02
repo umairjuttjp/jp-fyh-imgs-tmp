@@ -1,3 +1,4 @@
+# trigger revision 2
 name: Pilot Yahoo Japan exact-source audit v3
 
 on:
@@ -59,7 +60,7 @@ jobs:
           p = base / 'pilot_first_12.json'
           try:
               rows = json.loads(p.read_text(encoding='utf-8')) if p.exists() else []
-          except Exception as exc:
+          except Exception:
               rows = []
           def read(name):
               x = base / name
@@ -74,16 +75,11 @@ jobs:
               'status_counts': dict(collections.Counter(r.get('final_status') for r in rows)),
               'verified_count': sum(1 for r in rows if str(r.get('final_status','')).startswith('VERIFIED_')),
               'rows': [{
-                  'id': r.get('shopify_product_id'),
-                  'title': r.get('store_title'),
-                  'vendor': r.get('vendor'),
-                  'official_domains': r.get('official_domains'),
-                  'models': r.get('public_model_codes'),
-                  'localized': r.get('localized_identity_clues'),
-                  'status': r.get('final_status'),
-                  'url': r.get('final_source_url'),
-                  'source_type': r.get('source_type'),
-                  'confidence': r.get('confidence'),
+                  'id': r.get('shopify_product_id'), 'title': r.get('store_title'),
+                  'vendor': r.get('vendor'), 'official_domains': r.get('official_domains'),
+                  'models': r.get('public_model_codes'), 'localized': r.get('localized_identity_clues'),
+                  'status': r.get('final_status'), 'url': r.get('final_source_url'),
+                  'source_type': r.get('source_type'), 'confidence': r.get('confidence'),
                   'best_candidate': r.get('best_candidate_url'),
                   'best_status': r.get('best_candidate_status'),
                   'score': r.get('best_candidate_score'),

@@ -1,0 +1,2 @@
+Run the Yahoo Japan exact-source pilot for the first 12 catalog products.
+Triggered: 2026-08-02

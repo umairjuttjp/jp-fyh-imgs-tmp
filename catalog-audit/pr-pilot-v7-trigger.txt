@@ -1,0 +1,2 @@
+Run production-gated V7 source audit pilot.
+Triggered: 2026-08-02

@@ -1,0 +1,332 @@
+[
+  {
+    "id": "gid://shopify/Product/7895542038639",
+    "legacyResourceId": "7895542038639",
+    "handle": "kewpie-verde-melon-pan-whip-toast-spread-100g",
+    "title": "Kewpie Verde Melon Pan Whip Toast Spread - 100g Authentic Japanese Flavor",
+    "vendor": "Kewpie",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kewpie-verde-melon-pan-whip-toast-spread-100g",
+    "createdAt": "2025-09-27T04:25:40Z",
+    "updatedAt": "2026-07-10T13:30:12Z",
+    "sources": {
+      "legacyResourceId": "7895542038639",
+      "sourceUrl": "https://japanesetaste.com//products/verde-melon-pan-whip-japanese-melon-bread-toast-spread-100g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677201760367",
+        "legacyResourceId": "43677201760367",
+        "title": "Default Title",
+        "sku": "KWPI-MPNSPD-100",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895542071407",
+    "legacyResourceId": "7895542071407",
+    "handle": "shu-uemura-botanic-yuzu-cleansing-oil-450ml",
+    "title": "Shu Uemura Botanic Yuzu Cleansing Oil 450ml - Soothing Face Cleanser",
+    "vendor": "Shu Uemura",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/shu-uemura-botanic-yuzu-cleansing-oil-450ml",
+    "createdAt": "2025-09-27T04:25:51Z",
+    "updatedAt": "2026-07-10T13:30:12Z",
+    "sources": {
+      "legacyResourceId": "7895542071407",
+      "sourceUrl": "https://japanesetaste.com//products/shu-uemura-botanic-cleansing-oil-450ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677201891439",
+        "legacyResourceId": "43677201891439",
+        "title": "Default Title",
+        "sku": "SHUE-BCLOIL-450",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895542104175",
+    "legacyResourceId": "7895542104175",
+    "handle": "akagawa-20cm-stainless-steel-yukihira-pan-non-stick-silkware-finish",
+    "title": "Akagawa 20cm Stainless Steel Yukihira Pan - Non-Stick Silkware Finish",
+    "vendor": "Akagawa Kibutsu",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/akagawa-20cm-stainless-steel-yukihira-pan-non-stick-silkware-finish",
+    "createdAt": "2025-09-27T04:25:51Z",
+    "updatedAt": "2026-07-10T13:30:13Z",
+    "sources": {
+      "legacyResourceId": "7895542104175",
+      "sourceUrl": "https://japanesetaste.com//products/yukihira-pot-stainless-steel-deep-saucepan-20cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677201858671",
+        "legacyResourceId": "43677201858671",
+        "title": "Default Title",
+        "sku": "AKGW-YKIPAN-19120",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895542792303",
+    "legacyResourceId": "7895542792303",
+    "handle": "akagawa-18cm-oyakodon-pan",
+    "title": "Akagawa 18cm Oyakodon Pan: Authentic Japanese Flavor with Non-Stick Silkware Coating & Ergonomic Wooden Handle",
+    "vendor": "Akagawa",
+    "productType": "Oyakodon Pan",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/akagawa-18cm-oyakodon-pan",
+    "createdAt": "2025-09-27T04:30:50Z",
+    "updatedAt": "2026-07-10T13:30:13Z",
+    "sources": {
+      "legacyResourceId": "7895542792303",
+      "sourceUrl": "https://japanesetaste.com//products/japanese-oyako-nabe-pan-ih-compatible-oyakodon-pan-178mm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677208608879",
+        "legacyResourceId": "43677208608879",
+        "title": "Default Title",
+        "sku": "AKGW-OYKPAN-91031",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895542890607",
+    "legacyResourceId": "7895542890607",
+    "handle": "dr-ci-labo-enrich-lift-up-lotion-ex-firming-anti-aging-toner-150ml",
+    "title": "Dr.Ci:Labo Enrich Lift Up Lotion EX - Firming Anti-Aging Toner 150ml",
+    "vendor": "Dr.Ci:Labo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dr-ci-labo-enrich-lift-up-lotion-ex-firming-anti-aging-toner-150ml",
+    "createdAt": "2025-09-27T04:33:08Z",
+    "updatedAt": "2026-07-10T13:30:13Z",
+    "sources": {
+      "legacyResourceId": "7895542890607",
+      "sourceUrl": "https://japanesetaste.com//products/dr-ci-labo-enrich-lift-up-lotion-150ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677208838255",
+        "legacyResourceId": "43677208838255",
+        "title": "Default Title",
+        "sku": "DCLB-ELUPLO-150",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895542923375",
+    "legacyResourceId": "7895542923375",
+    "handle": "copic-sketch-marker-set-24-professional-alcohol-based-colors",
+    "title": "Copic Sketch Marker Set - 24 Professional Alcohol-Based Colors",
+    "vendor": "Copic",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/copic-sketch-marker-set-24-professional-alcohol-based-colors",
+    "createdAt": "2025-09-27T04:33:08Z",
+    "updatedAt": "2026-07-10T13:30:13Z",
+    "sources": {
+      "legacyResourceId": "7895542923375",
+      "sourceUrl": "https://japanesetaste.com//products/copic-markers-sketch-marker-set-24-colors"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677208805487",
+        "legacyResourceId": "43677208805487",
+        "title": "Default Title",
+        "sku": "CPIC-SKTMRK-SET24",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895542956143",
+    "legacyResourceId": "7895542956143",
+    "handle": "kao-clear-clean-natural-mint-toothpaste-120g",
+    "title": "Kao Clear Clean Natural Mint Toothpaste 120g - Deep Cleaning Cavity Care",
+    "vendor": "Kao",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kao-clear-clean-natural-mint-toothpaste-120g",
+    "createdAt": "2025-09-27T04:36:49Z",
+    "updatedAt": "2026-07-10T13:30:14Z",
+    "sources": {
+      "legacyResourceId": "7895542956143",
+      "sourceUrl": "https://japanesetaste.com//products/kao-clear-clean-natural-mint-periodontal-toothpaste-120g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677208969327",
+        "legacyResourceId": "43677208969327",
+        "title": "Default Title",
+        "sku": "KAO-PRDTPA-MI120",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895542988911",
+    "legacyResourceId": "7895542988911",
+    "handle": "j-taste-premium-hidaka-kombu-100g-authentic-japanese-kelp",
+    "title": "J Taste Premium Hidaka Kombu - 100g Authentic Japanese Kelp for Dashi",
+    "vendor": "J Taste",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/j-taste-premium-hidaka-kombu-100g-authentic-japanese-kelp",
+    "createdAt": "2025-09-27T04:36:49Z",
+    "updatedAt": "2026-07-10T13:30:14Z",
+    "sources": {
+      "legacyResourceId": "7895542988911",
+      "sourceUrl": "https://japanesetaste.com//products/j-taste-hidaka-kombu-seaweed-dried-japanese-kelp-100g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677209034863",
+        "legacyResourceId": "43677209034863",
+        "title": "Default Title",
+        "sku": "JPNT-HDKKMB-100",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895543021679",
+    "legacyResourceId": "7895543021679",
+    "handle": "ipsa-time-reset-aqua-w-medicated-hydrating-lotion-200ml",
+    "title": "IPSA Time Reset Aqua W Medicated Hydrating Lotion 200ml",
+    "vendor": "IPSA",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/ipsa-time-reset-aqua-w-medicated-hydrating-lotion-200ml",
+    "createdAt": "2025-09-27T04:36:49Z",
+    "updatedAt": "2026-07-10T13:30:14Z",
+    "sources": {
+      "legacyResourceId": "7895543021679",
+      "sourceUrl": "https://japanesetaste.com//products/ipsa-the-time-reset-aqua-moisturizing-lotion-200ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677209002095",
+        "legacyResourceId": "43677209002095",
+        "title": "Default Title",
+        "sku": "IPSA-TTRLOT-200",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895543119983",
+    "legacyResourceId": "7895543119983",
+    "handle": "kanebo-kate-double-line-expert-lb-1-ultralight-brown-eyeliner",
+    "title": "Kanebo KATE Double Line Expert LB-1 - Ultralight Brown Eye Contour Liner",
+    "vendor": "Kanebo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kanebo-kate-double-line-expert-lb-1-ultralight-brown-eyeliner",
+    "createdAt": "2025-09-27T04:38:26Z",
+    "updatedAt": "2026-07-10T13:30:14Z",
+    "sources": {
+      "legacyResourceId": "7895543119983",
+      "sourceUrl": "https://japanesetaste.com//products/kanebo-kate-double-line-expert-eyeliner-lb-1-ultralight-brown-0-5ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677209231471",
+        "legacyResourceId": "43677209231471",
+        "title": "Default Title",
+        "sku": "KATE-DBLEYL-LB1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  }
+]

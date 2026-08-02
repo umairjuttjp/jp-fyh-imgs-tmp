@@ -1,0 +1,3344 @@
+[
+  {
+    "id": "gid://shopify/Product/7895818961007",
+    "legacyResourceId": "7895818961007",
+    "handle": "yamato-sweet-soy-sauce-for-ice-cream-150ml",
+    "title": "Yamato Sweet Soy Sauce for Ice Cream - 150ml Gourmet Topping",
+    "vendor": "Yamato Soysauce & Miso",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yamato-sweet-soy-sauce-for-ice-cream-150ml",
+    "createdAt": "2025-09-27T23:49:02Z",
+    "updatedAt": "2026-07-10T14:36:19Z",
+    "sources": {
+      "legacyResourceId": "7895818961007",
+      "sourceUrl": "https://japanesetaste.com//products/yamato-japanese-sweet-soy-sauce-for-ice-cream-150ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681897676911",
+        "legacyResourceId": "43681897676911",
+        "title": "Default Title",
+        "sku": "YMTO-SWTSHO-150",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895818993775",
+    "legacyResourceId": "7895818993775",
+    "handle": "yamato-kanae-organic-miso-paste-400g",
+    "title": "Yamato Kanae Organic Miso Paste 400g - Premium Japanese Umami",
+    "vendor": "Yamato Kanae",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yamato-kanae-organic-miso-paste-400g",
+    "createdAt": "2025-09-27T23:49:03Z",
+    "updatedAt": "2026-07-10T14:36:19Z",
+    "sources": {
+      "legacyResourceId": "7895818993775",
+      "sourceUrl": "https://japanesetaste.com//products/yamato-kanae-japanese-organic-miso-paste-400g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681897742447",
+        "legacyResourceId": "43681897742447",
+        "title": "Default Title",
+        "sku": "YMTO-KNEMSO-400",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819026543",
+    "legacyResourceId": "7895819026543",
+    "handle": "yamato-genmai-brown-rice-amazake-fermented-drink-490ml",
+    "title": "Yamato Genmai Brown Rice Amazake - Fermented Sugar-Free Drink 490ml",
+    "vendor": "Yamato Soysauce & Miso",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yamato-genmai-brown-rice-amazake-fermented-drink-490ml",
+    "createdAt": "2025-09-27T23:49:08Z",
+    "updatedAt": "2026-07-10T14:36:19Z",
+    "sources": {
+      "legacyResourceId": "7895819026543",
+      "sourceUrl": "https://japanesetaste.com//products/yamato-genmai-brown-rice-amazake-490ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681897807983",
+        "legacyResourceId": "43681897807983",
+        "title": "Default Title",
+        "sku": "YMTO-BRAMZK-490",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819059311",
+    "legacyResourceId": "7895819059311",
+    "handle": "yamato-gluten-free-squid-ishiri-fish-sauce-180ml",
+    "title": "Yamato Gluten-Free Squid Ishiri Fish Sauce - 180ml Umami Seasoning",
+    "vendor": "Yamato Soy Sauce & Miso",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yamato-gluten-free-squid-ishiri-fish-sauce-180ml",
+    "createdAt": "2025-09-27T23:49:09Z",
+    "updatedAt": "2026-07-10T14:36:19Z",
+    "sources": {
+      "legacyResourceId": "7895819059311",
+      "sourceUrl": "https://japanesetaste.com//products/yamato-ika-ishiri-fish-sauce-gluten-free-squid-fish-sauce-180ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681897873519",
+        "legacyResourceId": "43681897873519",
+        "title": "Default Title",
+        "sku": "YMTO-IKAISH-180",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819092079",
+    "legacyResourceId": "7895819092079",
+    "handle": "hikari-organic-japanese-pizza-sauce-225g",
+    "title": "Hikari Organic Japanese Pizza Sauce - Umami-Rich Tomato Blend (225g)",
+    "vendor": "Hikari Shokuhin",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/hikari-organic-japanese-pizza-sauce-225g",
+    "createdAt": "2025-09-27T23:49:11Z",
+    "updatedAt": "2026-07-10T14:36:20Z",
+    "sources": {
+      "legacyResourceId": "7895819092079",
+      "sourceUrl": "https://japanesetaste.com//products/hikari-japanese-pure-organic-pizza-sauce-225g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681897939055",
+        "legacyResourceId": "43681897939055",
+        "title": "Default Title",
+        "sku": "HIKF-OGPZSA-225",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819124847",
+    "legacyResourceId": "7895819124847",
+    "handle": "denemon-3-year-barrel-aged-gluten-free-tamari-soy-sauce-200ml",
+    "title": "Denemon 3-Year Barrel-Aged Gluten-Free Tamari Soy Sauce - 200ml",
+    "vendor": "Denemon",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/denemon-3-year-barrel-aged-gluten-free-tamari-soy-sauce-200ml",
+    "createdAt": "2025-09-27T23:49:17Z",
+    "updatedAt": "2026-07-10T14:36:20Z",
+    "sources": {
+      "legacyResourceId": "7895819124847",
+      "sourceUrl": "https://japanesetaste.com//products/ito-shoten-denemon-shoyu-japanese-tamari-soy-sauce-200ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681898004591",
+        "legacyResourceId": "43681898004591",
+        "title": "Default Title",
+        "sku": "ITOS-TAMSOY-200",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819157615",
+    "legacyResourceId": "7895819157615",
+    "handle": "tohato-all-raisin-soft-chewy-cookies-12-piece-pack",
+    "title": "Tohato All-Raisin Soft Chewy Cookies - 12 Piece Pack",
+    "vendor": "Tohato",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tohato-all-raisin-soft-chewy-cookies-12-piece-pack",
+    "createdAt": "2025-09-27T23:49:25Z",
+    "updatedAt": "2026-07-10T14:36:20Z",
+    "sources": {
+      "legacyResourceId": "7895819157615",
+      "sourceUrl": "https://japanesetaste.com//products/tohato-all-raisin-old-fashioned-raisin-cookies-12-pieces"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681898102895",
+        "legacyResourceId": "43681898102895",
+        "title": "Default Title",
+        "sku": "TOHA-RSNCKI-1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819223151",
+    "legacyResourceId": "7895819223151",
+    "handle": "denemon-3-year-aged-natural-miso-paste-450g",
+    "title": "Denemon 3-Year Aged Natural Miso Paste by Ito Shoten - 450g",
+    "vendor": "Ito Shoten",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/denemon-3-year-aged-natural-miso-paste-450g",
+    "createdAt": "2025-09-27T23:49:27Z",
+    "updatedAt": "2026-07-10T14:36:21Z",
+    "sources": {
+      "legacyResourceId": "7895819223151",
+      "sourceUrl": "https://japanesetaste.com//products/ito-shoten-denemon-3-years-aged-natural-miso-paste-450g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681898201199",
+        "legacyResourceId": "43681898201199",
+        "title": "Default Title",
+        "sku": "ITOS-MSOPST-450",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819255919",
+    "legacyResourceId": "7895819255919",
+    "handle": "kewpie-teriyaki-mayo-authentic-japanese-umami-sauce-150g",
+    "title": "Kewpie Teriyaki Mayo - Authentic Japanese Umami Sauce 150g",
+    "vendor": "Kewpie",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kewpie-teriyaki-mayo-authentic-japanese-umami-sauce-150g",
+    "createdAt": "2025-09-27T23:49:29Z",
+    "updatedAt": "2026-07-10T14:36:21Z",
+    "sources": {
+      "legacyResourceId": "7895819255919",
+      "sourceUrl": "https://japanesetaste.com//products/kewpie-teriyaki-mayo-japanese-teriyaki-sauce-and-mayonnaise-150g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681898266735",
+        "legacyResourceId": "43681898266735",
+        "title": "Default Title",
+        "sku": "KWPE-TYKMYO-150",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819288687",
+    "legacyResourceId": "7895819288687",
+    "handle": "ybc-yamazaki-lemon-pack-sandwich-crackers-3-pack",
+    "title": "YBC Yamazaki Lemon Pack Sandwich Crackers - 3 Pack Value Set",
+    "vendor": "Yamazaki Biscuit Co. (YBC)",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/ybc-yamazaki-lemon-pack-sandwich-crackers-3-pack",
+    "createdAt": "2025-09-27T23:49:40Z",
+    "updatedAt": "2026-07-10T14:36:21Z",
+    "sources": {
+      "legacyResourceId": "7895819288687",
+      "sourceUrl": "https://japanesetaste.com//products/yamazaki-lemon-pack-lemon-cream-filled-sandwich-crackers-pack-of-3"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681898332271",
+        "legacyResourceId": "43681898332271",
+        "title": "Default Title",
+        "sku": "TOHA-MLKBSC-1:3",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819321455",
+    "legacyResourceId": "7895819321455",
+    "handle": "tohato-pikachu-chocolate-corn-puff-snacks-pokemon-sticker",
+    "title": "Tohato Pikachu Chocolate Corn Puff Snacks with Collectible Pokemon Sticker",
+    "vendor": "Tohato",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tohato-pikachu-chocolate-corn-puff-snacks-pokemon-sticker",
+    "createdAt": "2025-09-27T23:49:45Z",
+    "updatedAt": "2026-07-10T14:36:21Z",
+    "sources": {
+      "legacyResourceId": "7895819321455",
+      "sourceUrl": "https://japanesetaste.com//products/tohato-pikachu-shaped-chocolate-corn-puff-snack-pokemon-sticker-pack-of-3"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681898397807",
+        "legacyResourceId": "43681898397807",
+        "title": "Default Title",
+        "sku": "TOHA-CMLBIS-1:3",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819354223",
+    "legacyResourceId": "7895819354223",
+    "handle": "tohato-beano-fire-roasted-green-pea-chips-12-pack",
+    "title": "Tohato Beano Fire Roasted Green Pea Chips 12-Pack - Authentic Japanese Snack",
+    "vendor": "Tohato",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tohato-beano-fire-roasted-green-pea-chips-12-pack",
+    "createdAt": "2025-09-27T23:49:48Z",
+    "updatedAt": "2026-07-10T14:36:22Z",
+    "sources": {
+      "legacyResourceId": "7895819354223",
+      "sourceUrl": "https://japanesetaste.com//products/tohato-beano-fire-roasted-green-pea-chips-pack-of-12"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681898463343",
+        "legacyResourceId": "43681898463343",
+        "title": "Default Title",
+        "sku": "TOHA-BEANOF-1:12",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819386991",
+    "legacyResourceId": "7895819386991",
+    "handle": "chacott-finishing-powder-matte-30g-natural-smudge-proof-face-powder",
+    "title": "Chacott Finishing Powder Matte - 30g Natural Smudge-Proof Face Powder",
+    "vendor": "Chacott",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/chacott-finishing-powder-matte-30g-natural-smudge-proof-face-powder",
+    "createdAt": "2025-09-27T23:50:26Z",
+    "updatedAt": "2026-07-10T14:36:22Z",
+    "sources": {
+      "legacyResourceId": "7895819386991",
+      "sourceUrl": "https://japanesetaste.com//products/chacott-finishing-powder-smudge-proof-matte-face-powder-natural-30g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681898528879",
+        "legacyResourceId": "43681898528879",
+        "title": "Default Title",
+        "sku": "CHAC-FINPOW-NA30",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819419759",
+    "legacyResourceId": "7895819419759",
+    "handle": "tohato-amijaga-waffle-potato-chips-savory-beef-flavor-94g-pack-of-3",
+    "title": "Tohato Amijaga Waffle Potato Chips - Savory Beef Flavor (94g x 3)",
+    "vendor": "Tohato",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tohato-amijaga-waffle-potato-chips-savory-beef-flavor-94g-pack-of-3",
+    "createdAt": "2025-09-27T23:50:28Z",
+    "updatedAt": "2026-07-10T14:36:22Z",
+    "sources": {
+      "legacyResourceId": "7895819419759",
+      "sourceUrl": "https://japanesetaste.com//products/tohato-amijaga-waffle-shaped-potato-chips-salty-beef-flavor-pack-of-3"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681898594415",
+        "legacyResourceId": "43681898594415",
+        "title": "Default Title",
+        "sku": "TOHA-AMIJGA-1:3",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819452527",
+    "legacyResourceId": "7895819452527",
+    "handle": "chacott-multi-functional-cleansing-water-500ml-gentle-makeup-remover",
+    "title": "Chacott Multi-Functional Cleansing Water 500ml - Gentle Makeup Remover",
+    "vendor": "Chacott",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/chacott-multi-functional-cleansing-water-500ml-gentle-makeup-remover",
+    "createdAt": "2025-09-27T23:50:30Z",
+    "updatedAt": "2026-07-10T14:36:22Z",
+    "sources": {
+      "legacyResourceId": "7895819452527",
+      "sourceUrl": "https://japanesetaste.com//products/chacott-cleansing-water-multi-functional-makeup-removing-lotion-500ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681898659951",
+        "legacyResourceId": "43681898659951",
+        "title": "Default Title",
+        "sku": "CHAC-CLNWAT-500",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819518063",
+    "legacyResourceId": "7895819518063",
+    "handle": "kitao-organic-matcha-essence-lotion-200ml",
+    "title": "Kitao Organic Matcha Essence Lotion - Japanese Hydrating Toner 200ml",
+    "vendor": "Kitao",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kitao-organic-matcha-essence-lotion-200ml",
+    "createdAt": "2025-09-27T23:50:45Z",
+    "updatedAt": "2026-07-10T14:36:23Z",
+    "sources": {
+      "legacyResourceId": "7895819518063",
+      "sourceUrl": "https://japanesetaste.com//products/kitao-matcha-essence-lotion-organic-japanese-matcha-facial-toner-200ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681898856559",
+        "legacyResourceId": "43681898856559",
+        "title": "Default Title",
+        "sku": "KTAO-MATLOT-200",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819550831",
+    "legacyResourceId": "7895819550831",
+    "handle": "chacott-lasting-base-spf50-pa-42g-natural-beige",
+    "title": "Chacott Lasting Base SPF50+ PA+++ 42g Natural Beige Makeup Primer",
+    "vendor": "Chacott",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/chacott-lasting-base-spf50-pa-42g-natural-beige",
+    "createdAt": "2025-09-27T23:50:46Z",
+    "updatedAt": "2026-07-10T14:36:23Z",
+    "sources": {
+      "legacyResourceId": "7895819550831",
+      "sourceUrl": "https://japanesetaste.com//products/chacott-lasting-base-smudge-proof-makeup-base-cream-natural-spf50-pa-42g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681898889327",
+        "legacyResourceId": "43681898889327",
+        "title": "Default Title",
+        "sku": "CHAC-MKPBAS-NA42",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819583599",
+    "legacyResourceId": "7895819583599",
+    "handle": "chacott-finishing-powder-matte-clear-30g-long-lasting",
+    "title": "Chacott Finishing Powder Matte - Clear 30g Long-Lasting Stage Makeup",
+    "vendor": "Chacott",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/chacott-finishing-powder-matte-clear-30g-long-lasting",
+    "createdAt": "2025-09-27T23:50:48Z",
+    "updatedAt": "2026-07-10T14:36:23Z",
+    "sources": {
+      "legacyResourceId": "7895819583599",
+      "sourceUrl": "https://japanesetaste.com//products/copy-of-chacott-finishing-powder-smudge-proof-matte-face-powder-clear-30g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681898954863",
+        "legacyResourceId": "43681898954863",
+        "title": "Default Title",
+        "sku": "CHAC-FINPOW-CL30",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819616367",
+    "legacyResourceId": "7895819616367",
+    "handle": "kitao-organic-matcha-exfoliating-gel-300g-brightening-green-tea-peel",
+    "title": "Kitao Organic Matcha Exfoliating Gel 300g - Brightening Green Tea Peel",
+    "vendor": "Kitao",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kitao-organic-matcha-exfoliating-gel-300g-brightening-green-tea-peel",
+    "createdAt": "2025-09-27T23:51:20Z",
+    "updatedAt": "2026-07-10T14:36:23Z",
+    "sources": {
+      "legacyResourceId": "7895819616367",
+      "sourceUrl": "https://japanesetaste.com//products/kitao-matcha-exfoliating-gel-matcha-green-tea-peeling-gel-300g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681899053167",
+        "legacyResourceId": "43681899053167",
+        "title": "Default Title",
+        "sku": "KTAO-MATEXF-300",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819649135",
+    "legacyResourceId": "7895819649135",
+    "handle": "kitao-silk-powder-100-100-pure-silk-loose-setting-powder",
+    "title": "Kitao Silk Powder 100 - 100% Pure Silk Loose Setting Powder",
+    "vendor": "Kitao",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kitao-silk-powder-100-100-pure-silk-loose-setting-powder",
+    "createdAt": "2025-09-27T23:51:21Z",
+    "updatedAt": "2026-07-10T14:36:24Z",
+    "sources": {
+      "legacyResourceId": "7895819649135",
+      "sourceUrl": "https://japanesetaste.com//products/kitao-silk-powder-100-colorless-loose-setting-powder-9g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681899085935",
+        "legacyResourceId": "43681899085935",
+        "title": "Default Title",
+        "sku": "KTAO-SLKPOW-100",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819681903",
+    "legacyResourceId": "7895819681903",
+    "handle": "kitao-matcha-facial-cream-organic-green-tea-moisturizer-50g",
+    "title": "Kitao Matcha Facial Cream - Organic Green Tea Moisturizer (50g)",
+    "vendor": "Kitao",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kitao-matcha-facial-cream-organic-green-tea-moisturizer-50g",
+    "createdAt": "2025-09-27T23:51:24Z",
+    "updatedAt": "2026-07-10T14:36:24Z",
+    "sources": {
+      "legacyResourceId": "7895819681903",
+      "sourceUrl": "https://japanesetaste.com//products/kitao-matcha-facial-cream-matcha-green-tea-moisturizing-cream-50g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681899151471",
+        "legacyResourceId": "43681899151471",
+        "title": "Default Title",
+        "sku": "KATO-MATFCR-50",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819714671",
+    "legacyResourceId": "7895819714671",
+    "handle": "bourbon-cheese-okaki-premium-85g-japanese-savory-rice-crackers",
+    "title": "Bourbon Cheese Okaki - Premium 85g Japanese Savory Rice Crackers",
+    "vendor": "Bourbon",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/bourbon-cheese-okaki-premium-85g-japanese-savory-rice-crackers",
+    "createdAt": "2025-09-27T23:51:38Z",
+    "updatedAt": "2026-07-10T14:36:24Z",
+    "sources": {
+      "legacyResourceId": "7895819714671",
+      "sourceUrl": "https://japanesetaste.com//products/bourbon-cheese-okaki-cheese-cream-filled-rice-crackers-85g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681899217007",
+        "legacyResourceId": "43681899217007",
+        "title": "Default Title",
+        "sku": "BRBN-CHEOKA-1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819747439",
+    "legacyResourceId": "7895819747439",
+    "handle": "ragueneau-tsugaru-aomori-apple-fiber-cookies-3-pack",
+    "title": "Ragueneau Tsugaru Aomori Apple Fiber Cookies - 3 Pack Healthy Japanese Snack",
+    "vendor": "Ragueneau",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/ragueneau-tsugaru-aomori-apple-fiber-cookies-3-pack",
+    "createdAt": "2025-09-27T23:51:41Z",
+    "updatedAt": "2026-07-10T14:36:24Z",
+    "sources": {
+      "legacyResourceId": "7895819747439",
+      "sourceUrl": "https://japanesetaste.com//products/ragueneau-tsugaru-aomori-apple-fiber-crumbly-cookies-pack-of-3"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681899282543",
+        "legacyResourceId": "43681899282543",
+        "title": "Default Title",
+        "sku": "BRBN-ROANNE-1:3",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819780207",
+    "legacyResourceId": "7895819780207",
+    "handle": "cow-brand-beauty-soap-red-box-akabako-moisturizing-3-pack",
+    "title": "Cow Brand Beauty Soap Red Box Akabako Moisturizing - 3 Bar Pack",
+    "vendor": "Cow Brand Soap Kyoshinsha Co., Ltd.",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/cow-brand-beauty-soap-red-box-akabako-moisturizing-3-pack",
+    "createdAt": "2025-09-27T23:51:44Z",
+    "updatedAt": "2026-07-10T14:36:25Z",
+    "sources": {
+      "legacyResourceId": "7895819780207",
+      "sourceUrl": "https://japanesetaste.com//products/cow-beauty-soap-akabako-cow-milk-moisturizing-bar-soap-3-pieces"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681899348079",
+        "legacyResourceId": "43681899348079",
+        "title": "Default Title",
+        "sku": "COWS-MLKSOA-3",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819812975",
+    "legacyResourceId": "7895819812975",
+    "handle": "rohto-hada-labo-50-megumi-anti-aging-collagen-hydrating-lotion-230ml",
+    "title": "Rohto Hada Labo 50 Megumi Anti-Aging Collagen Hydrating Lotion 230ml",
+    "vendor": "Hada Labo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": null,
+    "createdAt": "2025-09-27T23:51:48Z",
+    "updatedAt": "2026-07-10T14:36:25Z",
+    "sources": {
+      "legacyResourceId": "7895819812975",
+      "sourceUrl": "https://japanesetaste.com//products/rohto-hada-labo-50-no-megumi-multi-functional-anti-aging-collagen-lotion-230ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681899446383",
+        "legacyResourceId": "43681899446383",
+        "title": "Default Title",
+        "sku": "HDLB-MEGLOT-230",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819845743",
+    "legacyResourceId": "7895819845743",
+    "handle": "kamenoko-sisal-body-scrubber-tawashi-natural-japanese-exfoliating-sponge",
+    "title": "Kamenoko Sisal Body Scrubber Tawashi - Natural Japanese Exfoliating Sponge",
+    "vendor": "Kamenoko Tawashi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kamenoko-sisal-body-scrubber-tawashi-natural-japanese-exfoliating-sponge",
+    "createdAt": "2025-09-27T23:51:48Z",
+    "updatedAt": "2026-07-10T14:36:25Z",
+    "sources": {
+      "legacyResourceId": "7895819845743",
+      "sourceUrl": "https://japanesetaste.com//products/kamenoko-tawashi-satoo-san-japanese-body-scrubber-sisal-bath-sponge"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681899479151",
+        "legacyResourceId": "43681899479151",
+        "title": "Default Title",
+        "sku": "KMKO-TAWSTO-1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819878511",
+    "legacyResourceId": "7895819878511",
+    "handle": "yoshimi-hokkaido-cheese-okaki-premium-cheesy-rice-crackers-102g",
+    "title": "Yoshimi Hokkaido Cheese Okaki - Premium Cheesy Rice Crackers 102g",
+    "vendor": "Yoshimi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yoshimi-hokkaido-cheese-okaki-premium-cheesy-rice-crackers-102g",
+    "createdAt": "2025-09-27T23:51:52Z",
+    "updatedAt": "2026-07-10T14:36:25Z",
+    "sources": {
+      "legacyResourceId": "7895819878511",
+      "sourceUrl": "https://japanesetaste.com//products/yoshimi-hokkaido-cheese-okaki-cheesy-rice-crackers-102g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681899544687",
+        "legacyResourceId": "43681899544687",
+        "title": "Default Title",
+        "sku": "YSHI-CHEOKA-102",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819911279",
+    "legacyResourceId": "7895819911279",
+    "handle": "octard-ex-royal-jelly-honey-intensive-moisturizing-lotion-200ml",
+    "title": "Octard EX Royal Jelly & Honey Intensive Moisturizing Lotion - 200ml",
+    "vendor": "Octard (Meiko Cosmetics)",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/octard-ex-royal-jelly-honey-intensive-moisturizing-lotion-200ml",
+    "createdAt": "2025-09-27T23:52:01Z",
+    "updatedAt": "2026-07-10T14:36:26Z",
+    "sources": {
+      "legacyResourceId": "7895819911279",
+      "sourceUrl": "https://japanesetaste.com//products/octard-ex-lotion-royal-jelly-honey-thick-moisturizing-lotion-200ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681899610223",
+        "legacyResourceId": "43681899610223",
+        "title": "Default Title",
+        "sku": "HDLB-JELLY-180",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819944047",
+    "legacyResourceId": "7895819944047",
+    "handle": "meishoku-yukisumi-hatomugi-jobs-tears-toner-500ml",
+    "title": "Meishoku Yukisumi Hatomugi Job's Tears Toner 500ml - Skin Clarifying",
+    "vendor": "Meishoku",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/meishoku-yukisumi-hatomugi-jobs-tears-toner-500ml",
+    "createdAt": "2025-09-27T23:52:04Z",
+    "updatedAt": "2026-07-10T14:36:26Z",
+    "sources": {
+      "legacyResourceId": "7895819944047",
+      "sourceUrl": "https://japanesetaste.com//products/meishoku-yukisumi-hatomugi-jobs-tears-toner-for-clear-skin-500ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681899675759",
+        "legacyResourceId": "43681899675759",
+        "title": "Default Title",
+        "sku": "HDLB-GKUSUI-400",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895819976815",
+    "legacyResourceId": "7895819976815",
+    "handle": "rohto-hada-labo-gokujyun-3d-hyaluronic-anti-aging-sheet-mask-30-sheets",
+    "title": "Rohto Hada Labo Gokujyun 3D Hyaluronic Anti-Aging Sheet Mask - 30 Sheets",
+    "vendor": "Rohto",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/rohto-hada-labo-gokujyun-3d-hyaluronic-anti-aging-sheet-mask-30-sheets",
+    "createdAt": "2025-09-27T23:52:09Z",
+    "updatedAt": "2026-07-10T14:36:26Z",
+    "sources": {
+      "legacyResourceId": "7895819976815",
+      "sourceUrl": "https://japanesetaste.com//products/rohto-hada-labo-gokujyun-3d-hyaluronic-acid-anti-aging-facial-sheet-mask-30-sheets"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681899774063",
+        "legacyResourceId": "43681899774063",
+        "title": "Default Title",
+        "sku": "HDLB-3DHYAM-30",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895820009583",
+    "legacyResourceId": "7895820009583",
+    "handle": "rohto-hada-labo-shirojyun-whitening-moisture-gel-100g",
+    "title": "Rohto Hada Labo Shirojyun Whitening Moisture Gel 100g Hydrating Face Cream",
+    "vendor": "Rohto",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/rohto-hada-labo-shirojyun-whitening-moisture-gel-100g",
+    "createdAt": "2025-09-27T23:52:10Z",
+    "updatedAt": "2026-07-10T14:36:27Z",
+    "sources": {
+      "legacyResourceId": "7895820009583",
+      "sourceUrl": "https://japanesetaste.com//products/rohto-hada-labo-shirojyun-hydrating-face-cream-100g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681899806831",
+        "legacyResourceId": "43681899806831",
+        "title": "Default Title",
+        "sku": "HDLB-SHJCRM-50",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895820042351",
+    "legacyResourceId": "7895820042351",
+    "handle": "hada-labo-gokujyun-anti-wrinkle-eye-cream-20g-hyaluronic-acid-retinol",
+    "title": "Hada Labo Gokujyun Anti-Wrinkle Eye Cream - 20g Hyaluronic Acid & Retinol",
+    "vendor": "Rohto",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/hada-labo-gokujyun-anti-wrinkle-eye-cream-20g-hyaluronic-acid-retinol",
+    "createdAt": "2025-09-27T23:52:12Z",
+    "updatedAt": "2026-07-10T14:36:27Z",
+    "sources": {
+      "legacyResourceId": "7895820042351",
+      "sourceUrl": "https://japanesetaste.com//products/rohto-hada-labo-gokujyun-premium-anti-wrinkle-hyaluronic-acid-eye-cream-20g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681899872367",
+        "legacyResourceId": "43681899872367",
+        "title": "Default Title",
+        "sku": "HDLB-EYECRM-20",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895820075119",
+    "legacyResourceId": "7895820075119",
+    "handle": "nivea-japan-creme-care-gentle-foaming-cleanser-150ml",
+    "title": "Nivea Japan Creme Care Gentle Foaming Cleanser 150ml - Hydrating Wash",
+    "vendor": "Nivea Japan",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/nivea-japan-creme-care-gentle-foaming-cleanser-150ml",
+    "createdAt": "2025-09-27T23:52:22Z",
+    "updatedAt": "2026-07-10T14:36:27Z",
+    "sources": {
+      "legacyResourceId": "7895820075119",
+      "sourceUrl": "https://japanesetaste.com//products/nivea-japan-creme-care-skin-nourishing-gentle-foaming-cleanser-150ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681899970671",
+        "legacyResourceId": "43681899970671",
+        "title": "Default Title",
+        "sku": "NVEA-CRMCLN-150",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895820107887",
+    "legacyResourceId": "7895820107887",
+    "handle": "nivea-japan-deep-moisture-lip-balm-unscented-spf26-2-2g",
+    "title": "Nivea Japan Deep Moisture Lip Balm Unscented SPF26 PA++ 2.2g",
+    "vendor": "Nivea",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/nivea-japan-deep-moisture-lip-balm-unscented-spf26-2-2g",
+    "createdAt": "2025-09-27T23:52:22Z",
+    "updatedAt": "2026-07-10T14:36:27Z",
+    "sources": {
+      "legacyResourceId": "7895820107887",
+      "sourceUrl": "https://japanesetaste.com//products/nivea-deep-moisture-lip-unscented-lip-cream-for-chapped-lips-2-2g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681900003439",
+        "legacyResourceId": "43681900003439",
+        "title": "Default Title",
+        "sku": "NVEA-DMOLIP-1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895820140655",
+    "legacyResourceId": "7895820140655",
+    "handle": "ishimaru-authentic-sanuki-half-dried-udon-noodles-300g",
+    "title": "Ishimaru Authentic Sanuki Half-Dried Udon Noodles - 300g Kagawa Pack",
+    "vendor": "Ishimaru Seimen",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/ishimaru-authentic-sanuki-half-dried-udon-noodles-300g",
+    "createdAt": "2025-09-27T23:52:29Z",
+    "updatedAt": "2026-07-10T14:36:28Z",
+    "sources": {
+      "legacyResourceId": "7895820140655",
+      "sourceUrl": "https://japanesetaste.com//products/ishimaru-sanuki-udon-half-dried-udon-noodles-300g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681900068975",
+        "legacyResourceId": "43681900068975",
+        "title": "Default Title",
+        "sku": "IHMA-HDRUDN-300",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895820173423",
+    "legacyResourceId": "7895820173423",
+    "handle": "hounen-240mm-japanese-soba-kiri-noodle-cleaver-hand-forged-carbon-steel",
+    "title": "Hounen 240mm Japanese Soba Kiri Noodle Cleaver - Hand-Forged Carbon Steel",
+    "vendor": "Hounen",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/hounen-240mm-japanese-soba-kiri-noodle-cleaver-hand-forged-carbon-steel",
+    "createdAt": "2025-09-27T23:52:36Z",
+    "updatedAt": "2026-07-10T14:36:28Z",
+    "sources": {
+      "legacyResourceId": "7895820173423",
+      "sourceUrl": "https://japanesetaste.com//products/hounen-menkiri-knife-soba-kiri-cleaver-knife-240mm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681900134511",
+        "legacyResourceId": "43681900134511",
+        "title": "Default Title",
+        "sku": "HOUN-MENKRI-A1052",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895820206191",
+    "legacyResourceId": "7895820206191",
+    "handle": "mr-ito-strawberry-tart-cookies-8-pieces-3-pack",
+    "title": "Mr. Ito Strawberry Tart Cookies - 8 Pieces (3 Pack Bundle)",
+    "vendor": "Mr. Ito",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/mr-ito-strawberry-tart-cookies-8-pieces-3-pack",
+    "createdAt": "2025-09-27T23:52:39Z",
+    "updatedAt": "2026-07-10T14:36:28Z",
+    "sources": {
+      "legacyResourceId": "7895820206191",
+      "sourceUrl": "https://japanesetaste.com//products/mr-ito-bite-sized-strawberry-tart-snack-pack-of-3"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681900200047",
+        "legacyResourceId": "43681900200047",
+        "title": "Default Title",
+        "sku": "MITO-STWTRT-1:3",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895820238959",
+    "legacyResourceId": "7895820238959",
+    "handle": "ishimaru-sanuki-udon-authentic-dried-japanese-wheat-noodles-400g",
+    "title": "Ishimaru Sanuki Udon - Authentic Dried Japanese Wheat Noodles (400g)",
+    "vendor": "Ishimaru Seimen",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/ishimaru-sanuki-udon-authentic-dried-japanese-wheat-noodles-400g",
+    "createdAt": "2025-09-27T23:52:41Z",
+    "updatedAt": "2026-07-10T14:36:28Z",
+    "sources": {
+      "legacyResourceId": "7895820238959",
+      "sourceUrl": "https://japanesetaste.com//products/ishimaru-sanuki-udon-dried-udon-noodles-400g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681900265583",
+        "legacyResourceId": "43681900265583",
+        "title": "Default Title",
+        "sku": "IHMA-DRDUDN-400",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895820271727",
+    "legacyResourceId": "7895820271727",
+    "handle": "mr-ito-blueberry-tart-snacks-8-piece-japanese-pastry-3-pack",
+    "title": "Mr. Ito Blueberry Tart Snacks - 8-Piece Japanese Pastry (3-Pack)",
+    "vendor": "Mr. Ito",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/mr-ito-blueberry-tart-snacks-8-piece-japanese-pastry-3-pack",
+    "createdAt": "2025-09-27T23:52:49Z",
+    "updatedAt": "2026-07-10T14:36:29Z",
+    "sources": {
+      "legacyResourceId": "7895820271727",
+      "sourceUrl": "https://japanesetaste.com//products/mr-ito-bite-sized-blueberry-tart-snack-pack-of-3"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681900331119",
+        "legacyResourceId": "43681900331119",
+        "title": "Default Title",
+        "sku": "MITO-BLBTRT-1:3",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895820304495",
+    "legacyResourceId": "7895820304495",
+    "handle": "uha-mikakuto-sakeru-long-gummy-40cm-grape-flavor-5-pack",
+    "title": "UHA Mikakuto Sakeru Long Gummy - 40cm Grape Flavor (5-Pack)",
+    "vendor": "UHA Mikakuto",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/uha-mikakuto-sakeru-long-gummy-40cm-grape-flavor-5-pack",
+    "createdAt": "2025-09-27T23:52:50Z",
+    "updatedAt": "2026-07-10T14:36:29Z",
+    "sources": {
+      "legacyResourceId": "7895820304495",
+      "sourceUrl": "https://japanesetaste.com//products/uha-mikakuto-sakeru-40cm-long-grape-gummy-32g-pack-of-5"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681900429423",
+        "legacyResourceId": "43681900429423",
+        "title": "Default Title",
+        "sku": "UHAM-SAKGRP-L1:5",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895820337263",
+    "legacyResourceId": "7895820337263",
+    "handle": "uha-mikakuto-sakeru-grape-gummy-candy-42-strips",
+    "title": "UHA Mikakuto SakerU Grape Gummy - 42 Individually Wrapped Strips (6-Pack)",
+    "vendor": "UHA Mikakuto",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/uha-mikakuto-sakeru-grape-gummy-candy-42-strips",
+    "createdAt": "2025-09-27T23:52:50Z",
+    "updatedAt": "2026-07-10T14:36:29Z",
+    "sources": {
+      "legacyResourceId": "7895820337263",
+      "sourceUrl": "https://japanesetaste.com//products/uha-mikakuto-sakeru-grape-gummy-candy-40g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681900462191",
+        "legacyResourceId": "43681900462191",
+        "title": "Default Title",
+        "sku": "UHAM-SAKGRP-1:6",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895820370031",
+    "legacyResourceId": "7895820370031",
+    "handle": "kao-laurier-delicate-foaming-feminine-wash-150g",
+    "title": "Kao Laurier Delicate Foaming Feminine Wash 150g - Gentle pH Balanced Care",
+    "vendor": "Kao",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kao-laurier-delicate-foaming-feminine-wash-150g",
+    "createdAt": "2025-09-27T23:53:09Z",
+    "updatedAt": "2026-07-10T14:36:30Z",
+    "sources": {
+      "legacyResourceId": "7895820370031",
+      "sourceUrl": "https://japanesetaste.com//products/kao-laurier-delicate-skin-foaming-feminine-wash-150g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681900658799",
+        "legacyResourceId": "43681900658799",
+        "title": "Default Title",
+        "sku": "LAUR-DELWSH-150",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895820402799",
+    "legacyResourceId": "7895820402799",
+    "handle": "curel-scalp-care-shampoo-420ml-hydrating-relief-for-sensitive-scalp",
+    "title": "Curél Scalp Care Shampoo 420ml - Hydrating Relief for Sensitive Scalp",
+    "vendor": "Curél",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/curel-scalp-care-shampoo-420ml-hydrating-relief-for-sensitive-scalp",
+    "createdAt": "2025-09-27T23:53:13Z",
+    "updatedAt": "2026-07-10T14:36:30Z",
+    "sources": {
+      "legacyResourceId": "7895820402799",
+      "sourceUrl": "https://japanesetaste.com//products/kao-curel-scalp-care-shampoo-for-sensitive-scalp-420ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681900724335",
+        "legacyResourceId": "43681900724335",
+        "title": "Default Title",
+        "sku": "CREL-SHAMPO-420",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895820435567",
+    "legacyResourceId": "7895820435567",
+    "handle": "sana-nameraka-honpo-soy-milk-wrinkle-night-cream-retinol-anti-aging",
+    "title": "Sana Nameraka Honpo Soy Milk Wrinkle Night Cream - Retinol Anti-Aging",
+    "vendor": "Sana Nameraka Honpo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/sana-nameraka-honpo-soy-milk-wrinkle-night-cream-retinol-anti-aging",
+    "createdAt": "2025-09-27T23:53:19Z",
+    "updatedAt": "2026-07-10T14:36:30Z",
+    "sources": {
+      "legacyResourceId": "7895820435567",
+      "sourceUrl": "https://japanesetaste.com//products/sana-nameraka-honpo-wrinkle-night-cream-50g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681900789871",
+        "legacyResourceId": "43681900789871",
+        "title": "Default Title",
+        "sku": "SANA-WNTCRM-50",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895820468335",
+    "legacyResourceId": "7895820468335",
+    "handle": "curel-scalp-care-hair-conditioner-420ml-ceramide-moisturizing",
+    "title": "Curél Scalp Care Hair Conditioner 420ml - Ceramide Moisturizing",
+    "vendor": "Curél",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/curel-scalp-care-hair-conditioner-420ml-ceramide-moisturizing",
+    "createdAt": "2025-09-27T23:53:21Z",
+    "updatedAt": "2026-07-10T14:36:30Z",
+    "sources": {
+      "legacyResourceId": "7895820468335",
+      "sourceUrl": "https://japanesetaste.com//products/kao-curel-scalp-care-hair-conditioner-for-sensitive-scalp-420ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681900855407",
+        "legacyResourceId": "43681900855407",
+        "title": "Default Title",
+        "sku": "CREL-CNDTNR-420",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895820533871",
+    "legacyResourceId": "7895820533871",
+    "handle": "ohsawa-organic-japanese-kudzu-starch-block-150g-gluten-free-thickener",
+    "title": "Ohsawa Organic Japanese Kudzu Starch Block - 150g Gluten-Free Thickener",
+    "vendor": "Ohsawa Japan",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/ohsawa-organic-japanese-kudzu-starch-block-150g-gluten-free-thickener",
+    "createdAt": "2025-09-27T23:53:27Z",
+    "updatedAt": "2026-07-10T14:36:30Z",
+    "sources": {
+      "legacyResourceId": "7895820533871",
+      "sourceUrl": "https://japanesetaste.com//products/ohsawa-organic-kudzu-starch-block-type-150g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681900986479",
+        "legacyResourceId": "43681900986479",
+        "title": "Default Title",
+        "sku": "OHZW-BLKKDZ-150",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895820599407",
+    "legacyResourceId": "7895820599407",
+    "handle": "fujii-3-way-stainless-steel-rice-washing-bowl-precision-strainer",
+    "title": "Fujii 3-Way Stainless Steel Rice Washing Bowl with Precision Strainer",
+    "vendor": "Fujii Kibutsu Seisakusho",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fujii-3-way-stainless-steel-rice-washing-bowl-precision-strainer",
+    "createdAt": "2025-09-27T23:53:33Z",
+    "updatedAt": "2026-07-10T14:36:31Z",
+    "sources": {
+      "legacyResourceId": "7895820599407",
+      "sourceUrl": "https://japanesetaste.com//products/stainless-steel-3-way-rice-washing-bowl-with-strainer"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681901117551",
+        "legacyResourceId": "43681901117551",
+        "title": "Default Title",
+        "sku": "FJII-BWLSTR-1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895820664943",
+    "legacyResourceId": "7895820664943",
+    "handle": "yolu-calm-night-repair-shampoo-475ml-silicone-free-damage-care",
+    "title": "YOLU Calm Night Repair Shampoo 475ml - Silicone-Free Damage Care",
+    "vendor": "YOLU",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yolu-calm-night-repair-shampoo-475ml-silicone-free-damage-care",
+    "createdAt": "2025-09-27T23:53:39Z",
+    "updatedAt": "2026-07-10T14:36:31Z",
+    "sources": {
+      "legacyResourceId": "7895820664943",
+      "sourceUrl": "https://japanesetaste.com//products/yolu-calm-night-repair-silicone-free-shampoo-for-damaged-hair-475ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681901248623",
+        "legacyResourceId": "43681901248623",
+        "title": "Default Title",
+        "sku": "YOLU-CNRSHA-475",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895820697711",
+    "legacyResourceId": "7895820697711",
+    "handle": "yolu-calm-night-repair-hair-treatment-440g",
+    "title": "YOLU Calm Night Repair Hair Treatment 440g - Overnight Damage Repair",
+    "vendor": "Yolu",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yolu-calm-night-repair-hair-treatment-440g",
+    "createdAt": "2025-09-27T23:53:43Z",
+    "updatedAt": "2026-07-10T14:36:31Z",
+    "sources": {
+      "legacyResourceId": "7895820697711",
+      "sourceUrl": "https://japanesetaste.com//products/yolu-calm-night-repair-hair-treatment-for-damaged-hair-440g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681901314159",
+        "legacyResourceId": "43681901314159",
+        "title": "Default Title",
+        "sku": "YOLU-CNRTRM-475",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895820730479",
+    "legacyResourceId": "7895820730479",
+    "handle": "ohsawa-organic-japanese-kudzu-starch-fine-powder-500g",
+    "title": "Ohsawa Organic Japanese Kudzu Starch Fine Powder - 500g Gluten-Free",
+    "vendor": "Ohsawa Japan",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/ohsawa-organic-japanese-kudzu-starch-fine-powder-500g",
+    "createdAt": "2025-09-27T23:53:44Z",
+    "updatedAt": "2026-07-10T14:36:31Z",
+    "sources": {
+      "legacyResourceId": "7895820730479",
+      "sourceUrl": "https://japanesetaste.com//products/ohsawa-organic-kudzu-starch-fine-powder-type-500g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681901379695",
+        "legacyResourceId": "43681901379695",
+        "title": "Default Title",
+        "sku": "OHZW-FINKDZ-500",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895820763247",
+    "legacyResourceId": "7895820763247",
+    "handle": "dhc-moisturizing-color-lip-cream-apricot-tint-1-5g",
+    "title": "DHC Moisturizing Color Lip Cream - Apricot Tint 1.5g Hydrating Balm",
+    "vendor": "DHC",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dhc-moisturizing-color-lip-cream-apricot-tint-1-5g",
+    "createdAt": "2025-09-27T23:53:46Z",
+    "updatedAt": "2026-07-10T14:36:32Z",
+    "sources": {
+      "legacyResourceId": "7895820763247",
+      "sourceUrl": "https://japanesetaste.com//products/dhc-color-lip-cream-unscented-natural-lipstick-apricot-1-5g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681901477999",
+        "legacyResourceId": "43681901477999",
+        "title": "Default Title",
+        "sku": "DHC-LIPCRM-AP1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895820796015",
+    "legacyResourceId": "7895820796015",
+    "handle": "dhc-red-tinted-lip-cream-peptides-unscented-1-5g",
+    "title": "DHC Red Tinted Lip Cream with Peptides - Unscented Moisturizer 1.5g",
+    "vendor": "DHC",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dhc-red-tinted-lip-cream-peptides-unscented-1-5g",
+    "createdAt": "2025-09-27T23:53:46Z",
+    "updatedAt": "2026-07-10T14:36:32Z",
+    "sources": {
+      "legacyResourceId": "7895820796015",
+      "sourceUrl": "https://japanesetaste.com//products/dhc-color-lip-cream-unscented-natural-lipstick-red-1-5g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681901543535",
+        "legacyResourceId": "43681901543535",
+        "title": "Default Title",
+        "sku": "DHC-LIPCRM-RD1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895820828783",
+    "legacyResourceId": "7895820828783",
+    "handle": "yolu-calm-night-repair-hair-oil-80ml-overnight-damage-treatment",
+    "title": "Yolu Calm Night Repair Hair Oil - 80ml Overnight Damage Treatment",
+    "vendor": "Yolu",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yolu-calm-night-repair-hair-oil-80ml-overnight-damage-treatment",
+    "createdAt": "2025-09-27T23:53:47Z",
+    "updatedAt": "2026-07-10T14:36:32Z",
+    "sources": {
+      "legacyResourceId": "7895820828783",
+      "sourceUrl": "https://japanesetaste.com//products/yolu-calm-night-repair-hair-oil-for-damaged-hair-80ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681901576303",
+        "legacyResourceId": "43681901576303",
+        "title": "Default Title",
+        "sku": "YOLU-CNROIL-80",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821058159",
+    "legacyResourceId": "7895821058159",
+    "handle": "dhc-bulgarian-rose-body-fragrance-supplement-40-capsules",
+    "title": "DHC Bulgarian Rose Body Fragrance Supplement - Natural Deodorant (40 Capsules)",
+    "vendor": "DHC",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dhc-bulgarian-rose-body-fragrance-supplement-40-capsules",
+    "createdAt": "2025-09-27T23:54:00Z",
+    "updatedAt": "2026-07-10T14:36:32Z",
+    "sources": {
+      "legacyResourceId": "7895821058159",
+      "sourceUrl": "https://japanesetaste.com//products/dhc-fragrant-bulgarian-rose-body-odor-supplement-40-soft-capsules-20-days"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681902035055",
+        "legacyResourceId": "43681902035055",
+        "title": "Default Title",
+        "sku": "DHC-BLGROS-60",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821090927",
+    "legacyResourceId": "7895821090927",
+    "handle": "dhc-color-lip-cream-pink-hydrating-plumping-tinted-lip-balm-1-5g",
+    "title": "DHC Color Lip Cream Pink - Hydrating & Plumping Tinted Lip Balm 1.5g",
+    "vendor": "DHC",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dhc-color-lip-cream-pink-hydrating-plumping-tinted-lip-balm-1-5g",
+    "createdAt": "2025-09-27T23:54:01Z",
+    "updatedAt": "2026-07-10T14:36:33Z",
+    "sources": {
+      "legacyResourceId": "7895821090927",
+      "sourceUrl": "https://japanesetaste.com//products/dhc-color-lip-cream-unscented-natural-lipstick-pink-1-5g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681902133359",
+        "legacyResourceId": "43681902133359",
+        "title": "Default Title",
+        "sku": "DHC-LIPCRM-PK1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821123695",
+    "legacyResourceId": "7895821123695",
+    "handle": "dhc-vitamin-d3-25mcg-60-day-supply-immune-bone-health",
+    "title": "DHC Vitamin D3 25μg - 60-Day Supply for Immune Support & Bone Health",
+    "vendor": "DHC",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dhc-vitamin-d3-25mcg-60-day-supply-immune-bone-health",
+    "createdAt": "2025-09-27T23:54:02Z",
+    "updatedAt": "2026-07-10T14:36:33Z",
+    "sources": {
+      "legacyResourceId": "7895821123695",
+      "sourceUrl": "https://japanesetaste.com//products/dhc-vitamin-d-supplement-60-tablets-for-60-days"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681902166127",
+        "legacyResourceId": "43681902166127",
+        "title": "Default Title",
+        "sku": "DHC-VITAMD-30",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821189231",
+    "legacyResourceId": "7895821189231",
+    "handle": "rinren-rose-tsubaki-vegan-hair-repair-shampoo-480ml",
+    "title": "RinRen Rose & Tsubaki Vegan Hair Repair Shampoo - 480ml",
+    "vendor": "RinRen",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/rinren-rose-tsubaki-vegan-hair-repair-shampoo-480ml",
+    "createdAt": "2025-09-27T23:54:07Z",
+    "updatedAt": "2026-07-10T14:36:33Z",
+    "sources": {
+      "legacyResourceId": "7895821189231",
+      "sourceUrl": "https://japanesetaste.com//products/rinren-shampoo-rose-tsubaki-vegan-hair-repair-shampoo-480ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681902297199",
+        "legacyResourceId": "43681902297199",
+        "title": "Default Title",
+        "sku": "RINR-RTVSHA-480",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821221999",
+    "legacyResourceId": "7895821221999",
+    "handle": "rinren-rose-tsubaki-vegan-hair-repair-treatment-480ml",
+    "title": "RinRen Rose & Tsubaki Vegan Hair Repair Treatment 480ml",
+    "vendor": "RinRen",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/rinren-rose-tsubaki-vegan-hair-repair-treatment-480ml",
+    "createdAt": "2025-09-27T23:54:14Z",
+    "updatedAt": "2026-07-10T14:36:33Z",
+    "sources": {
+      "legacyResourceId": "7895821221999",
+      "sourceUrl": "https://japanesetaste.com//products/rinren-treatment-rose-tsubaki-vegan-hair-repair-treatment-480ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681902428271",
+        "legacyResourceId": "43681902428271",
+        "title": "Default Title",
+        "sku": "RINR-RTVTRM-480",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821254767",
+    "legacyResourceId": "7895821254767",
+    "handle": "rinren-yuzu-neroli-vegan-hair-smoothing-shampoo-480ml",
+    "title": "RinRen Yuzu Neroli Vegan Hair Smoothing Shampoo - 480ml",
+    "vendor": "RinRen",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/rinren-yuzu-neroli-vegan-hair-smoothing-shampoo-480ml",
+    "createdAt": "2025-09-27T23:54:14Z",
+    "updatedAt": "2026-07-10T14:36:34Z",
+    "sources": {
+      "legacyResourceId": "7895821254767",
+      "sourceUrl": "https://japanesetaste.com//products/rinren-shampoo-yuzu-neroli-vegan-hair-smoothing-shampoo-480ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681902493807",
+        "legacyResourceId": "43681902493807",
+        "title": "Default Title",
+        "sku": "RINR-YNVSHA-480",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821287535",
+    "legacyResourceId": "7895821287535",
+    "handle": "dhc-fast-acting-blueberry-eye-supplement-40-softgels",
+    "title": "DHC Fast-Acting Blueberry Eye Supplement - 40 Softgels for Vision Support",
+    "vendor": "DHC",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dhc-fast-acting-blueberry-eye-supplement-40-softgels",
+    "createdAt": "2025-09-27T23:54:14Z",
+    "updatedAt": "2026-07-10T14:36:34Z",
+    "sources": {
+      "legacyResourceId": "7895821287535",
+      "sourceUrl": "https://japanesetaste.com//products/dhc-fast-acting-blueberry-supplement-for-eye-health-40-soft-capsules-for-20-days"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681902461039",
+        "legacyResourceId": "43681902461039",
+        "title": "Default Title",
+        "sku": "DHC-BLBSPL-60",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821353071",
+    "legacyResourceId": "7895821353071",
+    "handle": "rinren-yuzu-and-neroli-vegan-hair-smoothing-treatment-480ml",
+    "title": "RinRen Yuzu and Neroli Vegan Hair Smoothing Treatment - 480ml Silicone-Free",
+    "vendor": "RinRen",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/rinren-yuzu-and-neroli-vegan-hair-smoothing-treatment-480ml",
+    "createdAt": "2025-09-27T23:54:17Z",
+    "updatedAt": "2026-07-10T14:36:34Z",
+    "sources": {
+      "legacyResourceId": "7895821353071",
+      "sourceUrl": "https://japanesetaste.com//products/rinren-treatment-yuzu-neroli-vegan-hair-smoothing-treatment-480ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681902624879",
+        "legacyResourceId": "43681902624879",
+        "title": "Default Title",
+        "sku": "RINR-YNVTRM-480",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821385839",
+    "legacyResourceId": "7895821385839",
+    "handle": "milbon-aujua-aging-spa-shampoo-500ml",
+    "title": "Milbon Aujua Aging Spa Shampoo - 500ml Scalp Care for Thinning Hair",
+    "vendor": "Milbon",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/milbon-aujua-aging-spa-shampoo-500ml",
+    "createdAt": "2025-09-27T23:54:20Z",
+    "updatedAt": "2026-07-10T14:36:34Z",
+    "sources": {
+      "legacyResourceId": "7895821385839",
+      "sourceUrl": "https://japanesetaste.com//products/milbon-aujua-scalp-care-aging-spa-shampoo-gentle-scalp-care-shampoo-500ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681902690415",
+        "legacyResourceId": "43681902690415",
+        "title": "Default Title",
+        "sku": "AUJA-SPASHA-500",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821418607",
+    "legacyResourceId": "7895821418607",
+    "handle": "milbon-aujua-aging-spa-hair-mask-250g",
+    "title": "Milbon Aujua Aging Spa Hair Mask - Deep Scalp & Hair Hydration (250g)",
+    "vendor": "Milbon",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/milbon-aujua-aging-spa-hair-mask-250g",
+    "createdAt": "2025-09-27T23:54:21Z",
+    "updatedAt": "2026-07-10T14:36:34Z",
+    "sources": {
+      "legacyResourceId": "7895821418607",
+      "sourceUrl": "https://japanesetaste.com//products/milbon-aujua-scalp-care-aging-spa-moisturizing-hair-mask-treatment-250g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681902755951",
+        "legacyResourceId": "43681902755951",
+        "title": "Default Title",
+        "sku": "AUJA-SPATRM-250",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821451375",
+    "legacyResourceId": "7895821451375",
+    "handle": "milbon-aujua-immurise-exceed-hair-serum-100ml",
+    "title": "Milbon Aujua Immurise Exceed Hair Serum 100ml - Anti-Aging Repair",
+    "vendor": "Aujua",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/milbon-aujua-immurise-exceed-hair-serum-100ml",
+    "createdAt": "2025-09-27T23:54:22Z",
+    "updatedAt": "2026-07-10T14:36:35Z",
+    "sources": {
+      "legacyResourceId": "7895821451375",
+      "sourceUrl": "https://japanesetaste.com//products/milbon-aujua-aging-hair-care-immurise-exceed-serum-100ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681902821487",
+        "legacyResourceId": "43681902821487",
+        "title": "Default Title",
+        "sku": "AUJA-IMMSER-100",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821484143",
+    "legacyResourceId": "7895821484143",
+    "handle": "milbon-aujua-immurise-nutrient-hair-treatment-150g",
+    "title": "Milbon Aujua Immurise Nutrient Hair Treatment - 150g Resilient Repair",
+    "vendor": "Milbon",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/milbon-aujua-immurise-nutrient-hair-treatment-150g",
+    "createdAt": "2025-09-27T23:54:30Z",
+    "updatedAt": "2026-07-10T14:36:35Z",
+    "sources": {
+      "legacyResourceId": "7895821484143",
+      "sourceUrl": "https://japanesetaste.com//products/milbon-aujua-aging-hair-care-immurise-nutrient-hair-treatment-150g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681902919791",
+        "legacyResourceId": "43681902919791",
+        "title": "Default Title",
+        "sku": "AUJA-IMMTRM-150",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821516911",
+    "legacyResourceId": "7895821516911",
+    "handle": "milbon-aujua-immurise-shampoo-500ml-strengthening-for-aging-hair",
+    "title": "Milbon Aujua Immurise Shampoo 500ml - Strengthening for Aging Hair",
+    "vendor": "Milbon",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/milbon-aujua-immurise-shampoo-500ml-strengthening-for-aging-hair",
+    "createdAt": "2025-09-27T23:54:31Z",
+    "updatedAt": "2026-07-10T14:36:35Z",
+    "sources": {
+      "legacyResourceId": "7895821516911",
+      "sourceUrl": "https://japanesetaste.com//products/milbon-aujua-immurise-shampoo-for-damaged-aging-hair-500g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681902952559",
+        "legacyResourceId": "43681902952559",
+        "title": "Default Title",
+        "sku": "AUJA-IMMSHA-500",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821582447",
+    "legacyResourceId": "7895821582447",
+    "handle": "nature-conc-clear-moisturizing-gel-cream-100g",
+    "title": "Nature Conc Clear Moisturizing Gel Cream 100g - 5-in-1 Japanese Skin Care",
+    "vendor": "Nature Conc",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/nature-conc-clear-moisturizing-gel-cream-100g",
+    "createdAt": "2025-09-27T23:54:34Z",
+    "updatedAt": "2026-07-10T14:36:36Z",
+    "sources": {
+      "legacyResourceId": "7895821582447",
+      "sourceUrl": "https://japanesetaste.com//products/nature-conc-multifunctional-clear-moist-gel-cream-100g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681903083631",
+        "legacyResourceId": "43681903083631",
+        "title": "Default Title",
+        "sku": "TRNO-JLYLOT-100",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821615215",
+    "legacyResourceId": "7895821615215",
+    "handle": "hikari-organic-kansai-style-okonomiyaki-sauce-300g",
+    "title": "Hikari Organic Kansai-Style Okonomiyaki Sauce - 300g Umami Flavor",
+    "vendor": "Hikari Shokuhin",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/hikari-organic-kansai-style-okonomiyaki-sauce-300g",
+    "createdAt": "2025-09-27T23:54:40Z",
+    "updatedAt": "2026-07-10T14:36:36Z",
+    "sources": {
+      "legacyResourceId": "7895821615215",
+      "sourceUrl": "https://japanesetaste.com//products/hikari-organic-okonomiyaki-sauce-kansai-style-okonomiyaki-sauce-300g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681903149167",
+        "legacyResourceId": "43681903149167",
+        "title": "Default Title",
+        "sku": "HIKF-OGOKSA-300",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821647983",
+    "legacyResourceId": "7895821647983",
+    "handle": "kyocera-adjustable-japanese-ceramic-mandoline-slicer-3-stage-thickness",
+    "title": "Kyocera Adjustable Japanese Ceramic Mandoline Slicer - 3-Stage Thickness",
+    "vendor": "Kyocera",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kyocera-adjustable-japanese-ceramic-mandoline-slicer-3-stage-thickness",
+    "createdAt": "2025-09-27T23:54:43Z",
+    "updatedAt": "2026-07-10T14:36:36Z",
+    "sources": {
+      "legacyResourceId": "7895821647983",
+      "sourceUrl": "https://japanesetaste.com//products/kyocera-japanese-mandoline-ceramic-3-thickness-slicer"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681903214703",
+        "legacyResourceId": "43681903214703",
+        "title": "Default Title",
+        "sku": "KYOC-MNDLIN-CSN182WHP",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821680751",
+    "legacyResourceId": "7895821680751",
+    "handle": "kyocera-ds20s-diamond-knife-sharpener-compact-ceramic-stone",
+    "title": "Kyocera DS20S Diamond Knife Sharpener - Compact Ceramic Stone for Sharp Blades",
+    "vendor": "Kyocera",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kyocera-ds20s-diamond-knife-sharpener-compact-ceramic-stone",
+    "createdAt": "2025-09-27T23:54:46Z",
+    "updatedAt": "2026-07-10T14:36:36Z",
+    "sources": {
+      "legacyResourceId": "7895821680751",
+      "sourceUrl": "https://japanesetaste.com//products/kyocera-diamond-knife-sharpener-diamond-sharpening-stone-ds20s"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681903280239",
+        "legacyResourceId": "43681903280239",
+        "title": "Default Title",
+        "sku": "KYOC-SHAPNR-DS20S",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821713519",
+    "legacyResourceId": "7895821713519",
+    "handle": "kai-delico-compact-japanese-mandoline-slicer-6-piece-professional-set",
+    "title": "KAI Delico Compact Japanese Mandoline Slicer 6-Piece Professional Set",
+    "vendor": "KAI",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kai-delico-compact-japanese-mandoline-slicer-6-piece-professional-set",
+    "createdAt": "2025-09-27T23:54:54Z",
+    "updatedAt": "2026-07-10T14:36:37Z",
+    "sources": {
+      "legacyResourceId": "7895821713519",
+      "sourceUrl": "https://japanesetaste.com//products/kai-delico-japanese-mandoline-slicer-bundle-set"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681903345775",
+        "legacyResourceId": "43681903345775",
+        "title": "Default Title",
+        "sku": "KAID-MNDLIN-DZ0746",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821746287",
+    "legacyResourceId": "7895821746287",
+    "handle": "premium-japanese-funori-red-seaweed-45g",
+    "title": "Premium Japanese Funori Red Seaweed - 45g Dried Mineral Superfood",
+    "vendor": "Ise Shima Tokusan",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/premium-japanese-funori-red-seaweed-45g",
+    "createdAt": "2025-09-27T23:54:57Z",
+    "updatedAt": "2026-07-10T14:36:37Z",
+    "sources": {
+      "legacyResourceId": "7895821746287",
+      "sourceUrl": "https://japanesetaste.com//products/funori-seaweed-dried-mineral-fiber-rich-red-seaweed-45g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681903411311",
+        "legacyResourceId": "43681903411311",
+        "title": "Default Title",
+        "sku": "UWBE-FUNORI-80",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821779055",
+    "legacyResourceId": "7895821779055",
+    "handle": "premium-dried-minced-mekabu-seaweed-100g",
+    "title": "Premium Dried Minced Mekabu Seaweed 100g - High-Fiber Japanese Superfood",
+    "vendor": "Marutomo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/premium-dried-minced-mekabu-seaweed-100g",
+    "createdAt": "2025-09-27T23:54:58Z",
+    "updatedAt": "2026-07-10T14:36:37Z",
+    "sources": {
+      "legacyResourceId": "7895821779055",
+      "sourceUrl": "https://japanesetaste.com//products/dried-mekabu-seaweed-japanese-slimy-sea-vegetable-100g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681903476847",
+        "legacyResourceId": "43681903476847",
+        "title": "Default Title",
+        "sku": "UWBE-MEKABU-100",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821811823",
+    "legacyResourceId": "7895821811823",
+    "handle": "uwabe-dried-arame-seaweed-minced-kombu-100g-premium-umami-blend",
+    "title": "Uwabe Dried Arame Seaweed & Minced Kombu - 100g Premium Umami Blend",
+    "vendor": "Uwabe",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/uwabe-dried-arame-seaweed-minced-kombu-100g-premium-umami-blend",
+    "createdAt": "2025-09-27T23:55:00Z",
+    "updatedAt": "2026-07-12T06:32:42Z",
+    "sources": {
+      "legacyResourceId": "7895821811823",
+      "sourceUrl": "https://japanesetaste.com//products/dried-arame-seaweed-japanese-sea-vegetable-100g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681903542383",
+        "legacyResourceId": "43681903542383",
+        "title": "Default Title",
+        "sku": "UWBE-DDARME-100",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821844591",
+    "legacyResourceId": "7895821844591",
+    "handle": "premium-ise-shima-aosa-dried-sea-lettuce-50g",
+    "title": "Premium Ise-Shima Aosa Dried Sea Lettuce - 50g Japanese Seaweed Snack",
+    "vendor": "Ise-Shima Marine Products",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/premium-ise-shima-aosa-dried-sea-lettuce-50g",
+    "createdAt": "2025-09-27T23:55:07Z",
+    "updatedAt": "2026-07-10T14:36:38Z",
+    "sources": {
+      "legacyResourceId": "7895821844591",
+      "sourceUrl": "https://japanesetaste.com//products/aosa-dried-edible-algae-seaweed-japanese-sea-lettuce-50g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681903607919",
+        "legacyResourceId": "43681903607919",
+        "title": "Default Title",
+        "sku": "UWBE-DDAOSA-50",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821877359",
+    "legacyResourceId": "7895821877359",
+    "handle": "kose-lecheri-wrinkle-repair-lotion-160ml",
+    "title": "Kose Lecheri Wrinkle Repair Lotion - 160ml Anti-Aging Hydrating Toner",
+    "vendor": "Kosé",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-lecheri-wrinkle-repair-lotion-160ml",
+    "createdAt": "2025-09-27T23:55:08Z",
+    "updatedAt": "2026-07-10T14:36:38Z",
+    "sources": {
+      "legacyResourceId": "7895821877359",
+      "sourceUrl": "https://japanesetaste.com//products/kose-lecheri-wrinkle-repair-lotion-anti-wrinkle-skin-moisturizer-160ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681903673455",
+        "legacyResourceId": "43681903673455",
+        "title": "Default Title",
+        "sku": "KOSE-LCHLOT-160",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821910127",
+    "legacyResourceId": "7895821910127",
+    "handle": "premium-japanese-dried-seaweed-salad-with-konjac-50g",
+    "title": "Premium Japanese Dried Seaweed Salad with Konjac & Agar - 50g",
+    "vendor": "Kanesu",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/premium-japanese-dried-seaweed-salad-with-konjac-50g",
+    "createdAt": "2025-09-27T23:55:11Z",
+    "updatedAt": "2026-07-10T14:36:38Z",
+    "sources": {
+      "legacyResourceId": "7895821910127",
+      "sourceUrl": "https://japanesetaste.com//products/seaweed-salad-japanese-dried-algae-and-konjac-mix-50g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681903738991",
+        "legacyResourceId": "43681903738991",
+        "title": "Default Title",
+        "sku": "UWBE-SWDSLD-50",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821942895",
+    "legacyResourceId": "7895821942895",
+    "handle": "kose-lecheri-glow-essence-stick-9-5g",
+    "title": "Kose Lecheri Glow Essence Stick 9.5g - Instant Radiance & Hydration",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-lecheri-glow-essence-stick-9-5g",
+    "createdAt": "2025-09-27T23:55:16Z",
+    "updatedAt": "2026-07-10T14:36:39Z",
+    "sources": {
+      "legacyResourceId": "7895821942895",
+      "sourceUrl": "https://japanesetaste.com//products/kose-lecheri-glow-essence-stick-portable-moisturizing-serum-stick-9-5g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681903804527",
+        "legacyResourceId": "43681903804527",
+        "title": "Default Title",
+        "sku": "KOSE-LCHSTK-1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895821975663",
+    "legacyResourceId": "7895821975663",
+    "handle": "kose-one-by-kose-the-wrinkless-s-anti-wrinkle-whitening-serum-20g",
+    "title": "Kose One By Kose The Wrinkless S Anti-Wrinkle & Whitening Serum 20g",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-one-by-kose-the-wrinkless-s-anti-wrinkle-whitening-serum-20g",
+    "createdAt": "2025-09-27T23:55:25Z",
+    "updatedAt": "2026-07-10T14:36:39Z",
+    "sources": {
+      "legacyResourceId": "7895821975663",
+      "sourceUrl": "https://japanesetaste.com//products/kose-one-by-kose-the-wrinkless-wrinkle-repair-serum-20g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681903935599",
+        "legacyResourceId": "43681903935599",
+        "title": "Default Title",
+        "sku": "KOSE-ONESRM-20",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895822008431",
+    "legacyResourceId": "7895822008431",
+    "handle": "kose-lecheri-lift-glow-cream-40g-firming-radiance-moisturizer",
+    "title": "Kose Lecheri Lift Glow Cream 40g - Advanced Firming & Radiance Face Moisturizer",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-lecheri-lift-glow-cream-40g-firming-radiance-moisturizer",
+    "createdAt": "2025-09-27T23:55:25Z",
+    "updatedAt": "2026-07-10T14:36:39Z",
+    "sources": {
+      "legacyResourceId": "7895822008431",
+      "sourceUrl": "https://japanesetaste.com//products/kose-lecheri-lift-glow-cream-face-lifting-skin-glowing-cream-40g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681903902831",
+        "legacyResourceId": "43681903902831",
+        "title": "Default Title",
+        "sku": "KOSE-LCHFCR-40",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895822041199",
+    "legacyResourceId": "7895822041199",
+    "handle": "kose-infinity-intensive-wrinkle-repair-serum-40g",
+    "title": "Kose Infinity Intensive Wrinkle Repair Serum - 40g Japanese Anti-Aging",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-infinity-intensive-wrinkle-repair-serum-40g",
+    "createdAt": "2025-09-27T23:55:28Z",
+    "updatedAt": "2026-07-10T14:36:39Z",
+    "sources": {
+      "legacyResourceId": "7895822041199",
+      "sourceUrl": "https://japanesetaste.com//products/kose-infinity-intensive-wrinkle-serum-40g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681904033903",
+        "legacyResourceId": "43681904033903",
+        "title": "Default Title",
+        "sku": "KOSE-INFSRM-40",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895822106735",
+    "legacyResourceId": "7895822106735",
+    "handle": "marumo-takagi-kikka-mino-ware-black-porcelain-mug-320ml",
+    "title": "Marumo Takagi Kikka Mino Ware Black Porcelain Mug - 320ml Handcrafted",
+    "vendor": "Marumo Takagi Ceramics",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/marumo-takagi-kikka-mino-ware-black-porcelain-mug-320ml",
+    "createdAt": "2025-09-27T23:55:33Z",
+    "updatedAt": "2026-07-10T14:36:40Z",
+    "sources": {
+      "legacyResourceId": "7895822106735",
+      "sourceUrl": "https://japanesetaste.com//products/japanese-mino-ware-porcelain-mug-black-c811bk"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681905016943",
+        "legacyResourceId": "43681905016943",
+        "title": "Default Title",
+        "sku": "CRES-KIKMUG-C811BK",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895822139503",
+    "legacyResourceId": "7895822139503",
+    "handle": "cores-mino-ware-black-porcelain-coffee-canister-200g",
+    "title": "Cores Mino Ware Black Porcelain Coffee Canister - 200g Airtight Storage",
+    "vendor": "Cores",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/cores-mino-ware-black-porcelain-coffee-canister-200g",
+    "createdAt": "2025-09-27T23:55:35Z",
+    "updatedAt": "2026-07-10T14:36:40Z",
+    "sources": {
+      "legacyResourceId": "7895822139503",
+      "sourceUrl": "https://japanesetaste.com//products/porcelain-canister-mino-ware-coffee-canister-black-c820bk"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681905082479",
+        "legacyResourceId": "43681905082479",
+        "title": "Default Title",
+        "sku": "CRES-CNISTR-C820BK",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895822172271",
+    "legacyResourceId": "7895822172271",
+    "handle": "mino-ware-kikka-porcelain-coffee-mug-white-320ml-artisan-ceramic",
+    "title": "Mino Ware Kikka Porcelain Coffee Mug - White - 320ml Artisan Ceramic",
+    "vendor": "Creston",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/mino-ware-kikka-porcelain-coffee-mug-white-320ml-artisan-ceramic",
+    "createdAt": "2025-09-27T23:55:36Z",
+    "updatedAt": "2026-07-10T14:36:40Z",
+    "sources": {
+      "legacyResourceId": "7895822172271",
+      "sourceUrl": "https://japanesetaste.com//products/japanese-mino-ware-porcelain-mug-white-c811wh"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681905148015",
+        "legacyResourceId": "43681905148015",
+        "title": "Default Title",
+        "sku": "CRES-KIKMUG-C811WH",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895822237807",
+    "legacyResourceId": "7895822237807",
+    "handle": "itohkyuemon-uji-matcha-green-tea-baked-cheesecake-5-piece-set",
+    "title": "Itohkyuemon Uji Matcha Green Tea Baked Cheesecake - 5 Piece Set",
+    "vendor": "Itohkyuemon",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/itohkyuemon-uji-matcha-green-tea-baked-cheesecake-5-piece-set",
+    "createdAt": "2025-09-27T23:55:42Z",
+    "updatedAt": "2026-07-10T14:36:41Z",
+    "sources": {
+      "legacyResourceId": "7895822237807",
+      "sourceUrl": "https://japanesetaste.com//products/itohkyuemon-uji-matcha-green-tea-baked-cheesecake-5-pieces"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681905311855",
+        "legacyResourceId": "43681905311855",
+        "title": "Default Title",
+        "sku": "ITOK-CHECAK-5",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895822303343",
+    "legacyResourceId": "7895822303343",
+    "handle": "ito-natural-disposable-cleansing-towel-roll-250g",
+    "title": "ITO Natural Disposable Cleansing Towel Roll 250g - Soft Facial Care",
+    "vendor": "ITO",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/ito-natural-disposable-cleansing-towel-roll-250g",
+    "createdAt": "2025-09-27T23:55:46Z",
+    "updatedAt": "2026-07-10T14:36:41Z",
+    "sources": {
+      "legacyResourceId": "7895822303343",
+      "sourceUrl": "https://japanesetaste.com//products/ito-cleansing-towel-disposable-paper-towel-roll-250g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681905410159",
+        "legacyResourceId": "43681905410159",
+        "title": "Default Title",
+        "sku": "ITOC-CLNTOW-250",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895822336111",
+    "legacyResourceId": "7895822336111",
+    "handle": "tashimaya-100-pure-japanese-camellia-oil-hair-skin-moisturizer-100g",
+    "title": "Tashimaya 100% Pure Japanese Camellia Oil - Hair & Skin Moisturizer 100g",
+    "vendor": "Tashimaya",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tashimaya-100-pure-japanese-camellia-oil-hair-skin-moisturizer-100g",
+    "createdAt": "2025-09-27T23:55:47Z",
+    "updatedAt": "2026-07-10T14:36:41Z",
+    "sources": {
+      "legacyResourceId": "7895822336111",
+      "sourceUrl": "https://japanesetaste.com//products/horiuchi-tsubaki-oil-pure-versatile-camellia-oil-from-kyushu-100g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681905475695",
+        "legacyResourceId": "43681905475695",
+        "title": "Default Title",
+        "sku": "TSMA-OGCOIL-50",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895822368879",
+    "legacyResourceId": "7895822368879",
+    "handle": "ito-super-elastic-facial-cotton-pads-200-sheets",
+    "title": "ITO Super Elastic Facial Cotton Pads - 200 Sheets Stretchable Cleansing",
+    "vendor": "ITO",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/ito-super-elastic-facial-cotton-pads-200-sheets",
+    "createdAt": "2025-09-27T23:55:56Z",
+    "updatedAt": "2026-07-10T14:36:41Z",
+    "sources": {
+      "legacyResourceId": "7895822368879",
+      "sourceUrl": "https://japanesetaste.com//products/ito-super-elastic-cotton-stretchable-cotton-paper-sheet-200-sheets"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681905541231",
+        "legacyResourceId": "43681905541231",
+        "title": "Default Title",
+        "sku": "ITOC-CTNPPR-200",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895822401647",
+    "legacyResourceId": "7895822401647",
+    "handle": "zero-japan-minoyaki-ceramic-coffee-dripper-3-4-cups",
+    "title": "Zero Japan Minoyaki Ceramic Coffee Dripper - Large 3-4 Cup Size",
+    "vendor": "Zero Japan",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/zero-japan-minoyaki-ceramic-coffee-dripper-3-4-cups",
+    "createdAt": "2025-09-27T23:55:57Z",
+    "updatedAt": "2026-07-10T14:36:42Z",
+    "sources": {
+      "legacyResourceId": "7895822401647",
+      "sourceUrl": "https://japanesetaste.com//products/zero-japan-hand-crafted-minoyaki-pottery-pour-over-coffee-dripper-3-4-cups"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681905639535",
+        "legacyResourceId": "43681905639535",
+        "title": "Default Title",
+        "sku": "ZERO-DRIPER-BR1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43681905672303",
+        "legacyResourceId": "43681905672303",
+        "title": "White",
+        "sku": "ZERO-DRIPER-WH1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "White"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43681905705071",
+        "legacyResourceId": "43681905705071",
+        "title": "Black",
+        "sku": "ZERO-DRIPER-BK1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Black"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43681905737839",
+        "legacyResourceId": "43681905737839",
+        "title": "Antique Green",
+        "sku": "ZERO-DRIPER-GN1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Antique Green"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895822434415",
+    "legacyResourceId": "7895822434415",
+    "handle": "sk-ii-facial-treatment-cleansing-oil-250ml-pitera-infused",
+    "title": "SK-II Facial Treatment Cleansing Oil 250ml - Pitera-Infused Deep Cleanser",
+    "vendor": "SK-II",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/sk-ii-facial-treatment-cleansing-oil-250ml-pitera-infused",
+    "createdAt": "2025-09-27T23:55:58Z",
+    "updatedAt": "2026-07-10T14:36:42Z",
+    "sources": {
+      "legacyResourceId": "7895822434415",
+      "sourceUrl": "https://japanesetaste.com//products/sk-ii-facial-treatment-cleansing-oil-pitera-essence-makeup-cleanser-250ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681905770607",
+        "legacyResourceId": "43681905770607",
+        "title": "Default Title",
+        "sku": "SKII-CLNOIL-250",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895822467183",
+    "legacyResourceId": "7895822467183",
+    "handle": "sk-ii-facial-treatment-gentle-cleanser-120g",
+    "title": "SK-II Facial Treatment Gentle Cleanser 120g - Pitera Infused Wash",
+    "vendor": "SK-II",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/sk-ii-facial-treatment-gentle-cleanser-120g",
+    "createdAt": "2025-09-27T23:56:11Z",
+    "updatedAt": "2026-07-10T14:36:42Z",
+    "sources": {
+      "legacyResourceId": "7895822467183",
+      "sourceUrl": "https://japanesetaste.com//products/sk-ii-facial-treatment-gentle-cleanser-pitera-essence-facial-wash-120g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681905868911",
+        "legacyResourceId": "43681905868911",
+        "title": "Default Title",
+        "sku": "SKII-CLNESS-120",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895822499951",
+    "legacyResourceId": "7895822499951",
+    "handle": "kanebo-comfort-stretchy-wash-hydrating-elasticizing-cleanser-130g",
+    "title": "Kanebo Comfort Stretchy Wash - Hydrating & Elasticizing Cleanser 130g",
+    "vendor": "Kanebo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kanebo-comfort-stretchy-wash-hydrating-elasticizing-cleanser-130g",
+    "createdAt": "2025-09-27T23:56:11Z",
+    "updatedAt": "2026-07-10T14:36:42Z",
+    "sources": {
+      "legacyResourceId": "7895822499951",
+      "sourceUrl": "https://japanesetaste.com//products/kanebo-comfort-stretchy-wash-moisturizing-facial-cleanser-130g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681905901679",
+        "legacyResourceId": "43681905901679",
+        "title": "Default Title",
+        "sku": "KNBO-CSWASH-130",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895822532719",
+    "legacyResourceId": "7895822532719",
+    "handle": "kanebo-scrubbing-mud-wash-130g-moroccan-clay-cleanser",
+    "title": "Kanebo Scrubbing Mud Wash - 130g Moroccan Clay Exfoliating Cleanser",
+    "vendor": "Kanebo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kanebo-scrubbing-mud-wash-130g-moroccan-clay-cleanser",
+    "createdAt": "2025-09-27T23:56:14Z",
+    "updatedAt": "2026-07-10T14:36:43Z",
+    "sources": {
+      "legacyResourceId": "7895822532719",
+      "sourceUrl": "https://japanesetaste.com//products/kanebo-scrubbing-mud-wash-moroccan-clay-facial-cleanser-130g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681905967215",
+        "legacyResourceId": "43681905967215",
+        "title": "Default Title",
+        "sku": "KNBO-SCRMUD-130",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895822565487",
+    "legacyResourceId": "7895822565487",
+    "handle": "kanebo-on-skin-essence-v-100ml-softening-moisturizing-essence-lotion",
+    "title": "Kanebo On Skin Essence V - 100ml Softening Moisturizing Essence Lotion",
+    "vendor": "Kanebo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kanebo-on-skin-essence-v-100ml-softening-moisturizing-essence-lotion",
+    "createdAt": "2025-09-27T23:56:19Z",
+    "updatedAt": "2026-07-10T14:36:43Z",
+    "sources": {
+      "legacyResourceId": "7895822565487",
+      "sourceUrl": "https://japanesetaste.com//products/kanebo-on-skin-essence-v-skin-softening-lotion-100ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681906032751",
+        "legacyResourceId": "43681906032751",
+        "title": "Default Title",
+        "sku": "KNBO-SKNESV-100",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895822598255",
+    "legacyResourceId": "7895822598255",
+    "handle": "kanebo-cream-in-night-40g-advanced-nighttime-repair-moisturizer",
+    "title": "Kanebo Cream In Night 40g - Advanced Nighttime Repair Moisturizer",
+    "vendor": "Kanebo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kanebo-cream-in-night-40g-advanced-nighttime-repair-moisturizer",
+    "createdAt": "2025-09-27T23:56:22Z",
+    "updatedAt": "2026-07-10T14:36:43Z",
+    "sources": {
+      "legacyResourceId": "7895822598255",
+      "sourceUrl": "https://japanesetaste.com//products/kanebo-cream-in-night-face-cream-for-night-skincare-routine-40g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681906098287",
+        "legacyResourceId": "43681906098287",
+        "title": "Default Title",
+        "sku": "KNBO-CINFCR-40",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895822631023",
+    "legacyResourceId": "7895822631023",
+    "handle": "kanebo-cream-in-day-spf20-pa-morning-face-moisturizer-40g",
+    "title": "Kanebo Cream In Day SPF20 PA+++ Morning Face Moisturizer - 40g",
+    "vendor": "Kanebo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kanebo-cream-in-day-spf20-pa-morning-face-moisturizer-40g",
+    "createdAt": "2025-09-27T23:56:28Z",
+    "updatedAt": "2026-07-10T14:36:44Z",
+    "sources": {
+      "legacyResourceId": "7895822631023",
+      "sourceUrl": "https://japanesetaste.com//products/kanebo-cream-in-day-face-cream-for-morning-skincare-routine-spf20-pa-40g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681906163823",
+        "legacyResourceId": "43681906163823",
+        "title": "Default Title",
+        "sku": "KNBO-CIDFCR-40",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895822663791",
+    "legacyResourceId": "7895822663791",
+    "handle": "yoshikawa-stainless-steel-yukihira-pot-lid-16-18cm",
+    "title": "Yoshikawa Stainless Steel Yukihira Pot Lid 16-18cm - Made in Japan",
+    "vendor": "Yoshikawa",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yoshikawa-stainless-steel-yukihira-pot-lid-16-18cm",
+    "createdAt": "2025-09-27T23:56:29Z",
+    "updatedAt": "2026-07-10T14:36:44Z",
+    "sources": {
+      "legacyResourceId": "7895822663791",
+      "sourceUrl": "https://japanesetaste.com//products/yoshikawa-yukihira-stainless-steel-pot-lid-16-18cm-yh9497"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681906229359",
+        "legacyResourceId": "43681906229359",
+        "title": "Default Title",
+        "sku": "YKWA-YKALID-YH9497",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895822696559",
+    "legacyResourceId": "7895822696559",
+    "handle": "kanebo-veil-of-day-spf50-pa-hydrating-day-serum-40g",
+    "title": "Kanebo Veil of Day SPF50+ PA++++ Hydrating Day Serum 40g",
+    "vendor": "Kanebo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kanebo-veil-of-day-spf50-pa-hydrating-day-serum-40g",
+    "createdAt": "2025-09-27T23:56:32Z",
+    "updatedAt": "2026-07-10T14:36:44Z",
+    "sources": {
+      "legacyResourceId": "7895822696559",
+      "sourceUrl": "https://japanesetaste.com//products/kanebo-veil-of-day-uv-protection-day-serum-spf50-pa-40g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681906327663",
+        "legacyResourceId": "43681906327663",
+        "title": "Default Title",
+        "sku": "KNBO-VILDAY-40",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895822729327",
+    "legacyResourceId": "7895822729327",
+    "handle": "sori-yanagi-stainless-steel-cake-server-23-5cm",
+    "title": "Sori Yanagi Stainless Steel Cake Server - 23.5cm Japanese Designer Utensil",
+    "vendor": "Sori Yanagi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/sori-yanagi-stainless-steel-cake-server-23-5cm",
+    "createdAt": "2025-09-27T23:56:33Z",
+    "updatedAt": "2026-07-10T14:36:45Z",
+    "sources": {
+      "legacyResourceId": "7895822729327",
+      "sourceUrl": "https://japanesetaste.com//products/sori-yanagi-designer-cake-server"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681906360431",
+        "legacyResourceId": "43681906360431",
+        "title": "Default Title",
+        "sku": "SORI-CKESRV-1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895822762095",
+    "legacyResourceId": "7895822762095",
+    "handle": "yoshikawa-stainless-steel-yukihira-pot-lid-20-22cm",
+    "title": "Yoshikawa Stainless Steel Yukihira Pot Lid - Fits 20cm and 22cm Pans",
+    "vendor": "Yoshikawa",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yoshikawa-stainless-steel-yukihira-pot-lid-20-22cm",
+    "createdAt": "2025-09-27T23:56:38Z",
+    "updatedAt": "2026-07-10T14:36:45Z",
+    "sources": {
+      "legacyResourceId": "7895822762095",
+      "sourceUrl": "https://japanesetaste.com//products/yoshikawa-yukihira-stainless-steel-pot-lid-20-22cm-yh9499"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681906425967",
+        "legacyResourceId": "43681906425967",
+        "title": "Default Title",
+        "sku": "YKWA-YKALID-YH9499",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  }
+]

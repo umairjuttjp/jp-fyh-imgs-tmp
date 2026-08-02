@@ -1,0 +1,1431 @@
+[
+  {
+    "id": "gid://shopify/Product/7987464732783",
+    "legacyResourceId": "7987464732783",
+    "handle": "kose-infinity-prestigious-eye-zone-serum-anti-aging-lifting-25g",
+    "title": "Kose INFINITY Prestigious Eye Zone Serum - Anti-Aging & Lifting 25g",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-infinity-prestigious-eye-zone-serum-anti-aging-lifting-25g",
+    "createdAt": "2025-12-25T19:24:34Z",
+    "updatedAt": "2026-07-10T14:43:32Z",
+    "sources": {
+      "legacyResourceId": "7987464732783"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016954474607",
+        "legacyResourceId": "44016954474607",
+        "title": "Default Title",
+        "sku": "1133552149",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987464765551",
+    "legacyResourceId": "7987464765551",
+    "handle": "kose-infinity-morning-renew-wash-100g",
+    "title": "Kose INFINITY Morning Renew Wash - Radiant Face Cleanser 100g",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-infinity-morning-renew-wash-100g",
+    "createdAt": "2025-12-25T19:24:34Z",
+    "updatedAt": "2026-07-10T14:43:32Z",
+    "sources": {
+      "legacyResourceId": "7987464765551"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016954507375",
+        "legacyResourceId": "44016954507375",
+        "title": "Default Title",
+        "sku": "1133552151",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987464798319",
+    "legacyResourceId": "7987464798319",
+    "handle": "kose-infinity-skin-integration-oil-40ml",
+    "title": "Kose Infinity Skin Integration Oil - 40ml Radiant Facial Elixir",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-infinity-skin-integration-oil-40ml",
+    "createdAt": "2025-12-25T19:24:35Z",
+    "updatedAt": "2026-07-10T14:43:32Z",
+    "sources": {
+      "legacyResourceId": "7987464798319"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016954540143",
+        "legacyResourceId": "44016954540143",
+        "title": "Default Title",
+        "sku": "1133552152",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987464831087",
+    "legacyResourceId": "7987464831087",
+    "handle": "kose-infinity-unlimited-key-revitalizing-serum",
+    "title": "Kose INFINITY Unlimited Key Revitalizing Serum - Anti-Aging Essence",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-infinity-unlimited-key-revitalizing-serum",
+    "createdAt": "2025-12-25T19:24:36Z",
+    "updatedAt": "2026-07-10T14:43:32Z",
+    "sources": {
+      "legacyResourceId": "7987464831087"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016954572911",
+        "legacyResourceId": "44016954572911",
+        "title": "Default Title",
+        "sku": "1133552158",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987464896623",
+    "legacyResourceId": "7987464896623",
+    "handle": "kose-infinity-esthetic-cleansing-cream-ex-trial-set",
+    "title": "Kose INFINITY Esthetic Cleansing Cream EX Trial Set - 120g",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-infinity-esthetic-cleansing-cream-ex-trial-set",
+    "createdAt": "2025-12-25T19:24:40Z",
+    "updatedAt": "2026-07-10T14:43:32Z",
+    "sources": {
+      "legacyResourceId": "7987464896623"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016954638447",
+        "legacyResourceId": "44016954638447",
+        "title": "Default Title",
+        "sku": "1133566568",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7993426149487",
+    "legacyResourceId": "7993426149487",
+    "handle": "fancl-calorie-limit-30",
+    "title": "Japan's #1 Metabolism Support Formula - Now in America",
+    "vendor": "FANCL",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fancl-calorie-limit-30",
+    "createdAt": "2026-01-01T00:42:42Z",
+    "updatedAt": "2026-07-10T14:43:33Z",
+    "sources": {
+      "legacyResourceId": "7993426149487"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44031697944687",
+        "legacyResourceId": "44031697944687",
+        "title": "Default Title",
+        "sku": "B08LKQVRM5",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7995628617839",
+    "legacyResourceId": "7995628617839",
+    "handle": "hakuza-platinum-gold-leaf-beauty-essence",
+    "title": "Hakuza Platinum Gold Leaf Beauty Essence - Luxury Revitalizing Serum",
+    "vendor": "Hakuza",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/hakuza-platinum-gold-leaf-beauty-essence",
+    "createdAt": "2026-01-03T20:19:54Z",
+    "updatedAt": "2026-07-10T14:43:33Z",
+    "sources": {
+      "legacyResourceId": "7995628617839"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44036871290991",
+        "legacyResourceId": "44036871290991",
+        "title": "Default Title",
+        "sku": "509010108",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7995628650607",
+    "legacyResourceId": "7995628650607",
+    "handle": "hakuza-gold-leaf-skincare-trial-3-piece-set",
+    "title": "Hakuza Gold Leaf Skincare Trial 3-Piece Set - Radiant Japanese Beauty Kit",
+    "vendor": "Hakuza",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/hakuza-gold-leaf-skincare-trial-3-piece-set",
+    "createdAt": "2026-01-03T20:19:54Z",
+    "updatedAt": "2026-07-10T14:43:33Z",
+    "sources": {
+      "legacyResourceId": "7995628650607"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44036871258223",
+        "legacyResourceId": "44036871258223",
+        "title": "Default Title",
+        "sku": "509010102",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7995628683375",
+    "legacyResourceId": "7995628683375",
+    "handle": "hakuza-platinum-gold-leaf-face-lotion-radiant-hydrating-toner",
+    "title": "Hakuza Platinum Gold Leaf Face Lotion - Radiant Hydrating Toner",
+    "vendor": "Hakuza",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/hakuza-platinum-gold-leaf-face-lotion-radiant-hydrating-toner",
+    "createdAt": "2026-01-03T20:19:54Z",
+    "updatedAt": "2026-07-10T14:43:33Z",
+    "sources": {
+      "legacyResourceId": "7995628683375"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44036871323759",
+        "legacyResourceId": "44036871323759",
+        "title": "Default Title",
+        "sku": "509010107",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7995628716143",
+    "legacyResourceId": "7995628716143",
+    "handle": "hakuza-platinum-gold-moisture-cream-luxurious-hydrating-face-cream",
+    "title": "Hakuza Platinum Gold Moisture Cream - Luxurious Hydrating Face Cream",
+    "vendor": "Hakuza",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/hakuza-platinum-gold-moisture-cream-luxurious-hydrating-face-cream",
+    "createdAt": "2026-01-03T20:19:54Z",
+    "updatedAt": "2026-07-10T14:43:33Z",
+    "sources": {
+      "legacyResourceId": "7995628716143"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44036871356527",
+        "legacyResourceId": "44036871356527",
+        "title": "Default Title",
+        "sku": "509010109",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7995628781679",
+    "legacyResourceId": "7995628781679",
+    "handle": "hakuza-platinum-gold-leaf-basic-care-3-piece-luxury-skincare-set",
+    "title": "Hakuza Platinum Gold Leaf Basic Care 3-Piece Luxury Skincare Set",
+    "vendor": "Hakuza",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/hakuza-platinum-gold-leaf-basic-care-3-piece-luxury-skincare-set",
+    "createdAt": "2026-01-03T20:20:02Z",
+    "updatedAt": "2026-07-10T14:43:34Z",
+    "sources": {
+      "legacyResourceId": "7995628781679"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44036871716975",
+        "legacyResourceId": "44036871716975",
+        "title": "Default Title",
+        "sku": "509010215",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7995628814447",
+    "legacyResourceId": "7995628814447",
+    "handle": "hakuza-premium-collagen-infused-oil-blotting-paper-20-sheets",
+    "title": "Hakuza Premium Collagen Infused Oil Blotting Paper - 20 Sheets",
+    "vendor": "Hakuza",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/hakuza-premium-collagen-infused-oil-blotting-paper-20-sheets",
+    "createdAt": "2026-01-03T20:20:02Z",
+    "updatedAt": "2026-07-10T14:43:34Z",
+    "sources": {
+      "legacyResourceId": "7995628814447"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44036871749743",
+        "legacyResourceId": "44036871749743",
+        "title": "Default Title",
+        "sku": "509010111",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7995707129967",
+    "legacyResourceId": "7995707129967",
+    "handle": "premium-zakka-ginjo-red-vinegar-for-sushi-150ml-300ml",
+    "title": "Premium Zakka Ginjo Red Vinegar for Sushi – 150ml & 300ml",
+    "vendor": "Kokono Esaka",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/premium-zakka-ginjo-red-vinegar-for-sushi-150ml-300ml",
+    "createdAt": "2026-01-04T01:18:19Z",
+    "updatedAt": "2026-07-10T14:43:34Z",
+    "sources": {
+      "legacyResourceId": "7995707129967",
+      "sourceUrl": "https://kokonoesaika.myshopify.com/products/az-6005"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44037238227055",
+        "legacyResourceId": "44037238227055",
+        "title": "150ml",
+        "sku": "AZ-6005-015",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "容量",
+            "value": "150ml"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/44037238259823",
+        "legacyResourceId": "44037238259823",
+        "title": "300ml",
+        "sku": "AZ-6005-030",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "容量",
+            "value": "300ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/8016384426095",
+    "legacyResourceId": "8016384426095",
+    "handle": "maeda-seika-10-vegetable-healthy-crackers-fiber-rich-baked-snack-6-packs",
+    "title": "Maeda Seika 10 Vegetable Healthy Crackers - Premium Fiber-Rich Baked Snack (6 Packs)",
+    "vendor": "Maeda Seika Co., Ltd.",
+    "productType": "Japanese Snacks - Healthy Crackers",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/maeda-seika-10-vegetable-healthy-crackers-fiber-rich-baked-snack-6-packs",
+    "createdAt": "2026-01-19T10:29:39Z",
+    "updatedAt": "2026-07-10T14:43:34Z",
+    "sources": {
+      "legacyResourceId": "8016384426095",
+      "sourceUrl": "https://store.shopping.yahoo.co.jp/maedaseika/4902732010516.html"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44079153676399",
+        "legacyResourceId": "44079153676399",
+        "title": "Default Title",
+        "sku": "4902732010516",
+        "barcode": "4902732010516",
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/8016396157039",
+    "legacyResourceId": "8016396157039",
+    "handle": "maeda-seika-psjbox-10-cereal-crackers-5-x-6-bags-x-2-box-set-individual-packaging-small-dividing-snacks-snacks-health-oriented-made-in-japan",
+    "title": "Maeda Seika PSJBOX 10 Cereal Crackers (5 x 6 Bags) x 2 Box Set, Individual Packaging, Small Dividing, Snacks, Snacks, Health-oriented, Made in Japan",
+    "vendor": "JapansPrime",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/maeda-seika-psjbox-10-cereal-crackers-5-x-6-bags-x-2-box-set-individual-packaging-small-dividing-snacks-snacks-health-oriented-made-in-japan",
+    "createdAt": "2026-01-19T10:39:52Z",
+    "updatedAt": "2026-07-10T14:43:35Z",
+    "sources": {
+      "legacyResourceId": "8016396157039"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44079239004271",
+        "legacyResourceId": "44079239004271",
+        "title": "Default Title",
+        "sku": "B0FFGLVYPP",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/8057819660399",
+    "legacyResourceId": "8057819660399",
+    "handle": "mitsuhashi-polished-rice-wash-free-rice-ibaraki-prefecture-koshihikari-2kg-reiwa-7-crop",
+    "title": "Ibaraki Koshihikari Wash-Free Rice",
+    "vendor": "Mitsuhashi Rice",
+    "productType": "Rice",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/mitsuhashi-polished-rice-wash-free-rice-ibaraki-prefecture-koshihikari-2kg-reiwa-7-crop",
+    "createdAt": "2026-02-11T01:51:55Z",
+    "updatedAt": "2026-07-10T14:43:35Z",
+    "sources": {
+      "legacyResourceId": "8057819660399"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44525042139247",
+        "legacyResourceId": "44525042139247",
+        "title": "Default Title",
+        "sku": "B09HRR4FMV",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/8059755298927",
+    "legacyResourceId": "8059755298927",
+    "handle": "polished-rice-organically-grown-made-in-japan-amazon-brand-white-rice-4-4-lbs-2-kg-non-stock-rice",
+    "title": "Organic JAS Certified Japanese Rice",
+    "vendor": "JapansPrime",
+    "productType": "Rice",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/polished-rice-organically-grown-made-in-japan-amazon-brand-white-rice-4-4-lbs-2-kg-non-stock-rice",
+    "createdAt": "2026-02-12T02:18:35Z",
+    "updatedAt": "2026-07-10T14:43:35Z",
+    "sources": {
+      "legacyResourceId": "8059755298927"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44529183195247",
+        "legacyResourceId": "44529183195247",
+        "title": "Default Title",
+        "sku": "B0FPPW3MF9",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/14906683818095",
+    "legacyResourceId": "14906683818095",
+    "handle": "aderia-straight-sided-craft-beer-glass-245ml-premium-soda",
+    "title": "Aderia Straight-Sided Craft Beer Glass 245ml Premium Soda",
+    "vendor": "Aderia",
+    "productType": "",
+    "status": "DRAFT",
+    "onlineStoreUrl": null,
+    "createdAt": "2026-02-25T10:15:24Z",
+    "updatedAt": "2026-07-09T08:19:29Z",
+    "sources": {
+      "legacyResourceId": "14906683818095",
+      "sourceUrl": "https://int.japanesetaste.com//products/aderia-craft-beer-glass-straight-sided-stylish-premium-glassware-245ml?country=NZ&redirectedFrom=us"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/52737387102319",
+        "legacyResourceId": "52737387102319",
+        "title": "Default Title",
+        "sku": "ADER-LASSST-45ML",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/14917426643055",
+    "legacyResourceId": "14917426643055",
+    "handle": "earth-pharmaceutical-1-week-moisturizing-collagen-c-jelly-0-4-oz-10-g-x-7-bottles",
+    "title": "Earth Pharmaceutical 1 Week Moisturizing Collagen C Jelly, 0.4 oz (10 g) x 7 Bottles",
+    "vendor": "JapansPrime",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/earth-pharmaceutical-1-week-moisturizing-collagen-c-jelly-0-4-oz-10-g-x-7-bottles",
+    "createdAt": "2026-03-05T04:44:37Z",
+    "updatedAt": "2026-07-10T14:43:35Z",
+    "sources": {
+      "legacyResourceId": "14917426643055"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/52767214043247",
+        "legacyResourceId": "52767214043247",
+        "title": "10gX7本 / 7 Acai Berry",
+        "sku": "B074WTM4B4",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Size",
+            "value": "10gX7本"
+          },
+          {
+            "name": "Pattern",
+            "value": "7 Acai Berry"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/52767214076015",
+        "legacyResourceId": "52767214076015",
+        "title": "Pack of 2 / 7 Peaches",
+        "sku": "B0FQJPZQBP",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Size",
+            "value": "Pack of 2"
+          },
+          {
+            "name": "Pattern",
+            "value": "7 Peaches"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/52767214108783",
+        "legacyResourceId": "52767214108783",
+        "title": "10gX7本 (× 3) / 7 Acai Berry",
+        "sku": "B0FQJQD74T",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Size",
+            "value": "10gX7本 (× 3)"
+          },
+          {
+            "name": "Pattern",
+            "value": "7 Acai Berry"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/52767214141551",
+        "legacyResourceId": "52767214141551",
+        "title": "Pack of 3 / 7 Peaches",
+        "sku": "B0FQJQGPH5",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Size",
+            "value": "Pack of 3"
+          },
+          {
+            "name": "Pattern",
+            "value": "7 Peaches"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/52767214174319",
+        "legacyResourceId": "52767214174319",
+        "title": "10gX7本 (× 2) / 7 Acai Berry",
+        "sku": "B0FQJSPP7K",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Size",
+            "value": "10gX7本 (× 2)"
+          },
+          {
+            "name": "Pattern",
+            "value": "7 Acai Berry"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/52767214207087",
+        "legacyResourceId": "52767214207087",
+        "title": "10グラム (x 31) / Acai Berry 31 Count",
+        "sku": "B074X1N1TP",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Size",
+            "value": "10グラム (x 31)"
+          },
+          {
+            "name": "Pattern",
+            "value": "Acai Berry 31 Count"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/14943181045871",
+    "legacyResourceId": "14943181045871",
+    "handle": "warai-mirai-ichida-kaki-nagano-prefecture-dried-persimmon-ichi-dakaki-generous-1kg-1-bag-for-home-use",
+    "title": "Warai Mirai Ichida Kaki - Nagano Prefecture Premium Dried Persimmon 1kg",
+    "vendor": "Warai Mirai / Ichida Kaki",
+    "productType": "Japanese Dried Fruit - Wagashi",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/warai-mirai-ichida-kaki-nagano-prefecture-dried-persimmon-ichi-dakaki-generous-1kg-1-bag-for-home-use",
+    "createdAt": "2026-03-26T22:29:43Z",
+    "updatedAt": "2026-07-15T23:06:52Z",
+    "sources": {
+      "legacyResourceId": "14943181045871"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/52852249690223",
+        "legacyResourceId": "52852249690223",
+        "title": "1 Kg",
+        "sku": "B01N7EMRHQ",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Size",
+            "value": "1 Kg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/14947272982639",
+    "legacyResourceId": "14947272982639",
+    "handle": "kose-clear-turn-skin-care-craftsman-honey-mask-pack-of-7-face-mask",
+    "title": "Kose Clear Turn Skin Care Craftsman Honey Face Mask - Handmade Japanese Paper Sheet, Pack of 7",
+    "vendor": "Kose Cosmeport Co., Ltd.",
+    "productType": "Japanese Skincare - Sheet Masks",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-clear-turn-skin-care-craftsman-honey-mask-pack-of-7-face-mask",
+    "createdAt": "2026-03-31T06:50:40Z",
+    "updatedAt": "2026-07-10T14:43:36Z",
+    "sources": {
+      "legacyResourceId": "14947272982639"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/52873248112751",
+        "legacyResourceId": "52873248112751",
+        "title": "Default Title",
+        "sku": "KOSE-CT-HONEY-MASK-7P",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/14947277045871",
+    "legacyResourceId": "14947277045871",
+    "handle": "kose-clear-turn-skin-care-craftsman-honey-mask-pack-of-7-face-mask-sca_clone_freegift",
+    "title": "🎁 Kose Clear Turn Skin Care Craftsman Honey Face Mask - Handmade Japanese Paper Sheet, Pack of 7 (27$) (100% off)",
+    "vendor": "Kose Cosmeport Co., Ltd.",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-clear-turn-skin-care-craftsman-honey-mask-pack-of-7-face-mask-sca_clone_freegift",
+    "createdAt": "2026-03-31T07:16:41Z",
+    "updatedAt": "2026-07-10T14:43:36Z",
+    "sources": {
+      "legacyResourceId": "14947277045871"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/52873290612847",
+        "legacyResourceId": "52873290612847",
+        "title": "Default Title",
+        "sku": "KOSE-CT-HONEY-MASK-7P",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/14960646062191",
+    "legacyResourceId": "14960646062191",
+    "handle": "urushi-com-kiso-hinoki-japanese-cypress-bath-stool-tall-height-handcrafted-bathroom-chair-30-x-18-x-35-cm",
+    "title": "Urushi.com Kiso Hinoki Japanese Cypress Bath Stool - Tall Height, Handcrafted Bathroom Chair (30 x 18 x 35 cm)",
+    "vendor": "Urushi.com (うるしドットコム)",
+    "productType": "Japanese Bath Accessories - Wooden Stools",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/urushi-com-kiso-hinoki-japanese-cypress-bath-stool-tall-height-handcrafted-bathroom-chair-30-x-18-x-35-cm",
+    "createdAt": "2026-04-13T01:20:46Z",
+    "updatedAt": "2026-07-10T14:43:37Z",
+    "sources": {
+      "legacyResourceId": "14960646062191"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/52945868161135",
+        "legacyResourceId": "52945868161135",
+        "title": "Default Title",
+        "sku": "UC-HINOKI-BATH-STOOL-K2-FI",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/14969017401455",
+    "legacyResourceId": "14969017401455",
+    "handle": "lztalang-hestars-spicy-crispy-rice-potato-chips-red-oil-hot-pot-flavor-108g-bag",
+    "title": "LZTALANG Hestars Spicy Crispy Rice Potato Chips - Red Oil Hot Pot Flavor, 108g Bag",
+    "vendor": "LZTALANG (好时达 Hestars)",
+    "productType": "Asian Snacks - Crispy Rice Chips",
+    "status": "ARCHIVED",
+    "onlineStoreUrl": null,
+    "createdAt": "2026-04-16T22:15:15Z",
+    "updatedAt": "2026-07-09T08:19:31Z",
+    "sources": {
+      "legacyResourceId": "14969017401455"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/52961438629999",
+        "legacyResourceId": "52961438629999",
+        "title": "Default Title",
+        "sku": "LZTALANG-CHIPS-REDOIL-108G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/14969053806703",
+    "legacyResourceId": "14969053806703",
+    "handle": "ajigen-burdock-root-chips-spicy-chili-oil-flavor-high-fiber-japanese-snack-1-8-oz-50g-x-5-packs",
+    "title": "Ajigen Burdock Root Chips - Spicy Chili Oil Flavor, High Fiber Japanese Snack, 1.8 oz (50g) x 5 Packs",
+    "vendor": "Ajigen (味源)",
+    "productType": "Japanese Snacks - Vegetable Chips",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/ajigen-burdock-root-chips-spicy-chili-oil-flavor-high-fiber-japanese-snack-1-8-oz-50g-x-5-packs",
+    "createdAt": "2026-04-16T22:39:26Z",
+    "updatedAt": "2026-07-10T14:43:37Z",
+    "sources": {
+      "legacyResourceId": "14969053806703"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/52961489617007",
+        "legacyResourceId": "52961489617007",
+        "title": "Default Title",
+        "sku": "AJIGEN-GOBOU-CHIPS-CHILI-5P",
+        "barcode": "2308310000054",
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/14996726677615",
+    "legacyResourceId": "14996726677615",
+    "handle": "majimura-agricultural-cooperative-yuzu-ponzu-soy-sauce-500ml",
+    "title": "Majimura Agricultural Cooperative Yuzu no Kirameki Ponzu Soy Sauce 500ml - Premium Japanese Citrus Dipping Sauce",
+    "vendor": "Majimura Agricultural Cooperative (马村山农业協同组合)",
+    "productType": "Japanese Condiments - Ponzu Sauce",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/majimura-agricultural-cooperative-yuzu-ponzu-soy-sauce-500ml",
+    "createdAt": "2026-05-06T00:34:50Z",
+    "updatedAt": "2026-07-10T14:43:37Z",
+    "sources": {
+      "legacyResourceId": "14996726677615"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/53051154038895",
+        "legacyResourceId": "53051154038895",
+        "title": "500 ml (x 2)",
+        "sku": "B07R9VJKHF",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Size",
+            "value": "500 ml (x 2)"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/53051154071663",
+        "legacyResourceId": "53051154071663",
+        "title": "500 ml (x 1)",
+        "sku": "B005C3MIXM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Size",
+            "value": "500 ml (x 1)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/15003170242671",
+    "legacyResourceId": "15003170242671",
+    "handle": "tosaryu-shimanto-hinoki-bath-mat-natural-japanese-cypress-antibacterial-quick-dry-slatted-design-35-x-45-cm",
+    "title": "Tosaryu Shimanto Hinoki Bath Mat - Natural Japanese Cypress, Antibacterial, Quick-Dry Slatted Design, 35 x 45 cm",
+    "vendor": "Tosaryu",
+    "productType": "Japanese Bath Accessories - Wooden Bath Mats",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tosaryu-shimanto-hinoki-bath-mat-natural-japanese-cypress-antibacterial-quick-dry-slatted-design-35-x-45-cm",
+    "createdAt": "2026-05-11T22:42:38Z",
+    "updatedAt": "2026-07-10T14:43:37Z",
+    "sources": {
+      "legacyResourceId": "15003170242671"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/53079852580975",
+        "legacyResourceId": "53079852580975",
+        "title": "Default Title",
+        "sku": "TOSARYU-HINOKI-BATHMAT-35X45",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/15003215954031",
+    "legacyResourceId": "15003215954031",
+    "handle": "tosaryu-aroma-bath-mat-shimanto-hinoki-japanese-cypress-phytoncide-antibacterial-wave-ridged-surface-3-sizes-1",
+    "title": "Tosaryu Aroma Bath Mat - Shimanto Hinoki Japanese Cypress, Phytoncide Antibacterial, Wave-Ridged Surface, 3 Sizes",
+    "vendor": "Tosaryu",
+    "productType": "Japanese Bath Accessories - Wooden Bath Mats",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tosaryu-aroma-bath-mat-shimanto-hinoki-japanese-cypress-phytoncide-antibacterial-wave-ridged-surface-3-sizes-1",
+    "createdAt": "2026-05-11T23:41:23Z",
+    "updatedAt": "2026-07-10T14:43:38Z",
+    "sources": {
+      "legacyResourceId": "15003215954031"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/53079938138223",
+        "legacyResourceId": "53079938138223",
+        "title": "Small",
+        "sku": "TOSARYU-AROMA-BATHMAT-M-1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Size",
+            "value": "Small"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/53079938170991",
+        "legacyResourceId": "53079938170991",
+        "title": "Medium",
+        "sku": "TOSARYU-AROMA-BATHMAT-M-2",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Size",
+            "value": "Medium"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/53079938203759",
+        "legacyResourceId": "53079938203759",
+        "title": "Large",
+        "sku": "TOSARYU-AROMA-BATHMAT-M-3",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Size",
+            "value": "Large"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/15003469283439",
+    "legacyResourceId": "15003469283439",
+    "handle": "green-bell-sj-k140-mikata-cooking-kitchen-shears",
+    "title": "Green Bell SJ-K140 Mikata Cooking Kitchen Shears (archive)",
+    "vendor": "JapansPrime",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/green-bell-sj-k140-mikata-cooking-kitchen-shears",
+    "createdAt": "2026-05-12T04:29:07Z",
+    "updatedAt": "2026-07-10T14:43:38Z",
+    "sources": {
+      "legacyResourceId": "15003469283439"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/53080622202991",
+        "legacyResourceId": "53080622202991",
+        "title": "Default Title",
+        "sku": "B0D95RDTF9",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/15011768270959",
+    "legacyResourceId": "15011768270959",
+    "handle": "cipresso-k-round-kyoto-hinoki-cutting-board-35cm",
+    "title": "Cipresso K 35cm Hinoki Board — Single Plank",
+    "vendor": "Cipresso K / Kirimura Sawmill",
+    "productType": "Japanese Kitchenware - Hinoki Cutting Boards",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/cipresso-k-round-kyoto-hinoki-cutting-board-35cm",
+    "createdAt": "2026-05-18T01:48:21Z",
+    "updatedAt": "2026-07-10T14:43:38Z",
+    "sources": {
+      "legacyResourceId": "15011768270959"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/53103091220591",
+        "legacyResourceId": "53103091220591",
+        "title": "Default Title",
+        "sku": "CIPRESSO-K-HINOKI-ROUND-35CM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/15012372578415",
+    "legacyResourceId": "15012372578415",
+    "handle": "calbee-frugra-matcha-azuki-granola-550g",
+    "title": "Calbee Frugra Matcha Azuki Granola 550g - Limited Edition, Oat and Rye Grain, Hokkaido Azuki, Strawberry and Raisin Topping",
+    "vendor": "Calbee",
+    "productType": "Japanese Breakfast Foods - Granola",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/calbee-frugra-matcha-azuki-granola-550g",
+    "createdAt": "2026-05-18T06:34:07Z",
+    "updatedAt": "2026-07-10T14:43:39Z",
+    "sources": {
+      "legacyResourceId": "15012372578415"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/53117559898223",
+        "legacyResourceId": "53117559898223",
+        "title": "Default Title",
+        "sku": "CALBEE-FRUGRA-MATCHA-AZUKI-550G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/15017631318127",
+    "legacyResourceId": "15017631318127",
+    "handle": "orihiro-purunto-konnyaku-plus-grapefruit-130g-x8",
+    "title": "Orihiro Purunto Plus Grapefruit — Triple Zero, 8pk",
+    "vendor": "Orihiro",
+    "productType": "Japanese Health Foods - Konnyaku Jelly",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/orihiro-purunto-konnyaku-plus-grapefruit-130g-x8",
+    "createdAt": "2026-05-23T00:05:51Z",
+    "updatedAt": "2026-07-10T14:43:39Z",
+    "sources": {
+      "legacyResourceId": "15017631318127"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/53142313173103",
+        "legacyResourceId": "53142313173103",
+        "title": "Default Title",
+        "sku": "ORIHIRO-PURUNTO-PLUS-GRAPEFRUIT-8PK",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/15029561163887",
+    "legacyResourceId": "15029561163887",
+    "handle": "official-boco-to-deco-tube-type-green-juice-powder-ashitaba-drinkable-by-children-supports-those-who-dislike-vegetables-or-have-picky-eating-habits-dietary-fiber-additive-free",
+    "title": "boco to deco — Hand-Picked Ashitaba Aojiru",
+    "vendor": "ていねい通販",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/official-boco-to-deco-tube-type-green-juice-powder-ashitaba-drinkable-by-children-supports-those-who-dislike-vegetables-or-have-picky-eating-habits-dietary-fiber-additive-free",
+    "createdAt": "2026-06-03T01:45:03Z",
+    "updatedAt": "2026-07-10T14:43:39Z",
+    "sources": {
+      "legacyResourceId": "15029561163887"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/53181363552367",
+        "legacyResourceId": "53181363552367",
+        "title": "1（箱タイプ）",
+        "sku": "B0FGHWKLQ1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Size",
+            "value": "1（箱タイプ）"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/53181363585135",
+        "legacyResourceId": "53181363585135",
+        "title": "2（箱タイプ）",
+        "sku": "B0FDB9BLHD",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Size",
+            "value": "2（箱タイプ）"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/53181363617903",
+        "legacyResourceId": "53181363617903",
+        "title": "1（筒タイプ）",
+        "sku": "B0C73SC4PJ",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Size",
+            "value": "1（筒タイプ）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/15046940524655",
+    "legacyResourceId": "15046940524655",
+    "handle": "boco-to-deco-ashitaba-green-juice",
+    "title": "Boco-to-Deco Whole-Plant Ashitaba — Two-Ingredient Green Juice",
+    "vendor": "boco to deco",
+    "productType": "Health",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/boco-to-deco-ashitaba-green-juice",
+    "createdAt": "2026-06-15T23:50:08Z",
+    "updatedAt": "2026-07-10T14:43:39Z",
+    "sources": {
+      "legacyResourceId": "15046940524655"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/53229623246959",
+        "legacyResourceId": "53229623246959",
+        "title": "Default Title",
+        "sku": "JPRIME-HLT-TNT-BOCO-TO-DECO-3G-20",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/15121106075759",
+    "legacyResourceId": "15121106075759",
+    "handle": "uha-mikakuto-rosehip-gummy-government-reviewed-fat-reduction",
+    "title": "UHA Mikakuto Rosehip Gummy — Government-Reviewed Fat-Reduction",
+    "vendor": "UHA Mikakuto",
+    "productType": "Supplement",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/uha-mikakuto-rosehip-gummy-government-reviewed-fat-reduction",
+    "createdAt": "2026-06-25T23:16:59Z",
+    "updatedAt": "2026-07-10T14:43:40Z",
+    "sources": {
+      "legacyResourceId": "15121106075759"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/53404942893167",
+        "legacyResourceId": "53404942893167",
+        "title": "Default Title",
+        "sku": "JPRIME-HLT-UHA-UHA-14-1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/15378069913711",
+    "legacyResourceId": "15378069913711",
+    "handle": "ichida-kaki-nagano-minamiminowa-premium-dried-persimmon-1kg-l-3l-grade",
+    "title": "Ichida Kaki - Nagano Minamiminowa Premium Dried Persimmon 1kg (L-3L Grade)",
+    "vendor": "くらし快援隊",
+    "productType": "Dried Fruit",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/ichida-kaki-nagano-minamiminowa-premium-dried-persimmon-1kg-l-3l-grade",
+    "createdAt": "2026-07-15T21:55:28Z",
+    "updatedAt": "2026-07-16T09:56:08Z",
+    "sources": {
+      "legacyResourceId": "15378069913711"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/53822396072047",
+        "legacyResourceId": "53822396072047",
+        "title": "1 Kg",
+        "sku": "B017JQ2TH4",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Weight",
+            "value": "1 Kg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/15378967036015",
+    "legacyResourceId": "15378967036015",
+    "handle": "yamashitaya-sosuke-new-ichida-persimmon-800g-bags-dried-persimmon-for-home-use-value-pack-nagano-produced-made-in-japan-specialty-japanese-sweets-persimmon-dried-fruits",
+    "title": "Yamashitaya Sosuke New Ichida Persimmon, Dried Persimmon (For Home Use/Value Pack/Nagano-produced), Made in Japan, Specialty Japanese Sweets, Persimmon, Dried Fruits",
+    "vendor": "JapansPrime",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yamashitaya-sosuke-new-ichida-persimmon-800g-bags-dried-persimmon-for-home-use-value-pack-nagano-produced-made-in-japan-specialty-japanese-sweets-persimmon-dried-fruits",
+    "createdAt": "2026-07-15T23:04:22Z",
+    "updatedAt": "2026-07-16T11:04:32Z",
+    "sources": {
+      "legacyResourceId": "15378967036015"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/53823488753775",
+        "legacyResourceId": "53823488753775",
+        "title": "800g",
+        "sku": "B018AW2V2E",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Size",
+            "value": "800g"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/15392665796719",
+    "legacyResourceId": "15392665796719",
+    "handle": "jf-okinawa-fisherman-okinawa-dried-mozuku-0-4-oz-10-g-x-3-easy-recipes-included-always-easy-to-use-as-a-cooking-companion",
+    "title": "JF Okinawa Fisherman, Okinawa Dried Mozuku, 0.4 oz (10 g) x 3, Easy Recipes Included, Always Easy to Use as a Cooking Companion",
+    "vendor": "JapansPrime",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/jf-okinawa-fisherman-okinawa-dried-mozuku-0-4-oz-10-g-x-3-easy-recipes-included-always-easy-to-use-as-a-cooking-companion",
+    "createdAt": "2026-07-19T05:36:31Z",
+    "updatedAt": "2026-07-19T17:36:38Z",
+    "sources": {
+      "legacyResourceId": "15392665796719"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/53847921557615",
+        "legacyResourceId": "53847921557615",
+        "title": "Default Title",
+        "sku": "B00RG7156S",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/15392670154863",
+    "legacyResourceId": "15392670154863",
+    "handle": "okinawa-iheya-village-dried-thigh-tongue-0-4-oz-10-g-x-3-piece-set-no-washing-needed-even-as-it-is-lapis-travel-fucoidan-nekoposu",
+    "title": "Okinawa, Iheya Village, Dried Thigh Tongue, 0.4 oz (10 g) x 3 Piece Set, No Washing Needed, Even As It Is Lapis Travel, Fucoidan, Nekoposu",
+    "vendor": "JapansPrime",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/okinawa-iheya-village-dried-thigh-tongue-0-4-oz-10-g-x-3-piece-set-no-washing-needed-even-as-it-is-lapis-travel-fucoidan-nekoposu",
+    "createdAt": "2026-07-19T05:58:30Z",
+    "updatedAt": "2026-07-19T17:58:38Z",
+    "sources": {
+      "legacyResourceId": "15392670154863"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/53847936073839",
+        "legacyResourceId": "53847936073839",
+        "title": "Default Title",
+        "sku": "B09G66XPJX",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  }
+]

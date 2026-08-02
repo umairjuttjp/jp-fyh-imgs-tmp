@@ -1,0 +1,258 @@
+[
+  {
+    "file": "catalog-audit/chunks/products_0001_0100.json",
+    "first_row": 1,
+    "last_row": 100,
+    "count": 100,
+    "first_product_id": "7895542038639",
+    "last_product_id": "7895611080815"
+  },
+  {
+    "file": "catalog-audit/chunks/products_0101_0200.json",
+    "first_row": 101,
+    "last_row": 200,
+    "count": 100,
+    "first_product_id": "7895611113583",
+    "last_product_id": "7895617962095"
+  },
+  {
+    "file": "catalog-audit/chunks/products_0201_0300.json",
+    "first_row": 201,
+    "last_row": 300,
+    "count": 100,
+    "first_product_id": "7895617994863",
+    "last_product_id": "7895629824111"
+  },
+  {
+    "file": "catalog-audit/chunks/products_0301_0400.json",
+    "first_row": 301,
+    "last_row": 400,
+    "count": 100,
+    "first_product_id": "7895629856879",
+    "last_product_id": "7895663116399"
+  },
+  {
+    "file": "catalog-audit/chunks/products_0401_0500.json",
+    "first_row": 401,
+    "last_row": 500,
+    "count": 100,
+    "first_product_id": "7895663149167",
+    "last_product_id": "7895667310703"
+  },
+  {
+    "file": "catalog-audit/chunks/products_0501_0600.json",
+    "first_row": 501,
+    "last_row": 600,
+    "count": 100,
+    "first_product_id": "7895667343471",
+    "last_product_id": "7895697064047"
+  },
+  {
+    "file": "catalog-audit/chunks/products_0601_0700.json",
+    "first_row": 601,
+    "last_row": 700,
+    "count": 100,
+    "first_product_id": "7895697326191",
+    "last_product_id": "7895761092719"
+  },
+  {
+    "file": "catalog-audit/chunks/products_0701_0800.json",
+    "first_row": 701,
+    "last_row": 800,
+    "count": 100,
+    "first_product_id": "7895761125487",
+    "last_product_id": "7895803527279"
+  },
+  {
+    "file": "catalog-audit/chunks/products_0801_0900.json",
+    "first_row": 801,
+    "last_row": 900,
+    "count": 100,
+    "first_product_id": "7895803560047",
+    "last_product_id": "7895807197295"
+  },
+  {
+    "file": "catalog-audit/chunks/products_0901_1000.json",
+    "first_row": 901,
+    "last_row": 1000,
+    "count": 100,
+    "first_product_id": "7895807230063",
+    "last_product_id": "7895811096687"
+  },
+  {
+    "file": "catalog-audit/chunks/products_1001_1100.json",
+    "first_row": 1001,
+    "last_row": 1100,
+    "count": 100,
+    "first_product_id": "7895811129455",
+    "last_product_id": "7895815159919"
+  },
+  {
+    "file": "catalog-audit/chunks/products_1101_1200.json",
+    "first_row": 1101,
+    "last_row": 1200,
+    "count": 100,
+    "first_product_id": "7895815192687",
+    "last_product_id": "7895818928239"
+  },
+  {
+    "file": "catalog-audit/chunks/products_1201_1300.json",
+    "first_row": 1201,
+    "last_row": 1300,
+    "count": 100,
+    "first_product_id": "7895818961007",
+    "last_product_id": "7895822762095"
+  },
+  {
+    "file": "catalog-audit/chunks/products_1301_1400.json",
+    "first_row": 1301,
+    "last_row": 1400,
+    "count": 100,
+    "first_product_id": "7895822794863",
+    "last_product_id": "7895826301039"
+  },
+  {
+    "file": "catalog-audit/chunks/products_1401_1500.json",
+    "first_row": 1401,
+    "last_row": 1500,
+    "count": 100,
+    "first_product_id": "7895826333807",
+    "last_product_id": "7895830462575"
+  },
+  {
+    "file": "catalog-audit/chunks/products_1501_1600.json",
+    "first_row": 1501,
+    "last_row": 1600,
+    "count": 100,
+    "first_product_id": "7895830495343",
+    "last_product_id": "7896044437615"
+  },
+  {
+    "file": "catalog-audit/chunks/products_1601_1700.json",
+    "first_row": 1601,
+    "last_row": 1700,
+    "count": 100,
+    "first_product_id": "7896044470383",
+    "last_product_id": "7899881799791"
+  },
+  {
+    "file": "catalog-audit/chunks/products_1701_1800.json",
+    "first_row": 1701,
+    "last_row": 1800,
+    "count": 100,
+    "first_product_id": "7899881832559",
+    "last_product_id": "7984850600047"
+  },
+  {
+    "file": "catalog-audit/chunks/products_1801_1900.json",
+    "first_row": 1801,
+    "last_row": 1900,
+    "count": 100,
+    "first_product_id": "7984850698351",
+    "last_product_id": "7986581012591"
+  },
+  {
+    "file": "catalog-audit/chunks/products_1901_2000.json",
+    "first_row": 1901,
+    "last_row": 2000,
+    "count": 100,
+    "first_product_id": "7986581045359",
+    "last_product_id": "7986585731183"
+  },
+  {
+    "file": "catalog-audit/chunks/products_2001_2100.json",
+    "first_row": 2001,
+    "last_row": 2100,
+    "count": 100,
+    "first_product_id": "7986585763951",
+    "last_product_id": "7986590154863"
+  },
+  {
+    "file": "catalog-audit/chunks/products_2101_2200.json",
+    "first_row": 2101,
+    "last_row": 2200,
+    "count": 100,
+    "first_product_id": "7986590187631",
+    "last_product_id": "7987292045423"
+  },
+  {
+    "file": "catalog-audit/chunks/products_2201_2300.json",
+    "first_row": 2201,
+    "last_row": 2300,
+    "count": 100,
+    "first_product_id": "7987292110959",
+    "last_product_id": "7987302629487"
+  },
+  {
+    "file": "catalog-audit/chunks/products_2301_2400.json",
+    "first_row": 2301,
+    "last_row": 2400,
+    "count": 100,
+    "first_product_id": "7987302662255",
+    "last_product_id": "7987306004591"
+  },
+  {
+    "file": "catalog-audit/chunks/products_2401_2500.json",
+    "first_row": 2401,
+    "last_row": 2500,
+    "count": 100,
+    "first_product_id": "7987306037359",
+    "last_product_id": "7987343949935"
+  },
+  {
+    "file": "catalog-audit/chunks/products_2501_2600.json",
+    "first_row": 2501,
+    "last_row": 2600,
+    "count": 100,
+    "first_product_id": "7987343982703",
+    "last_product_id": "7987347390575"
+  },
+  {
+    "file": "catalog-audit/chunks/products_2601_2700.json",
+    "first_row": 2601,
+    "last_row": 2700,
+    "count": 100,
+    "first_product_id": "7987347423343",
+    "last_product_id": "7987431997551"
+  },
+  {
+    "file": "catalog-audit/chunks/products_2701_2800.json",
+    "first_row": 2701,
+    "last_row": 2800,
+    "count": 100,
+    "first_product_id": "7987432030319",
+    "last_product_id": "7987435470959"
+  },
+  {
+    "file": "catalog-audit/chunks/products_2801_2900.json",
+    "first_row": 2801,
+    "last_row": 2900,
+    "count": 100,
+    "first_product_id": "7987435503727",
+    "last_product_id": "7987450347631"
+  },
+  {
+    "file": "catalog-audit/chunks/products_2901_3000.json",
+    "first_row": 2901,
+    "last_row": 3000,
+    "count": 100,
+    "first_product_id": "7987450380399",
+    "last_product_id": "7987453821039"
+  },
+  {
+    "file": "catalog-audit/chunks/products_3001_3100.json",
+    "first_row": 3001,
+    "last_row": 3100,
+    "count": 100,
+    "first_product_id": "7987453853807",
+    "last_product_id": "7987464700015"
+  },
+  {
+    "file": "catalog-audit/chunks/products_3101_3139.json",
+    "first_row": 3101,
+    "last_row": 3139,
+    "count": 39,
+    "first_product_id": "7987464732783",
+    "last_product_id": "15392670154863"
+  }
+]

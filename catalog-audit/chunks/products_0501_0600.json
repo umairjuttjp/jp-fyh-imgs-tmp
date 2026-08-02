@@ -1,0 +1,3344 @@
+[
+  {
+    "id": "gid://shopify/Product/7895667343471",
+    "legacyResourceId": "7895667343471",
+    "handle": "aujua-repairlity-hair-treatment-bleached-damaged-hair-500g",
+    "title": "Aujua Repairlity Hair Treatment - Intensive Care for Bleached Hair (500g)",
+    "vendor": "Aujua",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/aujua-repairlity-hair-treatment-bleached-damaged-hair-500g",
+    "createdAt": "2025-09-27T13:45:53Z",
+    "updatedAt": "2026-07-10T13:32:00Z",
+    "sources": {
+      "legacyResourceId": "7895667343471",
+      "sourceUrl": "https://japanesetaste.com//products/aujua-repairlity-hair-treatment-for-bleach-damaged-hair-500g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680645677167",
+        "legacyResourceId": "43680645677167",
+        "title": "Default Title",
+        "sku": "MILB-TMENTF-500G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895667376239",
+    "legacyResourceId": "7895667376239",
+    "handle": "aujua-repairlity-keratin-shampoo-for-bleached-damaged-hair-500g",
+    "title": "Aujua Repairlity Keratin Shampoo for Bleached & Damaged Hair - 500g",
+    "vendor": "Aujua",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/aujua-repairlity-keratin-shampoo-for-bleached-damaged-hair-500g",
+    "createdAt": "2025-09-27T13:46:04Z",
+    "updatedAt": "2026-07-10T13:32:01Z",
+    "sources": {
+      "legacyResourceId": "7895667376239",
+      "sourceUrl": "https://japanesetaste.com//products/aujua-repairlity-hair-shampoo-for-bleach-damaged-hair-500g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680645742703",
+        "legacyResourceId": "43680645742703",
+        "title": "Default Title",
+        "sku": "MILB-FORDAM-500G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895667409007",
+    "legacyResourceId": "7895667409007",
+    "handle": "handcrafted-japanese-hinoki-wood-long-shoe-horn-50cm",
+    "title": "Handcrafted Japanese Hinoki Wood Long Shoe Horn - 50cm Ergonomic Design",
+    "vendor": "Yamako",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/handcrafted-japanese-hinoki-wood-long-shoe-horn-50cm",
+    "createdAt": "2025-09-27T13:46:25Z",
+    "updatedAt": "2026-07-10T13:32:01Z",
+    "sources": {
+      "legacyResourceId": "7895667409007",
+      "sourceUrl": "https://japanesetaste.com//products/handcrafted-long-handled-hinoki-wood-shoe-horn-50cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680645906543",
+        "legacyResourceId": "43680645906543",
+        "title": "Default Title",
+        "sku": "YAMA-SEHINO-50CM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895667441775",
+    "legacyResourceId": "7895667441775",
+    "handle": "holographic-whale-bookmark-2-pack-shimmering-foil-marine-stationery",
+    "title": "Holographic Whale Bookmark 2-Pack - Shimmering Foil Marine Stationery",
+    "vendor": "Mind Wave",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/holographic-whale-bookmark-2-pack-shimmering-foil-marine-stationery",
+    "createdAt": "2025-09-27T13:46:25Z",
+    "updatedAt": "2026-07-10T13:32:01Z",
+    "sources": {
+      "legacyResourceId": "7895667441775",
+      "sourceUrl": "https://japanesetaste.com//products/holographic-foil-stamped-bookmark-whale-memorial-design-2-ct"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680645939311",
+        "legacyResourceId": "43680645939311",
+        "title": "Default Title",
+        "sku": "ROKK-ARKHOL-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895667474543",
+    "legacyResourceId": "7895667474543",
+    "handle": "peter-pauper-press-forest-canopy-holographic-bookmark-set-2-pack",
+    "title": "Peter Pauper Press Forest Canopy Holographic Bookmark Set - 2 Pack",
+    "vendor": "Peter Pauper Press",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/peter-pauper-press-forest-canopy-holographic-bookmark-set-2-pack",
+    "createdAt": "2025-09-27T13:46:25Z",
+    "updatedAt": "2026-07-10T13:32:01Z",
+    "sources": {
+      "legacyResourceId": "7895667474543",
+      "sourceUrl": "https://japanesetaste.com//products/holographic-foil-stamped-bookmark-green-trees-design-2-ct"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680645873775",
+        "legacyResourceId": "43680645873775",
+        "title": "Default Title",
+        "sku": "HOLO-OKMARK-N2CT",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895667507311",
+    "legacyResourceId": "7895667507311",
+    "handle": "kurochiku-handcrafted-wooden-kokeshi-doll-flat-head-collectible-tin",
+    "title": "Kurochiku Handcrafted Wooden Kokeshi Doll - Flat Head Collectible Tin",
+    "vendor": "Kurochiku",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kurochiku-handcrafted-wooden-kokeshi-doll-flat-head-collectible-tin",
+    "createdAt": "2025-09-27T13:47:40Z",
+    "updatedAt": "2026-07-10T13:32:01Z",
+    "sources": {
+      "legacyResourceId": "7895667507311",
+      "sourceUrl": "https://japanesetaste.com//products/handmade-kokeshi-doll-collectible-can-series-flat-head-style"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680646135919",
+        "legacyResourceId": "43680646135919",
+        "title": "Default Title",
+        "sku": "KOKE-TIBLEC-HARM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895667540079",
+    "legacyResourceId": "7895667540079",
+    "handle": "authentic-handcrafted-taisho-era-kokeshi-doll-decorative-metal-can",
+    "title": "Authentic Handcrafted Taisho-Era Kokeshi Doll in Decorative Metal Can",
+    "vendor": "Traditional Tohoku Kokeshi Artisans",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/authentic-handcrafted-taisho-era-kokeshi-doll-decorative-metal-can",
+    "createdAt": "2025-09-27T13:47:40Z",
+    "updatedAt": "2026-07-24T13:15:37Z",
+    "sources": {
+      "legacyResourceId": "7895667540079",
+      "sourceUrl": "https://japanesetaste.com//products/handmade-kokeshi-doll-collectible-can-series-taisho-style"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680646103151",
+        "legacyResourceId": "43680646103151",
+        "title": "Default Title",
+        "sku": "KOKE-LECANY-HARM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895667572847",
+    "legacyResourceId": "7895667572847",
+    "handle": "yamaco-antibacterial-hinoki-cypress-soap-dish-handcrafted-12-5cm",
+    "title": "Yamaco Antibacterial Hinoki Cypress Soap Dish - Handcrafted 12.5cm",
+    "vendor": "Yamaco",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yamaco-antibacterial-hinoki-cypress-soap-dish-handcrafted-12-5cm",
+    "createdAt": "2025-09-27T13:47:40Z",
+    "updatedAt": "2026-07-10T13:32:02Z",
+    "sources": {
+      "legacyResourceId": "7895667572847",
+      "sourceUrl": "https://japanesetaste.com//products/antibacterial-handcrafted-hinoki-wooden-soap-dish12-5cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680646070383",
+        "legacyResourceId": "43680646070383",
+        "title": "Default Title",
+        "sku": "YAMA-WOODSO-85CM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895667671151",
+    "legacyResourceId": "7895667671151",
+    "handle": "jogan-japanese-cooling-hachimaki-headband-for-study-and-concentration",
+    "title": "Jogan Japanese Cooling Hachimaki Headband for Study and Concentration",
+    "vendor": "Jogan",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/jogan-japanese-cooling-hachimaki-headband-for-study-and-concentration",
+    "createdAt": "2025-09-27T13:48:46Z",
+    "updatedAt": "2026-07-17T14:05:26Z",
+    "sources": {
+      "legacyResourceId": "7895667671151",
+      "sourceUrl": "https://japanesetaste.com//products/jogan-hachimaki-japanese-cooling-headband-for-studying-and-success"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680646430831",
+        "legacyResourceId": "43680646430831",
+        "title": "Default Title",
+        "sku": "JOGA-JAPANE-KERS",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895667703919",
+    "legacyResourceId": "7895667703919",
+    "handle": "hartwell-imabari-antibacterial-stretchable-pillowcase-geometric-beige",
+    "title": "Hartwell Imabari Antibacterial Stretchable Pillowcase - Geometric Beige",
+    "vendor": "Hartwell",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/hartwell-imabari-antibacterial-stretchable-pillowcase-geometric-beige",
+    "createdAt": "2025-09-27T13:48:46Z",
+    "updatedAt": "2026-07-10T13:32:02Z",
+    "sources": {
+      "legacyResourceId": "7895667703919",
+      "sourceUrl": "https://japanesetaste.com//products/hartwell-stretchable-antibacterial-gentle-pillowcase-geometrical-design-40x60cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680646463599",
+        "legacyResourceId": "43680646463599",
+        "title": "Default Title",
+        "sku": "HART-CTIONL-EIGE",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895667736687",
+    "legacyResourceId": "7895667736687",
+    "handle": "kewpie-tasty-caesar-salad-dressing-with-extra-virgin-olive-oil-300ml",
+    "title": "Kewpie Tasty Caesar Salad Dressing with Extra Virgin Olive Oil - 300ml",
+    "vendor": "Kewpie",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kewpie-tasty-caesar-salad-dressing-with-extra-virgin-olive-oil-300ml",
+    "createdAt": "2025-09-27T13:48:47Z",
+    "updatedAt": "2026-07-10T13:32:03Z",
+    "sources": {
+      "legacyResourceId": "7895667736687",
+      "sourceUrl": "https://japanesetaste.com//products/kewpie-tasty-caesar-salad-dressing-with-extra-virgin-olive-oil-210ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680646496367",
+        "legacyResourceId": "43680646496367",
+        "title": "Default Title",
+        "sku": "KEWP-THOLIV-10ML",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895667769455",
+    "legacyResourceId": "7895667769455",
+    "handle": "fundokin-raw-organic-mixed-miso-paste-500g",
+    "title": "Fundokin Raw Organic Mixed Miso Paste - Authentic Japanese Umami 500g",
+    "vendor": "Fundokin",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fundokin-raw-organic-mixed-miso-paste-500g",
+    "createdAt": "2025-09-27T13:48:58Z",
+    "updatedAt": "2026-07-10T13:32:03Z",
+    "sources": {
+      "legacyResourceId": "7895667769455",
+      "sourceUrl": "https://japanesetaste.com//products/fundokin-raw-organic-mixed-miso-paste-nama-awase-miso-500g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680646561903",
+        "legacyResourceId": "43680646561903",
+        "title": "Default Title",
+        "sku": "FUND-ICMIXE-500G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895667834991",
+    "legacyResourceId": "7895667834991",
+    "handle": "matsunaga-professional-8-cavity-rabbit-baking-pan-nonstick-made-in-japan",
+    "title": "Matsunaga Professional 8-Cavity Rabbit Baking Pan - Nonstick Made in Japan",
+    "vendor": "Matsunaga Professional",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/matsunaga-professional-8-cavity-rabbit-baking-pan-nonstick-made-in-japan",
+    "createdAt": "2025-09-27T13:50:05Z",
+    "updatedAt": "2026-07-10T13:32:03Z",
+    "sources": {
+      "legacyResourceId": "7895667834991",
+      "sourceUrl": "https://japanesetaste.com//products/matsunaga-nonstick-baking-tray-rabbit-shape-cake-mold-8-cavity"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680646955119",
+        "legacyResourceId": "43680646955119",
+        "title": "Default Title",
+        "sku": "MATS-ONSTIC-HAPE",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895667867759",
+    "legacyResourceId": "7895667867759",
+    "handle": "kujo-green-onion-senbei-authentic-kyoto-rice-crackers-58g",
+    "title": "Kujo Green Onion Senbei - Authentic Kyoto Rice Crackers (58g)",
+    "vendor": "Kyoto Delights",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kujo-green-onion-senbei-authentic-kyoto-rice-crackers-58g",
+    "createdAt": "2025-09-27T13:50:05Z",
+    "updatedAt": "2026-07-10T13:32:03Z",
+    "sources": {
+      "legacyResourceId": "7895667867759",
+      "sourceUrl": "https://japanesetaste.com//products/traditional-senbei-kujo-green-onion-infused-rice-crackers-58g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680646922351",
+        "legacyResourceId": "43680646922351",
+        "title": "Default Title",
+        "sku": "KYOA-NIONFL-K58G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895667900527",
+    "legacyResourceId": "7895667900527",
+    "handle": "sanko-seika-crispy-coffee-flavored-senbei-sweet-rice-crackers-88g",
+    "title": "Sanko Seika Crispy Coffee-Flavored Senbei Sweet Rice Crackers - 88g",
+    "vendor": "Sanko Seika",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/sanko-seika-crispy-coffee-flavored-senbei-sweet-rice-crackers-88g",
+    "createdAt": "2025-09-27T13:50:05Z",
+    "updatedAt": "2026-07-10T13:32:03Z",
+    "sources": {
+      "legacyResourceId": "7895667900527",
+      "sourceUrl": "https://japanesetaste.com//products/crispy-coffee-senbei-coffee-flavored-sweet-rice-crackers-88g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680646889583",
+        "legacyResourceId": "43680646889583",
+        "title": "Default Title",
+        "sku": "KYOA-LAVORE-K88G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895667933295",
+    "legacyResourceId": "7895667933295",
+    "handle": "etvos-mineral-pressed-cheek-spf20-two-tone-blush-palette",
+    "title": "Etvos Mineral Pressed Cheek - SPF20 Two-Tone Mineral Blush Palette",
+    "vendor": "Etvos",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/etvos-mineral-pressed-cheek-spf20-two-tone-blush-palette",
+    "createdAt": "2025-09-27T13:50:05Z",
+    "updatedAt": "2026-07-10T13:32:04Z",
+    "sources": {
+      "legacyResourceId": "7895667933295",
+      "sourceUrl": "https://japanesetaste.com//products/etvos-mineral-pressed-cheek-two-tone-blush-palette-4-5g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680646987887",
+        "legacyResourceId": "43680646987887",
+        "title": "Default Title",
+        "sku": "ETVO-EDCHEE-EIGE",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43680647020655",
+        "legacyResourceId": "43680647020655",
+        "title": "Copper Pink",
+        "sku": "ETVO-EDCHEE-PINK",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Copper Pink"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43680647053423",
+        "legacyResourceId": "43680647053423",
+        "title": "Urban Shade",
+        "sku": "ETVO-EDCHEE-HADE",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Urban Shade"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895667998831",
+    "legacyResourceId": "7895667998831",
+    "handle": "rokkaku-origami-chihuahua-3d-hexagonal-japanese-greeting-card",
+    "title": "Rokkaku Origami Chihuahua Card - 3D Hexagonal Japanese Greeting Card",
+    "vendor": "Active Corporation",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/rokkaku-origami-chihuahua-3d-hexagonal-japanese-greeting-card",
+    "createdAt": "2025-09-27T13:50:22Z",
+    "updatedAt": "2026-07-10T13:32:04Z",
+    "sources": {
+      "legacyResourceId": "7895667998831",
+      "sourceUrl": "https://japanesetaste.com//products/rokkaku-origami-message-card-with-envelope-cute-chihuahua-design"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680647250031",
+        "legacyResourceId": "43680647250031",
+        "title": "Default Title",
+        "sku": "ROKK-SSAGEC-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895668031599",
+    "legacyResourceId": "7895668031599",
+    "handle": "rokkaku-gold-foil-hedgehog-envelope-set-premium-japanese-stationery",
+    "title": "Rokkaku Gold Foil Hedgehog Envelope Set - Premium Japanese Stationery",
+    "vendor": "Rokkaku (Hallmark Japan)",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/rokkaku-gold-foil-hedgehog-envelope-set-premium-japanese-stationery",
+    "createdAt": "2025-09-27T13:50:38Z",
+    "updatedAt": "2026-07-10T13:32:04Z",
+    "sources": {
+      "legacyResourceId": "7895668031599",
+      "sourceUrl": "https://japanesetaste.com//products/rokkaku-short-gold-foil-decorative-envelope-hedgehog-design-2-ct"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680647479407",
+        "legacyResourceId": "43680647479407",
+        "title": "Default Title",
+        "sku": "ROKK-ELOPEG-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895668097135",
+    "legacyResourceId": "7895668097135",
+    "handle": "golden-hedgehog-gold-foil-gift-envelope-japanese-pine",
+    "title": "Golden Hedgehog Gold Foil Gift Envelope - Japanese Pine Prosperity Design",
+    "vendor": "ROKKAKU",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/golden-hedgehog-gold-foil-gift-envelope-japanese-pine",
+    "createdAt": "2025-09-27T13:50:38Z",
+    "updatedAt": "2026-07-10T13:32:04Z",
+    "sources": {
+      "legacyResourceId": "7895668097135",
+      "sourceUrl": "https://japanesetaste.com//products/long-gold-foil-decorative-money-envelope-hedgehog-design"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680647413871",
+        "legacyResourceId": "43680647413871",
+        "title": "Default Title",
+        "sku": "ROKK-OPEGOL-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895668162671",
+    "legacyResourceId": "7895668162671",
+    "handle": "emerald-forest-reusable-foil-stamped-book-cover",
+    "title": "Emerald Forest Reusable Foil-Stamped Book Cover - Japanese Luxury",
+    "vendor": "Rokkaku",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/emerald-forest-reusable-foil-stamped-book-cover",
+    "createdAt": "2025-09-27T13:51:30Z",
+    "updatedAt": "2026-07-10T13:32:05Z",
+    "sources": {
+      "legacyResourceId": "7895668162671",
+      "sourceUrl": "https://japanesetaste.com//products/reusable-book-cover-foil-stamped-original-green-trees-design"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680647544943",
+        "legacyResourceId": "43680647544943",
+        "title": "Default Title",
+        "sku": "ROKK-GREENB-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895668195439",
+    "legacyResourceId": "7895668195439",
+    "handle": "echizen-washi-gold-foil-rabbit-paper-placemats-3-piece-set",
+    "title": "Echizen Washi Gold Foil Rabbit Paper Placemats - Elegant 3-Piece Set",
+    "vendor": "Rokkaku",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/echizen-washi-gold-foil-rabbit-paper-placemats-3-piece-set",
+    "createdAt": "2025-09-27T13:52:07Z",
+    "updatedAt": "2026-07-10T13:32:05Z",
+    "sources": {
+      "legacyResourceId": "7895668195439",
+      "sourceUrl": "https://japanesetaste.com//products/paper-placemats-elegant-gold-foil-stamped-rabbit-design-3-sheets"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680647774319",
+        "legacyResourceId": "43680647774319",
+        "title": "Default Title",
+        "sku": "ROKK-GOLDFO-RABB",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895668228207",
+    "legacyResourceId": "7895668228207",
+    "handle": "gold-foil-mount-fuji-cherry-blossom-postcard-japanese-stationery",
+    "title": "Gold Foil Mount Fuji & Cherry Blossom Postcard - Japanese Stationery",
+    "vendor": "Sakura Gifts Japan",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/gold-foil-mount-fuji-cherry-blossom-postcard-japanese-stationery",
+    "createdAt": "2025-09-27T13:52:07Z",
+    "updatedAt": "2026-07-10T13:32:05Z",
+    "sources": {
+      "legacyResourceId": "7895668228207",
+      "sourceUrl": "https://japanesetaste.com//products/gold-foil-stamped-postcard-mount-fuji-in-spring-cherry-blossoms"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680647741551",
+        "legacyResourceId": "43680647741551",
+        "title": "Default Title",
+        "sku": "ROKK-TCARDG-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895668260975",
+    "legacyResourceId": "7895668260975",
+    "handle": "seigaiha-gold-foil-washi-paper-placemats-set-of-3",
+    "title": "Seigaiha Gold Foil Washi Paper Placemats - Set of 3 Japanese Table Decor",
+    "vendor": "Maruai",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/seigaiha-gold-foil-washi-paper-placemats-set-of-3",
+    "createdAt": "2025-09-27T13:52:07Z",
+    "updatedAt": "2026-07-10T13:32:05Z",
+    "sources": {
+      "legacyResourceId": "7895668260975",
+      "sourceUrl": "https://japanesetaste.com//products/paper-placemats-elegant-gold-foil-seigaiha-wave-pattern-3-sheets"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680647807087",
+        "legacyResourceId": "43680647807087",
+        "title": "Default Title",
+        "sku": "ROKK-GOLDFO-TOF3",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895668293743",
+    "legacyResourceId": "7895668293743",
+    "handle": "gold-foil-mount-fuji-autumn-postcard-premium-japanese-stationery",
+    "title": "Gold Foil Mount Fuji Autumn Postcard - Premium Japanese Stationery",
+    "vendor": "Kyoto Rokkaku",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/gold-foil-mount-fuji-autumn-postcard-premium-japanese-stationery",
+    "createdAt": "2025-09-27T13:52:07Z",
+    "updatedAt": "2026-07-10T13:32:05Z",
+    "sources": {
+      "legacyResourceId": "7895668293743",
+      "sourceUrl": "https://japanesetaste.com//products/gold-foil-stamped-postcard-mount-fuji-in-autumn-fall-folliage"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680647839855",
+        "legacyResourceId": "43680647839855",
+        "title": "Default Title",
+        "sku": "ROKK-GOLDFO-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895668326511",
+    "legacyResourceId": "7895668326511",
+    "handle": "golden-shiba-inu-decorative-money-envelope-lucky-japanese-gift-charm",
+    "title": "Golden Shiba Inu Decorative Money Envelope - Lucky Japanese Gift Charm",
+    "vendor": "Midori (Designphil)",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/golden-shiba-inu-decorative-money-envelope-lucky-japanese-gift-charm",
+    "createdAt": "2025-09-27T13:52:08Z",
+    "updatedAt": "2026-07-10T13:32:06Z",
+    "sources": {
+      "legacyResourceId": "7895668326511",
+      "sourceUrl": "https://japanesetaste.com//products/long-gold-foil-decorative-money-envelope-shiba-inu-design"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680647872623",
+        "legacyResourceId": "43680647872623",
+        "title": "Default Title",
+        "sku": "ROKK-YENVEL-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895668392047",
+    "legacyResourceId": "7895668392047",
+    "handle": "gold-foil-pink-strawberry-shortcake-birthday-card-japan-premium-postcard",
+    "title": "Gold Foil Pink Strawberry Shortcake Birthday Card - Japan Premium Postcard",
+    "vendor": "Rokkaku",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/gold-foil-pink-strawberry-shortcake-birthday-card-japan-premium-postcard",
+    "createdAt": "2025-09-27T13:53:16Z",
+    "updatedAt": "2026-07-10T13:32:06Z",
+    "sources": {
+      "legacyResourceId": "7895668392047",
+      "sourceUrl": "https://japanesetaste.com//products/happy-birthday-card-gold-foil-pink-strawberry-shortcake-design"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680648069231",
+        "legacyResourceId": "43680648069231",
+        "title": "Default Title",
+        "sku": "ROKK-ARDWIT-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895668424815",
+    "legacyResourceId": "7895668424815",
+    "handle": "etvos-medicated-wrinkle-serum-30g",
+    "title": "Etvos Medicated Wrinkle Serum 30g - Anti-Aging & Ceramide Care",
+    "vendor": "Etvos",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/etvos-medicated-wrinkle-serum-30g",
+    "createdAt": "2025-09-27T13:53:17Z",
+    "updatedAt": "2026-07-10T13:32:06Z",
+    "sources": {
+      "legacyResourceId": "7895668424815",
+      "sourceUrl": "https://japanesetaste.com//products/etvos-wrinkle-serum-aging-care-cream-for-dry-skin-30g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680648101999",
+        "legacyResourceId": "43680648101999",
+        "title": "Default Title",
+        "sku": "ETVO-RUMANT-N30G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895668457583",
+    "legacyResourceId": "7895668457583",
+    "handle": "elegant-gold-foil-birthday-card-blue-crown-cake",
+    "title": "Elegant Gold Foil Birthday Card - Blue Crown Cake Premium Stationery",
+    "vendor": "Celebration Creations",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/elegant-gold-foil-birthday-card-blue-crown-cake",
+    "createdAt": "2025-09-27T13:53:17Z",
+    "updatedAt": "2026-07-10T13:32:06Z",
+    "sources": {
+      "legacyResourceId": "7895668457583",
+      "sourceUrl": "https://japanesetaste.com//products/happy-birthday-card-gold-foil-blue-crown-cake-design"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680648134767",
+        "legacyResourceId": "43680648134767",
+        "title": "Default Title",
+        "sku": "ROKK-GREETI-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895668490351",
+    "legacyResourceId": "7895668490351",
+    "handle": "aderia-premium-sun-moon-frosted-beer-glass-380ml",
+    "title": "Aderia Premium Sun & Moon Frosted Japanese Drinking Glass - 380ml Made in Japan",
+    "vendor": "Aderia",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/aderia-premium-sun-moon-frosted-beer-glass-380ml",
+    "createdAt": "2025-09-27T13:54:41Z",
+    "updatedAt": "2026-07-10T13:32:06Z",
+    "sources": {
+      "legacyResourceId": "7895668490351",
+      "sourceUrl": "https://japanesetaste.com//products/aderia-premium-gold-sun-and-silver-moon-frosted-beer-glass-380ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680648298607",
+        "legacyResourceId": "43680648298607",
+        "title": "Default Title",
+        "sku": "ADER-ILVERM-80ML",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895668523119",
+    "legacyResourceId": "7895668523119",
+    "handle": "aderia-premium-gold-pattern-frosted-rocks-glass-335ml",
+    "title": "Aderia Premium Gold Pattern Frosted Rocks Glass - 335ml",
+    "vendor": "Aderia",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/aderia-premium-gold-pattern-frosted-rocks-glass-335ml",
+    "createdAt": "2025-09-27T13:54:41Z",
+    "updatedAt": "2026-07-10T13:32:07Z",
+    "sources": {
+      "legacyResourceId": "7895668523119",
+      "sourceUrl": "https://japanesetaste.com//products/aderia-premium-gold-pattern-frosted-old-fashioned-rocks-glass-335ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680648265839",
+        "legacyResourceId": "43680648265839",
+        "title": "Default Title",
+        "sku": "ADER-ERNFRO-35ML",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895668555887",
+    "legacyResourceId": "7895668555887",
+    "handle": "aderia-premium-gold-pattern-frosted-sake-cup-90ml",
+    "title": "Aderia Premium Gold Pattern Frosted Japanese Cup - 90ml Japanese Japanese Small Glass",
+    "vendor": "Aderia",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/aderia-premium-gold-pattern-frosted-sake-cup-90ml",
+    "createdAt": "2025-09-27T13:54:41Z",
+    "updatedAt": "2026-07-10T13:32:07Z",
+    "sources": {
+      "legacyResourceId": "7895668555887",
+      "sourceUrl": "https://japanesetaste.com//products/aderia-premium-gold-pattern-frosted-sake-cup-shot-glass-90ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680648331375",
+        "legacyResourceId": "43680648331375",
+        "title": "Default Title",
+        "sku": "ADER-ERNFRO-90ML",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895668654191",
+    "legacyResourceId": "7895668654191",
+    "handle": "aderia-japanese-glass-plate-gold-leaf-lucky-cat-90mm",
+    "title": "Aderia Japanese Glass Plate with Gold Leaf Lucky Cat - 90mm Charm",
+    "vendor": "Aderia",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/aderia-japanese-glass-plate-gold-leaf-lucky-cat-90mm",
+    "createdAt": "2025-09-27T13:55:13Z",
+    "updatedAt": "2026-07-10T13:32:08Z",
+    "sources": {
+      "legacyResourceId": "7895668654191",
+      "sourceUrl": "https://japanesetaste.com//products/aderia-small-glass-plate-gold-leaf-lucky-cat-design-90mm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680648495215",
+        "legacyResourceId": "43680648495215",
+        "title": "Default Title",
+        "sku": "ADER-LEAFLU-90MM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895668686959",
+    "legacyResourceId": "7895668686959",
+    "handle": "aderia-handcrafted-glass-furin-wind-chime-dancing-cat",
+    "title": "Aderia Handcrafted Glass Furin Wind Chime - Dancing Cat",
+    "vendor": "Aderia",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/aderia-handcrafted-glass-furin-wind-chime-dancing-cat",
+    "createdAt": "2025-09-27T13:55:13Z",
+    "updatedAt": "2026-07-10T13:32:08Z",
+    "sources": {
+      "legacyResourceId": "7895668686959",
+      "sourceUrl": "https://japanesetaste.com//products/aderia-traditional-glass-furin-wind-chime-dancing-cat-design"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680648560751",
+        "legacyResourceId": "43680648560751",
+        "title": "Default Title",
+        "sku": "ADER-DITION-HIME",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895668719727",
+    "legacyResourceId": "7895668719727",
+    "handle": "aderia-red-blue-lucky-design-short-glass-set-280ml",
+    "title": "Aderia Red & Blue Lucky Design Short Glass Set - 280ml Japanese Glassware",
+    "vendor": "Aderia",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/aderia-red-blue-lucky-design-short-glass-set-280ml",
+    "createdAt": "2025-09-27T13:58:06Z",
+    "updatedAt": "2026-07-10T13:32:08Z",
+    "sources": {
+      "legacyResourceId": "7895668719727",
+      "sourceUrl": "https://japanesetaste.com//products/aderia-stylish-short-glass-modern-red-and-blue-pattern-280ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680648888431",
+        "legacyResourceId": "43680648888431",
+        "title": "Default Title",
+        "sku": "ADER-REDBLU-80ML",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895668752495",
+    "legacyResourceId": "7895668752495",
+    "handle": "aderia-edo-motif-japanese-glass-set-280ml",
+    "title": "Aderia Edo Motif Japanese Glass Set - 280ml Premium Crafted Tumblers",
+    "vendor": "Aderia",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/aderia-edo-motif-japanese-glass-set-280ml",
+    "createdAt": "2025-09-27T13:58:06Z",
+    "updatedAt": "2026-07-10T13:32:08Z",
+    "sources": {
+      "legacyResourceId": "7895668752495",
+      "sourceUrl": "https://japanesetaste.com//products/aderia-stylish-short-glass-modern-red-and-yellow-pattern-280ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680648855663",
+        "legacyResourceId": "43680648855663",
+        "title": "Default Title",
+        "sku": "ADER-ERNRED-80ML",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895668785263",
+    "legacyResourceId": "7895668785263",
+    "handle": "aderia-gold-leaf-daruma-small-glass-plate-90mm",
+    "title": "Aderia Gold Leaf Daruma Small Glass Plate - 90mm Japanese Luck Charm",
+    "vendor": "Aderia",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/aderia-gold-leaf-daruma-small-glass-plate-90mm",
+    "createdAt": "2025-09-27T13:58:06Z",
+    "updatedAt": "2026-07-10T13:32:08Z",
+    "sources": {
+      "legacyResourceId": "7895668785263",
+      "sourceUrl": "https://japanesetaste.com//products/aderia-small-glass-plate-gold-leaf-daruma-design-90mm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680648921199",
+        "legacyResourceId": "43680648921199",
+        "title": "Default Title",
+        "sku": "ADER-GLASSP-90MM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895668850799",
+    "legacyResourceId": "7895668850799",
+    "handle": "arnest-easy-grip-steel-jar-opener-14cm-lever-tool",
+    "title": "Arnest Easy Grip Steel Jar Opener - Durable Made in Japan Lever Tool",
+    "vendor": "Arnest",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/arnest-easy-grip-steel-jar-opener-14cm-lever-tool",
+    "createdAt": "2025-09-27T13:58:49Z",
+    "updatedAt": "2026-07-10T13:32:09Z",
+    "sources": {
+      "legacyResourceId": "7895668850799",
+      "sourceUrl": "https://japanesetaste.com//products/arnest-easy-grip-steel-jar-opener-for-stuck-jar-lids-14cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680649281647",
+        "legacyResourceId": "43680649281647",
+        "title": "Default Title",
+        "sku": "ARNE-AROPEN-LIDS",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895668883567",
+    "legacyResourceId": "7895668883567",
+    "handle": "le-petit-prince-foil-stamped-postcard-starry-migratory-birds",
+    "title": "Le Petit Prince Foil-Stamped Postcard - Starry Migratory Birds",
+    "vendor": "Gakken Sta:Ful",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/le-petit-prince-foil-stamped-postcard-starry-migratory-birds",
+    "createdAt": "2025-09-27T13:58:49Z",
+    "updatedAt": "2026-07-10T13:32:09Z",
+    "sources": {
+      "legacyResourceId": "7895668883567",
+      "sourceUrl": "https://japanesetaste.com//products/le-petit-prince-postcard-foil-stamped-migratory-birds-starry-design"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680649347183",
+        "legacyResourceId": "43680649347183",
+        "title": "Default Title",
+        "sku": "ROKK-OSTCAR-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895668916335",
+    "legacyResourceId": "7895668916335",
+    "handle": "sanshin-seika-sansho-pepper-soy-sauce-senbei-54g",
+    "title": "Sanshin Seika Sansho Pepper Soy Sauce Senbei - Crunchy Japanese Rice Crackers 54g",
+    "vendor": "Sanshin Seika",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/sanshin-seika-sansho-pepper-soy-sauce-senbei-54g",
+    "createdAt": "2025-09-27T13:58:49Z",
+    "updatedAt": "2026-07-10T13:32:09Z",
+    "sources": {
+      "legacyResourceId": "7895668916335",
+      "sourceUrl": "https://japanesetaste.com//products/sansho-pepper-and-soy-sauce-senbei-crispy-rice-crackers-54g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680649314415",
+        "legacyResourceId": "43680649314415",
+        "title": "Default Title",
+        "sku": "KYOA-RICECR-ECES",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895668949103",
+    "legacyResourceId": "7895668949103",
+    "handle": "nehan-tokyo-arabian-jasmine-fragrant-epsom-bath-salts-100g",
+    "title": "Nehan Tokyo Arabian Jasmine Fragrant Epsom Bath Salts - 100g",
+    "vendor": "Nehan Tokyo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/nehan-tokyo-arabian-jasmine-fragrant-epsom-bath-salts-100g",
+    "createdAt": "2025-09-27T13:59:01Z",
+    "updatedAt": "2026-07-10T13:32:09Z",
+    "sources": {
+      "legacyResourceId": "7895668949103",
+      "sourceUrl": "https://japanesetaste.com//products/nehan-tokyo-fragrant-epsom-bath-salts-arabian-jasmine-100g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680649412719",
+        "legacyResourceId": "43680649412719",
+        "title": "Default Title",
+        "sku": "NEHA-GRANTE-JAS",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895668981871",
+    "legacyResourceId": "7895668981871",
+    "handle": "nehan-tokyo-fragrant-epsom-bath-salts-floral-tuberose-100g",
+    "title": "Nehan Tokyo Fragrant Epsom Bath Salts - Floral Tuberose (100g)",
+    "vendor": "Nehan Tokyo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/nehan-tokyo-fragrant-epsom-bath-salts-floral-tuberose-100g",
+    "createdAt": "2025-09-27T13:59:17Z",
+    "updatedAt": "2026-07-10T13:32:09Z",
+    "sources": {
+      "legacyResourceId": "7895668981871",
+      "sourceUrl": "https://japanesetaste.com//products/nehan-tokyo-fragrant-epsom-bath-salts-floral-tuberose-100g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680649511023",
+        "legacyResourceId": "43680649511023",
+        "title": "Default Title",
+        "sku": "NEHA-GRANTE-TUBE",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895669014639",
+    "legacyResourceId": "7895669014639",
+    "handle": "nehan-tokyo-sweet-plum-epsom-bath-salts-100g",
+    "title": "Nehan Tokyo Sweet Plum Epsom Bath Salts - 100g Pure Magnesium Soak",
+    "vendor": "Nehan Tokyo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/nehan-tokyo-sweet-plum-epsom-bath-salts-100g",
+    "createdAt": "2025-09-27T13:59:17Z",
+    "updatedAt": "2026-07-10T13:32:10Z",
+    "sources": {
+      "legacyResourceId": "7895669014639",
+      "sourceUrl": "https://japanesetaste.com//products/nehan-tokyo-fragrant-epsom-bath-salts-sweet-plum-scent-100g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680649543791",
+        "legacyResourceId": "43680649543791",
+        "title": "Default Title",
+        "sku": "NEHA-GRANTE-PLUM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895669669999",
+    "legacyResourceId": "7895669669999",
+    "handle": "nehan-tokyo-botanical-yuzu-citrus-epsom-bath-salts-100g",
+    "title": "Nehan Tokyo Botanical Yuzu Citrus Epsom Bath Salts - 100g Relaxation",
+    "vendor": "Nehan Tokyo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/nehan-tokyo-botanical-yuzu-citrus-epsom-bath-salts-100g",
+    "createdAt": "2025-09-27T14:01:33Z",
+    "updatedAt": "2026-07-10T13:32:10Z",
+    "sources": {
+      "legacyResourceId": "7895669669999",
+      "sourceUrl": "https://japanesetaste.com//products/nehan-tokyo-botanical-epsom-bath-salts-fresh-yuzu-citrus-100g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680650428527",
+        "legacyResourceId": "43680650428527",
+        "title": "Default Title",
+        "sku": "NEHA-ANICAL-YUZU",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895669768303",
+    "legacyResourceId": "7895669768303",
+    "handle": "nehan-tokyo-garden-fragrance-clay-bath-salts-100g",
+    "title": "Nehan Tokyo Garden Fragrance Clay Bath Salts - 100g Mineral Detox",
+    "vendor": "Nehan Tokyo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/nehan-tokyo-garden-fragrance-clay-bath-salts-100g",
+    "createdAt": "2025-09-27T14:02:16Z",
+    "updatedAt": "2026-07-10T13:32:10Z",
+    "sources": {
+      "legacyResourceId": "7895669768303",
+      "sourceUrl": "https://japanesetaste.com//products/nehan-tokyo-clay-bath-and-bath-salts-garden-fragrance-blend-100g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680650592367",
+        "legacyResourceId": "43680650592367",
+        "title": "Default Title",
+        "sku": "NEHA-ALTSGA-100G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895669801071",
+    "legacyResourceId": "7895669801071",
+    "handle": "nehan-tokyo-clay-bath-bath-salts-temple-fragrance-100g",
+    "title": "Nehan Tokyo Clay Bath & Bath Salts - Temple Fragrance 100g Detoxifying Soak",
+    "vendor": "Nehan Tokyo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/nehan-tokyo-clay-bath-bath-salts-temple-fragrance-100g",
+    "createdAt": "2025-09-27T14:02:16Z",
+    "updatedAt": "2026-07-10T13:32:10Z",
+    "sources": {
+      "legacyResourceId": "7895669801071",
+      "sourceUrl": "https://japanesetaste.com//products/nehan-tokyo-clay-bath-and-bath-salts-temple-fragrance-blend-100g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680650657903",
+        "legacyResourceId": "43680650657903",
+        "title": "Default Title",
+        "sku": "NEHA-BATHBA-100G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895669866607",
+    "legacyResourceId": "7895669866607",
+    "handle": "nehan-tokyo-premium-epsom-salt-body-scrub-160g-rose-scent",
+    "title": "Nehan Tokyo Premium Epsom Salt Body Scrub - 160g Fresh Rose Scent",
+    "vendor": "Nehan Tokyo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/nehan-tokyo-premium-epsom-salt-body-scrub-160g-rose-scent",
+    "createdAt": "2025-09-27T14:03:07Z",
+    "updatedAt": "2026-07-10T13:32:11Z",
+    "sources": {
+      "legacyResourceId": "7895669866607",
+      "sourceUrl": "https://japanesetaste.com//products/nehan-tokyo-epsom-salt-body-scrub-exfoliating-cleanser-160g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680650756207",
+        "legacyResourceId": "43680650756207",
+        "title": "Default Title",
+        "sku": "NEHA-YSCRUB-160G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895669899375",
+    "legacyResourceId": "7895669899375",
+    "handle": "nehan-tokyo-premium-woody-essential-oil-hand-soap-240ml",
+    "title": "Nehan Tokyo Premium Woody Essential Oil Hand Soap - 240ml Nourishing Cleanse",
+    "vendor": "Nehan Tokyo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/nehan-tokyo-premium-woody-essential-oil-hand-soap-240ml",
+    "createdAt": "2025-09-27T14:03:26Z",
+    "updatedAt": "2026-07-10T13:32:11Z",
+    "sources": {
+      "legacyResourceId": "7895669899375",
+      "sourceUrl": "https://japanesetaste.com//products/nehan-tokyo-premium-essential-oil-hand-soap-woody-scent-240ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680650854511",
+        "legacyResourceId": "43680650854511",
+        "title": "Default Title",
+        "sku": "NEHA-SSENTI-40ML",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895669932143",
+    "legacyResourceId": "7895669932143",
+    "handle": "nehan-tokyo-gentle-body-soap-refreshing-pomegranate-400ml",
+    "title": "Nehan Tokyo Gentle Body Soap: Refreshing Pomegranate - 400ml",
+    "vendor": "Nehan Tokyo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/nehan-tokyo-gentle-body-soap-refreshing-pomegranate-400ml",
+    "createdAt": "2025-09-27T14:03:26Z",
+    "updatedAt": "2026-07-10T13:32:11Z",
+    "sources": {
+      "legacyResourceId": "7895669932143",
+      "sourceUrl": "https://japanesetaste.com//products/nehan-tokyo-gentle-body-soap-refreshing-pomegranate-scent-400ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680650887279",
+        "legacyResourceId": "43680650887279",
+        "title": "Default Title",
+        "sku": "NEHA-ESHING-00ML",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895669964911",
+    "legacyResourceId": "7895669964911",
+    "handle": "ishida-gold-glitter-red-japanese-chopsticks-21cm",
+    "title": "Ishida Gold Glitter Red Japanese Chopsticks - 21cm Dishwasher Safe",
+    "vendor": "Ishida",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/ishida-gold-glitter-red-japanese-chopsticks-21cm",
+    "createdAt": "2025-09-27T14:03:35Z",
+    "updatedAt": "2026-07-10T13:32:11Z",
+    "sources": {
+      "legacyResourceId": "7895669964911",
+      "sourceUrl": "https://japanesetaste.com//products/premium-gold-glitter-red-chopsticks-non-slip-dishwasher-safe-21cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680650952815",
+        "legacyResourceId": "43680650952815",
+        "title": "Default Title",
+        "sku": "PREM-TERRED-21CM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895669997679",
+    "legacyResourceId": "7895669997679",
+    "handle": "elegant-gold-foil-seigaha-wave-paper-coasters-premium-japanese-3-pack",
+    "title": "Elegant Gold Foil Seigaha Wave Paper Coasters - Premium Japanese 3-Pack",
+    "vendor": "Sakura Home Goods",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/elegant-gold-foil-seigaha-wave-paper-coasters-premium-japanese-3-pack",
+    "createdAt": "2025-09-27T14:03:50Z",
+    "updatedAt": "2026-07-13T01:16:58Z",
+    "sources": {
+      "legacyResourceId": "7895669997679",
+      "sourceUrl": "https://japanesetaste.com//products/thick-paper-coasters-elegant-gold-foil-seigaha-wave-pattern-3-ct"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680651083887",
+        "legacyResourceId": "43680651083887",
+        "title": "Default Title",
+        "sku": "ROKK-RSGOLD-TERN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895670030447",
+    "legacyResourceId": "7895670030447",
+    "handle": "premium-japanese-gold-glitter-black-chopsticks-23cm-non-slip",
+    "title": "Premium Japanese Gold Glitter Black Chopsticks - 23cm Non-Slip",
+    "vendor": "Ishida",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/premium-japanese-gold-glitter-black-chopsticks-23cm-non-slip",
+    "createdAt": "2025-09-27T14:03:50Z",
+    "updatedAt": "2026-07-10T13:32:12Z",
+    "sources": {
+      "legacyResourceId": "7895670030447",
+      "sourceUrl": "https://japanesetaste.com//products/premium-gold-glitter-black-chopsticks-non-slip-dishwasher-safe-23cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680651116655",
+        "legacyResourceId": "43680651116655",
+        "title": "Default Title",
+        "sku": "PREM-TERBLA-23CM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895670095983",
+    "legacyResourceId": "7895670095983",
+    "handle": "self-standing-hinoki-wood-cutting-board-walnut-swivel-base",
+    "title": "Self-Standing Hinoki Wood Cutting Board with Walnut Swivel Base",
+    "vendor": "Tosaryu",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/self-standing-hinoki-wood-cutting-board-walnut-swivel-base",
+    "createdAt": "2025-09-27T14:04:00Z",
+    "updatedAt": "2026-07-10T13:33:26Z",
+    "sources": {
+      "legacyResourceId": "7895670095983",
+      "sourceUrl": "https://japanesetaste.com//products/handmade-self-standing-hinoki-cutting-board-wooden-chopping-board"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680651313263",
+        "legacyResourceId": "43680651313263",
+        "title": "Default Title",
+        "sku": "ROUN-ENCUTT-DIUM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895670161519",
+    "legacyResourceId": "7895670161519",
+    "handle": "kawaii-teddy-bear-cafe-party-foil-stickers-japanese-planner-decor",
+    "title": "Kawaii Teddy Bear Café Party Foil Stickers - Japanese Planner Decor",
+    "vendor": "Mind Wave",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kawaii-teddy-bear-cafe-party-foil-stickers-japanese-planner-decor",
+    "createdAt": "2025-09-27T14:04:17Z",
+    "updatedAt": "2026-07-10T13:33:26Z",
+    "sources": {
+      "legacyResourceId": "7895670161519",
+      "sourceUrl": "https://japanesetaste.com//products/cute-teddy-bear-stickers-set-foil-stamped-cafe-party-design"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680651706479",
+        "legacyResourceId": "43680651706479",
+        "title": "Default Title",
+        "sku": "ROKK-UTESTI-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895670259823",
+    "legacyResourceId": "7895670259823",
+    "handle": "le-petit-prince-a6-pocket-notebook-premium-foil-stamped-starry-sky",
+    "title": "Le Petit Prince A6 Pocket Notebook - Premium Foil Stamped Starry Sky",
+    "vendor": "GreenFlash",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/le-petit-prince-a6-pocket-notebook-premium-foil-stamped-starry-sky",
+    "createdAt": "2025-09-27T14:04:17Z",
+    "updatedAt": "2026-07-10T13:33:26Z",
+    "sources": {
+      "legacyResourceId": "7895670259823",
+      "sourceUrl": "https://japanesetaste.com//products/le-petit-prince-pocket-notebook-foil-stamped-starry-design-a6"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680651739247",
+        "legacyResourceId": "43680651739247",
+        "title": "Default Title",
+        "sku": "ROKK-CEPOCK-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895670358127",
+    "legacyResourceId": "7895670358127",
+    "handle": "blue-river-gold-foil-japanese-money-envelope-premium-kyoto-stationery",
+    "title": "Blue River Gold Foil Japanese Money Envelope - Premium Kyoto Stationery",
+    "vendor": "Rokkaku",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/blue-river-gold-foil-japanese-money-envelope-premium-kyoto-stationery",
+    "createdAt": "2025-09-27T14:05:18Z",
+    "updatedAt": "2026-07-10T13:33:27Z",
+    "sources": {
+      "legacyResourceId": "7895670358127",
+      "sourceUrl": "https://japanesetaste.com//products/long-gold-foil-decorative-money-envelope-blue-river-design"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680651935855",
+        "legacyResourceId": "43680651935855",
+        "title": "Default Title",
+        "sku": "ROKK-MONEYE-RIVE",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895670390895",
+    "legacyResourceId": "7895670390895",
+    "handle": "retro-japanese-postage-stamp-foil-postcard-vintage-showa",
+    "title": "Retro Japanese Postage Stamp Foil Postcard - Vintage Showa Design",
+    "vendor": "Rokkaku",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/retro-japanese-postage-stamp-foil-postcard-vintage-showa",
+    "createdAt": "2025-09-27T14:05:47Z",
+    "updatedAt": "2026-07-10T13:33:27Z",
+    "sources": {
+      "legacyResourceId": "7895670390895",
+      "sourceUrl": "https://japanesetaste.com//products/retro-postage-stamp-shaped-postcard-foil-post-office-design"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680652034159",
+        "legacyResourceId": "43680652034159",
+        "title": "Default Title",
+        "sku": "ROKK-LDFOIL-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895670423663",
+    "legacyResourceId": "7895670423663",
+    "handle": "retro-cat-cafe-postage-stamp-postcard-japanese-foil-stamped-design",
+    "title": "Retro Cat Cafe Postage Stamp Postcard - Japanese Foil Stamped Design",
+    "vendor": "Rokkaku",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/retro-cat-cafe-postage-stamp-postcard-japanese-foil-stamped-design",
+    "createdAt": "2025-09-27T14:05:47Z",
+    "updatedAt": "2026-07-10T13:33:27Z",
+    "sources": {
+      "legacyResourceId": "7895670423663",
+      "sourceUrl": "https://japanesetaste.com//products/retro-postage-stamp-shaped-postcard-foil-cat-cafe-design"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680652066927",
+        "legacyResourceId": "43680652066927",
+        "title": "Default Title",
+        "sku": "ROKK-GESTAM-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895670489199",
+    "legacyResourceId": "7895670489199",
+    "handle": "shimmering-santa-claus-foil-stamped-christmas-postcard-premium-edition",
+    "title": "Shimmering Santa Claus Foil-Stamped Christmas Postcard - Premium Edition",
+    "vendor": "Gakken Sta:Ful",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/shimmering-santa-claus-foil-stamped-christmas-postcard-premium-edition",
+    "createdAt": "2025-09-27T14:06:53Z",
+    "updatedAt": "2026-07-10T13:33:27Z",
+    "sources": {
+      "legacyResourceId": "7895670489199",
+      "sourceUrl": "https://japanesetaste.com//products/christmas-themed-postcard-foil-stamped-santa-design"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680652165231",
+        "legacyResourceId": "43680652165231",
+        "title": "Default Title",
+        "sku": "ROKK-OSTCAR-CHRIS",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895670587503",
+    "legacyResourceId": "7895670587503",
+    "handle": "vintage-japanese-swallow-gold-foil-postcard-retro-stamp-edition",
+    "title": "Vintage Japanese Swallow Gold Foil Postcard - Retro Stamp Edition",
+    "vendor": "Kyoto Rokkaku",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/vintage-japanese-swallow-gold-foil-postcard-retro-stamp-edition",
+    "createdAt": "2025-09-27T14:07:23Z",
+    "updatedAt": "2026-07-10T13:33:28Z",
+    "sources": {
+      "legacyResourceId": "7895670587503",
+      "sourceUrl": "https://japanesetaste.com//products/retro-postage-stamp-shaped-postcard-foil-swallow-bird-design"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680652394607",
+        "legacyResourceId": "43680652394607",
+        "title": "Default Title",
+        "sku": "ROKK-STAMPS-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895670620271",
+    "legacyResourceId": "7895670620271",
+    "handle": "kyoto-treasures-kinkakuji-temple-winter-gold-foil-postcard-black-edition",
+    "title": "Kyoto Treasures Kinkakuji Temple Winter Gold Foil Postcard - Black Edition",
+    "vendor": "Kyoto Treasures",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kyoto-treasures-kinkakuji-temple-winter-gold-foil-postcard-black-edition",
+    "createdAt": "2025-09-27T14:07:29Z",
+    "updatedAt": "2026-07-10T13:33:28Z",
+    "sources": {
+      "legacyResourceId": "7895670620271",
+      "sourceUrl": "https://japanesetaste.com//products/black-and-gold-foil-postcard-kinkakuji-temple-covered-with-snow"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680652460143",
+        "legacyResourceId": "43680652460143",
+        "title": "Default Title",
+        "sku": "ROKK-PLEPOS-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895670653039",
+    "legacyResourceId": "7895670653039",
+    "handle": "odate-magewappa-akita-cedar-two-tier-bento-lunch-box-930ml",
+    "title": "Odate Magewappa Akita Cedar Two-Tier Bento Lunch Box - 930ml",
+    "vendor": "Odate Magewappa",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/odate-magewappa-akita-cedar-two-tier-bento-lunch-box-930ml",
+    "createdAt": "2025-09-27T14:08:42Z",
+    "updatedAt": "2026-07-10T13:33:28Z",
+    "sources": {
+      "legacyResourceId": "7895670653039",
+      "sourceUrl": "https://japanesetaste.com//products/akita-cedar-lunch-box-handmade-two-tier-bento-box-930ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680652623983",
+        "legacyResourceId": "43680652623983",
+        "title": "Default Title",
+        "sku": "YAMA-JAPANE-16CM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895670685807",
+    "legacyResourceId": "7895670685807",
+    "handle": "rokkaku-foil-stamped-cat-goldfish-bookmark-artisan-japanese-stationery",
+    "title": "Rokkaku Foil Stamped Cat & Goldfish Bookmark - Artisan Japanese Stationery",
+    "vendor": "Rokkaku",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/rokkaku-foil-stamped-cat-goldfish-bookmark-artisan-japanese-stationery",
+    "createdAt": "2025-09-27T14:08:42Z",
+    "updatedAt": "2026-07-10T13:33:28Z",
+    "sources": {
+      "legacyResourceId": "7895670685807",
+      "sourceUrl": "https://japanesetaste.com//products/rokkaku-bookmark-foil-stamped-cute-cat-and-fish-design"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680652591215",
+        "legacyResourceId": "43680652591215",
+        "title": "Default Title",
+        "sku": "ROKK-TFISHD-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895670718575",
+    "legacyResourceId": "7895670718575",
+    "handle": "colorful-bear-organic-cotton-furoshiki-50cm",
+    "title": "Colorful Bear Organic Cotton Furoshiki - 50cm Japanese Wrapping Cloth",
+    "vendor": "Musubi (Yamada Sen-i)",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/colorful-bear-organic-cotton-furoshiki-50cm",
+    "createdAt": "2025-09-27T14:08:42Z",
+    "updatedAt": "2026-07-10T13:33:28Z",
+    "sources": {
+      "legacyResourceId": "7895670718575",
+      "sourceUrl": "https://japanesetaste.com//products/furoshiki-bear-design-colorful-cotton-wrapping-cloth-book-cover-50cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680652656751",
+        "legacyResourceId": "43680652656751",
+        "title": "Default Title",
+        "sku": "NARU-IRDYEL-50CM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895670751343",
+    "legacyResourceId": "7895670751343",
+    "handle": "musubi-100cm-gorilla-organic-cotton-furoshiki-eco-friendly-wrap-tote",
+    "title": "Musubi 100cm Gorilla Organic Cotton Furoshiki - Eco-Friendly Wrap & Tote",
+    "vendor": "Musubi (Yamada Sen-i)",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/musubi-100cm-gorilla-organic-cotton-furoshiki-eco-friendly-wrap-tote",
+    "createdAt": "2025-09-27T14:10:00Z",
+    "updatedAt": "2026-07-10T13:33:29Z",
+    "sources": {
+      "legacyResourceId": "7895670751343",
+      "sourceUrl": "https://japanesetaste.com//products/large-furoshiki-gorilla-design-cotton-wrapping-cloth-mat-100cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680652722287",
+        "legacyResourceId": "43680652722287",
+        "title": "Default Title",
+        "sku": "NARU-LLOWGR-00CM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895670882415",
+    "legacyResourceId": "7895670882415",
+    "handle": "musubi-hedgehog-japanese-furoshiki-wrapping-cloth-50cm-green-cotton",
+    "title": "Musubi Hedgehog Japanese Furoshiki Wrapping Cloth - 50cm Green Cotton",
+    "vendor": "Musubi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/musubi-hedgehog-japanese-furoshiki-wrapping-cloth-50cm-green-cotton",
+    "createdAt": "2025-09-27T14:10:47Z",
+    "updatedAt": "2026-07-10T13:33:29Z",
+    "sources": {
+      "legacyResourceId": "7895670882415",
+      "sourceUrl": "https://japanesetaste.com//products/furoshiki-hedgehog-design-green-cotton-wrapping-cloth-book-cover-50cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680653017199",
+        "legacyResourceId": "43680653017199",
+        "title": "Default Title",
+        "sku": "NARU-HEDGEH-50CM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895695261807",
+    "legacyResourceId": "7895695261807",
+    "handle": "pigeon-baby-milk-lotion-moisture-plus-shea-butter",
+    "title": "Pigeon Baby Milk Lotion Moisture Plus with Shea Butter: Gentle Hydration for Delicate Skin",
+    "vendor": "Pigeon",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/pigeon-baby-milk-lotion-moisture-plus-shea-butter",
+    "createdAt": "2025-09-27T15:50:19Z",
+    "updatedAt": "2026-07-10T13:33:29Z",
+    "sources": {
+      "legacyResourceId": "7895695261807",
+      "sourceUrl": "https://japanesetaste.com//products/pigeon-baby-milk-lotion-moisture-plus-shea-butter-300g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681533984879",
+        "legacyResourceId": "43681533984879",
+        "title": "Default Title",
+        "sku": "PIGE-SHBMLK-300",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895695294575",
+    "legacyResourceId": "7895695294575",
+    "handle": "dove-sensitive-mild-body-wash-470g-hypoallergenic-creamy-foam",
+    "title": "Dove Sensitive Mild Body Wash 470g - Hypoallergenic Creamy Foam",
+    "vendor": "Dove",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dove-sensitive-mild-body-wash-470g-hypoallergenic-creamy-foam",
+    "createdAt": "2025-09-27T15:50:20Z",
+    "updatedAt": "2026-07-10T13:33:29Z",
+    "sources": {
+      "legacyResourceId": "7895695294575",
+      "sourceUrl": "https://japanesetaste.com//products/dove-sensitive-mild-body-wash-sensitive-skin-pump-bottle-470g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681534050415",
+        "legacyResourceId": "43681534050415",
+        "title": "Default Title",
+        "sku": "DOVE-BDYWSH-MD470",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895695327343",
+    "legacyResourceId": "7895695327343",
+    "handle": "kousaido-premium-frankincense-long-incense-sticks-40-count-wooden-box",
+    "title": "Kousaido Premium Frankincense Long Incense Sticks - 40 Count Wooden Box",
+    "vendor": "Kousaido",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kousaido-premium-frankincense-long-incense-sticks-40-count-wooden-box",
+    "createdAt": "2025-09-27T15:50:32Z",
+    "updatedAt": "2026-07-10T13:33:30Z",
+    "sources": {
+      "legacyResourceId": "7895695327343",
+      "sourceUrl": "https://japanesetaste.com//products/kousaido-frankincense-long-incense-sticks-in-wooden-box-40-ct"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681534115951",
+        "legacyResourceId": "43681534115951",
+        "title": "Default Title",
+        "sku": "KKDO-FRKINC-HYA18",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895695360111",
+    "legacyResourceId": "7895695360111",
+    "handle": "pigeon-baby-body-foam-soap-500ml-hydrating-tear-free-wash",
+    "title": "Pigeon Baby Body Foam Soap 500ml - Hydrating & Tear-Free Wash",
+    "vendor": "Pigeon",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/pigeon-baby-body-foam-soap-500ml-hydrating-tear-free-wash",
+    "createdAt": "2025-09-27T15:50:33Z",
+    "updatedAt": "2026-07-10T13:33:30Z",
+    "sources": {
+      "legacyResourceId": "7895695360111",
+      "sourceUrl": "https://japanesetaste.com//products/pigeon-gentle-baby-soap-whole-body-foam-soap-for-newborns-500ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681534181487",
+        "legacyResourceId": "43681534181487",
+        "title": "Default Title",
+        "sku": "PIGE-NWBSOA-500",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895695392879",
+    "legacyResourceId": "7895695392879",
+    "handle": "shiseido-revital-creamy-whip-facial-cleanser-125g",
+    "title": "Shiseido Revital Creamy Whip Facial Cleanser - 125g | Anti-Aging Wash",
+    "vendor": "Shiseido",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/shiseido-revital-creamy-whip-facial-cleanser-125g",
+    "createdAt": "2025-09-27T15:50:36Z",
+    "updatedAt": "2026-07-10T13:33:30Z",
+    "sources": {
+      "legacyResourceId": "7895695392879",
+      "sourceUrl": "https://japanesetaste.com//products/shiseido-revital-creamy-whip-pore-cleansing-facial-wash-125g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681534247023",
+        "legacyResourceId": "43681534247023",
+        "title": "Default Title",
+        "sku": "RVTL-CRMWHP-125",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895695458415",
+    "legacyResourceId": "7895695458415",
+    "handle": "shiseido-revital-lotion-serum-180ml-anti-aging-hydrating-essence",
+    "title": "Shiseido Revital Lotion Serum 180ml - Anti-Aging Hydrating Essence",
+    "vendor": "Shiseido",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/shiseido-revital-lotion-serum-180ml-anti-aging-hydrating-essence",
+    "createdAt": "2025-09-27T15:51:25Z",
+    "updatedAt": "2026-07-10T13:33:31Z",
+    "sources": {
+      "legacyResourceId": "7895695458415",
+      "sourceUrl": "https://japanesetaste.com//products/shiseido-revital-lotion-serum-skin-hydrator-watery-essence-180ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681534509167",
+        "legacyResourceId": "43681534509167",
+        "title": "Default Title",
+        "sku": "RVTL-LOTSRM-180",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895695523951",
+    "legacyResourceId": "7895695523951",
+    "handle": "minon-amino-moist-whole-body-wash-450ml",
+    "title": "Minon Amino Moist Whole Body Wash 450ml - Gentle Care for Sensitive Skin",
+    "vendor": "Minon",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/minon-amino-moist-whole-body-wash-450ml",
+    "createdAt": "2025-09-27T15:51:25Z",
+    "updatedAt": "2026-07-10T13:33:31Z",
+    "sources": {
+      "legacyResourceId": "7895695523951",
+      "sourceUrl": "https://japanesetaste.com//products/minon-whole-body-wash-moisturizing-body-wash-dry-skin-450ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681534574703",
+        "legacyResourceId": "43681534574703",
+        "title": "Default Title",
+        "sku": "MNNN-BDYWSH-450",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895695655023",
+    "legacyResourceId": "7895695655023",
+    "handle": "okashi-goten-okinawan-gold-purple-sweet-potato-bites-6-pack",
+    "title": "Okashi Goten Okinawan Gold Purple Sweet Potato Bites - 6 Pack",
+    "vendor": "Okashi Goten",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/okashi-goten-okinawan-gold-purple-sweet-potato-bites-6-pack",
+    "createdAt": "2025-09-27T15:51:46Z",
+    "updatedAt": "2026-07-10T13:33:31Z",
+    "sources": {
+      "legacyResourceId": "7895695655023",
+      "sourceUrl": "https://japanesetaste.com//products/okashi-goten-okinawan-gold-and-purple-sweet-potato-bites-6-pieces"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681534836847",
+        "legacyResourceId": "43681534836847",
+        "title": "Default Title",
+        "sku": "OKGO-SWPBIT-6",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895695687791",
+    "legacyResourceId": "7895695687791",
+    "handle": "okashi-goten-okinawa-crispy-pineapple-pie-cakes-10-pack-gift-box",
+    "title": "Okashi Goten Okinawa Crispy Pineapple Pie Cakes - 10 Pack Gift Box",
+    "vendor": "Okashi Goten",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/okashi-goten-okinawa-crispy-pineapple-pie-cakes-10-pack-gift-box",
+    "createdAt": "2025-09-27T15:51:46Z",
+    "updatedAt": "2026-07-10T13:33:31Z",
+    "sources": {
+      "legacyResourceId": "7895695687791",
+      "sourceUrl": "https://japanesetaste.com//products/okashi-goten-okinawa-crispy-individual-pineapple-pie-cakes-10-pieces"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681534804079",
+        "legacyResourceId": "43681534804079",
+        "title": "Default Title",
+        "sku": "OKGO-PINPIE-10",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895695720559",
+    "legacyResourceId": "7895695720559",
+    "handle": "okashi-goten-chocolate-okinawa-brown-sugar-manju-8-piece-gift-box",
+    "title": "Okashi Goten Chocolate & Okinawa Brown Sugar Manju - 8 Piece Gift Box",
+    "vendor": "Okashi Goten",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/okashi-goten-chocolate-okinawa-brown-sugar-manju-8-piece-gift-box",
+    "createdAt": "2025-09-27T15:52:17Z",
+    "updatedAt": "2026-07-10T13:33:32Z",
+    "sources": {
+      "legacyResourceId": "7895695720559",
+      "sourceUrl": "https://japanesetaste.com//products/okashi-goten-chocolate-filled-kokuto-brown-sugar-manju-8-pieces"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681535033455",
+        "legacyResourceId": "43681535033455",
+        "title": "Default Title",
+        "sku": "OKGO-CHOMAN-8",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895695753327",
+    "legacyResourceId": "7895695753327",
+    "handle": "lotte-custard-cream-cakes-fluffy-japanese-snack-cakes-9-pack",
+    "title": "Lotte Custard Cream Cakes - Fluffy Japanese Snack Cakes (9-Pack)",
+    "vendor": "Lotte",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/lotte-custard-cream-cakes-fluffy-japanese-snack-cakes-9-pack",
+    "createdAt": "2025-09-27T15:52:17Z",
+    "updatedAt": "2026-07-10T13:33:32Z",
+    "sources": {
+      "legacyResourceId": "7895695753327",
+      "sourceUrl": "https://japanesetaste.com//products/lotte-custard-cake-custard-cream-filled-snack-cakes-9-pieces"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681535000687",
+        "legacyResourceId": "43681535000687",
+        "title": "Default Title",
+        "sku": "LOTE-CUSCAK-9",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895695786095",
+    "legacyResourceId": "7895695786095",
+    "handle": "bourbon-sylvene-chocolate-cake-6-pack-authentic-japanese-snack",
+    "title": "Bourbon Sylvene Chocolate Cake 6-Pack - Authentic Japanese Snack",
+    "vendor": "Bourbon",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/bourbon-sylvene-chocolate-cake-6-pack-authentic-japanese-snack",
+    "createdAt": "2025-09-27T15:52:17Z",
+    "updatedAt": "2026-07-10T13:33:32Z",
+    "sources": {
+      "legacyResourceId": "7895695786095",
+      "sourceUrl": "https://japanesetaste.com//products/bourbon-sylvene-chocolate-coated-cream-filled-cake-pieces-6-pieces"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681534967919",
+        "legacyResourceId": "43681534967919",
+        "title": "Default Title",
+        "sku": "BRBN-SYLVEN-6",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895695818863",
+    "legacyResourceId": "7895695818863",
+    "handle": "irie-japanese-honey-ginger-hard-candy-80g-soothing-throat-relief",
+    "title": "Irie Japanese Honey Ginger Hard Candy - 80g Soothing Throat Relief",
+    "vendor": "Irie Seika",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/irie-japanese-honey-ginger-hard-candy-80g-soothing-throat-relief",
+    "createdAt": "2025-09-27T15:54:07Z",
+    "updatedAt": "2026-07-10T13:33:32Z",
+    "sources": {
+      "legacyResourceId": "7895695818863",
+      "sourceUrl": "https://japanesetaste.com//products/irie-honey-ginger-hard-candy-refreshing-mildly-spicy-candy-80g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681535098991",
+        "legacyResourceId": "43681535098991",
+        "title": "Default Title",
+        "sku": "IRIE-HNYGNG-80",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895695851631",
+    "legacyResourceId": "7895695851631",
+    "handle": "premium-100-pure-okinawa-shikuwasa-juice-270ml",
+    "title": "Premium 100% Pure Okinawa Shikuwasa Juice - 270ml Citrus Superfood",
+    "vendor": "Okinawa Harvest",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/premium-100-pure-okinawa-shikuwasa-juice-270ml",
+    "createdAt": "2025-09-27T15:54:18Z",
+    "updatedAt": "2026-07-10T13:33:33Z",
+    "sources": {
+      "legacyResourceId": "7895695851631",
+      "sourceUrl": "https://japanesetaste.com//products/shikuwasa-juice-100-okinawa-lime-sour-citrus-juice-270ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/53185109917807",
+        "legacyResourceId": "53185109917807",
+        "title": "270ml",
+        "sku": "YAEY-SKWJUI-270",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Size",
+            "value": "270ml"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/53185109950575",
+        "legacyResourceId": "53185109950575",
+        "title": "500ml",
+        "sku": "YAEY-SKWJUI-271",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Size",
+            "value": "500ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895695884399",
+    "legacyResourceId": "7895695884399",
+    "handle": "milbon-aujua-immurise-conditioner-500g",
+    "title": "Milbon Aujua Immurise Conditioner: Revitalize Damaged & Aging Hair (500g)",
+    "vendor": "Milbon",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/milbon-aujua-immurise-conditioner-500g",
+    "createdAt": "2025-09-27T15:54:18Z",
+    "updatedAt": "2026-07-10T13:33:33Z",
+    "sources": {
+      "legacyResourceId": "7895695884399",
+      "sourceUrl": "https://japanesetaste.com//products/milbon-aujua-immurise-conditioner-for-damaged-aging-hair-500g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681535230063",
+        "legacyResourceId": "43681535230063",
+        "title": "Default Title",
+        "sku": "MLBN-IMMCON-500",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895695917167",
+    "legacyResourceId": "7895695917167",
+    "handle": "fuji-kurenai-120mm-petty-knife-japanese-molybdenum-vanadium-steel",
+    "title": "Fuji Kurenai 120mm Petty Knife - Japanese Molybdenum Vanadium Steel",
+    "vendor": "Fuji Cutlery",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fuji-kurenai-120mm-petty-knife-japanese-molybdenum-vanadium-steel",
+    "createdAt": "2025-09-27T15:54:31Z",
+    "updatedAt": "2026-07-10T13:33:33Z",
+    "sources": {
+      "legacyResourceId": "7895695917167",
+      "sourceUrl": "https://japanesetaste.com//products/fuji-kurenai-petty-knife-molybdenum-vanadium-small-knife-120mm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681535295599",
+        "legacyResourceId": "43681535295599",
+        "title": "Default Title",
+        "sku": "FUJI-PTYKNF-120",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895695949935",
+    "legacyResourceId": "7895695949935",
+    "handle": "kikuichi-fuji-kurenai-240mm-sujiki-slicing-knife",
+    "title": "Kikuichi Fuji Kurenai 240mm Sujiki Knife - Japanese Slicing Masterpiece",
+    "vendor": "Kikuichi Cutlery",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kikuichi-fuji-kurenai-240mm-sujiki-slicing-knife",
+    "createdAt": "2025-09-27T15:54:36Z",
+    "updatedAt": "2026-07-10T13:33:33Z",
+    "sources": {
+      "legacyResourceId": "7895695949935",
+      "sourceUrl": "https://japanesetaste.com//products/fuji-kurenai-sujiki-knife-molybdenum-vanadium-slicing-knife-240mm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681535361135",
+        "legacyResourceId": "43681535361135",
+        "title": "Default Title",
+        "sku": "FUJI-FUJKNF-240",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895696015471",
+    "legacyResourceId": "7895696015471",
+    "handle": "okinawan-purple-sweet-potato-chips-beni-imo",
+    "title": "Okinawan Purple Sweet Potato Chips - Crispy & Naturally Sweet Beni-Imo",
+    "vendor": "Okinawa Harvest",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/okinawan-purple-sweet-potato-chips-beni-imo",
+    "createdAt": "2025-09-27T15:54:54Z",
+    "updatedAt": "2026-07-10T13:33:34Z",
+    "sources": {
+      "legacyResourceId": "7895696015471",
+      "sourceUrl": "https://japanesetaste.com//products/okinawan-purple-sweet-potato-chips-healthy-snack-75g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681535623279",
+        "legacyResourceId": "43681535623279",
+        "title": "Default Title",
+        "sku": "MRCH-PURCHI-75",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895696113775",
+    "legacyResourceId": "7895696113775",
+    "handle": "akebono-6-slot-magic-onigiri-maker-easy-pop-up-rice-ball-mold",
+    "title": "Akebono 6-Slot Magic Onigiri Maker - Easy Pop-Up Rice Ball Mold",
+    "vendor": "Akebono Sangyo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/akebono-6-slot-magic-onigiri-maker-easy-pop-up-rice-ball-mold",
+    "createdAt": "2025-09-27T15:54:54Z",
+    "updatedAt": "2026-07-10T13:33:34Z",
+    "sources": {
+      "legacyResourceId": "7895696113775",
+      "sourceUrl": "https://japanesetaste.com//products/akebono-quick-fun-onigiri-maker-6-space-pop-up-onigiri-mold"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681535656047",
+        "legacyResourceId": "43681535656047",
+        "title": "Default Title",
+        "sku": "AKEB-ONGMKR-CH2110",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895696146543",
+    "legacyResourceId": "7895696146543",
+    "handle": "nobel-otoko-ume-plum-gummies-authentic-salty-sour-japanese-candy",
+    "title": "Nobel Otoko Ume Plum Gummies - Authentic Salty & Sour Japanese Candy",
+    "vendor": "Nobel",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/nobel-otoko-ume-plum-gummies-authentic-salty-sour-japanese-candy",
+    "createdAt": "2025-09-27T15:55:04Z",
+    "updatedAt": "2026-07-10T13:33:34Z",
+    "sources": {
+      "legacyResourceId": "7895696146543",
+      "sourceUrl": "https://japanesetaste.com//products/nobel-otoko-ume-plum-gummies-salty-sour-gummy-candies-pack-of-6"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681535754351",
+        "legacyResourceId": "43681535754351",
+        "title": "Default Title",
+        "sku": "NOBL-OTKGUM-1:6",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895696179311",
+    "legacyResourceId": "7895696179311",
+    "handle": "akebono-premium-japanese-egg-masher-boiled-egg-salad-tool",
+    "title": "Akebono Premium Japanese Egg Masher - Perfect Boiled Egg Salad Tool",
+    "vendor": "Akebono",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/akebono-premium-japanese-egg-masher-boiled-egg-salad-tool",
+    "createdAt": "2025-09-27T15:55:07Z",
+    "updatedAt": "2026-07-15T02:31:55Z",
+    "sources": {
+      "legacyResourceId": "7895696179311",
+      "sourceUrl": "https://japanesetaste.com//products/akebono-instant-boiled-egg-masher-egg-cutter-for-egg-salad"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681535819887",
+        "legacyResourceId": "43681535819887",
+        "title": "Default Title",
+        "sku": "AKEB-EGGMAS-CH2102",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895696212079",
+    "legacyResourceId": "7895696212079",
+    "handle": "marukome-plus-koji-organic-amazake-150g-japanese-fermented-rice-drink",
+    "title": "Marukome Plus Koji Organic Amazake - 150g Japanese Fermented Rice Drink",
+    "vendor": "Marukome",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/marukome-plus-koji-organic-amazake-150g-japanese-fermented-rice-drink",
+    "createdAt": "2025-09-27T15:55:14Z",
+    "updatedAt": "2026-07-10T13:33:34Z",
+    "sources": {
+      "legacyResourceId": "7895696212079",
+      "sourceUrl": "https://japanesetaste.com//products/tatatado-organic-ready-to-drink-amazake-nutritious-rice-drink-150g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681535885423",
+        "legacyResourceId": "43681535885423",
+        "title": "Default Title",
+        "sku": "TTTD-ORGAMZ-150",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895696310383",
+    "legacyResourceId": "7895696310383",
+    "handle": "harimaen-organic-genmaicha-tea-with-uji-matcha-12-tea-bags",
+    "title": "Harimaen Organic Genmaicha Tea With Uji Matcha - 12 Premium Tea Bags",
+    "vendor": "Harimaen",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/harimaen-organic-genmaicha-tea-with-uji-matcha-12-tea-bags",
+    "createdAt": "2025-09-27T15:55:24Z",
+    "updatedAt": "2026-07-10T13:33:35Z",
+    "sources": {
+      "legacyResourceId": "7895696310383",
+      "sourceUrl": "https://japanesetaste.com//products/harimaen-organic-genmaicha-tea-with-uji-matcha-12-tea-bags"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681536245871",
+        "legacyResourceId": "43681536245871",
+        "title": "Default Title",
+        "sku": "HRMN-GENMCH-TB12",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895696343151",
+    "legacyResourceId": "7895696343151",
+    "handle": "nobel-otoko-ume-plum-candy-sheets",
+    "title": "Nobel Otoko Ume Plum Sour Chewy Candy Sheets - 75g Pack",
+    "vendor": "Nobel",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/nobel-otoko-ume-plum-candy-sheets",
+    "createdAt": "2025-09-27T15:55:24Z",
+    "updatedAt": "2026-07-10T13:33:35Z",
+    "sources": {
+      "legacyResourceId": "7895696343151",
+      "sourceUrl": "https://japanesetaste.com//products/nobel-otoko-ume-plum-flavored-sour-chewy-candy-sheet-75g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681536213103",
+        "legacyResourceId": "43681536213103",
+        "title": "Default Title",
+        "sku": "NOBL-OTKSHT-75",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895696474223",
+    "legacyResourceId": "7895696474223",
+    "handle": "vita-craft-stainless-steel-multi-purpose-kitchen-scissors-20-5cm",
+    "title": "Vita Craft Stainless Steel Multi-Purpose Kitchen Scissors 20.5cm",
+    "vendor": "Vita Craft",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/vita-craft-stainless-steel-multi-purpose-kitchen-scissors-20-5cm",
+    "createdAt": "2025-09-27T15:55:36Z",
+    "updatedAt": "2026-07-10T13:33:35Z",
+    "sources": {
+      "legacyResourceId": "7895696474223",
+      "sourceUrl": "https://japanesetaste.com//products/vita-craft-stainless-steel-kitchen-scissors-all-purpose-shears"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681536540783",
+        "legacyResourceId": "43681536540783",
+        "title": "Default Title",
+        "sku": "VCFT-HASAMI-9738",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895696506991",
+    "legacyResourceId": "7895696506991",
+    "handle": "chitose-3-piece-japanese-knife-set-santoku-nakiri-and-deba",
+    "title": "Chitose 3-Piece Japanese Knife Set - Santoku, Nakiri, and Deba",
+    "vendor": "Chitose by Wahei Freiz",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/chitose-3-piece-japanese-knife-set-santoku-nakiri-and-deba",
+    "createdAt": "2025-09-27T15:55:36Z",
+    "updatedAt": "2026-07-10T13:33:35Z",
+    "sources": {
+      "legacyResourceId": "7895696506991",
+      "sourceUrl": "https://japanesetaste.com//products/chitose-japanese-knife-3-piece-set-wood-handle-santoku-nakiri-deba"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681536573551",
+        "legacyResourceId": "43681536573551",
+        "title": "Default Title",
+        "sku": "WAHE-KNFSET-CS060",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895696670831",
+    "legacyResourceId": "7895696670831",
+    "handle": "vita-craft-30-5cm-professional-grade-stainless-steel-slotted-turner-spatula",
+    "title": "Vita Craft 30.5cm Professional Grade Stainless Steel Slotted Turner Spatula",
+    "vendor": "Vita Craft",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/vita-craft-30-5cm-professional-grade-stainless-steel-slotted-turner-spatula",
+    "createdAt": "2025-09-27T15:55:48Z",
+    "updatedAt": "2026-07-10T13:33:36Z",
+    "sources": {
+      "legacyResourceId": "7895696670831",
+      "sourceUrl": "https://japanesetaste.com//products/vita-craft-stainless-steel-slot-turner-spatula-flipper"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681536802927",
+        "legacyResourceId": "43681536802927",
+        "title": "Default Title",
+        "sku": "VCFT-SLTURN-9805",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895696703599",
+    "legacyResourceId": "7895696703599",
+    "handle": "vita-craft-30cm-professional-stainless-steel-turner-no-bend-flipper",
+    "title": "Vita Craft 30cm Professional Stainless Steel Turner - No-Bend Flipper",
+    "vendor": "Vita Craft",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/vita-craft-30cm-professional-stainless-steel-turner-no-bend-flipper",
+    "createdAt": "2025-09-27T15:55:48Z",
+    "updatedAt": "2026-07-10T13:33:36Z",
+    "sources": {
+      "legacyResourceId": "7895696703599",
+      "sourceUrl": "https://japanesetaste.com//products/vita-craft-stainless-steel-no-bending-solid-turner-flipper"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681536835695",
+        "legacyResourceId": "43681536835695",
+        "title": "Default Title",
+        "sku": "VCFT-SSTURN-9804",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895696769135",
+    "legacyResourceId": "7895696769135",
+    "handle": "vita-craft-29cm-professional-stainless-steel-sauce-ladle",
+    "title": "Vita Craft 29cm Professional Stainless Steel Sauce Ladle",
+    "vendor": "Vita Craft",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/vita-craft-29cm-professional-stainless-steel-sauce-ladle",
+    "createdAt": "2025-09-27T15:55:52Z",
+    "updatedAt": "2026-07-10T13:33:36Z",
+    "sources": {
+      "legacyResourceId": "7895696769135",
+      "sourceUrl": "https://japanesetaste.com//products/vita-craft-stainless-steel-sauce-ladle-with-resin-handle"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681537392751",
+        "legacyResourceId": "43681537392751",
+        "title": "Default Title",
+        "sku": "VCFT-SAULDL-9808",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895696834671",
+    "legacyResourceId": "7895696834671",
+    "handle": "vita-craft-27cm-stainless-steel-tongs-ergonomic-resin-handle",
+    "title": "Vita Craft 27cm Stainless Steel Tongs - Ergonomic Resin Handle Made in Japan",
+    "vendor": "Vita Craft",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/vita-craft-27cm-stainless-steel-tongs-ergonomic-resin-handle",
+    "createdAt": "2025-09-27T15:55:59Z",
+    "updatedAt": "2026-07-10T13:33:36Z",
+    "sources": {
+      "legacyResourceId": "7895696834671",
+      "sourceUrl": "https://japanesetaste.com//products/vita-craft-stainless-steel-tongs-with-non-slip-resin-handle"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681537491055",
+        "legacyResourceId": "43681537491055",
+        "title": "Default Title",
+        "sku": "VCFT-SSTONG-9851",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895696932975",
+    "legacyResourceId": "7895696932975",
+    "handle": "yamani-black-firefly-sensu-22-5cm-authentic-japanese-folding-fan",
+    "title": "Yamani Black Firefly Sensu: 22.5cm Authentic Japanese Folding Fan",
+    "vendor": "Yamani",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yamani-black-firefly-sensu-22-5cm-authentic-japanese-folding-fan",
+    "createdAt": "2025-09-27T15:56:13Z",
+    "updatedAt": "2026-07-18T08:07:16Z",
+    "sources": {
+      "legacyResourceId": "7895696932975",
+      "sourceUrl": "https://japanesetaste.com//products/yamani-firefly-design-black-sensu-handheld-folding-fan-22-5cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681538375791",
+        "legacyResourceId": "43681538375791",
+        "title": "Default Title",
+        "sku": "YMNI-SNSFFY-244",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895696965743",
+    "legacyResourceId": "7895696965743",
+    "handle": "nanpudo-salted-caramel-nut-sable-cookies",
+    "title": "Nanpudo Salted Caramel Nut Sable Cookies - Japanese Gourmet Snack",
+    "vendor": "Nanpudo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/nanpudo-salted-caramel-nut-sable-cookies",
+    "createdAt": "2025-09-27T15:56:17Z",
+    "updatedAt": "2026-07-10T13:33:37Z",
+    "sources": {
+      "legacyResourceId": "7895696965743",
+      "sourceUrl": "https://japanesetaste.com//products/nanpudo-salted-caramel-nuts-sable-crunchy-cookies-20-pieces"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681538506863",
+        "legacyResourceId": "43681538506863",
+        "title": "Default Title",
+        "sku": "NANP-CMLSAB-20",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895696998511",
+    "legacyResourceId": "7895696998511",
+    "handle": "yamani-enso-zen-circle-handheld-folding-fan-22-5cm-sensu",
+    "title": "Yamani Enso Zen Circle Handheld Folding Fan - Authentic 22.5cm Japanese Sensu",
+    "vendor": "Yamani",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yamani-enso-zen-circle-handheld-folding-fan-22-5cm-sensu",
+    "createdAt": "2025-09-27T15:56:17Z",
+    "updatedAt": "2026-07-16T15:21:17Z",
+    "sources": {
+      "legacyResourceId": "7895696998511",
+      "sourceUrl": "https://japanesetaste.com//products/yamani-enso-zen-circle-sensu-handheld-folding-fan-22-5cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681538474095",
+        "legacyResourceId": "43681538474095",
+        "title": "Default Title",
+        "sku": "YMNI-SNSENS-208",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895697031279",
+    "legacyResourceId": "7895697031279",
+    "handle": "vita-craft-30cm-professional-stainless-steel-pasta-fork-ergonomic-grip",
+    "title": "Vita Craft 30cm Professional Stainless Steel Pasta Fork - Ergonomic Grip",
+    "vendor": "Vita Craft",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/vita-craft-30cm-professional-stainless-steel-pasta-fork-ergonomic-grip",
+    "createdAt": "2025-09-27T15:56:28Z",
+    "updatedAt": "2026-07-16T11:13:59Z",
+    "sources": {
+      "legacyResourceId": "7895697031279",
+      "sourceUrl": "https://japanesetaste.com//products/vita-craft-stainless-steel-pasta-fork-with-non-slip-handle-30cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681538572399",
+        "legacyResourceId": "43681538572399",
+        "title": "Default Title",
+        "sku": "VCFT-PTAFRK-9809",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895697064047",
+    "legacyResourceId": "7895697064047",
+    "handle": "vita-craft-professional-28cm-silicone-spatula-stainless-steel-handle",
+    "title": "Vita Craft Professional 28cm Silicone Spatula - Stainless Steel Handle",
+    "vendor": "Vita Craft",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/vita-craft-professional-28cm-silicone-spatula-stainless-steel-handle",
+    "createdAt": "2025-09-27T15:56:31Z",
+    "updatedAt": "2026-07-10T13:33:38Z",
+    "sources": {
+      "legacyResourceId": "7895697064047",
+      "sourceUrl": "https://japanesetaste.com//products/vita-craft-yellow-silicone-spatula-with-stainless-steel-body-28cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43681538637935",
+        "legacyResourceId": "43681538637935",
+        "title": "Default Title",
+        "sku": "VCFT-SPATLA-9841",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  }
+]

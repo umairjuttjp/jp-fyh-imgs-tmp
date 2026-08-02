@@ -1,0 +1,3202 @@
+[
+  {
+    "id": "gid://shopify/Product/7986590187631",
+    "legacyResourceId": "7986590187631",
+    "handle": "asahi-perfect-asta-collagen-lifter-drink-8-bottles-anti-aging-beauty-supplement",
+    "title": "Asahi Perfect Asta Collagen Lifter Drink - 8 Bottles Anti-Aging Beauty Supplement",
+    "vendor": "Asahi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-perfect-asta-collagen-lifter-drink-8-bottles-anti-aging-beauty-supplement",
+    "createdAt": "2025-12-24T12:03:06Z",
+    "updatedAt": "2026-07-10T14:39:45Z",
+    "sources": {
+      "legacyResourceId": "7986590187631"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014506147951",
+        "legacyResourceId": "44014506147951",
+        "title": "Default Title",
+        "sku": "1121953254",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986590253167",
+    "legacyResourceId": "7986590253167",
+    "handle": "shiseido-pure-white-drink-advanced-skin-brightening-supplement",
+    "title": "Shiseido Pure White Drink - Advanced Skin Brightening Beauty Supplement",
+    "vendor": "Shiseido",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/shiseido-pure-white-drink-advanced-skin-brightening-supplement",
+    "createdAt": "2025-12-24T12:03:11Z",
+    "updatedAt": "2026-07-10T14:39:45Z",
+    "sources": {
+      "legacyResourceId": "7986590253167"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014506279023",
+        "legacyResourceId": "44014506279023",
+        "title": "Default Title",
+        "sku": "1134707017",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986590285935",
+    "legacyResourceId": "7986590285935",
+    "handle": "uha-zinc-strawberry-gummy-supplement-immune-support",
+    "title": "UHA Zinc Strawberry Gummy Supplement - Delicious Immune Support",
+    "vendor": "UHA Mikakuto",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/uha-zinc-strawberry-gummy-supplement-immune-support",
+    "createdAt": "2025-12-24T12:03:12Z",
+    "updatedAt": "2026-07-10T14:39:45Z",
+    "sources": {
+      "legacyResourceId": "7986590285935"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014506311791",
+        "legacyResourceId": "44014506311791",
+        "title": "Default Title",
+        "sku": "1135060513",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986590318703",
+    "legacyResourceId": "7986590318703",
+    "handle": "dhc-alpha-lipoic-acid-210mg-energy-antioxidant-60pcs",
+    "title": "DHC Alpha-Lipoic Acid 210mg Supplement - Energy & Antioxidant Support 60pcs",
+    "vendor": "DHC",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dhc-alpha-lipoic-acid-210mg-energy-antioxidant-60pcs",
+    "createdAt": "2025-12-24T12:03:13Z",
+    "updatedAt": "2026-07-10T14:39:45Z",
+    "sources": {
+      "legacyResourceId": "7986590318703"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014506344559",
+        "legacyResourceId": "44014506344559",
+        "title": "Default Title",
+        "sku": "1128633855",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986590351471",
+    "legacyResourceId": "7986590351471",
+    "handle": "fancl-deep-charge-collagen-tablets-30-day-supply-for-youthful-radiance",
+    "title": "Fancl Deep Charge Collagen Tablets - 30 Day Supply for Youthful Radiance",
+    "vendor": "Fancl",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fancl-deep-charge-collagen-tablets-30-day-supply-for-youthful-radiance",
+    "createdAt": "2025-12-24T12:03:13Z",
+    "updatedAt": "2026-07-10T14:39:46Z",
+    "sources": {
+      "legacyResourceId": "7986590351471"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014506377327",
+        "legacyResourceId": "44014506377327",
+        "title": "Default Title",
+        "sku": "1120208786",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986590417007",
+    "legacyResourceId": "7986590417007",
+    "handle": "asahi-dear-natura-glucosamine-chondroitin-joint-support-30-day-supply",
+    "title": "Asahi Dear-Natura Glucosamine Chondroitin Joint Support - 30 Day Supply",
+    "vendor": "Asahi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-dear-natura-glucosamine-chondroitin-joint-support-30-day-supply",
+    "createdAt": "2025-12-24T12:03:18Z",
+    "updatedAt": "2026-07-10T14:39:46Z",
+    "sources": {
+      "legacyResourceId": "7986590417007"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014506508399",
+        "legacyResourceId": "44014506508399",
+        "title": "Default Title",
+        "sku": "1121569967",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986590449775",
+    "legacyResourceId": "7986590449775",
+    "handle": "dr-parent-collagen-calcium-growth-booster-mango-flavor-kids-supplement",
+    "title": "Dr.Parent Collagen Calcium Growth Booster - Mango Flavor Kids Supplement",
+    "vendor": "Dr.Parent",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dr-parent-collagen-calcium-growth-booster-mango-flavor-kids-supplement",
+    "createdAt": "2025-12-24T12:03:18Z",
+    "updatedAt": "2026-07-10T14:39:46Z",
+    "sources": {
+      "legacyResourceId": "7986590449775"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014506541167",
+        "legacyResourceId": "44014506541167",
+        "title": "Default Title",
+        "sku": "1131429309",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986590482543",
+    "legacyResourceId": "7986590482543",
+    "handle": "svelty-5-black-ginger-metabolic-support-supplement",
+    "title": "Svelty 5 Black Ginger Metabolic Support - 70 Tablets Metabolism Booster",
+    "vendor": "SVELTY",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/svelty-5-black-ginger-metabolic-support-supplement",
+    "createdAt": "2025-12-24T12:03:19Z",
+    "updatedAt": "2026-07-10T14:39:46Z",
+    "sources": {
+      "legacyResourceId": "7986590482543"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014506573935",
+        "legacyResourceId": "44014506573935",
+        "title": "Default Title",
+        "sku": "1127938963",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986590515311",
+    "legacyResourceId": "7986590515311",
+    "handle": "asahi-super-beer-yeast-z-zinc-maca-black-garlic-vitality-supplement",
+    "title": "Asahi Super Beer Yeast Z - Zinc, Maca, & Black Garlic Vitality Supplement",
+    "vendor": "Asahi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-super-beer-yeast-z-zinc-maca-black-garlic-vitality-supplement",
+    "createdAt": "2025-12-24T12:03:20Z",
+    "updatedAt": "2026-07-10T14:39:46Z",
+    "sources": {
+      "legacyResourceId": "7986590515311"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014506606703",
+        "legacyResourceId": "44014506606703",
+        "title": "Default Title",
+        "sku": "1134551948",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986590580847",
+    "legacyResourceId": "7986590580847",
+    "handle": "dhc-smooth-adlay-plus-supplement-30-day-supply-for-radiant-skin",
+    "title": "DHC Smooth Adlay Plus Supplement - 30-Day Supply for Radiant Skin",
+    "vendor": "DHC",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dhc-smooth-adlay-plus-supplement-30-day-supply-for-radiant-skin",
+    "createdAt": "2025-12-24T12:03:24Z",
+    "updatedAt": "2026-07-10T14:39:47Z",
+    "sources": {
+      "legacyResourceId": "7986590580847"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014506737775",
+        "legacyResourceId": "44014506737775",
+        "title": "Default Title",
+        "sku": "1082064870",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986590613615",
+    "legacyResourceId": "7986590613615",
+    "handle": "asahi-dear-natura-vitamin-b-mix-60-day-supply-for-energy-vitality",
+    "title": "Asahi Dear-Natura Vitamin B Mix - 60 Day Supply for Energy & Vitality",
+    "vendor": "Asahi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-dear-natura-vitamin-b-mix-60-day-supply-for-energy-vitality",
+    "createdAt": "2025-12-24T12:03:24Z",
+    "updatedAt": "2026-07-10T14:39:47Z",
+    "sources": {
+      "legacyResourceId": "7986590613615"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014506770543",
+        "legacyResourceId": "44014506770543",
+        "title": "Default Title",
+        "sku": "1121953243",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986590646383",
+    "legacyResourceId": "7986590646383",
+    "handle": "dhc-cholesterol-measures-capsule-natural-support-for-ldl-balance",
+    "title": "DHC Cholesterol Measures Capsule - Natural Support for LDL Balance",
+    "vendor": "DHC",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dhc-cholesterol-measures-capsule-natural-support-for-ldl-balance",
+    "createdAt": "2025-12-24T12:03:25Z",
+    "updatedAt": "2026-07-10T14:39:47Z",
+    "sources": {
+      "legacyResourceId": "7986590646383"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014506803311",
+        "legacyResourceId": "44014506803311",
+        "title": "Default Title",
+        "sku": "1122647494",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986590679151",
+    "legacyResourceId": "7986590679151",
+    "handle": "dhc-multi-mineral-supplement-essential-daily-nutrients",
+    "title": "DHC Multi Mineral Supplement - Essential Daily Nutrients for Health",
+    "vendor": "DHC",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dhc-multi-mineral-supplement-essential-daily-nutrients",
+    "createdAt": "2025-12-24T12:03:25Z",
+    "updatedAt": "2026-07-10T14:39:47Z",
+    "sources": {
+      "legacyResourceId": "7986590679151"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014506836079",
+        "legacyResourceId": "44014506836079",
+        "title": "Default Title",
+        "sku": "1128912901",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986590744687",
+    "legacyResourceId": "7986590744687",
+    "handle": "dhc-coenzyme-q10-inclusion-complex-20-day-supply",
+    "title": "DHC Coenzyme Q10 Inclusion Complex - 20 Day Supply (High Absorption)",
+    "vendor": "DHC",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dhc-coenzyme-q10-inclusion-complex-20-day-supply",
+    "createdAt": "2025-12-24T12:03:30Z",
+    "updatedAt": "2026-07-10T14:39:48Z",
+    "sources": {
+      "legacyResourceId": "7986590744687"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014506967151",
+        "legacyResourceId": "44014506967151",
+        "title": "Default Title",
+        "sku": "1094441045",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986590777455",
+    "legacyResourceId": "7986590777455",
+    "handle": "asahi-slim-up-slim-eat-yogurt-high-protein-meal-replacement",
+    "title": "Asahi Slim Up Slim Eat Yogurt - High Protein Japanese Meal Replacement",
+    "vendor": "Asahi Group Foods",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-slim-up-slim-eat-yogurt-high-protein-meal-replacement",
+    "createdAt": "2025-12-24T12:03:31Z",
+    "updatedAt": "2026-07-10T14:39:48Z",
+    "sources": {
+      "legacyResourceId": "7986590777455"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014506999919",
+        "legacyResourceId": "44014506999919",
+        "title": "Default Title",
+        "sku": "1134524738",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986590810223",
+    "legacyResourceId": "7986590810223",
+    "handle": "asahi-lalafem-citrus-mix-scent-wellness-supplement-30-packets",
+    "title": "Asahi Lalafem Citrus Mix Scent Wellness Supplement - 30 Packets",
+    "vendor": "Asahi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-lalafem-citrus-mix-scent-wellness-supplement-30-packets",
+    "createdAt": "2025-12-24T12:03:31Z",
+    "updatedAt": "2026-07-10T14:39:48Z",
+    "sources": {
+      "legacyResourceId": "7986590810223"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014507032687",
+        "legacyResourceId": "44014507032687",
+        "title": "Default Title",
+        "sku": "1134551931",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986590842991",
+    "legacyResourceId": "7986590842991",
+    "handle": "asahi-nenight-jelly-premium-l-theanine-sleep-support-supplement",
+    "title": "Asahi Nenight Jelly - Premium L-Theanine Sleep Support Supplement",
+    "vendor": "Asahi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-nenight-jelly-premium-l-theanine-sleep-support-supplement",
+    "createdAt": "2025-12-24T12:03:32Z",
+    "updatedAt": "2026-07-10T14:39:48Z",
+    "sources": {
+      "legacyResourceId": "7986590842991"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014507065455",
+        "legacyResourceId": "44014507065455",
+        "title": "Default Title",
+        "sku": "1134551946",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986590908527",
+    "legacyResourceId": "7986590908527",
+    "handle": "asahi-ebios-beer-yeast-tablets-2000-count-natural-digestive-health-support",
+    "title": "Asahi Ebios Beer Yeast Tablets - 2000 Count Natural Digestive Health Support",
+    "vendor": "Asahi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-ebios-beer-yeast-tablets-2000-count-natural-digestive-health-support",
+    "createdAt": "2025-12-24T12:03:37Z",
+    "updatedAt": "2026-07-10T14:39:49Z",
+    "sources": {
+      "legacyResourceId": "7986590908527"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014507196527",
+        "legacyResourceId": "44014507196527",
+        "title": "Default Title",
+        "sku": "1134551951",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986590941295",
+    "legacyResourceId": "7986590941295",
+    "handle": "asahi-dear-natura-style-vitamin-c-supplement-1000mg-60-day-supply",
+    "title": "Asahi Dear-Natura Style Vitamin C Supplement - 1000mg 60-Day Supply",
+    "vendor": "Asahi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-dear-natura-style-vitamin-c-supplement-1000mg-60-day-supply",
+    "createdAt": "2025-12-24T12:03:38Z",
+    "updatedAt": "2026-07-10T14:39:49Z",
+    "sources": {
+      "legacyResourceId": "7986590941295"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014507229295",
+        "legacyResourceId": "44014507229295",
+        "title": "Default Title",
+        "sku": "1122265896",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986590974063",
+    "legacyResourceId": "7986590974063",
+    "handle": "fancl-bilberry-blueberry-eye-health-supplement-support-vision-eye-fatigue",
+    "title": "Fancl Bilberry & Blueberry Eye Health Supplement - Support Vision & Eye Fatigue",
+    "vendor": "Fancl",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fancl-bilberry-blueberry-eye-health-supplement-support-vision-eye-fatigue",
+    "createdAt": "2025-12-24T12:03:38Z",
+    "updatedAt": "2026-07-10T14:39:49Z",
+    "sources": {
+      "legacyResourceId": "7986590974063"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014507262063",
+        "legacyResourceId": "44014507262063",
+        "title": "Default Title",
+        "sku": "1126156963",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986591006831",
+    "legacyResourceId": "7986591006831",
+    "handle": "earth-pharmaceutical-collagen-c-jelly-peach-high-potency-beauty-supplement",
+    "title": "Earth Pharmaceutical Collagen C Jelly Peach - High-Potency Beauty Supplement",
+    "vendor": "Earth Pharmaceutical",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/earth-pharmaceutical-collagen-c-jelly-peach-high-potency-beauty-supplement",
+    "createdAt": "2025-12-24T12:03:38Z",
+    "updatedAt": "2026-07-10T14:39:49Z",
+    "sources": {
+      "legacyResourceId": "7986591006831"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014507294831",
+        "legacyResourceId": "44014507294831",
+        "title": "Default Title",
+        "sku": "1134297615",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986591072367",
+    "legacyResourceId": "7986591072367",
+    "handle": "fine-japan-hyaluron-collagen-powder-refill-30-day-beauty-supply",
+    "title": "Fine Japan Hyaluron & Collagen Powder Refill - 30 Day Beauty Supply",
+    "vendor": "FINE JAPAN",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fine-japan-hyaluron-collagen-powder-refill-30-day-beauty-supply",
+    "createdAt": "2025-12-24T12:03:44Z",
+    "updatedAt": "2026-07-10T14:39:49Z",
+    "sources": {
+      "legacyResourceId": "7986591072367"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014507458671",
+        "legacyResourceId": "44014507458671",
+        "title": "Default Title",
+        "sku": "1122559881",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986591105135",
+    "legacyResourceId": "7986591105135",
+    "handle": "dhc-gymnema-extract-capsules-sugar-blocker-weight-support",
+    "title": "DHC Gymnema Extract Capsules - Natural Sugar Blocker & Weight Support",
+    "vendor": "DHC",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dhc-gymnema-extract-capsules-sugar-blocker-weight-support",
+    "createdAt": "2025-12-24T12:03:44Z",
+    "updatedAt": "2026-07-10T14:39:50Z",
+    "sources": {
+      "legacyResourceId": "7986591105135"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014507491439",
+        "legacyResourceId": "44014507491439",
+        "title": "Default Title",
+        "sku": "1122647497",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986591170671",
+    "legacyResourceId": "7986591170671",
+    "handle": "dhc-aromatic-black-vinegar-capsules-20-days-supplement-for-energy",
+    "title": "DHC Aromatic Black Vinegar Capsules - 20 Days Supplement for Energy",
+    "vendor": "DHC",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dhc-aromatic-black-vinegar-capsules-20-days-supplement-for-energy",
+    "createdAt": "2025-12-24T12:03:44Z",
+    "updatedAt": "2026-07-10T14:39:50Z",
+    "sources": {
+      "legacyResourceId": "7986591170671"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014507524207",
+        "legacyResourceId": "44014507524207",
+        "title": "Default Title",
+        "sku": "1122647505",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986591203439",
+    "legacyResourceId": "7986591203439",
+    "handle": "asahi-dear-natura-style-zinc-20-day-supply",
+    "title": "Asahi Dear-Natura Style Zinc 20-Day Supply - Immunity & Vitality Support",
+    "vendor": "Asahi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-dear-natura-style-zinc-20-day-supply",
+    "createdAt": "2025-12-24T12:03:45Z",
+    "updatedAt": "2026-07-10T14:39:50Z",
+    "sources": {
+      "legacyResourceId": "7986591203439"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014507655279",
+        "legacyResourceId": "44014507655279",
+        "title": "Default Title",
+        "sku": "1133538575",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986591236207",
+    "legacyResourceId": "7986591236207",
+    "handle": "asahi-muscle-bone-glucosamine-japanese-joint-bone-support",
+    "title": "Asahi Muscle & Bone Glucosamine - Japanese Joint & Bone Support",
+    "vendor": "Asahi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-muscle-bone-glucosamine-japanese-joint-bone-support",
+    "createdAt": "2025-12-24T12:03:50Z",
+    "updatedAt": "2026-07-10T14:39:50Z",
+    "sources": {
+      "legacyResourceId": "7986591236207"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014507688047",
+        "legacyResourceId": "44014507688047",
+        "title": "Default Title",
+        "sku": "1134551952",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986591301743",
+    "legacyResourceId": "7986591301743",
+    "handle": "dr-select-liposomal-vitamin-c-high-absorption-supplement",
+    "title": "Dr. Select Liposomal Vitamin C - High Absorption Immune & Skin Supplement",
+    "vendor": "Dr.Select",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dr-select-liposomal-vitamin-c-high-absorption-supplement",
+    "createdAt": "2025-12-24T12:03:51Z",
+    "updatedAt": "2026-07-10T14:39:51Z",
+    "sources": {
+      "legacyResourceId": "7986591301743"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014507819119",
+        "legacyResourceId": "44014507819119",
+        "title": "Default Title",
+        "sku": "1135303639",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986591334511",
+    "legacyResourceId": "7986591334511",
+    "handle": "shinya-koso-night-diet-active-enzyme-weight-management-sleep-support",
+    "title": "Shinya Koso Night Diet - Active Enzyme Weight Management & Sleep Support",
+    "vendor": "Shinya Koso",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/shinya-koso-night-diet-active-enzyme-weight-management-sleep-support",
+    "createdAt": "2025-12-24T12:03:51Z",
+    "updatedAt": "2026-07-10T14:39:51Z",
+    "sources": {
+      "legacyResourceId": "7986591334511"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014507851887",
+        "legacyResourceId": "44014507851887",
+        "title": "Default Title",
+        "sku": "1126156961",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986591367279",
+    "legacyResourceId": "7986591367279",
+    "handle": "dhc-fermented-black-sesamin-premium-energy-sleep-support",
+    "title": "DHC Fermented Black Sesamin Premium - Energy & Sleep Support",
+    "vendor": "DHC",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dhc-fermented-black-sesamin-premium-energy-sleep-support",
+    "createdAt": "2025-12-24T12:03:52Z",
+    "updatedAt": "2026-07-10T14:39:51Z",
+    "sources": {
+      "legacyResourceId": "7986591367279"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014507884655",
+        "legacyResourceId": "44014507884655",
+        "title": "Default Title",
+        "sku": "1094441082",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986591432815",
+    "legacyResourceId": "7986591432815",
+    "handle": "uha-gummy-supplement-vitamin-d3-muscat-flavor-40-gummies",
+    "title": "UHA Gummy Supplement Vitamin D3 Muscat Flavor - 40 Gummies (20 Days)",
+    "vendor": "UHA Mikakuto",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/uha-gummy-supplement-vitamin-d3-muscat-flavor-40-gummies",
+    "createdAt": "2025-12-24T12:03:56Z",
+    "updatedAt": "2026-07-10T14:39:51Z",
+    "sources": {
+      "legacyResourceId": "7986591432815"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014508015727",
+        "legacyResourceId": "44014508015727",
+        "title": "Default Title",
+        "sku": "1135060516",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986591465583",
+    "legacyResourceId": "7986591465583",
+    "handle": "asahi-dear-natura-zinc-maca-supplement-with-vitamin-b1-b6",
+    "title": "Asahi Dear-Natura Zinc & Maca Supplement with Vitamin B1 & B6",
+    "vendor": "Asahi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-dear-natura-zinc-maca-supplement-with-vitamin-b1-b6",
+    "createdAt": "2025-12-24T12:03:57Z",
+    "updatedAt": "2026-07-10T14:39:52Z",
+    "sources": {
+      "legacyResourceId": "7986591465583"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014508048495",
+        "legacyResourceId": "44014508048495",
+        "title": "Default Title",
+        "sku": "1133329962",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986591498351",
+    "legacyResourceId": "7986591498351",
+    "handle": "earth-placenta-c-jelly-acerola-31-day-collagen-skin-glow-supplement",
+    "title": "Earth Placenta C Jelly Acerola - 31-Day Collagen & Skin Glow Supplement",
+    "vendor": "Earth Chemical",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/earth-placenta-c-jelly-acerola-31-day-collagen-skin-glow-supplement",
+    "createdAt": "2025-12-24T12:03:58Z",
+    "updatedAt": "2026-07-10T14:39:52Z",
+    "sources": {
+      "legacyResourceId": "7986591498351"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014508081263",
+        "legacyResourceId": "44014508081263",
+        "title": "Default Title",
+        "sku": "1134297618",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986591531119",
+    "legacyResourceId": "7986591531119",
+    "handle": "fine-japan-superfood-spirulina-lactic-acid-powder-gut-health-immunity",
+    "title": "Fine Japan Superfood Spirulina + Lactic Acid Powder - Gut Health & Immunity",
+    "vendor": "FINE JAPAN",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fine-japan-superfood-spirulina-lactic-acid-powder-gut-health-immunity",
+    "createdAt": "2025-12-24T12:03:58Z",
+    "updatedAt": "2026-07-10T14:39:52Z",
+    "sources": {
+      "legacyResourceId": "7986591531119"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014508114031",
+        "legacyResourceId": "44014508114031",
+        "title": "Default Title",
+        "sku": "1122697691",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986591596655",
+    "legacyResourceId": "7986591596655",
+    "handle": "fine-japan-nattokinase-okinawa-moromi-vinegar-2000-fu",
+    "title": "Fine Japan Nattokinase & Okinawa Moromi Vinegar - 2000 FU Heart Health",
+    "vendor": "FINE JAPAN",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fine-japan-nattokinase-okinawa-moromi-vinegar-2000-fu",
+    "createdAt": "2025-12-24T12:04:02Z",
+    "updatedAt": "2026-07-10T14:39:52Z",
+    "sources": {
+      "legacyResourceId": "7986591596655"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014508245103",
+        "legacyResourceId": "44014508245103",
+        "title": "Default Title",
+        "sku": "1122770104",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986591629423",
+    "legacyResourceId": "7986591629423",
+    "handle": "asahi-reset-body-diet-care-porridge-with-germinated-brown-rice",
+    "title": "Asahi Reset Body Diet Care Porridge with Germinated Brown Rice",
+    "vendor": "Asahi Group Foods",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-reset-body-diet-care-porridge-with-germinated-brown-rice",
+    "createdAt": "2025-12-24T12:04:03Z",
+    "updatedAt": "2026-07-10T14:39:53Z",
+    "sources": {
+      "legacyResourceId": "7986591629423"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014508277871",
+        "legacyResourceId": "44014508277871",
+        "title": "Default Title",
+        "sku": "1134524771",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986591662191",
+    "legacyResourceId": "7986591662191",
+    "handle": "dhc-carnitine-supplement-metabolism-support-fat-burner-30-days",
+    "title": "DHC Carnitine Supplement - Metabolism Support & Fat Burner (30 Days)",
+    "vendor": "DHC",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dhc-carnitine-supplement-metabolism-support-fat-burner-30-days",
+    "createdAt": "2025-12-24T12:04:04Z",
+    "updatedAt": "2026-07-10T14:39:53Z",
+    "sources": {
+      "legacyResourceId": "7986591662191"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014508310639",
+        "legacyResourceId": "44014508310639",
+        "title": "Default Title",
+        "sku": "1128909584",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986591694959",
+    "legacyResourceId": "7986591694959",
+    "handle": "fine-japan-coix-seed-extract-tablets-radiant-skin-wellness",
+    "title": "Fine Japan Coix Seed Extract Tablets for Radiant Skin and Wellness",
+    "vendor": "FINE JAPAN",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fine-japan-coix-seed-extract-tablets-radiant-skin-wellness",
+    "createdAt": "2025-12-24T12:04:04Z",
+    "updatedAt": "2026-07-10T14:39:53Z",
+    "sources": {
+      "legacyResourceId": "7986591694959"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014508343407",
+        "legacyResourceId": "44014508343407",
+        "title": "Default Title",
+        "sku": "1122770123",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986591760495",
+    "legacyResourceId": "7986591760495",
+    "handle": "dhc-glucosamine-supplement-joint-health-flexibility-180-tablets",
+    "title": "DHC Glucosamine Supplement - Joint Health & Flexibility (180 Tablets)",
+    "vendor": "DHC",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dhc-glucosamine-supplement-joint-health-flexibility-180-tablets",
+    "createdAt": "2025-12-24T12:04:09Z",
+    "updatedAt": "2026-07-10T14:39:53Z",
+    "sources": {
+      "legacyResourceId": "7986591760495"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014508507247",
+        "legacyResourceId": "44014508507247",
+        "title": "Default Title",
+        "sku": "1094440989",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986591793263",
+    "legacyResourceId": "7986591793263",
+    "handle": "fancl-good-choice-50-women-health-supplement-30-day-supply-pack",
+    "title": "Fancl Good Choice 50+ Women Health Supplement - 30 Day Supply Pack",
+    "vendor": "Fancl",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fancl-good-choice-50-women-health-supplement-30-day-supply-pack",
+    "createdAt": "2025-12-24T12:04:09Z",
+    "updatedAt": "2026-07-10T14:39:53Z",
+    "sources": {
+      "legacyResourceId": "7986591793263"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014508474479",
+        "legacyResourceId": "44014508474479",
+        "title": "Default Title",
+        "sku": "1120208762",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986591826031",
+    "legacyResourceId": "7986591826031",
+    "handle": "asahi-reset-body-biscuits-high-fiber-weight-management-snacks",
+    "title": "Asahi Reset Body Biscuits - High-Fiber Weight Management Snacks",
+    "vendor": "Asahi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-reset-body-biscuits-high-fiber-weight-management-snacks",
+    "createdAt": "2025-12-24T12:04:11Z",
+    "updatedAt": "2026-07-10T14:39:54Z",
+    "sources": {
+      "legacyResourceId": "7986591826031"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014508540015",
+        "legacyResourceId": "44014508540015",
+        "title": "Default Title",
+        "sku": "1134524764",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986591858799",
+    "legacyResourceId": "7986591858799",
+    "handle": "dhc-lutein-blue-light-protection-capsules-eye-health-vision-support",
+    "title": "DHC Lutein Blue Light Protection Capsules - Eye Health & Vision Support",
+    "vendor": "DHC",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dhc-lutein-blue-light-protection-capsules-eye-health-vision-support",
+    "createdAt": "2025-12-24T12:04:11Z",
+    "updatedAt": "2026-07-10T14:39:54Z",
+    "sources": {
+      "legacyResourceId": "7986591858799"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014508572783",
+        "legacyResourceId": "44014508572783",
+        "title": "Default Title",
+        "sku": "1128954163",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986591924335",
+    "legacyResourceId": "7986591924335",
+    "handle": "dhc-raku-raku-ex-metabolism-weight-management-support",
+    "title": "DHC Raku Raku EX Metabolism & Weight Management Support - 30 Days",
+    "vendor": "DHC",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dhc-raku-raku-ex-metabolism-weight-management-support",
+    "createdAt": "2025-12-24T12:04:15Z",
+    "updatedAt": "2026-07-10T14:39:54Z",
+    "sources": {
+      "legacyResourceId": "7986591924335"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014508703855",
+        "legacyResourceId": "44014508703855",
+        "title": "Default Title",
+        "sku": "1134969812",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986591957103",
+    "legacyResourceId": "7986591957103",
+    "handle": "uha-mikakuto-vitamin-c-collagen-gummy-supplement-60-gummies",
+    "title": "UHA Mikakuto Vitamin C & Collagen Gummy - 60 Gummies (30-Day Supply)",
+    "vendor": "UHA Mikakuto",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/uha-mikakuto-vitamin-c-collagen-gummy-supplement-60-gummies",
+    "createdAt": "2025-12-24T12:04:16Z",
+    "updatedAt": "2026-07-10T14:39:54Z",
+    "sources": {
+      "legacyResourceId": "7986591957103"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014508736623",
+        "legacyResourceId": "44014508736623",
+        "title": "Default Title",
+        "sku": "1135060520",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986591989871",
+    "legacyResourceId": "7986591989871",
+    "handle": "asahi-dear-natura-style-hem-iron-folic-acid-60-day-supply",
+    "title": "Asahi Dear-Natura Style Hem Iron & Folic Acid Supplement - 60 Day Supply",
+    "vendor": "Asahi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-dear-natura-style-hem-iron-folic-acid-60-day-supply",
+    "createdAt": "2025-12-24T12:04:17Z",
+    "updatedAt": "2026-07-10T14:39:55Z",
+    "sources": {
+      "legacyResourceId": "7986591989871"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014508769391",
+        "legacyResourceId": "44014508769391",
+        "title": "Default Title",
+        "sku": "1122265891",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986592022639",
+    "legacyResourceId": "7986592022639",
+    "handle": "svelty-smart-super-synbiotics-33-probiotic-strains-for-gut-health",
+    "title": "SVELTY Smart Super Synbiotics - 33 Probiotic Strains for Gut Health",
+    "vendor": "SVELTY",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/svelty-smart-super-synbiotics-33-probiotic-strains-for-gut-health",
+    "createdAt": "2025-12-24T12:04:18Z",
+    "updatedAt": "2026-07-10T14:39:55Z",
+    "sources": {
+      "legacyResourceId": "7986592022639"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014508802159",
+        "legacyResourceId": "44014508802159",
+        "title": "Default Title",
+        "sku": "1127938964",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986688163951",
+    "legacyResourceId": "7986688163951",
+    "handle": "vivid-high-ten-aggressive-supplement-mental-clarity-peak-performance",
+    "title": "VIVID High-Ten Aggressive Supplement - Mental Clarity & Peak Performance",
+    "vendor": "VIVID Co., Ltd.",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/vivid-high-ten-aggressive-supplement-mental-clarity-peak-performance",
+    "createdAt": "2025-12-24T15:04:09Z",
+    "updatedAt": "2026-07-10T14:39:55Z",
+    "sources": {
+      "legacyResourceId": "7986688163951"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014773043311",
+        "legacyResourceId": "44014773043311",
+        "title": "Default Title",
+        "sku": "1134148756",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986688229487",
+    "legacyResourceId": "7986688229487",
+    "handle": "asahi-dear-natura-style-strong-maca-zinc-energy-vitality",
+    "title": "Asahi Dear-Natura Style Strong Maca & Zinc - Energy & Vitality Support",
+    "vendor": "Asahi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-dear-natura-style-strong-maca-zinc-energy-vitality",
+    "createdAt": "2025-12-24T15:04:10Z",
+    "updatedAt": "2026-07-10T14:39:55Z",
+    "sources": {
+      "legacyResourceId": "7986688229487"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014773108847",
+        "legacyResourceId": "44014773108847",
+        "title": "Default Title",
+        "sku": "1134448844",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986688458863",
+    "legacyResourceId": "7986688458863",
+    "handle": "matsukiyo-lab-chewable-iron-folic-acid-grape-flavor-120-tablets",
+    "title": "Matsukiyo LAB Chewable Iron & Folic Acid - Grape Flavor 120 Tablets",
+    "vendor": "Matsukiyo LAB",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/matsukiyo-lab-chewable-iron-folic-acid-grape-flavor-120-tablets",
+    "createdAt": "2025-12-24T15:04:20Z",
+    "updatedAt": "2026-07-10T14:39:56Z",
+    "sources": {
+      "legacyResourceId": "7986688458863"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014773731439",
+        "legacyResourceId": "44014773731439",
+        "title": "Default Title",
+        "sku": "1120262636",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986688557167",
+    "legacyResourceId": "7986688557167",
+    "handle": "specialize-bf-paste-premium-japanese-beauty-fitness-supplement",
+    "title": "Specialize B&F Paste - Premium Japanese Beauty & Fitness Supplement",
+    "vendor": "Specialize",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/specialize-bf-paste-premium-japanese-beauty-fitness-supplement",
+    "createdAt": "2025-12-24T15:04:28Z",
+    "updatedAt": "2026-07-10T14:39:56Z",
+    "sources": {
+      "legacyResourceId": "7986688557167"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014773895279",
+        "legacyResourceId": "44014773895279",
+        "title": "Default Title",
+        "sku": "1136155119",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986688589935",
+    "legacyResourceId": "7986688589935",
+    "handle": "fine-japan-protein-diet-powder-chocolate-flavor",
+    "title": "Fine Japan Protein Diet Powder Chocolate Flavor - Muscle & Weight Support",
+    "vendor": "FINE JAPAN",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fine-japan-protein-diet-powder-chocolate-flavor",
+    "createdAt": "2025-12-24T15:04:29Z",
+    "updatedAt": "2026-07-10T14:39:56Z",
+    "sources": {
+      "legacyResourceId": "7986688589935"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014773928047",
+        "legacyResourceId": "44014773928047",
+        "title": "Default Title",
+        "sku": "1122626700",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987046056047",
+    "legacyResourceId": "7987046056047",
+    "handle": "matsukiyo-lab-chewable-multivitamin-60-day-supply-120-tablets",
+    "title": "matsukiyo LAB Chewable Multivitamin - 60 Day Supply 120 Tablets",
+    "vendor": "matsukiyo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/matsukiyo-lab-chewable-multivitamin-60-day-supply-120-tablets",
+    "createdAt": "2025-12-24T18:28:56Z",
+    "updatedAt": "2026-07-10T14:39:56Z",
+    "sources": {
+      "legacyResourceId": "7987046056047"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44015236317295",
+        "legacyResourceId": "44015236317295",
+        "title": "Default Title",
+        "sku": "1120262637",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987046088815",
+    "legacyResourceId": "7987046088815",
+    "handle": "matsukiyo-lab-concentrated-turmeric-with-bioperine-20-day-supply",
+    "title": "Matsukiyo LAB Concentrated Turmeric with BioPerine - 20 Day Supply",
+    "vendor": "matsukiyo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/matsukiyo-lab-concentrated-turmeric-with-bioperine-20-day-supply",
+    "createdAt": "2025-12-24T18:28:57Z",
+    "updatedAt": "2026-07-10T14:39:56Z",
+    "sources": {
+      "legacyResourceId": "7987046088815"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44015236350063",
+        "legacyResourceId": "44015236350063",
+        "title": "Default Title",
+        "sku": "1120262639",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987046154351",
+    "legacyResourceId": "7987046154351",
+    "handle": "asahi-dear-natura-coenzyme-q10-11-vitamins-energy-supplement",
+    "title": "Asahi Dear-Natura Coenzyme Q10 + 11 Vitamins Energy Supplement",
+    "vendor": "Asahi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-dear-natura-coenzyme-q10-11-vitamins-energy-supplement",
+    "createdAt": "2025-12-24T18:28:58Z",
+    "updatedAt": "2026-07-10T14:39:57Z",
+    "sources": {
+      "legacyResourceId": "7987046154351"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44015236415599",
+        "legacyResourceId": "44015236415599",
+        "title": "Default Title",
+        "sku": "1121569971",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987046187119",
+    "legacyResourceId": "7987046187119",
+    "handle": "asahi-dear-natura-gold-pine-bark-polyphenols-circulation-brain-support",
+    "title": "Asahi Dear-Natura GOLD Pine Bark Polyphenols - Circulation & Brain Support",
+    "vendor": "Asahi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-dear-natura-gold-pine-bark-polyphenols-circulation-brain-support",
+    "createdAt": "2025-12-24T18:29:01Z",
+    "updatedAt": "2026-07-10T14:39:57Z",
+    "sources": {
+      "legacyResourceId": "7987046187119"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44015236448367",
+        "legacyResourceId": "44015236448367",
+        "title": "Default Title",
+        "sku": "1122103689",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987046285423",
+    "legacyResourceId": "7987046285423",
+    "handle": "yamamoto-100-pure-kale-aojiru-japanese-superfood-green-juice",
+    "title": "Yamamoto 100% Pure Kale Aojiru - Japanese Superfood Green Juice",
+    "vendor": "Yamamoto Kanpo Pharmaceutical",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yamamoto-100-pure-kale-aojiru-japanese-superfood-green-juice",
+    "createdAt": "2025-12-24T18:29:07Z",
+    "updatedAt": "2026-07-10T14:39:57Z",
+    "sources": {
+      "legacyResourceId": "7987046285423"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44015236546671",
+        "legacyResourceId": "44015236546671",
+        "title": "Default Title",
+        "sku": "1122854870",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987046350959",
+    "legacyResourceId": "7987046350959",
+    "handle": "motema-slim-level-up-probiotic-beauty-weight-management",
+    "title": "Motema Slim Level Up - Probiotic Beauty & Weight Management Supplement",
+    "vendor": "Karadani Eiyou",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/motema-slim-level-up-probiotic-beauty-weight-management",
+    "createdAt": "2025-12-24T18:29:08Z",
+    "updatedAt": "2026-07-10T14:39:57Z",
+    "sources": {
+      "legacyResourceId": "7987046350959"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44015236612207",
+        "legacyResourceId": "44015236612207",
+        "title": "Default Title",
+        "sku": "1123072267",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987046383727",
+    "legacyResourceId": "7987046383727",
+    "handle": "regina-post-tsuki-no-michi-aglycone-isoflavone-supplement",
+    "title": "REGINA POST Tsuki No Michi Aglycone Isoflavone - Hormonal Balance Supplement",
+    "vendor": "REGINA POST",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/regina-post-tsuki-no-michi-aglycone-isoflavone-supplement",
+    "createdAt": "2025-12-24T18:29:09Z",
+    "updatedAt": "2026-07-10T14:39:57Z",
+    "sources": {
+      "legacyResourceId": "7987046383727"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44015236644975",
+        "legacyResourceId": "44015236644975",
+        "title": "Default Title",
+        "sku": "1123469871",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987046416495",
+    "legacyResourceId": "7987046416495",
+    "handle": "fine-japan-agaricus-blazei-mushroom-extract-powder-immune-support",
+    "title": "Fine Japan Agaricus Blazei Mushroom Extract Powder - Immune Support Supplement",
+    "vendor": "Fine Japan",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fine-japan-agaricus-blazei-mushroom-extract-powder-immune-support",
+    "createdAt": "2025-12-24T18:29:10Z",
+    "updatedAt": "2026-07-10T14:39:58Z",
+    "sources": {
+      "legacyResourceId": "7987046416495"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44015236677743",
+        "legacyResourceId": "44015236677743",
+        "title": "Default Title",
+        "sku": "1124019528",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987046514799",
+    "legacyResourceId": "7987046514799",
+    "handle": "dear-ms-inner-care-beauty-jelly-collagen-vitamin-c",
+    "title": "Dear MS. Inner Care Beauty Jelly - Collagen & Vitamin C Honey Lemon",
+    "vendor": "Nature Japan",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dear-ms-inner-care-beauty-jelly-collagen-vitamin-c",
+    "createdAt": "2025-12-24T18:29:17Z",
+    "updatedAt": "2026-07-10T14:39:58Z",
+    "sources": {
+      "legacyResourceId": "7987046514799"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44015236776047",
+        "legacyResourceId": "44015236776047",
+        "title": "Default Title",
+        "sku": "1127302096",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987046547567",
+    "legacyResourceId": "7987046547567",
+    "handle": "axxzia-venus-recipe-pq-liquid-radiance-beauty-collagen-supplement",
+    "title": "AXXZIA Venus Recipe PQ Liquid - Radiance & Beauty Collagen Supplement",
+    "vendor": "AXXZIA",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/axxzia-venus-recipe-pq-liquid-radiance-beauty-collagen-supplement",
+    "createdAt": "2025-12-24T18:29:18Z",
+    "updatedAt": "2026-07-10T14:39:58Z",
+    "sources": {
+      "legacyResourceId": "7987046547567"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44015236808815",
+        "legacyResourceId": "44015236808815",
+        "title": "Default Title",
+        "sku": "1129163952",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987290603631",
+    "legacyResourceId": "7987290603631",
+    "handle": "kose-natu-savon-select-botanical-body-wash-moisturizing-japanese-soap",
+    "title": "Kose Natu Savon Select Botanical Body Wash - Moisturizing Japanese Soap",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-natu-savon-select-botanical-body-wash-moisturizing-japanese-soap",
+    "createdAt": "2025-12-25T09:57:45Z",
+    "updatedAt": "2026-07-10T14:39:58Z",
+    "sources": {
+      "legacyResourceId": "7987290603631"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016236560495",
+        "legacyResourceId": "44016236560495",
+        "title": "Default Title",
+        "sku": "1074090705",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987290636399",
+    "legacyResourceId": "7987290636399",
+    "handle": "kose-lecheri-oil-in-cleansing-gel-collagen-makeup-remover",
+    "title": "Kose Lecheri Oil In Cleansing Gel - Collagen Infused Makeup Remover",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-lecheri-oil-in-cleansing-gel-collagen-makeup-remover",
+    "createdAt": "2025-12-25T09:57:45Z",
+    "updatedAt": "2026-07-10T14:39:59Z",
+    "sources": {
+      "legacyResourceId": "7987290636399"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016236527727",
+        "legacyResourceId": "44016236527727",
+        "title": "Default Title",
+        "sku": "1069547012",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987290669167",
+    "legacyResourceId": "7987290669167",
+    "handle": "kose-grace-one-deep-white-milk-all-in-one-whitening-anti-aging-care",
+    "title": "Kose Grace One Deep White Milk - All-in-One Whitening & Anti-Aging Care",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-grace-one-deep-white-milk-all-in-one-whitening-anti-aging-care",
+    "createdAt": "2025-12-25T09:57:45Z",
+    "updatedAt": "2026-07-10T14:39:59Z",
+    "sources": {
+      "legacyResourceId": "7987290669167"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016236593263",
+        "legacyResourceId": "44016236593263",
+        "title": "Default Title",
+        "sku": "1060312436",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987290701935",
+    "legacyResourceId": "7987290701935",
+    "handle": "kose-softymo-1-night-skincare-travel-set",
+    "title": "Kose Softymo 1 Night Skincare Travel Set - Cleansing & Moisture Duo",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-softymo-1-night-skincare-travel-set",
+    "createdAt": "2025-12-25T09:57:45Z",
+    "updatedAt": "2026-07-10T14:39:59Z",
+    "sources": {
+      "legacyResourceId": "7987290701935"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016236626031",
+        "legacyResourceId": "44016236626031",
+        "title": "Default Title",
+        "sku": "1060182966",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987290833007",
+    "legacyResourceId": "7987290833007",
+    "handle": "kose-softymo-natu-savon-select-white-washing-cream-130g",
+    "title": "Kose Softymo Natu Savon Select White Washing Cream 130g",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-softymo-natu-savon-select-white-washing-cream-130g",
+    "createdAt": "2025-12-25T09:57:51Z",
+    "updatedAt": "2026-07-10T14:39:59Z",
+    "sources": {
+      "legacyResourceId": "7987290833007"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016236953711",
+        "legacyResourceId": "44016236953711",
+        "title": "Default Title",
+        "sku": "1074090721",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987290865775",
+    "legacyResourceId": "7987290865775",
+    "handle": "kose-esprique-prime-tint-rouge-hydrating-lip-tint",
+    "title": "Kose Esprique Prime Tint Rouge - Hydrating Long-Lasting Lip Tint",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-esprique-prime-tint-rouge-hydrating-lip-tint",
+    "createdAt": "2025-12-25T09:57:53Z",
+    "updatedAt": "2026-07-10T14:40:00Z",
+    "sources": {
+      "legacyResourceId": "7987290865775"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016236986479",
+        "legacyResourceId": "44016236986479",
+        "title": "Default Title",
+        "sku": "1074349758",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987290898543",
+    "legacyResourceId": "7987290898543",
+    "handle": "kose-esprique-eclat-powder-foundation-ex-spf-22-pa-plus-plus",
+    "title": "Kose Esprique Eclat Powder Foundation EX SPF 22 PA++ - Radiant Anti-Aging Finish",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-esprique-eclat-powder-foundation-ex-spf-22-pa-plus-plus",
+    "createdAt": "2025-12-25T09:57:53Z",
+    "updatedAt": "2026-07-10T14:40:00Z",
+    "sources": {
+      "legacyResourceId": "7987290898543"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237019247",
+        "legacyResourceId": "44016237019247",
+        "title": "Default Title",
+        "sku": "1074453493",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987290931311",
+    "legacyResourceId": "7987290931311",
+    "handle": "kose-esprique-eclat-bb-liquid-uv-spf-45-pa-brightening-bb-cream",
+    "title": "Kose Esprique Eclat BB Liquid UV SPF 45+ PA++++ - Brightening BB Cream",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-esprique-eclat-bb-liquid-uv-spf-45-pa-brightening-bb-cream",
+    "createdAt": "2025-12-25T09:57:53Z",
+    "updatedAt": "2026-07-10T14:40:00Z",
+    "sources": {
+      "legacyResourceId": "7987290931311"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237052015",
+        "legacyResourceId": "44016237052015",
+        "title": "Default Title",
+        "sku": "1074453550",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987290964079",
+    "legacyResourceId": "7987290964079",
+    "handle": "kose-visee-melty-sharp-gel-liner-1-5mm-ultra-fine-smudge-proof-eyeliner",
+    "title": "Kose Visee Melty Sharp Gel Liner - 1.5mm Ultra-Fine Smudge-Proof Eyeliner",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-visee-melty-sharp-gel-liner-1-5mm-ultra-fine-smudge-proof-eyeliner",
+    "createdAt": "2025-12-25T09:57:58Z",
+    "updatedAt": "2026-07-10T14:40:00Z",
+    "sources": {
+      "legacyResourceId": "7987290964079"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237084783",
+        "legacyResourceId": "44016237084783",
+        "title": "Default Title",
+        "sku": "1074903672",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987290996847",
+    "legacyResourceId": "7987290996847",
+    "handle": "kose-nail-holic-24-7-long-lasting-premium-nail-color",
+    "title": "Kose Nail Holic 24_7 Long-Lasting Premium Nail Color",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-nail-holic-24-7-long-lasting-premium-nail-color",
+    "createdAt": "2025-12-25T09:57:59Z",
+    "updatedAt": "2026-07-10T14:40:01Z",
+    "sources": {
+      "legacyResourceId": "7987290996847"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237117551",
+        "legacyResourceId": "44016237117551",
+        "title": "Default Title",
+        "sku": "1076211104",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291029615",
+    "legacyResourceId": "7987291029615",
+    "handle": "kose-visee-double-veil-eyeshadow-radiant-dimensional-two-tone-palette",
+    "title": "Kose Visee Double Veil Eyeshadow - Radiant Dimensional Two-Tone Palette",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-visee-double-veil-eyeshadow-radiant-dimensional-two-tone-palette",
+    "createdAt": "2025-12-25T09:57:59Z",
+    "updatedAt": "2026-07-10T14:40:01Z",
+    "sources": {
+      "legacyResourceId": "7987291029615"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237150319",
+        "legacyResourceId": "44016237150319",
+        "title": "Default Title",
+        "sku": "1076211188",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291062383",
+    "legacyResourceId": "7987291062383",
+    "handle": "kose-visee-eyebrow-powder-3-color-palette",
+    "title": "Kose Visee Eyebrow Powder - 3-Color Palette for Natural Defined Brows",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-visee-eyebrow-powder-3-color-palette",
+    "createdAt": "2025-12-25T09:57:59Z",
+    "updatedAt": "2026-07-10T14:40:01Z",
+    "sources": {
+      "legacyResourceId": "7987291062383"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237183087",
+        "legacyResourceId": "44016237183087",
+        "title": "Default Title",
+        "sku": "1076211246",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291127919",
+    "legacyResourceId": "7987291127919",
+    "handle": "kose-visee-riche-lip-cheek-cream-n-multi-use-radiant-tint",
+    "title": "Kose Visee Riche Lip & Cheek Cream N - Multi-Use Radiant Tint",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-visee-riche-lip-cheek-cream-n-multi-use-radiant-tint",
+    "createdAt": "2025-12-25T09:58:04Z",
+    "updatedAt": "2026-07-10T14:40:01Z",
+    "sources": {
+      "legacyResourceId": "7987291127919"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237281391",
+        "legacyResourceId": "44016237281391",
+        "title": "Default Title",
+        "sku": "1076454314",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291160687",
+    "legacyResourceId": "7987291160687",
+    "handle": "kose-visee-avant-single-eye-color-creamy",
+    "title": "Kose Visee Avant Single Eye Color Creamy - Luminous Blendable Eyeshadow",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-visee-avant-single-eye-color-creamy",
+    "createdAt": "2025-12-25T09:58:06Z",
+    "updatedAt": "2026-07-10T14:40:02Z",
+    "sources": {
+      "legacyResourceId": "7987291160687"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237314159",
+        "legacyResourceId": "44016237314159",
+        "title": "Default Title",
+        "sku": "1076491146",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291193455",
+    "legacyResourceId": "7987291193455",
+    "handle": "kose-visee-color-impact-liquid-liner-waterproof-precise-eyeliner",
+    "title": "Kose Visee Color Impact Liquid Liner - Waterproof Precise Eyeliner",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-visee-color-impact-liquid-liner-waterproof-precise-eyeliner",
+    "createdAt": "2025-12-25T09:58:06Z",
+    "updatedAt": "2026-07-10T14:40:02Z",
+    "sources": {
+      "legacyResourceId": "7987291193455"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237346927",
+        "legacyResourceId": "44016237346927",
+        "title": "Default Title",
+        "sku": "1076531448",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291226223",
+    "legacyResourceId": "7987291226223",
+    "handle": "kose-clear-turn-white-mask-vitamin-c-5-sheets",
+    "title": "Kose Clear Turn White Mask Vitamin C - 5 Sheets for Radiant Skin",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-clear-turn-white-mask-vitamin-c-5-sheets",
+    "createdAt": "2025-12-25T09:58:07Z",
+    "updatedAt": "2026-07-10T14:40:02Z",
+    "sources": {
+      "legacyResourceId": "7987291226223"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237379695",
+        "legacyResourceId": "44016237379695",
+        "title": "Default Title",
+        "sku": "1077092663",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291258991",
+    "legacyResourceId": "7987291258991",
+    "handle": "kose-esprique-gel-pencil-eyeliner-waterproof-smudge-proof-liner",
+    "title": "Kose Esprique Gel Pencil Eyeliner - Waterproof Smudge-Proof Liner",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-esprique-gel-pencil-eyeliner-waterproof-smudge-proof-liner",
+    "createdAt": "2025-12-25T09:58:10Z",
+    "updatedAt": "2026-07-10T14:40:02Z",
+    "sources": {
+      "legacyResourceId": "7987291258991"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237412463",
+        "legacyResourceId": "44016237412463",
+        "title": "Default Title",
+        "sku": "1077113662",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291291759",
+    "legacyResourceId": "7987291291759",
+    "handle": "kose-esprique-rich-fondue-rouge-hydrating-luminous-lipstick",
+    "title": "Kose Esprique Rich Fondue Rouge - Hydrating Luminous Lipstick",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-esprique-rich-fondue-rouge-hydrating-luminous-lipstick",
+    "createdAt": "2025-12-25T09:58:12Z",
+    "updatedAt": "2026-07-10T14:40:02Z",
+    "sources": {
+      "legacyResourceId": "7987291291759"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237445231",
+        "legacyResourceId": "44016237445231",
+        "title": "Default Title",
+        "sku": "1077116842",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291324527",
+    "legacyResourceId": "7987291324527",
+    "handle": "kose-sekkisei-snow-cc-powder-spf-14-pa-flawless-radiant-finish",
+    "title": "Kose Sekkisei Snow CC Powder SPF 14 PA+ - Flawless Radiant Finish",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-sekkisei-snow-cc-powder-spf-14-pa-flawless-radiant-finish",
+    "createdAt": "2025-12-25T09:58:12Z",
+    "updatedAt": "2026-07-10T14:40:03Z",
+    "sources": {
+      "legacyResourceId": "7987291324527"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237477999",
+        "legacyResourceId": "44016237477999",
+        "title": "Default Title",
+        "sku": "1077154794",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291357295",
+    "legacyResourceId": "7987291357295",
+    "handle": "kose-nail-holic-vivid-color-vibrant-high-shine-nail-polish-5ml",
+    "title": "Kose Nail Holic Vivid Color - Vibrant High-Shine Nail Polish 5ml",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-nail-holic-vivid-color-vibrant-high-shine-nail-polish-5ml",
+    "createdAt": "2025-12-25T09:58:13Z",
+    "updatedAt": "2026-07-10T14:40:03Z",
+    "sources": {
+      "legacyResourceId": "7987291357295"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237510767",
+        "legacyResourceId": "44016237510767",
+        "title": "Default Title",
+        "sku": "1077178316",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291390063",
+    "legacyResourceId": "7987291390063",
+    "handle": "kose-nail-holic-top-coat-high-gloss-protection-5ml",
+    "title": "Kose Nail Holic Top Coat - High Gloss & Quick Dry Protection (5ml)",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-nail-holic-top-coat-high-gloss-protection-5ml",
+    "createdAt": "2025-12-25T09:58:16Z",
+    "updatedAt": "2026-07-10T14:40:03Z",
+    "sources": {
+      "legacyResourceId": "7987291390063"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237543535",
+        "legacyResourceId": "44016237543535",
+        "title": "Default Title",
+        "sku": "1077179047",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291422831",
+    "legacyResourceId": "7987291422831",
+    "handle": "kose-nail-holic-sheer-pearl-color-elegant-shimmering-nail-polish",
+    "title": "Kose Nail Holic Sheer Pearl Color - Elegant Shimmering Nail Polish",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-nail-holic-sheer-pearl-color-elegant-shimmering-nail-polish",
+    "createdAt": "2025-12-25T09:58:19Z",
+    "updatedAt": "2026-07-10T14:40:03Z",
+    "sources": {
+      "legacyResourceId": "7987291422831"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237576303",
+        "legacyResourceId": "44016237576303",
+        "title": "Default Title",
+        "sku": "1077179775",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291455599",
+    "legacyResourceId": "7987291455599",
+    "handle": "kose-nail-holic-party-flake-dazzling-glitter-top-coat",
+    "title": "Kose Nail Holic Party Flake - Dazzling Glitter Top Coat for Nail Art",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-nail-holic-party-flake-dazzling-glitter-top-coat",
+    "createdAt": "2025-12-25T09:58:19Z",
+    "updatedAt": "2026-07-10T14:40:03Z",
+    "sources": {
+      "legacyResourceId": "7987291455599"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237609071",
+        "legacyResourceId": "44016237609071",
+        "title": "Default Title",
+        "sku": "1077184075",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291488367",
+    "legacyResourceId": "7987291488367",
+    "handle": "kose-lecheri-lift-glow-emulsion-firming-anti-aging-moisturizer",
+    "title": "Kose Lecheri Lift Glow Emulsion - Japanese Firming & Anti-Aging Moisturizer",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-lecheri-lift-glow-emulsion-firming-anti-aging-moisturizer",
+    "createdAt": "2025-12-25T09:58:20Z",
+    "updatedAt": "2026-07-10T14:40:04Z",
+    "sources": {
+      "legacyResourceId": "7987291488367"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237641839",
+        "legacyResourceId": "44016237641839",
+        "title": "Default Title",
+        "sku": "1077185644",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291521135",
+    "legacyResourceId": "7987291521135",
+    "handle": "kose-nail-holic-mode-color-japanese-nail-polish",
+    "title": "Kose Nail Holic Mode Color - High-Pigment Japanese Nail Polish",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-nail-holic-mode-color-japanese-nail-polish",
+    "createdAt": "2025-12-25T09:58:22Z",
+    "updatedAt": "2026-07-10T14:40:04Z",
+    "sources": {
+      "legacyResourceId": "7987291521135"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237674607",
+        "legacyResourceId": "44016237674607",
+        "title": "Default Title",
+        "sku": "1077186681",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291553903",
+    "legacyResourceId": "7987291553903",
+    "handle": "kose-nail-holic-art-liner-extra-fine-brush",
+    "title": "Kose Nail Holic Art Liner - Extra Fine Brush for Precision Nail Art",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-nail-holic-art-liner-extra-fine-brush",
+    "createdAt": "2025-12-25T09:58:25Z",
+    "updatedAt": "2026-07-10T14:40:04Z",
+    "sources": {
+      "legacyResourceId": "7987291553903"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237707375",
+        "legacyResourceId": "44016237707375",
+        "title": "Default Title",
+        "sku": "1077208396",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291586671",
+    "legacyResourceId": "7987291586671",
+    "handle": "kose-nail-holic-base-coat-manicure-primer-5ml",
+    "title": "Kose Nail Holic Base Coat - Long-Lasting Manicure Primer 5ml",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-nail-holic-base-coat-manicure-primer-5ml",
+    "createdAt": "2025-12-25T09:58:26Z",
+    "updatedAt": "2026-07-10T14:40:04Z",
+    "sources": {
+      "legacyResourceId": "7987291586671"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237740143",
+        "legacyResourceId": "44016237740143",
+        "title": "Default Title",
+        "sku": "1077208568",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291619439",
+    "legacyResourceId": "7987291619439",
+    "handle": "kose-nail-holic-classic-color",
+    "title": "Kose Nail Holic Classic Color - High Pigment Long-Lasting Nail Polish",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-nail-holic-classic-color",
+    "createdAt": "2025-12-25T09:58:26Z",
+    "updatedAt": "2026-07-10T14:40:04Z",
+    "sources": {
+      "legacyResourceId": "7987291619439"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237772911",
+        "legacyResourceId": "44016237772911",
+        "title": "Default Title",
+        "sku": "1077209768",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291652207",
+    "legacyResourceId": "7987291652207",
+    "handle": "kose-nail-holic-earth-color-japanese-nail-polish",
+    "title": "Kose Nail Holic Earth Color - Long-Lasting Japanese Nail Polish",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-nail-holic-earth-color-japanese-nail-polish",
+    "createdAt": "2025-12-25T09:58:29Z",
+    "updatedAt": "2026-07-10T14:40:05Z",
+    "sources": {
+      "legacyResourceId": "7987291652207"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237805679",
+        "legacyResourceId": "44016237805679",
+        "title": "Default Title",
+        "sku": "1077210217",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291684975",
+    "legacyResourceId": "7987291684975",
+    "handle": "kose-nail-holic-ethnic-color-nail-polish-vibrant-long-lasting-finish",
+    "title": "Kose Nail Holic Ethnic Color Nail Polish - Vibrant Long-Lasting Finish",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-nail-holic-ethnic-color-nail-polish-vibrant-long-lasting-finish",
+    "createdAt": "2025-12-25T09:58:32Z",
+    "updatedAt": "2026-07-10T14:40:05Z",
+    "sources": {
+      "legacyResourceId": "7987291684975"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237838447",
+        "legacyResourceId": "44016237838447",
+        "title": "Default Title",
+        "sku": "1077210374",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291717743",
+    "legacyResourceId": "7987291717743",
+    "handle": "kose-sekkisei-emulsion-brightening-face-moisturizer-140ml",
+    "title": "Kose Sekkisei Emulsion - Brightening Face Moisturizer with Herbal Extracts - 140ml",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-sekkisei-emulsion-brightening-face-moisturizer-140ml",
+    "createdAt": "2025-12-25T09:58:32Z",
+    "updatedAt": "2026-07-10T14:40:05Z",
+    "sources": {
+      "legacyResourceId": "7987291717743"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237903983",
+        "legacyResourceId": "44016237903983",
+        "title": "Default Title",
+        "sku": "1077210751",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291750511",
+    "legacyResourceId": "7987291750511",
+    "handle": "kose-nail-holic-juicy-color",
+    "title": "Kose Nail Holic Juicy Color - High Pigment Smooth Nail Polish",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-nail-holic-juicy-color",
+    "createdAt": "2025-12-25T09:58:32Z",
+    "updatedAt": "2026-07-10T14:40:05Z",
+    "sources": {
+      "legacyResourceId": "7987291750511"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016237936751",
+        "legacyResourceId": "44016237936751",
+        "title": "Default Title",
+        "sku": "1077211086",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291816047",
+    "legacyResourceId": "7987291816047",
+    "handle": "kose-nail-holic-galactic-color-cosmic-shimmer-nail-polish",
+    "title": "Kose Nail Holic Galactic Color - Long-Lasting Cosmic Shimmer Nail Polish",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-nail-holic-galactic-color-cosmic-shimmer-nail-polish",
+    "createdAt": "2025-12-25T09:58:35Z",
+    "updatedAt": "2026-07-10T14:40:06Z",
+    "sources": {
+      "legacyResourceId": "7987291816047"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016238264431",
+        "legacyResourceId": "44016238264431",
+        "title": "Default Title",
+        "sku": "1077211619",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291848815",
+    "legacyResourceId": "7987291848815",
+    "handle": "kose-nail-holic-milky-color-sheer-buildable-nail-polish",
+    "title": "Kose Nail Holic Milky Color - Sheer Buildable High-Shine Nail Polish",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-nail-holic-milky-color-sheer-buildable-nail-polish",
+    "createdAt": "2025-12-25T09:58:38Z",
+    "updatedAt": "2026-07-10T14:40:06Z",
+    "sources": {
+      "legacyResourceId": "7987291848815"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016238329967",
+        "legacyResourceId": "44016238329967",
+        "title": "Default Title",
+        "sku": "1077215703",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291881583",
+    "legacyResourceId": "7987291881583",
+    "handle": "kose-moisture-mild-lotion-deeply-hydrating-alcohol-free-japanese-toner",
+    "title": "Kose Moisture Mild Lotion - Deeply Hydrating Alcohol-Free Japanese Toner",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-moisture-mild-lotion-deeply-hydrating-alcohol-free-japanese-toner",
+    "createdAt": "2025-12-25T09:58:38Z",
+    "updatedAt": "2026-07-10T14:40:06Z",
+    "sources": {
+      "legacyResourceId": "7987291881583"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016238362735",
+        "legacyResourceId": "44016238362735",
+        "title": "Default Title",
+        "sku": "1077218439",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291914351",
+    "legacyResourceId": "7987291914351",
+    "handle": "kose-esprique-eyebrow-mascara-smudge-proof-natural-definition",
+    "title": "Kose Esprique Eyebrow Mascara - Smudge-Proof Natural Definition",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-esprique-eyebrow-mascara-smudge-proof-natural-definition",
+    "createdAt": "2025-12-25T09:58:38Z",
+    "updatedAt": "2026-07-10T14:40:06Z",
+    "sources": {
+      "legacyResourceId": "7987291914351"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016238395503",
+        "legacyResourceId": "44016238395503",
+        "title": "Default Title",
+        "sku": "1077299478",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291947119",
+    "legacyResourceId": "7987291947119",
+    "handle": "kose-escarat-deodorant-powder-sheets-peanuts-snoopy-edition-40-sheets",
+    "title": "Kose Escarat Deodorant Powder Sheets Peanuts Snoopy Edition - 40 Sheets",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-escarat-deodorant-powder-sheets-peanuts-snoopy-edition-40-sheets",
+    "createdAt": "2025-12-25T09:58:42Z",
+    "updatedAt": "2026-07-10T14:40:06Z",
+    "sources": {
+      "legacyResourceId": "7987291947119"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016238428271",
+        "legacyResourceId": "44016238428271",
+        "title": "Default Title",
+        "sku": "1077351480",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987291979887",
+    "legacyResourceId": "7987291979887",
+    "handle": "stephen-knoll-color-couture-cream-hair-color-kose",
+    "title": "Stephen Knoll Color Couture Cream Hair Color - Salon-Quality by Kose",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/stephen-knoll-color-couture-cream-hair-color-kose",
+    "createdAt": "2025-12-25T09:58:44Z",
+    "updatedAt": "2026-07-12T00:50:56Z",
+    "sources": {
+      "legacyResourceId": "7987291979887"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016238461039",
+        "legacyResourceId": "44016238461039",
+        "title": "Default Title",
+        "sku": "1082733387",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987292012655",
+    "legacyResourceId": "7987292012655",
+    "handle": "stephen-knoll-color-couture-liquid-hair-color-kose",
+    "title": "Stephen Knoll Color Couture Liquid Hair Color - Kose Salon-Quality",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/stephen-knoll-color-couture-liquid-hair-color-kose",
+    "createdAt": "2025-12-25T09:58:44Z",
+    "updatedAt": "2026-07-10T14:40:07Z",
+    "sources": {
+      "legacyResourceId": "7987292012655"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016238493807",
+        "legacyResourceId": "44016238493807",
+        "title": "Default Title",
+        "sku": "1085611435",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987292045423",
+    "legacyResourceId": "7987292045423",
+    "handle": "stephen-knoll-premium-sleek-nuance-arrange-treatment-80g",
+    "title": "Stephen Knoll New York Premium Sleek Nuance Arrange Treatment - 80g",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/stephen-knoll-premium-sleek-nuance-arrange-treatment-80g",
+    "createdAt": "2025-12-25T09:58:44Z",
+    "updatedAt": "2026-07-10T14:40:07Z",
+    "sources": {
+      "legacyResourceId": "7987292045423"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016238526575",
+        "legacyResourceId": "44016238526575",
+        "title": "Default Title",
+        "sku": "1085611819",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,3316 @@
+[
+  {
+    "id": "gid://shopify/Product/7895617994863",
+    "legacyResourceId": "7895617994863",
+    "handle": "shirakawa-red-oni-daruma-handcrafted-japanese-good-luck-charm-4-5cm",
+    "title": "Shirakawa Red Oni Daruma - Handcrafted Japanese Good Luck Charm (4.5cm)",
+    "vendor": "Shirakawa Daruma",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/shirakawa-red-oni-daruma-handcrafted-japanese-good-luck-charm-4-5cm",
+    "createdAt": "2025-09-27T10:22:32Z",
+    "updatedAt": "2026-07-10T13:30:56Z",
+    "sources": {
+      "legacyResourceId": "7895617994863",
+      "sourceUrl": "https://japanesetaste.com//products/shirakawa-demon-red-oni-daruma-doll-good-luck-charm-4-5cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679570198639",
+        "legacyResourceId": "43679570198639",
+        "title": "Default Title",
+        "sku": "SHIR-MONRED-HARM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895618027631",
+    "legacyResourceId": "7895618027631",
+    "handle": "shirakawa-cotton-lucky-charm-pouch-handcrafted-japanese-daruma-amulet-bag",
+    "title": "Shirakawa Cotton Lucky Charm Pouch - Handcrafted Japanese Daruma Amulet Bag",
+    "vendor": "Shirakawa Daruma Sohonpo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/shirakawa-cotton-lucky-charm-pouch-handcrafted-japanese-daruma-amulet-bag",
+    "createdAt": "2025-09-27T10:22:35Z",
+    "updatedAt": "2026-07-12T13:16:41Z",
+    "sources": {
+      "legacyResourceId": "7895618027631",
+      "sourceUrl": "https://japanesetaste.com//products/shirakawa-cute-white-cotton-small-pouch-daruma-design"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679570264175",
+        "legacyResourceId": "43679570264175",
+        "title": "Default Title",
+        "sku": "SHIR-ITEMAR-OUCH",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895618060399",
+    "legacyResourceId": "7895618060399",
+    "handle": "shirakawa-blue-oni-daruma-doll-4-5cm-handcrafted-protection-charm",
+    "title": "Shirakawa Blue Oni Daruma Doll - 4.5cm Handcrafted Protection Charm",
+    "vendor": "Shirakawa Daruma Sohonpo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/shirakawa-blue-oni-daruma-doll-4-5cm-handcrafted-protection-charm",
+    "createdAt": "2025-09-27T10:22:40Z",
+    "updatedAt": "2026-07-10T13:30:56Z",
+    "sources": {
+      "legacyResourceId": "7895618060399",
+      "sourceUrl": "https://japanesetaste.com//products/shirakawa-demon-blue-oni-daruma-doll-good-luck-charm-4-5cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679570329711",
+        "legacyResourceId": "43679570329711",
+        "title": "Default Title",
+        "sku": "SHIR-NIGOOD-HARM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895618125935",
+    "legacyResourceId": "7895618125935",
+    "handle": "tanabe-handcrafted-brass-shoehorn-premium-matte-finish-with-gift-box",
+    "title": "Tanabe Handcrafted Brass Shoehorn - Premium Matte Finish with Gift Box",
+    "vendor": "Tanabe",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tanabe-handcrafted-brass-shoehorn-premium-matte-finish-with-gift-box",
+    "createdAt": "2025-09-27T10:23:52Z",
+    "updatedAt": "2026-07-10T13:30:56Z",
+    "sources": {
+      "legacyResourceId": "7895618125935",
+      "sourceUrl": "https://japanesetaste.com//products/tanabe-brass-shoehorn-textured-and-matte-finish-with-gift-box"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679570591855",
+        "legacyResourceId": "43679570591855",
+        "title": "Default Title",
+        "sku": "TANA-EDMATT-TBOX",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895618158703",
+    "legacyResourceId": "7895618158703",
+    "handle": "tanabe-bronze-chopstick-rest-authentic-traditional-japanese-tableware",
+    "title": "Tanabe Bronze Chopstick Rest - Authentic Traditional Japanese Tableware",
+    "vendor": "Tanabe",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tanabe-bronze-chopstick-rest-authentic-traditional-japanese-tableware",
+    "createdAt": "2025-09-27T10:23:52Z",
+    "updatedAt": "2026-07-10T13:30:56Z",
+    "sources": {
+      "legacyResourceId": "7895618158703",
+      "sourceUrl": "https://japanesetaste.com//products/tanabe-elegant-bronze-chopstick-rest-with-traditional-pattern"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679570526319",
+        "legacyResourceId": "43679570526319",
+        "title": "Default Title",
+        "sku": "TANA-ZECHOP-TERN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895618191471",
+    "legacyResourceId": "7895618191471",
+    "handle": "tanabe-pure-copper-shoehorn-mirror-finish-luxury-gift",
+    "title": "Tanabe Pure Copper Shoehorn - Japanese Mirror Finish Luxury Gift",
+    "vendor": "Tanabe Kanagu",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tanabe-pure-copper-shoehorn-mirror-finish-luxury-gift",
+    "createdAt": "2025-09-27T10:23:52Z",
+    "updatedAt": "2026-07-10T13:30:57Z",
+    "sources": {
+      "legacyResourceId": "7895618191471",
+      "sourceUrl": "https://japanesetaste.com//products/tanabe-pure-copper-shoehorn-mirror-finish-with-gift-box"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679570559087",
+        "legacyResourceId": "43679570559087",
+        "title": "Default Title",
+        "sku": "TANA-FINISH-TBOX",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895618224239",
+    "legacyResourceId": "7895618224239",
+    "handle": "handmade-black-cotton-daruma-coin-purse-japanese-good-luck-charm",
+    "title": "Handmade Black Cotton Daruma Coin Purse - Japanese Good Luck Charm",
+    "vendor": "Japanese Craft House",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/handmade-black-cotton-daruma-coin-purse-japanese-good-luck-charm",
+    "createdAt": "2025-09-27T10:23:52Z",
+    "updatedAt": "2026-07-15T12:44:26Z",
+    "sources": {
+      "legacyResourceId": "7895618224239",
+      "sourceUrl": "https://japanesetaste.com//products/shirakawa-cute-black-cotton-small-purse-daruma-design"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679570624623",
+        "legacyResourceId": "43679570624623",
+        "title": "Default Title",
+        "sku": "SHIR-CKMARU-URSE",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895618289775",
+    "legacyResourceId": "7895618289775",
+    "handle": "tanabe-hand-hammered-24k-gold-plated-copper-sake-cup-pair-90ml",
+    "title": "Tanabe Hand-Hammered 24K Gold Plated Copper Japanese Cup Pair - 90ml",
+    "vendor": "Tanabe",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tanabe-hand-hammered-24k-gold-plated-copper-sake-cup-pair-90ml",
+    "createdAt": "2025-09-27T10:24:13Z",
+    "updatedAt": "2026-07-10T13:30:57Z",
+    "sources": {
+      "legacyResourceId": "7895618289775",
+      "sourceUrl": "https://japanesetaste.com//products/tanabe-hand-hammered-24k-gold-plated-copper-sake-cup-pair-90ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679570919535",
+        "legacyResourceId": "43679570919535",
+        "title": "Default Title",
+        "sku": "TANA-LATEDH-90ML",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895618355311",
+    "legacyResourceId": "7895618355311",
+    "handle": "tanabe-artisan-15cm-copper-stew-pot",
+    "title": "Tanabe Artisan 15cm Copper Stew Pot - Handcrafted Professional Cookware",
+    "vendor": "Tanabe",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tanabe-artisan-15cm-copper-stew-pot",
+    "createdAt": "2025-09-27T10:24:13Z",
+    "updatedAt": "2026-07-10T13:30:57Z",
+    "sources": {
+      "legacyResourceId": "7895618355311",
+      "sourceUrl": "https://japanesetaste.com//products/tanabe-high-conductivity-copper-stew-pot-with-handle-and-lid-15cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679570985071",
+        "legacyResourceId": "43679570985071",
+        "title": "Default Title",
+        "sku": "TANA-TEDJAP-15CM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895621828719",
+    "legacyResourceId": "7895621828719",
+    "handle": "sumikama-kasumi-vg-10-pro-kengata-gyuto-240mm-japanese-chef-knife",
+    "title": "Sumikama Kasumi VG-10 Pro Kengata Gyuto 240mm Japanese Chef Knife",
+    "vendor": "Sumikama",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/sumikama-kasumi-vg-10-pro-kengata-gyuto-240mm-japanese-chef-knife",
+    "createdAt": "2025-09-27T10:56:43Z",
+    "updatedAt": "2026-07-10T13:30:57Z",
+    "sources": {
+      "legacyResourceId": "7895621828719",
+      "sourceUrl": "https://japanesetaste.com//products/sumikama-kasumi-vg10-steel-kengata-gyuto-knife-240mm-58024"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679590580335",
+        "legacyResourceId": "43679590580335",
+        "title": "Default Title",
+        "sku": "SKMA-GYUKNF-58024",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895621927023",
+    "legacyResourceId": "7895621927023",
+    "handle": "morinaga-e-akachan-hypoallergenic-infant-formula-800g",
+    "title": "Morinaga E-Akachan Hypoallergenic Infant Formula - 800g Peptide Milk",
+    "vendor": "Morinaga",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/morinaga-e-akachan-hypoallergenic-infant-formula-800g",
+    "createdAt": "2025-09-27T10:58:23Z",
+    "updatedAt": "2026-07-10T13:30:58Z",
+    "sources": {
+      "legacyResourceId": "7895621927023",
+      "sourceUrl": "https://japanesetaste.com//products/morinaga-e-akachan-infant-formula-japanese-baby-milk-800g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679590973551",
+        "legacyResourceId": "43679590973551",
+        "title": "Default Title",
+        "sku": "MRNG-EAKACH-800",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895621959791",
+    "legacyResourceId": "7895621959791",
+    "handle": "minamigura-3-year-barrel-aged-gluten-free-tamari-soy-sauce-200ml",
+    "title": "Minamigura 3-Year Barrel-Aged Gluten-Free Tamari Soy Sauce - 200ml",
+    "vendor": "Minamigura",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/minamigura-3-year-barrel-aged-gluten-free-tamari-soy-sauce-200ml",
+    "createdAt": "2025-09-27T10:58:23Z",
+    "updatedAt": "2026-07-10T13:30:58Z",
+    "sources": {
+      "legacyResourceId": "7895621959791",
+      "sourceUrl": "https://japanesetaste.com//products/minamigura-tamari-shoyu-gluten-free-japanese-soy-sauce-gin-warabeuta-200ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679591039087",
+        "legacyResourceId": "43679591039087",
+        "title": "Default Title",
+        "sku": "MMRA-TAMSHO-200",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895621992559",
+    "legacyResourceId": "7895621992559",
+    "handle": "takesan-setouchi-japanese-citrus-dressing-premium-yuzu-sudachi-sauce",
+    "title": "Takesan Setouchi Japanese Citrus Dressing - Premium Yuzu & Sudachi Sauce",
+    "vendor": "Takesan",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/takesan-setouchi-japanese-citrus-dressing-premium-yuzu-sudachi-sauce",
+    "createdAt": "2025-09-27T10:58:23Z",
+    "updatedAt": "2026-07-10T13:30:58Z",
+    "sources": {
+      "legacyResourceId": "7895621992559",
+      "sourceUrl": "https://japanesetaste.com//products/takesan-setouchi-japanese-citrus-dressing-185ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679590940783",
+        "legacyResourceId": "43679590940783",
+        "title": "Default Title",
+        "sku": "TKSN-CITDRE-200",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895622025327",
+    "legacyResourceId": "7895622025327",
+    "handle": "yawataya-isogoro-sansho-shichimi-seven-spice-blend-12g",
+    "title": "Yawataya Isogoro Sansho Shichimi Seven Spice Blend - 12g Japanese Pepper",
+    "vendor": "Yawataya Isogoro",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yawataya-isogoro-sansho-shichimi-seven-spice-blend-12g",
+    "createdAt": "2025-09-27T10:58:23Z",
+    "updatedAt": "2026-07-10T13:30:58Z",
+    "sources": {
+      "legacyResourceId": "7895622025327",
+      "sourceUrl": "https://japanesetaste.com//products/yawataya-isogoro-sansho-shichimi-mixed-spice-seasoning-12g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679591006319",
+        "legacyResourceId": "43679591006319",
+        "title": "Default Title",
+        "sku": "YWTA-SANCHI-BN12",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895622058095",
+    "legacyResourceId": "7895622058095",
+    "handle": "takesan-japanese-fresh-basil-dressing-with-aromatic-cheese-185ml",
+    "title": "Takesan Japanese Fresh Basil Dressing with Aromatic Cheese - 185ml",
+    "vendor": "Takesan",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/takesan-japanese-fresh-basil-dressing-with-aromatic-cheese-185ml",
+    "createdAt": "2025-09-27T10:58:23Z",
+    "updatedAt": "2026-07-10T13:30:59Z",
+    "sources": {
+      "legacyResourceId": "7895622058095",
+      "sourceUrl": "https://japanesetaste.com//products/takesan-japanese-fresh-basil-dressing-185ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679591071855",
+        "legacyResourceId": "43679591071855",
+        "title": "Default Title",
+        "sku": "TKSN-BASDRE-200",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895622189167",
+    "legacyResourceId": "7895622189167",
+    "handle": "yawataya-isogoro-sansho-pepper-12g-authentic-japanese-spice",
+    "title": "Yawataya Isogoro Sansho Pepper - 12g Authentic Japanese Spice",
+    "vendor": "Yawataya Isogoro",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yawataya-isogoro-sansho-pepper-12g-authentic-japanese-spice",
+    "createdAt": "2025-09-27T10:58:54Z",
+    "updatedAt": "2026-07-10T13:30:59Z",
+    "sources": {
+      "legacyResourceId": "7895622189167",
+      "sourceUrl": "https://japanesetaste.com//products/yawataya-isogoro-sansho-pepper-japanese-pepper-12g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679591333999",
+        "legacyResourceId": "43679591333999",
+        "title": "Default Title",
+        "sku": "YWTA-SANSHO-BN12",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895622221935",
+    "legacyResourceId": "7895622221935",
+    "handle": "premium-dried-sliced-kikurage-wood-ear-mushrooms-10g-japan-superfood",
+    "title": "Premium Dried Sliced Kikurage Wood Ear Mushrooms - 10g Japan Superfood",
+    "vendor": "Takumimon",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/premium-dried-sliced-kikurage-wood-ear-mushrooms-10g-japan-superfood",
+    "createdAt": "2025-09-27T10:58:54Z",
+    "updatedAt": "2026-07-10T13:30:59Z",
+    "sources": {
+      "legacyResourceId": "7895622221935",
+      "sourceUrl": "https://japanesetaste.com//products/dried-sliced-kikurage-wood-ear-mushrooms-10g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679591366767",
+        "legacyResourceId": "43679591366767",
+        "title": "Default Title",
+        "sku": "TKMN-KKRAGE-SL10",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895622254703",
+    "legacyResourceId": "7895622254703",
+    "handle": "yawataya-isogoro-bird-eye-ultra-spicy-chili-12g",
+    "title": "Yawataya Isogoro BIRD EYE Ultra-Spicy Bird's Eye Chili Pepper - 12g",
+    "vendor": "Yawataya Isogoro",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yawataya-isogoro-bird-eye-ultra-spicy-chili-12g",
+    "createdAt": "2025-09-27T10:58:54Z",
+    "updatedAt": "2026-07-10T13:30:59Z",
+    "sources": {
+      "legacyResourceId": "7895622254703",
+      "sourceUrl": "https://japanesetaste.com//products/yawataya-isogoro-ichimi-togarashi-birds-eye-chili-pepper-seasoning-12g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679591399535",
+        "legacyResourceId": "43679591399535",
+        "title": "Default Title",
+        "sku": "YWTA-ICHIMI-CN12",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895623041135",
+    "legacyResourceId": "7895623041135",
+    "handle": "premium-kiriboshi-daikon-authentic-japanese-dried-radish-30g",
+    "title": "Premium Kiriboshi Daikon - Authentic Japanese Dried Radish Strips (30g)",
+    "vendor": "Takamon",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/premium-kiriboshi-daikon-authentic-japanese-dried-radish-30g",
+    "createdAt": "2025-09-27T10:59:39Z",
+    "updatedAt": "2026-07-10T13:30:59Z",
+    "sources": {
+      "legacyResourceId": "7895623041135",
+      "sourceUrl": "https://japanesetaste.com//products/kiriboshi-shredded-daikon-strips-dried-japanese-radish-30g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679592972399",
+        "legacyResourceId": "43679592972399",
+        "title": "Default Title",
+        "sku": "TKMN-KIRBSH-30",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895623073903",
+    "legacyResourceId": "7895623073903",
+    "handle": "premium-japanese-dried-kikurage-wood-ear-mushrooms-10g",
+    "title": "Premium Japanese Dried Kikurage Wood Ear Mushrooms - 10g",
+    "vendor": "Takuma Foods",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/premium-japanese-dried-kikurage-wood-ear-mushrooms-10g",
+    "createdAt": "2025-09-27T10:59:39Z",
+    "updatedAt": "2026-07-10T13:31:00Z",
+    "sources": {
+      "legacyResourceId": "7895623073903",
+      "sourceUrl": "https://japanesetaste.com//products/dried-kikurage-whole-japanese-wood-ear-mushrooms-10g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679592906863",
+        "legacyResourceId": "43679592906863",
+        "title": "Default Title",
+        "sku": "TKMN-KKRAGE-10",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895623106671",
+    "legacyResourceId": "7895623106671",
+    "handle": "fundokin-red-yuzu-kosho-spicy-japanese-citrus-chili-paste-50g",
+    "title": "Fundokin Red Yuzu Kosho - Spicy Japanese Citrus Chili Paste (50g)",
+    "vendor": "Fundokin",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fundokin-red-yuzu-kosho-spicy-japanese-citrus-chili-paste-50g",
+    "createdAt": "2025-09-27T10:59:39Z",
+    "updatedAt": "2026-07-10T13:31:00Z",
+    "sources": {
+      "legacyResourceId": "7895623106671",
+      "sourceUrl": "https://japanesetaste.com//products/fundokin-red-yuzu-kosho-sauce-spicy-citrus-seasoning-paste-50g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679592939631",
+        "legacyResourceId": "43679592939631",
+        "title": "Default Title",
+        "sku": "FNDK-YUZKOS-RD50",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895623172207",
+    "legacyResourceId": "7895623172207",
+    "handle": "kawaguchi-freeze-dried-natto-beans-180g-premium-japanese-superfood",
+    "title": "Kawaguchi Freeze-Dried Natto Beans 180g - Premium Japanese Superfood",
+    "vendor": "Kawaguchi Natto",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kawaguchi-freeze-dried-natto-beans-180g-premium-japanese-superfood",
+    "createdAt": "2025-09-27T11:00:49Z",
+    "updatedAt": "2026-07-10T13:31:00Z",
+    "sources": {
+      "legacyResourceId": "7895623172207",
+      "sourceUrl": "https://japanesetaste.com//products/kawaguchi-natto-freeze-dried-natto-beans-large-quantity-180g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679593136239",
+        "legacyResourceId": "43679593136239",
+        "title": "Default Title",
+        "sku": "KWGU-FDNATO-180",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895623237743",
+    "legacyResourceId": "7895623237743",
+    "handle": "koikeya-polinky-corn-soup-flavored-triangle-chips-japanese-snack-pack",
+    "title": "Koikeya Polinky Corn Soup Flavored Triangle Chips - Japanese Snack Pack",
+    "vendor": "Koikeya",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/koikeya-polinky-corn-soup-flavored-triangle-chips-japanese-snack-pack",
+    "createdAt": "2025-09-27T11:00:49Z",
+    "updatedAt": "2026-07-10T13:31:00Z",
+    "sources": {
+      "legacyResourceId": "7895623237743",
+      "sourceUrl": "https://japanesetaste.com//products/koikeya-polinky-corn-soup-chips-japanese-corn-snack-pack-of-3-bags"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679593201775",
+        "legacyResourceId": "43679593201775",
+        "title": "Default Title",
+        "sku": "KKYA-POLNKY-1:3",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895623336047",
+    "legacyResourceId": "7895623336047",
+    "handle": "frito-lay-japan-mike-popcorn-butter-soy-sauce-snack-3-pack",
+    "title": "Frito Lay Japan Mike Popcorn Butter Soy Sauce Snack - 3-Pack",
+    "vendor": "Frito Lay Japan",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/frito-lay-japan-mike-popcorn-butter-soy-sauce-snack-3-pack",
+    "createdAt": "2025-09-27T11:01:39Z",
+    "updatedAt": "2026-07-10T13:31:01Z",
+    "sources": {
+      "legacyResourceId": "7895623336047",
+      "sourceUrl": "https://japanesetaste.com//products/frito-lay-japan-mike-popcorn-butter-and-soy-sauce-flavor-50g-pack-of-3-bags"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679593431151",
+        "legacyResourceId": "43679593431151",
+        "title": "Default Title",
+        "sku": "FLAY-MIKEBS-1:3",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895623368815",
+    "legacyResourceId": "7895623368815",
+    "handle": "orihiro-peach-konjac-jelly-healthy-low-calorie-japanese-snack-6-pack",
+    "title": "Orihiro Peach Konjac Jelly - Healthy Low-Calorie Japanese Snack (6 Pack)",
+    "vendor": "Orihiro",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/orihiro-peach-konjac-jelly-healthy-low-calorie-japanese-snack-6-pack",
+    "createdAt": "2025-09-27T11:01:39Z",
+    "updatedAt": "2026-07-10T13:31:01Z",
+    "sources": {
+      "legacyResourceId": "7895623368815",
+      "sourceUrl": "https://japanesetaste.com//products/orihiro-konjac-jelly-snack-peach-flavor-pack-of-6"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679593398383",
+        "legacyResourceId": "43679593398383",
+        "title": "Default Title",
+        "sku": "ORIH-KNJPCH-120:6",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895623401583",
+    "legacyResourceId": "7895623401583",
+    "handle": "orihiro-grape-konjac-jelly-low-calorie-fiber-snack-6-pack",
+    "title": "Orihiro Grape Konjac Jelly - Low-Calorie Fiber Snack (6-Pack)",
+    "vendor": "Orihiro",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/orihiro-grape-konjac-jelly-low-calorie-fiber-snack-6-pack",
+    "createdAt": "2025-09-27T11:01:39Z",
+    "updatedAt": "2026-07-10T13:31:01Z",
+    "sources": {
+      "legacyResourceId": "7895623401583",
+      "sourceUrl": "https://japanesetaste.com//products/orihiro-konjac-jelly-snack-grape-flavor-pack-of-6"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679593463919",
+        "legacyResourceId": "43679593463919",
+        "title": "Default Title",
+        "sku": "ORIH-KNJGRP-120:6",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895623434351",
+    "legacyResourceId": "7895623434351",
+    "handle": "starbucks-caramel-latte-premium-instant-mix-3-sachets",
+    "title": "Starbucks Caramel Latte Premium Instant Mix - 3 Sachets",
+    "vendor": "Starbucks",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/starbucks-caramel-latte-premium-instant-mix-3-sachets",
+    "createdAt": "2025-09-27T11:01:51Z",
+    "updatedAt": "2026-07-10T13:31:01Z",
+    "sources": {
+      "legacyResourceId": "7895623434351",
+      "sourceUrl": "https://japanesetaste.com//products/starbucks-caramel-latte-premium-mixes-pack-of-3"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679593529455",
+        "legacyResourceId": "43679593529455",
+        "title": "Default Title",
+        "sku": "STBK-CRMLAT-4:3",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895623532655",
+    "legacyResourceId": "7895623532655",
+    "handle": "morinaga-strong-fizzy-ramune-candy-authentic-japanese-soda-6-pack",
+    "title": "Morinaga Strong Fizzy Ramune Candy - Authentic Japanese Soda (6 Pack)",
+    "vendor": "Morinaga",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/morinaga-strong-fizzy-ramune-candy-authentic-japanese-soda-6-pack",
+    "createdAt": "2025-09-27T11:02:23Z",
+    "updatedAt": "2026-07-10T13:31:01Z",
+    "sources": {
+      "legacyResourceId": "7895623532655",
+      "sourceUrl": "https://japanesetaste.com//products/morinaga-ramune-strong-fizzy-candy-sparkling-soda-flavor-pack-of-6"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679593824367",
+        "legacyResourceId": "43679593824367",
+        "title": "Default Title",
+        "sku": "MRNG-RAMCOL-1:6",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895623565423",
+    "legacyResourceId": "7895623565423",
+    "handle": "starbucks-japan-premium-matcha-latte-powder-3-pack",
+    "title": "Starbucks Japan Premium Matcha Latte Powder - Authentic 3-Pack",
+    "vendor": "Starbucks",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/starbucks-japan-premium-matcha-latte-powder-3-pack",
+    "createdAt": "2025-09-27T11:02:23Z",
+    "updatedAt": "2026-07-10T13:31:02Z",
+    "sources": {
+      "legacyResourceId": "7895623565423",
+      "sourceUrl": "https://japanesetaste.com//products/starbucks-matcha-latte-powder-premium-mixes-pack-of-3"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679593857135",
+        "legacyResourceId": "43679593857135",
+        "title": "Default Title",
+        "sku": "SBK-MATLAT-4:3",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895623598191",
+    "legacyResourceId": "7895623598191",
+    "handle": "morinaga-marie-biscuits-classic-japanese-milky-sweet-snacks-5-pack",
+    "title": "Morinaga Marie Biscuits - Classic Japanese Milky Sweet Snacks (Pack of 5)",
+    "vendor": "Morinaga",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/morinaga-marie-biscuits-classic-japanese-milky-sweet-snacks-5-pack",
+    "createdAt": "2025-09-27T11:02:33Z",
+    "updatedAt": "2026-07-10T13:31:02Z",
+    "sources": {
+      "legacyResourceId": "7895623598191",
+      "sourceUrl": "https://japanesetaste.com//products/morinaga-marie-biscuit-japanese-marie-cookies-pack-of-5"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679593922671",
+        "legacyResourceId": "43679593922671",
+        "title": "Default Title",
+        "sku": "MRNG-MARIEB-21:5",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895623729263",
+    "legacyResourceId": "7895623729263",
+    "handle": "morinaga-hi-chew-assorted-fruit-candy-authentic-japanese-6-pack-bundle",
+    "title": "Morinaga Hi-Chew Assorted Fruit Candy - Authentic Japanese 6-Pack Bundle",
+    "vendor": "Morinaga",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/morinaga-hi-chew-assorted-fruit-candy-authentic-japanese-6-pack-bundle",
+    "createdAt": "2025-09-27T11:05:30Z",
+    "updatedAt": "2026-07-10T13:31:02Z",
+    "sources": {
+      "legacyResourceId": "7895623729263",
+      "sourceUrl": "https://japanesetaste.com//products/morinaga-hi-chew-japanese-soft-candy-3-flavors-assortment-pack-of-6"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679594119279",
+        "legacyResourceId": "43679594119279",
+        "title": "Default Title",
+        "sku": "MRNG-HICHEW-AS94:6",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895623762031",
+    "legacyResourceId": "7895623762031",
+    "handle": "morinaga-moonlight-egg-yolk-cookies-family-pack-5-boxes-70pcs",
+    "title": "Morinaga Moonlight Egg Yolk Cookies - Family Pack 5 Boxes (70pcs)",
+    "vendor": "Morinaga",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/morinaga-moonlight-egg-yolk-cookies-family-pack-5-boxes-70pcs",
+    "createdAt": "2025-09-27T11:05:30Z",
+    "updatedAt": "2026-07-10T13:31:02Z",
+    "sources": {
+      "legacyResourceId": "7895623762031",
+      "sourceUrl": "https://japanesetaste.com//products/morinaga-moonlight-cookies-pack-of-5"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679594152047",
+        "legacyResourceId": "43679594152047",
+        "title": "Default Title",
+        "sku": "MRNG-MOONLG-14:5",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895623991407",
+    "legacyResourceId": "7895623991407",
+    "handle": "kurakon-premium-chewy-plum-flavored-kombu-seaweed-snack-6-packs",
+    "title": "Kurakon Premium Chewy Plum-Flavored Kombu Seaweed Snack (6 Packs)",
+    "vendor": "Kurakon",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kurakon-premium-chewy-plum-flavored-kombu-seaweed-snack-6-packs",
+    "createdAt": "2025-09-27T11:09:23Z",
+    "updatedAt": "2026-07-10T13:31:02Z",
+    "sources": {
+      "legacyResourceId": "7895623991407",
+      "sourceUrl": "https://japanesetaste.com//products/kurakon-oshaburi-kombu-ume-chewy-kombu-snack-plum-flavor-pack-of-6"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679594676335",
+        "legacyResourceId": "43679594676335",
+        "title": "Default Title",
+        "sku": "KKON-UMEKMB-1:6",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895624024175",
+    "legacyResourceId": "7895624024175",
+    "handle": "kurakon-salted-konbu-kelp-authentic-japanese-umami-seasoning-6-pack",
+    "title": "Kurakon Salted Konbu Kelp - Authentic Japanese Umami Seasoning (6 Pack)",
+    "vendor": "Kurakon",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kurakon-salted-konbu-kelp-authentic-japanese-umami-seasoning-6-pack",
+    "createdAt": "2025-09-27T11:09:23Z",
+    "updatedAt": "2026-07-10T13:31:03Z",
+    "sources": {
+      "legacyResourceId": "7895624024175",
+      "sourceUrl": "https://japanesetaste.com//products/kurakon-salted-konbu-seaweed-pack-of-6"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679594709103",
+        "legacyResourceId": "43679594709103",
+        "title": "Default Title",
+        "sku": "KRK-KON-SA-60:6",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895624056943",
+    "legacyResourceId": "7895624056943",
+    "handle": "heinz-japanese-kabocha-squash-potage-soup-3-pack",
+    "title": "Heinz Japanese Kabocha Squash Potage Soup - Premium 3-Pack",
+    "vendor": "Heinz",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/heinz-japanese-kabocha-squash-potage-soup-3-pack",
+    "createdAt": "2025-09-27T11:09:23Z",
+    "updatedAt": "2026-07-10T13:31:03Z",
+    "sources": {
+      "legacyResourceId": "7895624056943",
+      "sourceUrl": "https://japanesetaste.com//products/heinz-japanese-kabocha-squash-potage-soup-pack-of-3"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679594741871",
+        "legacyResourceId": "43679594741871",
+        "title": "Default Title",
+        "sku": "HENZ-KABSUP-160:3",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895624155247",
+    "legacyResourceId": "7895624155247",
+    "handle": "asahi-mitsuya-cider-assorted-fruit-candy-6-pack",
+    "title": "Asahi Mitsuya Cider Assorted Fruit Candy - Refreshing Soda Treats (6 Pack)",
+    "vendor": "Asahi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-mitsuya-cider-assorted-fruit-candy-6-pack",
+    "createdAt": "2025-09-27T11:10:18Z",
+    "updatedAt": "2026-07-10T13:31:03Z",
+    "sources": {
+      "legacyResourceId": "7895624155247",
+      "sourceUrl": "https://japanesetaste.com//products/asahi-mitsuya-cider-assorted-fruits-candy-pack-of-6"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679594971247",
+        "legacyResourceId": "43679594971247",
+        "title": "Default Title",
+        "sku": "ASHI-CIDASC-136:6",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895624188015",
+    "legacyResourceId": "7895624188015",
+    "handle": "kasugai-wasabi-roasted-peas-broad-beans-japanese-snack",
+    "title": "Kasugai Wasabi Roasted Peas & Broad Beans - Spicy Japanese Snack",
+    "vendor": "Kasugai",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kasugai-wasabi-roasted-peas-broad-beans-japanese-snack",
+    "createdAt": "2025-09-27T11:10:18Z",
+    "updatedAt": "2026-07-10T13:31:03Z",
+    "sources": {
+      "legacyResourceId": "7895624188015",
+      "sourceUrl": "https://japanesetaste.com//products/kasugai-roasted-green-peas-and-broad-beans-wasabi-flavor-pack-of-6"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679594938479",
+        "legacyResourceId": "43679594938479",
+        "title": "Default Title",
+        "sku": "KAS-WSB-PE-116:6",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895624220783",
+    "legacyResourceId": "7895624220783",
+    "handle": "yawataya-isogoro-yuzu-shichimi-togarashi-12g",
+    "title": "Yawataya Isogoro Yuzu Shichimi Togarashi - Japanese 7-Spice Blend (12g)",
+    "vendor": "Yawataya Isogoro",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yawataya-isogoro-yuzu-shichimi-togarashi-12g",
+    "createdAt": "2025-09-27T11:10:18Z",
+    "updatedAt": "2026-07-10T13:31:03Z",
+    "sources": {
+      "legacyResourceId": "7895624220783",
+      "sourceUrl": "https://japanesetaste.com//products/yawataya-isogoro-yuzu-shichimi-togarashi-mixed-spice-seasoning-12g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679595004015",
+        "legacyResourceId": "43679595004015",
+        "title": "Default Title",
+        "sku": "YWTA-YUZSHI-CN12",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895624515695",
+    "legacyResourceId": "7895624515695",
+    "handle": "ishimago-saishikomi-shoyu-300ml-2-year-aged-double-fermented-soy-sauce",
+    "title": "Ishimago Saishikomi Shoyu 300ml - 2-Year Aged Double-Fermented Soy Sauce",
+    "vendor": "Ishimago",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/ishimago-saishikomi-shoyu-300ml-2-year-aged-double-fermented-soy-sauce",
+    "createdAt": "2025-09-27T11:14:03Z",
+    "updatedAt": "2026-07-10T13:31:04Z",
+    "sources": {
+      "legacyResourceId": "7895624515695",
+      "sourceUrl": "https://japanesetaste.com//products/ishimago-saishikomi-shoyu-2-year-aged-natural-brewed-soy-sauce-300ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679595593839",
+        "legacyResourceId": "43679595593839",
+        "title": "Default Title",
+        "sku": "YUAA-NATSHO-200",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895624548463",
+    "legacyResourceId": "7895624548463",
+    "handle": "organic-daitoku-tokiarubeshi-dark-soy-sauce-koikuchi-300ml",
+    "title": "Organic Daitoku Tokiarubeshi Dark Soy Sauce - Authentic Japanese Koikuchi - 300ml",
+    "vendor": "Daitoku Shoyu",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/organic-daitoku-tokiarubeshi-dark-soy-sauce-koikuchi-300ml",
+    "createdAt": "2025-09-27T11:14:03Z",
+    "updatedAt": "2026-07-10T13:31:04Z",
+    "sources": {
+      "legacyResourceId": "7895624548463",
+      "sourceUrl": "https://japanesetaste.com//products/daitoku-tokiarubeshi-organic-koikuchi-shoyu-japanese-dark-soy-sauce-300ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679595561071",
+        "legacyResourceId": "43679595561071",
+        "title": "Default Title",
+        "sku": "DTKU-TKISHO-300",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895624581231",
+    "legacyResourceId": "7895624581231",
+    "handle": "hikari-miso-soy-free-rice-miso-paste-600g",
+    "title": "Hikari Miso Soy-Free Rice Miso Paste 600g - Allergy-Friendly Umami",
+    "vendor": "Hikari Miso",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/hikari-miso-soy-free-rice-miso-paste-600g",
+    "createdAt": "2025-09-27T11:14:03Z",
+    "updatedAt": "2026-07-10T13:31:04Z",
+    "sources": {
+      "legacyResourceId": "7895624581231",
+      "sourceUrl": "https://japanesetaste.com//products/yamazaki-jyouzou-soy-free-rice-miso-paste-600g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679595528303",
+        "legacyResourceId": "43679595528303",
+        "title": "Default Title",
+        "sku": "YJYO-RICMSO-600",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895624646767",
+    "legacyResourceId": "7895624646767",
+    "handle": "premium-daitoku-aged-saishikomi-soy-sauce-200ml",
+    "title": "Premium Daitoku Aged Saishikomi Soy Sauce - 200ml Double-Brewed Umami",
+    "vendor": "Daitoku Shoyu",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/premium-daitoku-aged-saishikomi-soy-sauce-200ml",
+    "createdAt": "2025-09-27T11:18:52Z",
+    "updatedAt": "2026-07-10T13:31:04Z",
+    "sources": {
+      "legacyResourceId": "7895624646767",
+      "sourceUrl": "https://japanesetaste.com//products/daitoku-aged-saishikomi-shoyu-double-brewed-non-gmo-soy-sauce-200ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679595692143",
+        "legacyResourceId": "43679595692143",
+        "title": "Default Title",
+        "sku": "YMHI-OGKSHO-500",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895624745071",
+    "legacyResourceId": "7895624745071",
+    "handle": "ippodo-premium-japanese-sencha-green-tea-bags-25-count",
+    "title": "Ippodo Premium Japanese Sencha Green Tea Bags - 25 Count",
+    "vendor": "Ippodo Tea Co.",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/ippodo-premium-japanese-sencha-green-tea-bags-25-count",
+    "createdAt": "2025-09-27T11:20:05Z",
+    "updatedAt": "2026-07-10T13:31:04Z",
+    "sources": {
+      "legacyResourceId": "7895624745071",
+      "sourceUrl": "https://japanesetaste.com//products/ippodo-japanese-sencha-green-tea-bags-25-ct"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679595954287",
+        "legacyResourceId": "43679595954287",
+        "title": "Default Title",
+        "sku": "IPDO-SENCHA-25",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895624777839",
+    "legacyResourceId": "7895624777839",
+    "handle": "marukyu-koyamaen-matcha-genmaicha-100g",
+    "title": "Marukyu Koyamaen Matcha Genmaicha - Premium Uji Green Tea 100g",
+    "vendor": "Marukyu Koyamaen",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/marukyu-koyamaen-matcha-genmaicha-100g",
+    "createdAt": "2025-09-27T11:20:05Z",
+    "updatedAt": "2026-07-10T13:31:04Z",
+    "sources": {
+      "legacyResourceId": "7895624777839",
+      "sourceUrl": "https://japanesetaste.com//products/marukyu-koyamaen-matcha-genmaicha-brown-rice-green-tea-with-matcha-100g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679595987055",
+        "legacyResourceId": "43679595987055",
+        "title": "Default Title",
+        "sku": "IPDO-GENMAC-200",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895624810607",
+    "legacyResourceId": "7895624810607",
+    "handle": "kashuen-moricho-nagasaki-honey-castella-cake-3-pack",
+    "title": "Kashuen Moricho Nagasaki Honey Castella Cake 3-Pack - Long Shelf Life",
+    "vendor": "Kashuen Moricho",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kashuen-moricho-nagasaki-honey-castella-cake-3-pack",
+    "createdAt": "2025-09-27T11:20:05Z",
+    "updatedAt": "2026-07-10T13:31:05Z",
+    "sources": {
+      "legacyResourceId": "7895624810607",
+      "sourceUrl": "https://japanesetaste.com//products/kashuen-moricho-long-shelf-life-honey-castella-cake-3-pieces"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679596052591",
+        "legacyResourceId": "43679596052591",
+        "title": "Default Title",
+        "sku": "KASM-HNYCAS-1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895624843375",
+    "legacyResourceId": "7895624843375",
+    "handle": "adachi-jozo-tamba-black-soybean-soy-sauce-1-year-aged-shoyu-300ml",
+    "title": "Adachi Jozo Tamba Black Soybean Soy Sauce - 1-Year Aged Umami Shoyu 300ml",
+    "vendor": "Adachi Jozo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/adachi-jozo-tamba-black-soybean-soy-sauce-1-year-aged-shoyu-300ml",
+    "createdAt": "2025-09-27T11:20:05Z",
+    "updatedAt": "2026-07-10T13:31:05Z",
+    "sources": {
+      "legacyResourceId": "7895624843375",
+      "sourceUrl": "https://japanesetaste.com//products/adachi-kuromame-shoyu-1-year-aged-tamba-black-soybean-soy-sauce-300ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679596085359",
+        "legacyResourceId": "43679596085359",
+        "title": "Default Title",
+        "sku": "YUAA-KROSHO-200",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895624876143",
+    "legacyResourceId": "7895624876143",
+    "handle": "adachi-brewery-saishikomi-twice-brewed-umami-soy-sauce-300ml",
+    "title": "Adachi Brewery Saishikomi Twice-Brewed Umami Soy Sauce - 300ml",
+    "vendor": "Adachi Brewery",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/adachi-brewery-saishikomi-twice-brewed-umami-soy-sauce-300ml",
+    "createdAt": "2025-09-27T11:20:05Z",
+    "updatedAt": "2026-07-10T13:31:05Z",
+    "sources": {
+      "legacyResourceId": "7895624876143",
+      "sourceUrl": "https://japanesetaste.com//products/adachi-saishikomi-shoyu-twice-brewed-rich-japanese-soy-sauce-300ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679596019823",
+        "legacyResourceId": "43679596019823",
+        "title": "Default Title",
+        "sku": "YUAA-TAMSHO-200",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895625302127",
+    "legacyResourceId": "7895625302127",
+    "handle": "kashuen-moricho-authentic-matcha-green-tea-castella-cake-3-piece-set",
+    "title": "Kashuen Moricho Authentic Matcha Green Tea Castella Cake - 3 Piece Set",
+    "vendor": "Kashuen Moricho",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kashuen-moricho-authentic-matcha-green-tea-castella-cake-3-piece-set",
+    "createdAt": "2025-09-27T11:23:11Z",
+    "updatedAt": "2026-07-10T13:31:05Z",
+    "sources": {
+      "legacyResourceId": "7895625302127",
+      "sourceUrl": "https://japanesetaste.com//products/kashuen-moricho-long-shelf-life-matcha-green-tea-castella-cake-3-pieces"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679599427695",
+        "legacyResourceId": "43679599427695",
+        "title": "Default Title",
+        "sku": "KASN-MCHCAS-1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895625433199",
+    "legacyResourceId": "7895625433199",
+    "handle": "premium-japanese-stainless-steel-chopsticks-245mm-elegant-reusable-set",
+    "title": "Premium Japanese Stainless Steel Chopsticks - 245mm Elegant Reusable Set",
+    "vendor": "Doshisha",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/premium-japanese-stainless-steel-chopsticks-245mm-elegant-reusable-set",
+    "createdAt": "2025-09-27T11:24:16Z",
+    "updatedAt": "2026-07-10T13:31:05Z",
+    "sources": {
+      "legacyResourceId": "7895625433199",
+      "sourceUrl": "https://japanesetaste.com//products/durable-japanese-stainless-steel-metal-chopsticks-245mm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679600312431",
+        "legacyResourceId": "43679600312431",
+        "title": "Default Title",
+        "sku": "DSHN-SSCSTK-245",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895625662575",
+    "legacyResourceId": "7895625662575",
+    "handle": "sori-yanagi-18cm-damascus-vg-10-steel-santoku-knife",
+    "title": "Sori Yanagi 18cm Damascus VG-10 Steel Santoku Knife - Japanese Chef Knife",
+    "vendor": "Sori Yanagi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/sori-yanagi-18cm-damascus-vg-10-steel-santoku-knife",
+    "createdAt": "2025-09-27T11:25:06Z",
+    "updatedAt": "2026-07-10T13:31:06Z",
+    "sources": {
+      "legacyResourceId": "7895625662575",
+      "sourceUrl": "https://japanesetaste.com//products/sori-yanagi-damascus-kitchen-knife-japanese-damascus-steel-chef-knife-180mm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679601459311",
+        "legacyResourceId": "43679601459311",
+        "title": "Default Title",
+        "sku": "SORI-SANTKU-D180",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895625695343",
+    "legacyResourceId": "7895625695343",
+    "handle": "sori-yanagi-25cm-iron-frying-pan-with-lid-magma-plate",
+    "title": "Sori Yanagi 25cm Iron Frying Pan with Lid - Professional Japanese Magma Plate",
+    "vendor": "Sori Yanagi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/sori-yanagi-25cm-iron-frying-pan-with-lid-magma-plate",
+    "createdAt": "2025-09-27T11:25:06Z",
+    "updatedAt": "2026-07-10T13:31:06Z",
+    "sources": {
+      "legacyResourceId": "7895625695343",
+      "sourceUrl": "https://japanesetaste.com//products/sori-yanagi-iron-frying-pan-with-lid-25cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679601492079",
+        "legacyResourceId": "43679601492079",
+        "title": "Default Title",
+        "sku": "SORI-PANLID-25",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895625728111",
+    "legacyResourceId": "7895625728111",
+    "handle": "sori-yanagi-stainless-steel-serving-fork-ladle-288mm",
+    "title": "Sori Yanagi Stainless Steel Serving Fork Ladle - 288mm Japanese Made",
+    "vendor": "Sori Yanagi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/sori-yanagi-stainless-steel-serving-fork-ladle-288mm",
+    "createdAt": "2025-09-27T11:25:06Z",
+    "updatedAt": "2026-07-10T13:31:06Z",
+    "sources": {
+      "legacyResourceId": "7895625728111",
+      "sourceUrl": "https://japanesetaste.com//products/sori-yanagi-stainless-steel-fork-ladle-288mm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679601524847",
+        "legacyResourceId": "43679601524847",
+        "title": "Default Title",
+        "sku": "SORI-FRKLDL-288",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895625793647",
+    "legacyResourceId": "7895625793647",
+    "handle": "sori-yanagi-168mm-birch-wood-butter-knife",
+    "title": "Sori Yanagi 168mm Birch Wood Butter Knife - Japanese Designer Tableware",
+    "vendor": "Sori Yanagi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/sori-yanagi-168mm-birch-wood-butter-knife",
+    "createdAt": "2025-09-27T11:25:18Z",
+    "updatedAt": "2026-07-10T13:31:06Z",
+    "sources": {
+      "legacyResourceId": "7895625793647",
+      "sourceUrl": "https://japanesetaste.com//products/sori-yanagi-designer-butter-knife-birch-wood-handle-168mm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679601623151",
+        "legacyResourceId": "43679601623151",
+        "title": "Default Title",
+        "sku": "SORI-BUTKNF-B168",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895625859183",
+    "legacyResourceId": "7895625859183",
+    "handle": "sori-yanagi-190mm-designer-dessert-fork-hand-finished-birch-handle",
+    "title": "Sori Yanagi 190mm Designer Dessert Fork - Hand-Finished Birch Handle",
+    "vendor": "Sori Yanagi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/sori-yanagi-190mm-designer-dessert-fork-hand-finished-birch-handle",
+    "createdAt": "2025-09-27T11:25:38Z",
+    "updatedAt": "2026-07-10T13:31:07Z",
+    "sources": {
+      "legacyResourceId": "7895625859183",
+      "sourceUrl": "https://japanesetaste.com//products/sori-yanagi-designer-dessert-fork-birch-wood-handle-190mm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679602737263",
+        "legacyResourceId": "43679602737263",
+        "title": "Default Title",
+        "sku": "SORI-DESFRK-B190",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895625891951",
+    "legacyResourceId": "7895625891951",
+    "handle": "sori-yanagi-birch-wood-dessert-knife-215mm",
+    "title": "Sori Yanagi Birch Wood Dessert Knife - Japanese Stainless Steel 215mm",
+    "vendor": "Sori Yanagi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/sori-yanagi-birch-wood-dessert-knife-215mm",
+    "createdAt": "2025-09-27T11:25:38Z",
+    "updatedAt": "2026-07-10T13:31:07Z",
+    "sources": {
+      "legacyResourceId": "7895625891951",
+      "sourceUrl": "https://japanesetaste.com//products/sori-yanagi-designer-dessert-knife-birch-wood-handle-215mm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679602770031",
+        "legacyResourceId": "43679602770031",
+        "title": "Default Title",
+        "sku": "SORI-DESKNF-B215",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895625957487",
+    "legacyResourceId": "7895625957487",
+    "handle": "kikumasamune-rice-made-japanese-sake-cleansing-lotion-500ml",
+    "title": "Kikumasamune Rice Made+ Japanese Sake Cleansing Lotion 500ml",
+    "vendor": "Kikumasamune",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kikumasamune-rice-made-japanese-sake-cleansing-lotion-500ml",
+    "createdAt": "2025-09-27T11:25:49Z",
+    "updatedAt": "2026-07-10T13:31:07Z",
+    "sources": {
+      "legacyResourceId": "7895625957487",
+      "sourceUrl": "https://japanesetaste.com//products/kikumasamune-rice-made-japanese-sake-cleansing-lotion-500ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679602868335",
+        "legacyResourceId": "43679602868335",
+        "title": "Default Title",
+        "sku": "KKMA-RMDLOT-500",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895626023023",
+    "legacyResourceId": "7895626023023",
+    "handle": "misono-ux10-130mm-petty-knife-professional-swedish-stainless-steel",
+    "title": "Misono UX10 130mm Petty Knife - Professional Swedish Stainless Steel",
+    "vendor": "Misono",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/misono-ux10-130mm-petty-knife-professional-swedish-stainless-steel",
+    "createdAt": "2025-09-27T11:26:07Z",
+    "updatedAt": "2026-07-10T13:31:07Z",
+    "sources": {
+      "legacyResourceId": "7895626023023",
+      "sourceUrl": "https://japanesetaste.com//products/misono-ux10-stainless-steel-petty-knife-130mm-no-732"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679603163247",
+        "legacyResourceId": "43679603163247",
+        "title": "Default Title",
+        "sku": "MSNO-UXPTTY-732",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895626186863",
+    "legacyResourceId": "7895626186863",
+    "handle": "misono-ux10-santoku-knife-180mm-swedish-high-purity-stainless-steel",
+    "title": "Misono UX10 Santoku Knife 180mm - Swedish High-Purity Stainless Steel",
+    "vendor": "Misono",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/misono-ux10-santoku-knife-180mm-swedish-high-purity-stainless-steel",
+    "createdAt": "2025-09-27T11:27:34Z",
+    "updatedAt": "2026-07-10T13:31:07Z",
+    "sources": {
+      "legacyResourceId": "7895626186863",
+      "sourceUrl": "https://japanesetaste.com//products/misono-ux10-stainless-steel-santoku-knife-180mm-no-781"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679607455855",
+        "legacyResourceId": "43679607455855",
+        "title": "Default Title",
+        "sku": "MSNO-SANTKU-781",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895626219631",
+    "legacyResourceId": "7895626219631",
+    "handle": "misono-ux10-gyuto-210mm-professional-swedish-stainless-steel-knife",
+    "title": "Misono UX10 Gyuto 210mm - Professional Swedish Stainless Steel Knife",
+    "vendor": "Misono",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/misono-ux10-gyuto-210mm-professional-swedish-stainless-steel-knife",
+    "createdAt": "2025-09-27T11:27:34Z",
+    "updatedAt": "2026-07-10T13:31:08Z",
+    "sources": {
+      "legacyResourceId": "7895626219631",
+      "sourceUrl": "https://japanesetaste.com//products/misono-ux10-stainless-steel-gyuto-knife-210mm-no-712"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679607521391",
+        "legacyResourceId": "43679607521391",
+        "title": "Default Title",
+        "sku": "MSNO-UXGYUT-712",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895626285167",
+    "legacyResourceId": "7895626285167",
+    "handle": "koh-gen-do-oriental-plants-hydrating-makeup-removal-cream-120g",
+    "title": "Koh Gen Do Oriental Plants Hydrating Makeup Removal Cream - 120g",
+    "vendor": "Koh Gen Do",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/koh-gen-do-oriental-plants-hydrating-makeup-removal-cream-120g",
+    "createdAt": "2025-09-27T11:27:34Z",
+    "updatedAt": "2026-07-10T13:31:08Z",
+    "sources": {
+      "legacyResourceId": "7895626285167",
+      "sourceUrl": "https://japanesetaste.com//products/koh-gen-do-oriental-plants-makeup-removal-cream-120g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679607488623",
+        "legacyResourceId": "43679607488623",
+        "title": "Default Title",
+        "sku": "KHGD-MKURMV-120",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895626350703",
+    "legacyResourceId": "7895626350703",
+    "handle": "sori-yanagi-stainless-steel-coffee-spoon-birch-handle-121mm",
+    "title": "Sori Yanagi Stainless Steel Coffee Spoon - Birch Wood Handle 121mm",
+    "vendor": "Sori Yanagi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/sori-yanagi-stainless-steel-coffee-spoon-birch-handle-121mm",
+    "createdAt": "2025-09-27T11:27:34Z",
+    "updatedAt": "2026-07-10T13:31:08Z",
+    "sources": {
+      "legacyResourceId": "7895626350703",
+      "sourceUrl": "https://japanesetaste.com//products/sori-yanagi-designer-coffee-spoon-birch-wood-handle-121mm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679607619695",
+        "legacyResourceId": "43679607619695",
+        "title": "Default Title",
+        "sku": "SORI-COFSPN-B121",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895626481775",
+    "legacyResourceId": "7895626481775",
+    "handle": "misono-ux10-240mm-gyuto-salmon-knife-professional-japanese-steel",
+    "title": "Misono UX10 240mm Gyuto Salmon Knife - Professional Japanese Steel",
+    "vendor": "Misono",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/misono-ux10-240mm-gyuto-salmon-knife-professional-japanese-steel",
+    "createdAt": "2025-09-27T11:28:12Z",
+    "updatedAt": "2026-07-10T13:31:08Z",
+    "sources": {
+      "legacyResourceId": "7895626481775",
+      "sourceUrl": "https://japanesetaste.com//products/misono-ux10-stainless-steel-gyuto-salmon-knife-240mm-no-763"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679608078447",
+        "legacyResourceId": "43679608078447",
+        "title": "Default Title",
+        "sku": "MSNO-UXGYSA-763",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895626514543",
+    "legacyResourceId": "7895626514543",
+    "handle": "misono-ux10-premium-japanese-boning-knife-145mm-swedish-steel",
+    "title": "Misono UX10 Premium Japanese Boning Knife - 145mm Swedish Steel",
+    "vendor": "Misono",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/misono-ux10-premium-japanese-boning-knife-145mm-swedish-steel",
+    "createdAt": "2025-09-27T11:28:12Z",
+    "updatedAt": "2026-07-10T13:31:08Z",
+    "sources": {
+      "legacyResourceId": "7895626514543",
+      "sourceUrl": "https://japanesetaste.com//products/misono-ux10-stainless-steel-japanese-boning-knife-145mm-no-741"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679608045679",
+        "legacyResourceId": "43679608045679",
+        "title": "Default Title",
+        "sku": "MSNO-UXBONG-741",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895626547311",
+    "legacyResourceId": "7895626547311",
+    "handle": "shiseido-elixir-superieur-facial-massage-cream-93g",
+    "title": "Shiseido Elixir Superieur Facial Massage Cream 93g - Radiant Skin",
+    "vendor": "Shiseido",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/shiseido-elixir-superieur-facial-massage-cream-93g",
+    "createdAt": "2025-09-27T11:28:12Z",
+    "updatedAt": "2026-07-10T13:31:09Z",
+    "sources": {
+      "legacyResourceId": "7895626547311",
+      "sourceUrl": "https://japanesetaste.com//products/shiseido-elixir-superieur-facial-massage-cream-93g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679608111215",
+        "legacyResourceId": "43679608111215",
+        "title": "Default Title",
+        "sku": "ELIX-MSGCRM-93",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895627038831",
+    "legacyResourceId": "7895627038831",
+    "handle": "summit-tetsunaberyu-3-2mm-heavy-duty-iron-campfire-griddle-plate",
+    "title": "Summit Tetsunaberyu 3.2mm Heavy-Duty Iron Campfire Griddle Plate",
+    "vendor": "Summit Kogyo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/summit-tetsunaberyu-3-2mm-heavy-duty-iron-campfire-griddle-plate",
+    "createdAt": "2025-09-27T11:30:27Z",
+    "updatedAt": "2026-07-10T13:31:09Z",
+    "sources": {
+      "legacyResourceId": "7895627038831",
+      "sourceUrl": "https://japanesetaste.com//products/summit-tetsunaberyu-campfire-cooking-iron-plate"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679610404975",
+        "legacyResourceId": "43679610404975",
+        "title": "Default Title",
+        "sku": "SMMT-IRNPLT-1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895627071599",
+    "legacyResourceId": "7895627071599",
+    "handle": "shiseido-elixir-superieur-makeup-cleansing-cream-140g-anti-aging-care",
+    "title": "Shiseido Elixir Superieur Makeup Cleansing Cream 140g - Anti-Aging Care",
+    "vendor": "Shiseido",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/shiseido-elixir-superieur-makeup-cleansing-cream-140g-anti-aging-care",
+    "createdAt": "2025-09-27T11:30:27Z",
+    "updatedAt": "2026-07-10T13:31:09Z",
+    "sources": {
+      "legacyResourceId": "7895627071599",
+      "sourceUrl": "https://japanesetaste.com//products/shiseido-elixir-superieur-makeup-cleansing-cream-cream-cleanser-140g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679610437743",
+        "legacyResourceId": "43679610437743",
+        "title": "Default Title",
+        "sku": "ELIX-MKCLCR-140",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895627104367",
+    "legacyResourceId": "7895627104367",
+    "handle": "summit-tetsunaberyu-28cm-iron-skillet-japanese-non-stick-pan",
+    "title": "Summit Tetsunaberyu 28cm Iron Skillet - Japanese Non-Stick Pan",
+    "vendor": "Summit",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/summit-tetsunaberyu-28cm-iron-skillet-japanese-non-stick-pan",
+    "createdAt": "2025-09-27T11:30:27Z",
+    "updatedAt": "2026-07-10T13:31:09Z",
+    "sources": {
+      "legacyResourceId": "7895627104367",
+      "sourceUrl": "https://japanesetaste.com//products/summit-tetsunaberyu-japanese-iron-pan-24cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679610503279",
+        "legacyResourceId": "43679610503279",
+        "title": "Default Title",
+        "sku": "SMMT-IRNPAN-24",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43679610536047",
+        "legacyResourceId": "43679610536047",
+        "title": "28cm",
+        "sku": "SMMT-IRNPAN-28",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "28cm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895627300975",
+    "legacyResourceId": "7895627300975",
+    "handle": "orihiro-zero-calorie-apple-konjac-jelly-130g-drinkable-japanese-snack",
+    "title": "Orihiro Zero Calorie Apple Konjac Jelly - 130g Drinkable Japanese Snack",
+    "vendor": "Orihiro",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/orihiro-zero-calorie-apple-konjac-jelly-130g-drinkable-japanese-snack",
+    "createdAt": "2025-09-27T11:30:46Z",
+    "updatedAt": "2026-07-10T13:31:09Z",
+    "sources": {
+      "legacyResourceId": "7895627300975",
+      "sourceUrl": "https://japanesetaste.com//products/orihiro-drinkable-konjac-jelly-calorie-free-diet-supplement-apple-flavor-130g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679613747311",
+        "legacyResourceId": "43679613747311",
+        "title": "Default Title",
+        "sku": "ORIH-KNJAPL-130",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895627333743",
+    "legacyResourceId": "7895627333743",
+    "handle": "orihiro-peach-drinkable-konjac-jelly-130g",
+    "title": "Orihiro Peach Drinkable Konjac Jelly - Low Calorie Japanese Snack 130g",
+    "vendor": "Orihiro",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/orihiro-peach-drinkable-konjac-jelly-130g",
+    "createdAt": "2025-09-27T11:30:46Z",
+    "updatedAt": "2026-07-10T13:31:10Z",
+    "sources": {
+      "legacyResourceId": "7895627333743",
+      "sourceUrl": "https://japanesetaste.com//products/orihiro-drinkable-konjac-jelly-drink-peach-flavor-130g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679613780079",
+        "legacyResourceId": "43679613780079",
+        "title": "Default Title",
+        "sku": "ORIH-KNJPEA-130",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895627366511",
+    "legacyResourceId": "7895627366511",
+    "handle": "seika-bontan-ame-traditional-japanese-pomelo-soft-candy-14-pieces",
+    "title": "Seika Bontan Ame: Traditional Japanese Pomelo Soft Candy (14 Pieces)",
+    "vendor": "Seika Foods",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/seika-bontan-ame-traditional-japanese-pomelo-soft-candy-14-pieces",
+    "createdAt": "2025-09-27T11:30:49Z",
+    "updatedAt": "2026-07-10T13:31:10Z",
+    "sources": {
+      "legacyResourceId": "7895627366511",
+      "sourceUrl": "https://japanesetaste.com//products/seika-bontan-ame-japanese-pomelo-soft-candy-14-pieces"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679613911151",
+        "legacyResourceId": "43679613911151",
+        "title": "Default Title",
+        "sku": "SEIK-BNTAME-1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895627399279",
+    "legacyResourceId": "7895627399279",
+    "handle": "orihiro-nattokinase-2000fu-heart-health-supplement-60-softgels",
+    "title": "Orihiro Nattokinase 2000FU Heart Health Supplement - 60 Softgels",
+    "vendor": "Orihiro",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/orihiro-nattokinase-2000fu-heart-health-supplement-60-softgels",
+    "createdAt": "2025-09-27T11:30:49Z",
+    "updatedAt": "2026-07-10T13:31:10Z",
+    "sources": {
+      "legacyResourceId": "7895627399279",
+      "sourceUrl": "https://japanesetaste.com//products/orihiro-nattokinase-natto-supplement-60-capsules"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679613976687",
+        "legacyResourceId": "43679613976687",
+        "title": "Default Title",
+        "sku": "ORIH-NTOKIN-60",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895627432047",
+    "legacyResourceId": "7895627432047",
+    "handle": "orihiro-white-muscat-konjac-jelly-drink-130g",
+    "title": "Orihiro White Muscat Konjac Jelly Drink - 130g Healthy Fiber Snack",
+    "vendor": "Orihiro",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/orihiro-white-muscat-konjac-jelly-drink-130g",
+    "createdAt": "2025-09-27T11:30:49Z",
+    "updatedAt": "2026-07-10T13:31:10Z",
+    "sources": {
+      "legacyResourceId": "7895627432047",
+      "sourceUrl": "https://japanesetaste.com//products/orihiro-drinkable-konjac-jelly-drink-white-muscat-grape-flavor-130g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679613943919",
+        "legacyResourceId": "43679613943919",
+        "title": "Default Title",
+        "sku": "ORIH-KNJMIX-130",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895627464815",
+    "legacyResourceId": "7895627464815",
+    "handle": "orihiro-zero-calorie-fruit-konjac-jelly-assortment-432g-snack-pack",
+    "title": "Orihiro Zero Calorie Fruit Konjac Jelly Assortment - 432g Snack Pack",
+    "vendor": "Orihiro",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/orihiro-zero-calorie-fruit-konjac-jelly-assortment-432g-snack-pack",
+    "createdAt": "2025-09-27T11:30:50Z",
+    "updatedAt": "2026-07-10T13:31:11Z",
+    "sources": {
+      "legacyResourceId": "7895627464815",
+      "sourceUrl": "https://japanesetaste.com//products/orihiro-0-calorie-bite-sized-fruit-konjac-jelly-assortment-432g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679614042223",
+        "legacyResourceId": "43679614042223",
+        "title": "Default Title",
+        "sku": "ORIH-KNJORA-130",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895627661423",
+    "legacyResourceId": "7895627661423",
+    "handle": "orihiro-night-diet-tea-caffeine-free-bedtime-support",
+    "title": "Orihiro Night Diet Tea - Caffeine-Free Bedtime Support from Japan",
+    "vendor": "Orihiro",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/orihiro-night-diet-tea-caffeine-free-bedtime-support",
+    "createdAt": "2025-09-27T11:31:34Z",
+    "updatedAt": "2026-07-10T13:31:11Z",
+    "sources": {
+      "legacyResourceId": "7895627661423",
+      "sourceUrl": "https://japanesetaste.com//products/orihiro-night-diet-tea-japanese-bedtime-tea-bags-20-ct"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679614599279",
+        "legacyResourceId": "43679614599279",
+        "title": "Default Title",
+        "sku": "ORIH-DITTEA-20",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895627694191",
+    "legacyResourceId": "7895627694191",
+    "handle": "kewpie-karashi-japanese-spicy-mayo-200g",
+    "title": "Kewpie Karashi Japanese Spicy Mayo - 200g Squeeze Bottle",
+    "vendor": "Kewpie",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kewpie-karashi-japanese-spicy-mayo-200g",
+    "createdAt": "2025-09-27T11:31:34Z",
+    "updatedAt": "2026-07-10T13:31:11Z",
+    "sources": {
+      "legacyResourceId": "7895627694191",
+      "sourceUrl": "https://japanesetaste.com//products/kewpie-karashi-mayonnaise-japanese-spicy-mayo-200g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679614566511",
+        "legacyResourceId": "43679614566511",
+        "title": "Default Title",
+        "sku": "KWPI-SPYMYO-200",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895627825263",
+    "legacyResourceId": "7895627825263",
+    "handle": "kewpie-creamy-salmon-potato-stew-9-months-baby-food-pouch-100g",
+    "title": "Kewpie Creamy Salmon & Potato Stew - 9+ Months Baby Food Pouch 100g",
+    "vendor": "Kewpie",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kewpie-creamy-salmon-potato-stew-9-months-baby-food-pouch-100g",
+    "createdAt": "2025-09-27T11:31:54Z",
+    "updatedAt": "2026-07-10T13:31:11Z",
+    "sources": {
+      "legacyResourceId": "7895627825263",
+      "sourceUrl": "https://japanesetaste.com//products/kewpie-japanese-baby-food-creamy-salmon-potato-stew-9m-100g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679616925807",
+        "legacyResourceId": "43679616925807",
+        "title": "Default Title",
+        "sku": "KWPI-SALPOT-80",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895627858031",
+    "legacyResourceId": "7895627858031",
+    "handle": "kewpie-baby-food-tomato-apple-puree-5-months-70g",
+    "title": "Kewpie Baby Food Tomato & Apple Puree - 5+ Months (70g Jar)",
+    "vendor": "Kewpie",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kewpie-baby-food-tomato-apple-puree-5-months-70g",
+    "createdAt": "2025-09-27T11:31:55Z",
+    "updatedAt": "2026-07-10T13:31:11Z",
+    "sources": {
+      "legacyResourceId": "7895627858031",
+      "sourceUrl": "https://japanesetaste.com//products/kewpie-japanese-baby-food-tomato-and-apple-dessert-5m-70g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679616958575",
+        "legacyResourceId": "43679616958575",
+        "title": "Default Title",
+        "sku": "KWPI-TOMAPL-70",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895628447855",
+    "legacyResourceId": "7895628447855",
+    "handle": "natori-spicy-batter-fried-squid-snack-crispy-japanese-ika-fry",
+    "title": "Natori Spicy Batter Fried Squid Snack - Crispy Japanese Ika Fry",
+    "vendor": "Natori",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/natori-spicy-batter-fried-squid-snack-crispy-japanese-ika-fry",
+    "createdAt": "2025-09-27T11:36:31Z",
+    "updatedAt": "2026-07-10T13:31:12Z",
+    "sources": {
+      "legacyResourceId": "7895628447855",
+      "sourceUrl": "https://japanesetaste.com//products/natori-ika-fry-spicy-batter-fried-squid-snack-4-pieces"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679627903087",
+        "legacyResourceId": "43679627903087",
+        "title": "Default Title",
+        "sku": "NATR-IKAFRY-1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895628480623",
+    "legacyResourceId": "7895628480623",
+    "handle": "kameda-kaki-no-tane-ume-shiso-rice-crackers-peanuts-164g",
+    "title": "Kameda Kaki no Tane Ume Shiso Rice Crackers with Peanuts (164g)",
+    "vendor": "Kameda Seika",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kameda-kaki-no-tane-ume-shiso-rice-crackers-peanuts-164g",
+    "createdAt": "2025-09-27T11:36:31Z",
+    "updatedAt": "2026-07-10T13:31:12Z",
+    "sources": {
+      "legacyResourceId": "7895628480623",
+      "sourceUrl": "https://japanesetaste.com//products/kameda-kakinotane-ume-shiso-rice-crackers-with-peanuts-164g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679627870319",
+        "legacyResourceId": "43679627870319",
+        "title": "Default Title",
+        "sku": "KMDA-KKNUME-1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895628513391",
+    "legacyResourceId": "7895628513391",
+    "handle": "kewpie-pureed-green-peas-veggies-baby-food-7-months-70g",
+    "title": "Kewpie Pureed Green Peas & Veggies Baby Food (7 Months+) - 70g",
+    "vendor": "Kewpie",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kewpie-pureed-green-peas-veggies-baby-food-7-months-70g",
+    "createdAt": "2025-09-27T11:36:31Z",
+    "updatedAt": "2026-07-10T13:31:12Z",
+    "sources": {
+      "legacyResourceId": "7895628513391",
+      "sourceUrl": "https://japanesetaste.com//products/kewpie-japanese-baby-food-pureed-green-peas-and-vegetables-5m-70g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679627935855",
+        "legacyResourceId": "43679627935855",
+        "title": "Default Title",
+        "sku": "KWPI-GRNPEA-70",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895628611695",
+    "legacyResourceId": "7895628611695",
+    "handle": "kiya-ultra-slim-japanese-travel-nail-clippers-with-integrated-file",
+    "title": "Kiya Ultra-Slim Japanese Travel Nail Clippers with Integrated File",
+    "vendor": "Kiya",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kiya-ultra-slim-japanese-travel-nail-clippers-with-integrated-file",
+    "createdAt": "2025-09-27T11:37:50Z",
+    "updatedAt": "2026-07-10T13:31:12Z",
+    "sources": {
+      "legacyResourceId": "7895628611695",
+      "sourceUrl": "https://japanesetaste.com//products/kiya-compact-travel-nail-clippers-ultra-slim-fingernail-clipper-file"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679631016047",
+        "legacyResourceId": "43679631016047",
+        "title": "Default Title",
+        "sku": "MUJI-NAILCL-L1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895628644463",
+    "legacyResourceId": "7895628644463",
+    "handle": "wahei-freiz-stainless-steel-dome-steamer-insert-24-26cm",
+    "title": "Wahei Freiz Stainless Steel Dome Steamer Insert - Fits 24-26cm Cookware",
+    "vendor": "Wahei Freiz",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/wahei-freiz-stainless-steel-dome-steamer-insert-24-26cm",
+    "createdAt": "2025-09-27T11:37:50Z",
+    "updatedAt": "2026-07-10T13:31:13Z",
+    "sources": {
+      "legacyResourceId": "7895628644463",
+      "sourceUrl": "https://japanesetaste.com//products/wahei-freiz-stainless-steel-steamer-insert-dome-24-26cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679630950511",
+        "legacyResourceId": "43679630950511",
+        "title": "Default Title",
+        "sku": "YOSH-DOMLID-YJ2611",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895628775535",
+    "legacyResourceId": "7895628775535",
+    "handle": "kiya-premium-hammered-steel-nail-clipper-82mm-large",
+    "title": "Kiya Premium Hammered Steel Nail Clipper - 82mm Large Japanese Made",
+    "vendor": "Kiya",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kiya-premium-hammered-steel-nail-clipper-82mm-large",
+    "createdAt": "2025-09-27T11:38:47Z",
+    "updatedAt": "2026-07-10T13:31:13Z",
+    "sources": {
+      "legacyResourceId": "7895628775535",
+      "sourceUrl": "https://japanesetaste.com//products/kiya-premium-hammered-steel-nail-clipper-82mm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679632359535",
+        "legacyResourceId": "43679632359535",
+        "title": "Default Title",
+        "sku": "MUJI-NAILCL-S1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895628808303",
+    "legacyResourceId": "7895628808303",
+    "handle": "tombow-play-color-2-dual-tip-marker-set-6-vibrant-water-based-pens",
+    "title": "Tombow Play Color 2 Dual Tip Marker Set - 6 Vibrant Water-Based Pens",
+    "vendor": "Tombow",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tombow-play-color-2-dual-tip-marker-set-6-vibrant-water-based-pens",
+    "createdAt": "2025-09-27T11:38:47Z",
+    "updatedAt": "2026-07-10T13:31:13Z",
+    "sources": {
+      "legacyResourceId": "7895628808303",
+      "sourceUrl": "https://japanesetaste.com//products/tombow-play-color-2-dual-tip-marker-set-6-colors-gcb-611"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679632392303",
+        "legacyResourceId": "43679632392303",
+        "title": "Default Title",
+        "sku": "TMBW-DUAMRK-GCB611",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895628873839",
+    "legacyResourceId": "7895628873839",
+    "handle": "pilot-juice-up-gel-ink-pen-set-12-vibrant-colors-0-4mm-japan-import",
+    "title": "Pilot Juice Up Gel Ink Pen Set - 12 Vibrant Colors 0.4mm Japan Import",
+    "vendor": "Pilot",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/pilot-juice-up-gel-ink-pen-set-12-vibrant-colors-0-4mm-japan-import",
+    "createdAt": "2025-09-27T11:39:15Z",
+    "updatedAt": "2026-07-10T13:31:13Z",
+    "sources": {
+      "legacyResourceId": "7895628873839",
+      "sourceUrl": "https://japanesetaste.com//products/pilot-juice-gel-ink-ballpoint-pens-0-5mm-12-color-set"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679633539183",
+        "legacyResourceId": "43679633539183",
+        "title": "Default Title",
+        "sku": "MUJI-GELPEN-0510",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895628906607",
+    "legacyResourceId": "7895628906607",
+    "handle": "tombow-36-color-professional-colored-pencils-vibrant-artist-set",
+    "title": "Tombow 36-Color Professional Colored Pencils - Vibrant Artist Set",
+    "vendor": "Tombow",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tombow-36-color-professional-colored-pencils-vibrant-artist-set",
+    "createdAt": "2025-09-27T11:39:15Z",
+    "updatedAt": "2026-07-10T13:31:13Z",
+    "sources": {
+      "legacyResourceId": "7895628906607",
+      "sourceUrl": "https://japanesetaste.com//products/tombow-colored-pencils-36-colors-cb-nq36c"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679633571951",
+        "legacyResourceId": "43679633571951",
+        "title": "Default Title",
+        "sku": "TMBW-COLPNCL-CBNQ36C",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895628939375",
+    "legacyResourceId": "7895628939375",
+    "handle": "tombow-12-color-vivid-colored-pencil-set-professional-grade-cb-nq",
+    "title": "Tombow 12-Color Vivid Colored Pencil Set - Professional Grade CB-NQ",
+    "vendor": "Tombow",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tombow-12-color-vivid-colored-pencil-set-professional-grade-cb-nq",
+    "createdAt": "2025-09-27T11:39:16Z",
+    "updatedAt": "2026-07-10T13:31:14Z",
+    "sources": {
+      "legacyResourceId": "7895628939375",
+      "sourceUrl": "https://japanesetaste.com//products/tombow-colored-pencils-12-colors-cb-nq12c"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679633604719",
+        "legacyResourceId": "43679633604719",
+        "title": "Default Title",
+        "sku": "TMBW-COLPNCL-CBNQ12C",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895629070447",
+    "legacyResourceId": "7895629070447",
+    "handle": "koh-gen-do-5-in-1-moisture-spa-gel-100g-treatment",
+    "title": "Koh Gen Do All-in-One Moisture Spa Gel - 100g Hydrating Treatment",
+    "vendor": "Koh Gen Do",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/koh-gen-do-5-in-1-moisture-spa-gel-100g-treatment",
+    "createdAt": "2025-09-27T11:41:04Z",
+    "updatedAt": "2026-07-10T13:31:14Z",
+    "sources": {
+      "legacyResourceId": "7895629070447",
+      "sourceUrl": "https://japanesetaste.com//products/koh-gen-do-all-in-one-moisture-spa-gel-100g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679634260079",
+        "legacyResourceId": "43679634260079",
+        "title": "Default Title",
+        "sku": "KHGD-GOMEXF-75",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895629103215",
+    "legacyResourceId": "7895629103215",
+    "handle": "koh-gen-do-oriental-plants-hydrating-lotion-300ml",
+    "title": "Koh Gen Do Oriental Plants Hydrating Lotion - 300ml Fermented Moisturizer",
+    "vendor": "Koh Gen Do",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/koh-gen-do-oriental-plants-hydrating-lotion-300ml",
+    "createdAt": "2025-09-27T11:41:04Z",
+    "updatedAt": "2026-07-10T13:31:14Z",
+    "sources": {
+      "legacyResourceId": "7895629103215",
+      "sourceUrl": "https://japanesetaste.com//products/koh-gen-do-oriental-plants-lotion-300ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679634194543",
+        "legacyResourceId": "43679634194543",
+        "title": "Default Title",
+        "sku": "KHGD-ORNLOT-300",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895629168751",
+    "legacyResourceId": "7895629168751",
+    "handle": "nobel-ore-no-milk-candy-extra-rich-creamy-japanese-hard-candy-80g",
+    "title": "Nobel Ore no Milk Candy - Extra Rich & Creamy Japanese Hard Candy 80g",
+    "vendor": "Nobel",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/nobel-ore-no-milk-candy-extra-rich-creamy-japanese-hard-candy-80g",
+    "createdAt": "2025-09-27T11:41:17Z",
+    "updatedAt": "2026-07-10T13:31:14Z",
+    "sources": {
+      "legacyResourceId": "7895629168751",
+      "sourceUrl": "https://japanesetaste.com//products/nobel-ore-no-milk-japanese-milk-candy-80g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679634325615",
+        "legacyResourceId": "43679634325615",
+        "title": "Default Title",
+        "sku": "NOBL-OREMLK-1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895629201519",
+    "legacyResourceId": "7895629201519",
+    "handle": "nobel-neriri-ume-authentic-japanese-plum-paste-candy-10-pack",
+    "title": "Nobel Neriri Ume: Authentic Japanese Plum Paste Candy - 10 Pack",
+    "vendor": "Nobel",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/nobel-neriri-ume-authentic-japanese-plum-paste-candy-10-pack",
+    "createdAt": "2025-09-27T11:41:27Z",
+    "updatedAt": "2026-07-10T13:31:14Z",
+    "sources": {
+      "legacyResourceId": "7895629201519",
+      "sourceUrl": "https://japanesetaste.com//products/nobel-neriri-ume-neri-umeboshi-paste-candy-pack-of-10"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679634423919",
+        "legacyResourceId": "43679634423919",
+        "title": "Default Title",
+        "sku": "NOBL-NERIRI-1:10",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895629332591",
+    "legacyResourceId": "7895629332591",
+    "handle": "kenei-baby-vaseline-ointment-100g-pure-petroleum-jelly",
+    "title": "Kenei Baby Vaseline 100g - Pure Hypoallergenic Petroleum Jelly",
+    "vendor": "Kenei Pharmaceutical",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kenei-baby-vaseline-ointment-100g-pure-petroleum-jelly",
+    "createdAt": "2025-09-27T11:42:41Z",
+    "updatedAt": "2026-07-10T13:31:15Z",
+    "sources": {
+      "legacyResourceId": "7895629332591",
+      "sourceUrl": "https://japanesetaste.com//products/kenei-baby-vaseline-petrolatum-ointment-100g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679634653295",
+        "legacyResourceId": "43679634653295",
+        "title": "Default Title",
+        "sku": "KNEI-BBYVAS-100",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895629365359",
+    "legacyResourceId": "7895629365359",
+    "handle": "aka-umezu-red-shiso-plum-vinegar-1kg-authentic-japanese-seasoning",
+    "title": "Aka Umezu Red Shiso Plum Vinegar 1kg - Authentic Japanese Seasoning",
+    "vendor": "Sakamoto Shokuhin",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/aka-umezu-red-shiso-plum-vinegar-1kg-authentic-japanese-seasoning",
+    "createdAt": "2025-09-27T11:42:41Z",
+    "updatedAt": "2026-07-10T13:31:15Z",
+    "sources": {
+      "legacyResourceId": "7895629365359",
+      "sourceUrl": "https://japanesetaste.com//products/aka-umezu-red-shiso-perilla-ume-plum-vinegar-1kg"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679634686063",
+        "legacyResourceId": "43679634686063",
+        "title": "Default Title",
+        "sku": "SKMO-UMESHI-1000",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895629398127",
+    "legacyResourceId": "7895629398127",
+    "handle": "daiko-setouchi-lemon-noriten-tempura-seaweed-chips-10-pack",
+    "title": "Daiko Setouchi Lemon Noriten Tempura Seaweed Chips - 10 Pack",
+    "vendor": "Daiko",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/daiko-setouchi-lemon-noriten-tempura-seaweed-chips-10-pack",
+    "createdAt": "2025-09-27T11:42:42Z",
+    "updatedAt": "2026-07-10T13:31:15Z",
+    "sources": {
+      "legacyResourceId": "7895629398127",
+      "sourceUrl": "https://japanesetaste.com//products/daiko-noriten-setouchi-lemon-tempura-seaweed-chips-pack-of-10"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679634718831",
+        "legacyResourceId": "43679634718831",
+        "title": "Default Title",
+        "sku": "DAIK-NTNSTO-1:10",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895629594735",
+    "legacyResourceId": "7895629594735",
+    "handle": "thermos-ume-400ml-vacuum-insulated-water-bottle-one-touch",
+    "title": "Thermos Ume 400ml Vacuum Insulated Bottle - One-Touch Japanese Design",
+    "vendor": "Thermos",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/thermos-ume-400ml-vacuum-insulated-water-bottle-one-touch",
+    "createdAt": "2025-09-27T11:44:56Z",
+    "updatedAt": "2026-07-10T13:31:15Z",
+    "sources": {
+      "legacyResourceId": "7895629594735",
+      "sourceUrl": "https://japanesetaste.com//products/thermos-vacuum-flask-insulated-water-bottle-ume-400ml-joa-402"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679635996783",
+        "legacyResourceId": "43679635996783",
+        "title": "Default Title",
+        "sku": "THRM-VACFLA-JOA402",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895629627503",
+    "legacyResourceId": "7895629627503",
+    "handle": "isuke-350ml-slim-vacuum-insulated-water-bottle-kyoto-color-dot-design",
+    "title": "Isuke 350ml Slim Vacuum Insulated Water Bottle - Kyoto Color Dot Design",
+    "vendor": "Isuke",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/isuke-350ml-slim-vacuum-insulated-water-bottle-kyoto-color-dot-design",
+    "createdAt": "2025-09-27T11:44:56Z",
+    "updatedAt": "2026-07-10T13:31:16Z",
+    "sources": {
+      "legacyResourceId": "7895629627503",
+      "sourceUrl": "https://japanesetaste.com//products/isuke-reusable-slim-water-bottle-stylish-color-dot-pattern-350ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679635964015",
+        "legacyResourceId": "43679635964015",
+        "title": "Default Title",
+        "sku": "THRM-VACFLA-JNY501",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895629660271",
+    "legacyResourceId": "7895629660271",
+    "handle": "sokensha-japanese-dried-calabash-gourd-strips-kanpyo-30g",
+    "title": "Sokensha Japanese Dried Calabash Gourd Strips - Unbleached Kanpyo 30g",
+    "vendor": "Sokensha",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/sokensha-japanese-dried-calabash-gourd-strips-kanpyo-30g",
+    "createdAt": "2025-09-27T11:44:57Z",
+    "updatedAt": "2026-07-10T13:31:16Z",
+    "sources": {
+      "legacyResourceId": "7895629660271",
+      "sourceUrl": "https://japanesetaste.com//products/sokensha-kanpyou-dried-calabash-gourd-strips-30g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679636029551",
+        "legacyResourceId": "43679636029551",
+        "title": "Default Title",
+        "sku": "SKNA-KANPYO-30",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895629758575",
+    "legacyResourceId": "7895629758575",
+    "handle": "milbon-elujuda-frizz-fixer-emulsion-120ml-anti-frizz-for-wavy-hair",
+    "title": "Milbon Elujuda Frizz Fixer Emulsion 120ml - Anti-Frizz for Wavy Hair",
+    "vendor": "Milbon",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/milbon-elujuda-frizz-fixer-emulsion-120ml-anti-frizz-for-wavy-hair",
+    "createdAt": "2025-09-27T11:45:51Z",
+    "updatedAt": "2026-07-10T13:31:16Z",
+    "sources": {
+      "legacyResourceId": "7895629758575",
+      "sourceUrl": "https://japanesetaste.com//products/milbon-elujuda-frizz-fixer-emulsion-wavy-curly-hair-120ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679638093935",
+        "legacyResourceId": "43679638093935",
+        "title": "Default Title",
+        "sku": "MLBN-APRMLK-100",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895629791343",
+    "legacyResourceId": "7895629791343",
+    "handle": "milbon-prejume-wax-7-strong-hold-professional-japanese-styling-wax-90g",
+    "title": "Milbon Prejume Wax 7 - Strong Hold Professional Japanese Styling Wax 90g",
+    "vendor": "Milbon",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/milbon-prejume-wax-7-strong-hold-professional-japanese-styling-wax-90g",
+    "createdAt": "2025-09-27T11:45:51Z",
+    "updatedAt": "2026-07-10T13:31:17Z",
+    "sources": {
+      "legacyResourceId": "7895629791343",
+      "sourceUrl": "https://japanesetaste.com//products/milbon-prejume-wax-7-japanese-hair-styling-wax-90g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679638028399",
+        "legacyResourceId": "43679638028399",
+        "title": "Default Title",
+        "sku": "MLBN-PREWAX-7",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895629824111",
+    "legacyResourceId": "7895629824111",
+    "handle": "milbon-jemile-fran-heart-shampoo-fine-hair-500ml",
+    "title": "Milbon Jemile Fran Heart Shampoo 500ml - Volumizing for Fine Hair",
+    "vendor": "Milbon",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/milbon-jemile-fran-heart-shampoo-fine-hair-500ml",
+    "createdAt": "2025-09-27T11:45:51Z",
+    "updatedAt": "2026-07-10T13:31:17Z",
+    "sources": {
+      "legacyResourceId": "7895629824111",
+      "sourceUrl": "https://japanesetaste.com//products/milbon-jemile-fran-shampoo-for-fine-hair-500ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679638061167",
+        "legacyResourceId": "43679638061167",
+        "title": "Default Title",
+        "sku": "MLBN-JMLSHA-500",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  }
+]

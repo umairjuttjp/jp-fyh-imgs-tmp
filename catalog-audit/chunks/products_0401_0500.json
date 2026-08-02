@@ -1,0 +1,3568 @@
+[
+  {
+    "id": "gid://shopify/Product/7895663149167",
+    "legacyResourceId": "7895663149167",
+    "handle": "hichifuku-additive-free-concentrated-udon-soup-dashi-360ml",
+    "title": "Hichifuku Additive-Free Concentrated Udon Soup Dashi - 360ml",
+    "vendor": "Hichifuku",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/hichifuku-additive-free-concentrated-udon-soup-dashi-360ml",
+    "createdAt": "2025-09-27T13:23:44Z",
+    "updatedAt": "2026-07-10T13:31:39Z",
+    "sources": {
+      "legacyResourceId": "7895663149167",
+      "sourceUrl": "https://japanesetaste.com//products/hichifuku-udon-soup-additive-free-concentrated-awase-dashi-360ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680634994799",
+        "legacyResourceId": "43680634994799",
+        "title": "Default Title",
+        "sku": "HICH-CENTRA-60ML",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895663247471",
+    "legacyResourceId": "7895663247471",
+    "handle": "black-rice-amazake-acai-blueberry-vinegar-drink-pouch-150g",
+    "title": "Black Rice Amazake Acai & Blueberry Vinegar Drink - 150g Pouch",
+    "vendor": "Tajimaya",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/black-rice-amazake-acai-blueberry-vinegar-drink-pouch-150g",
+    "createdAt": "2025-09-27T13:25:12Z",
+    "updatedAt": "2026-07-10T13:31:39Z",
+    "sources": {
+      "legacyResourceId": "7895663247471",
+      "sourceUrl": "https://japanesetaste.com//products/black-rice-amazake-and-acai-blueberry-vinegar-drink-pouch-150g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680635256943",
+        "legacyResourceId": "43680635256943",
+        "title": "Default Title",
+        "sku": "TAJI-DRINKB-150G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895663280239",
+    "legacyResourceId": "7895663280239",
+    "handle": "tajima-jozo-black-rice-amazake-red-vinegar-drink-150g",
+    "title": "Tajima Jozo Black Rice Amazake Red Vinegar Drink - Gut Health (150g)",
+    "vendor": "Tajima Jozo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tajima-jozo-black-rice-amazake-red-vinegar-drink-150g",
+    "createdAt": "2025-09-27T13:25:12Z",
+    "updatedAt": "2026-07-10T13:31:39Z",
+    "sources": {
+      "legacyResourceId": "7895663280239",
+      "sourceUrl": "https://japanesetaste.com//products/tajima-jozo-black-rice-amazake-red-vinegar-drink-pouch-150g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680635289711",
+        "legacyResourceId": "43680635289711",
+        "title": "Default Title",
+        "sku": "TAJI-VINEGA-150G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895663313007",
+    "legacyResourceId": "7895663313007",
+    "handle": "artisan-hand-carved-cherry-wood-cup-holder-japanese-yamazakura-tableware",
+    "title": "Artisan Hand-Carved Cherry Wood Cup Holder - Japanese Yamazakura Tableware",
+    "vendor": "Yamako",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/artisan-hand-carved-cherry-wood-cup-holder-japanese-yamazakura-tableware",
+    "createdAt": "2025-09-27T13:25:23Z",
+    "updatedAt": "2026-07-10T13:31:39Z",
+    "sources": {
+      "legacyResourceId": "7895663313007",
+      "sourceUrl": "https://japanesetaste.com//products/artisan-hand-carved-cherry-wood-cup-holder-unique-piece"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680635355247",
+        "legacyResourceId": "43680635355247",
+        "title": "Default Title",
+        "sku": "YAMA-ODJAPA-LDER",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895663345775",
+    "legacyResourceId": "7895663345775",
+    "handle": "tajima-jozo-sparkling-yuzu-ginger-vinegar-soda-drink-200ml",
+    "title": "Tajima Jozo Sparkling Yuzu Ginger Vinegar Soda Drink - Refreshing & Gut-Friendly - 200ml",
+    "vendor": "Tajima Jozo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tajima-jozo-sparkling-yuzu-ginger-vinegar-soda-drink-200ml",
+    "createdAt": "2025-09-27T13:25:27Z",
+    "updatedAt": "2026-07-10T13:31:40Z",
+    "sources": {
+      "legacyResourceId": "7895663345775",
+      "sourceUrl": "https://japanesetaste.com//products/tajima-jozo-sparkling-yuzu-and-yabu-ginger-vinegar-soda-drink-200ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680635420783",
+        "legacyResourceId": "43680635420783",
+        "title": "Default Title",
+        "sku": "TAJI-INKYAB-00ML",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895663411311",
+    "legacyResourceId": "7895663411311",
+    "handle": "yamaco-japanese-brass-wood-coaster-great-wave-ukiyo-e-hokusai-art",
+    "title": "Yamaco Japanese Brass & Wood Coaster - Great Wave Ukiyo-e Hokusai Art",
+    "vendor": "Yamaco",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yamaco-japanese-brass-wood-coaster-great-wave-ukiyo-e-hokusai-art",
+    "createdAt": "2025-09-27T13:27:33Z",
+    "updatedAt": "2026-07-10T13:31:40Z",
+    "sources": {
+      "legacyResourceId": "7895663411311",
+      "sourceUrl": "https://japanesetaste.com//products/brass-wood-coaster-ukiyo-e-great-wave-off-kanagawa-design"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680636043375",
+        "legacyResourceId": "43680636043375",
+        "title": "Default Title",
+        "sku": "YAMA-THJAPA-BASE",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895663444079",
+    "legacyResourceId": "7895663444079",
+    "handle": "tajima-brewing-brown-rice-amazake-yuzu-ginger-vinegar-150g",
+    "title": "Tajima Brewing Brown Rice Amazake Yuzu Ginger Vinegar Drink - 150g",
+    "vendor": "Tajima Brewing",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tajima-brewing-brown-rice-amazake-yuzu-ginger-vinegar-150g",
+    "createdAt": "2025-09-27T13:27:33Z",
+    "updatedAt": "2026-07-10T13:31:40Z",
+    "sources": {
+      "legacyResourceId": "7895663444079",
+      "sourceUrl": "https://japanesetaste.com//products/brown-rice-amazake-and-yuzu-ginger-vinegar-drink-pouch-150g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680636141679",
+        "legacyResourceId": "43680636141679",
+        "title": "Default Title",
+        "sku": "TAJI-RDRINK-150G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895663476847",
+    "legacyResourceId": "7895663476847",
+    "handle": "japanese-brass-coaster-asanoha-hemp-leaf-design-8-6cm",
+    "title": "Japanese Brass Coaster - Asanoha Hemp Leaf Design 8.6cm",
+    "vendor": "Yamasaki Design Works",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/japanese-brass-coaster-asanoha-hemp-leaf-design-8-6cm",
+    "createdAt": "2025-09-27T13:27:33Z",
+    "updatedAt": "2026-07-10T13:31:40Z",
+    "sources": {
+      "legacyResourceId": "7895663476847",
+      "sourceUrl": "https://japanesetaste.com//products/luxury-brass-coaster-japanese-design-asanoha-leaf-pattern-8-6cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680636108911",
+        "legacyResourceId": "43680636108911",
+        "title": "Default Title",
+        "sku": "YAMA-HAHEMP-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895663607919",
+    "legacyResourceId": "7895663607919",
+    "handle": "wadaman-organic-yuzu-shichimi-togarashi-10g",
+    "title": "Wadaman Organic Yuzu Shichimi Togarashi - Japanese Citrus Chili 10g",
+    "vendor": "Wadaman",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/wadaman-organic-yuzu-shichimi-togarashi-10g",
+    "createdAt": "2025-09-27T13:28:55Z",
+    "updatedAt": "2026-07-10T13:31:40Z",
+    "sources": {
+      "legacyResourceId": "7895663607919",
+      "sourceUrl": "https://japanesetaste.com//products/wadaman-organic-yuzu-shichimi-togarashi-mixed-spice-blend-10g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680636502127",
+        "legacyResourceId": "43680636502127",
+        "title": "Default Title",
+        "sku": "WADA-UZUSHI-D10G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895663640687",
+    "legacyResourceId": "7895663640687",
+    "handle": "wadaman-organic-rayu-chili-oil-roasted-sesame-45g",
+    "title": "Wadaman Organic Rayu Chili Oil with Roasted Sesame - 45g",
+    "vendor": "Wadaman",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/wadaman-organic-rayu-chili-oil-roasted-sesame-45g",
+    "createdAt": "2025-09-27T13:28:55Z",
+    "updatedAt": "2026-07-10T13:31:40Z",
+    "sources": {
+      "legacyResourceId": "7895663640687",
+      "sourceUrl": "https://japanesetaste.com//products/wadaman-pure-organic-rayu-chili-oil-with-roasted-sesame-oil-base-45g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680636534895",
+        "legacyResourceId": "43680636534895",
+        "title": "Default Title",
+        "sku": "WADA-GANICC-L45G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895663706223",
+    "legacyResourceId": "7895663706223",
+    "handle": "wadaman-organic-golden-sesame-oil-deep-roasted-90g-premium-japan",
+    "title": "Wadaman Organic Golden Sesame Oil - Deep Roasted 90g Premium Japan",
+    "vendor": "Wadaman",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/wadaman-organic-golden-sesame-oil-deep-roasted-90g-premium-japan",
+    "createdAt": "2025-09-27T13:29:04Z",
+    "updatedAt": "2026-07-10T13:31:41Z",
+    "sources": {
+      "legacyResourceId": "7895663706223",
+      "sourceUrl": "https://japanesetaste.com//products/wadaman-organic-deep-roasted-100-golden-sesame-oil-90g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680636600431",
+        "legacyResourceId": "43680636600431",
+        "title": "Default Title",
+        "sku": "WADA-SESAME-L90G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895663738991",
+    "legacyResourceId": "7895663738991",
+    "handle": "wadaman-organic-sesame-yuzu-furikake-seasoning-25g",
+    "title": "Wadaman Organic Sesame & Yuzu Furikake Seasoning - 25g Authentic Japan",
+    "vendor": "Wadaman",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/wadaman-organic-sesame-yuzu-furikake-seasoning-25g",
+    "createdAt": "2025-09-27T13:29:07Z",
+    "updatedAt": "2026-07-10T13:31:41Z",
+    "sources": {
+      "legacyResourceId": "7895663738991",
+      "sourceUrl": "https://japanesetaste.com//products/wadaman-organic-sesame-and-yuzu-furikake-all-purpose-seasoning-25g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680636665967",
+        "legacyResourceId": "43680636665967",
+        "title": "Default Title",
+        "sku": "WADA-ANICSE-G25G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895663771759",
+    "legacyResourceId": "7895663771759",
+    "handle": "wadaman-organic-black-sesame-paste-80g-premium-nutty-spread",
+    "title": "Wadaman Organic Black Sesame Paste - 80g Premium Nutty Spread",
+    "vendor": "Wadaman",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/wadaman-organic-black-sesame-paste-80g-premium-nutty-spread",
+    "createdAt": "2025-09-27T13:29:09Z",
+    "updatedAt": "2026-07-10T13:31:41Z",
+    "sources": {
+      "legacyResourceId": "7895663771759",
+      "sourceUrl": "https://japanesetaste.com//products/wadaman-organic-black-sesame-paste-for-dressings-spreads-and-dips-80g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680636731503",
+        "legacyResourceId": "43680636731503",
+        "title": "Default Title",
+        "sku": "WADA-AMEPAS-S80G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895663837295",
+    "legacyResourceId": "7895663837295",
+    "handle": "wadaman-organic-white-sesame-paste-80g-artisanal-japanese-spread",
+    "title": "Wadaman Organic White Sesame Paste 80g - Artisanal Japanese Spread",
+    "vendor": "Wadaman",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/wadaman-organic-white-sesame-paste-80g-artisanal-japanese-spread",
+    "createdAt": "2025-09-27T13:29:17Z",
+    "updatedAt": "2026-07-10T13:31:41Z",
+    "sources": {
+      "legacyResourceId": "7895663837295",
+      "sourceUrl": "https://japanesetaste.com//products/wadaman-organic-white-sesame-paste-for-dressings-spreads-and-dips-80g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680636862575",
+        "legacyResourceId": "43680636862575",
+        "title": "Default Title",
+        "sku": "WADA-TEFORD-S80G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895663870063",
+    "legacyResourceId": "7895663870063",
+    "handle": "canary-non-stick-fluorine-coated-scissors-precision-japanese-cutlery",
+    "title": "Canary Non-Stick Fluorine-Coated Scissors - Precision Japanese Cutlery",
+    "vendor": "Canary (Hasegawa Cutlery)",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/canary-non-stick-fluorine-coated-scissors-precision-japanese-cutlery",
+    "createdAt": "2025-09-27T13:29:59Z",
+    "updatedAt": "2026-07-10T13:31:42Z",
+    "sources": {
+      "legacyResourceId": "7895663870063",
+      "sourceUrl": "https://japanesetaste.com//products/canary-fluorine-coated-non-stick-scissors-for-craft-and-office-work"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680636960879",
+        "legacyResourceId": "43680636960879",
+        "title": "Default Title",
+        "sku": "HASE-SCISOR-RMF170K",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895663902831",
+    "legacyResourceId": "7895663902831",
+    "handle": "canary-bond-free-pro-245mm-japanese-professional-tailor-scissors",
+    "title": "Canary Bond Free Pro 245mm Japanese Professional Tailor Scissors",
+    "vendor": "Canary",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/canary-bond-free-pro-245mm-japanese-professional-tailor-scissors",
+    "createdAt": "2025-09-27T13:29:59Z",
+    "updatedAt": "2026-07-10T13:31:42Z",
+    "sources": {
+      "legacyResourceId": "7895663902831",
+      "sourceUrl": "https://japanesetaste.com//products/canary-bond-free-pro-dressmaking-scissors-fabric-shears-245mm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680636993647",
+        "legacyResourceId": "43680636993647",
+        "title": "Default Title",
+        "sku": "HASE-SCISOR-SE245F",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895663935599",
+    "legacyResourceId": "7895663935599",
+    "handle": "canary-arm-wrestler-aw-190hs-heavy-duty-professional-scissors",
+    "title": "Canary Arm Wrestler AW-190HS Heavy-Duty Professional Scissors - Seki Japan",
+    "vendor": "Canary",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/canary-arm-wrestler-aw-190hs-heavy-duty-professional-scissors",
+    "createdAt": "2025-09-27T13:30:20Z",
+    "updatedAt": "2026-07-10T13:31:42Z",
+    "sources": {
+      "legacyResourceId": "7895663935599",
+      "sourceUrl": "https://japanesetaste.com//products/canary-arm-wrestler-multi-purpose-long-blade-heavy-duty-scissors"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680637124719",
+        "legacyResourceId": "43680637124719",
+        "title": "Default Title",
+        "sku": "HASE-SCISOR-AW190HS",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895663968367",
+    "legacyResourceId": "7895663968367",
+    "handle": "canary-ultra-fine-narrow-blade-scissors-japanese-precision-craft-tool",
+    "title": "Canary Ultra Fine Narrow Blade Scissors - Japanese Precision Craft Tool",
+    "vendor": "Canary",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/canary-ultra-fine-narrow-blade-scissors-japanese-precision-craft-tool",
+    "createdAt": "2025-09-27T13:30:20Z",
+    "updatedAt": "2026-07-10T13:31:42Z",
+    "sources": {
+      "legacyResourceId": "7895663968367",
+      "sourceUrl": "https://japanesetaste.com//products/canary-ultra-fine-narrow-blade-scissors-for-detailed-crafts"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680637091951",
+        "legacyResourceId": "43680637091951",
+        "title": "Default Title",
+        "sku": "HASE-SCISOR-DS100",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664001135",
+    "legacyResourceId": "7895664001135",
+    "handle": "canary-professional-plastic-bottle-cutting-scissors-made-in-seki-japan",
+    "title": "Canary Professional Plastic Bottle Cutting Scissors - Made in Seki Japan",
+    "vendor": "Canary",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/canary-professional-plastic-bottle-cutting-scissors-made-in-seki-japan",
+    "createdAt": "2025-09-27T13:30:39Z",
+    "updatedAt": "2026-07-10T13:31:42Z",
+    "sources": {
+      "legacyResourceId": "7895664001135",
+      "sourceUrl": "https://japanesetaste.com//products/canary-plastic-bottle-cutting-scissors-for-craft-and-recycling"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680637223023",
+        "legacyResourceId": "43680637223023",
+        "title": "Default Title",
+        "sku": "HASE-SCISOR-PS50H",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664066671",
+    "legacyResourceId": "7895664066671",
+    "handle": "north-colors-organic-dorayaki-japanese-azuki-bean-pancake-6-pack",
+    "title": "North Colors Organic Dorayaki - Japanese Azuki Bean Pancake 6-Pack",
+    "vendor": "North Colors",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/north-colors-organic-dorayaki-japanese-azuki-bean-pancake-6-pack",
+    "createdAt": "2025-09-27T13:30:49Z",
+    "updatedAt": "2026-07-10T13:31:43Z",
+    "sources": {
+      "legacyResourceId": "7895664066671",
+      "sourceUrl": "https://japanesetaste.com//products/north-colors-organic-dorayaki-additive-free-azuki-filled-pancake-pack-of-6"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680637321327",
+        "legacyResourceId": "43680637321327",
+        "title": "Default Title",
+        "sku": "YOKI-TOPSET-1:6",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664099439",
+    "legacyResourceId": "7895664099439",
+    "handle": "higonokami-ironwood-folding-knife-170mm",
+    "title": "Higonokami Ironwood Handmade Japanese Folding Pocket Knife - 170mm",
+    "vendor": "[Your Shop Name - e.g., Authentic Japanese Crafts]",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/higonokami-ironwood-folding-knife-170mm",
+    "createdAt": "2025-09-27T13:31:12Z",
+    "updatedAt": "2026-07-10T13:31:43Z",
+    "sources": {
+      "legacyResourceId": "7895664099439",
+      "sourceUrl": "https://japanesetaste.com//products/higonokami-ironwood-handmade-japanese-folding-pocket-knife-170mm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680637386863",
+        "legacyResourceId": "43680637386863",
+        "title": "Default Title",
+        "sku": "NGKA-IWDKNF-VG1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664132207",
+    "legacyResourceId": "7895664132207",
+    "handle": "handmade-japanese-sake-lees-soap-rosemary-oil-infusion-100g",
+    "title": "Handmade Japanese Sake Lees Soap - Rosemary Oil Infusion 100g",
+    "vendor": "Tajima Jozo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/handmade-japanese-sake-lees-soap-rosemary-oil-infusion-100g",
+    "createdAt": "2025-09-27T13:31:22Z",
+    "updatedAt": "2026-07-10T13:31:43Z",
+    "sources": {
+      "legacyResourceId": "7895664132207",
+      "sourceUrl": "https://japanesetaste.com//products/handmade-cold-process-sake-lees-bar-soap-with-rosemary-oil"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680637452399",
+        "legacyResourceId": "43680637452399",
+        "title": "Default Title",
+        "sku": "TAJI-ESOAPC-YOIL",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664164975",
+    "legacyResourceId": "7895664164975",
+    "handle": "kawac-quick-dry-microfiber-face-towel-ultra-absorbent-gentle-blue",
+    "title": "Kawac Quick-Dry Microfiber Face Towel - Ultra-Absorbent & Gentle (Blue)",
+    "vendor": "Kawac",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kawac-quick-dry-microfiber-face-towel-ultra-absorbent-gentle-blue",
+    "createdAt": "2025-09-27T13:31:33Z",
+    "updatedAt": "2026-07-10T13:31:43Z",
+    "sources": {
+      "legacyResourceId": "7895664164975",
+      "sourceUrl": "https://japanesetaste.com//products/kawac-quick-dry-water-absorbent-soft-face-towel-blue-3480cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680637517935",
+        "legacyResourceId": "43680637517935",
+        "title": "Default Title",
+        "sku": "KAWA-YWATER-80CM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664230511",
+    "legacyResourceId": "7895664230511",
+    "handle": "authentic-hinoki-masu-sake-cup-handcrafted-japanese-cypress-wood",
+    "title": "Authentic Hinoki Masu Japanese Cup - Handcrafted Japanese Cypress Wood",
+    "vendor": "Sakura Select",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/authentic-hinoki-masu-sake-cup-handcrafted-japanese-cypress-wood",
+    "createdAt": "2025-09-27T13:33:13Z",
+    "updatedAt": "2026-07-10T13:31:44Z",
+    "sources": {
+      "legacyResourceId": "7895664230511",
+      "sourceUrl": "https://japanesetaste.com//products/hinoki-masu-japanese-cypress-wooden-sake-cup-lucky-character-design"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680637812847",
+        "legacyResourceId": "43680637812847",
+        "title": "Default Title",
+        "sku": "HINO-SSWOOD-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664263279",
+    "legacyResourceId": "7895664263279",
+    "handle": "tajima-jozo-premium-akazu-aged-red-vinegar-360ml",
+    "title": "Tajima Jozo Premium Akazu Aged Red Vinegar for Sushi (360ml)",
+    "vendor": "Tajima Jozo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tajima-jozo-premium-akazu-aged-red-vinegar-360ml",
+    "createdAt": "2025-09-27T13:33:13Z",
+    "updatedAt": "2026-07-10T13:31:44Z",
+    "sources": {
+      "legacyResourceId": "7895664263279",
+      "sourceUrl": "https://japanesetaste.com//products/tajima-jozo-premium-akazu-aged-red-vinegar-for-sushi-360ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680637878383",
+        "legacyResourceId": "43680637878383",
+        "title": "Default Title",
+        "sku": "TAJI-VINEGA-60ML",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664296047",
+    "legacyResourceId": "7895664296047",
+    "handle": "wadaman-organic-sesame-shiso-wakame-furikake-30g",
+    "title": "Wadaman Organic Sesame Shiso Wakame Furikake Rice Seasoning 30g",
+    "vendor": "Wadaman",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/wadaman-organic-sesame-shiso-wakame-furikake-30g",
+    "createdAt": "2025-09-27T13:33:13Z",
+    "updatedAt": "2026-07-10T13:31:44Z",
+    "sources": {
+      "legacyResourceId": "7895664296047",
+      "sourceUrl": "https://japanesetaste.com//products/wadaman-organic-sesame-shiso-and-wakame-furikake-rice-seasoning-30g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680637845615",
+        "legacyResourceId": "43680637845615",
+        "title": "Default Title",
+        "sku": "WADA-WEEDBL-G30G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664328815",
+    "legacyResourceId": "7895664328815",
+    "handle": "jogan-eco-de-cool-lightweight-cooling-towel-scarf-yellow-grey",
+    "title": "Jogan Eco de Cool Lightweight Cooling Towel Scarf - Yellow & Grey",
+    "vendor": "Jogan",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/jogan-eco-de-cool-lightweight-cooling-towel-scarf-yellow-grey",
+    "createdAt": "2025-09-27T13:33:22Z",
+    "updatedAt": "2026-07-18T04:16:32Z",
+    "sources": {
+      "legacyResourceId": "7895664328815",
+      "sourceUrl": "https://japanesetaste.com//products/eco-de-cool-lightweight-cooling-towel-scarf-yellow-and-grey-16-x-90cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680637943919",
+        "legacyResourceId": "43680637943919",
+        "title": "Default Title",
+        "sku": "JOGA-HTWEIG-90CM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664361583",
+    "legacyResourceId": "7895664361583",
+    "handle": "axzia-premium-dual-retinol-eye-serum-15ml",
+    "title": "AXXZIA Premium Dual Retinol Eye Serum - Anti-Aging Under Eye Treatment 15ml",
+    "vendor": "AXXZIA",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/axzia-premium-dual-retinol-eye-serum-15ml",
+    "createdAt": "2025-09-27T13:33:23Z",
+    "updatedAt": "2026-07-10T13:31:44Z",
+    "sources": {
+      "legacyResourceId": "7895664361583",
+      "sourceUrl": "https://japanesetaste.com//products/axzzia-beauty-eyes-routine-care-essence-premium-eye-serum-15ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680638009455",
+        "legacyResourceId": "43680638009455",
+        "title": "Default Title",
+        "sku": "AXZZ-AREESS-15ML",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664427119",
+    "legacyResourceId": "7895664427119",
+    "handle": "axxzia-heat-repair-moisturizing-hair-milk-50g",
+    "title": "Axxzia Heat Repair Moisturizing Hair Milk - Intensive Care 50g",
+    "vendor": "Axxzia",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/axxzia-heat-repair-moisturizing-hair-milk-50g",
+    "createdAt": "2025-09-27T13:33:30Z",
+    "updatedAt": "2026-07-10T13:31:45Z",
+    "sources": {
+      "legacyResourceId": "7895664427119",
+      "sourceUrl": "https://japanesetaste.com//products/axxzia-moisturizing-hair-milk-heat-damage-repair-treatment-50g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680638107759",
+        "legacyResourceId": "43680638107759",
+        "title": "Default Title",
+        "sku": "AXXZ-VEINTR-T50G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664459887",
+    "legacyResourceId": "7895664459887",
+    "handle": "kousaido-zen-solid-perfume-balm-8g-woody-sweet-floral",
+    "title": "Kousaido Zen Solid Perfume Balm - Japanese Woody Sweet Floral Fragrance 8g",
+    "vendor": "Kousaido",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kousaido-zen-solid-perfume-balm-8g-woody-sweet-floral",
+    "createdAt": "2025-09-27T13:34:29Z",
+    "updatedAt": "2026-07-10T13:31:45Z",
+    "sources": {
+      "legacyResourceId": "7895664459887",
+      "sourceUrl": "https://japanesetaste.com//products/kousaido-solid-perfume-balm-zen-woody-sweet-floral-fragrance-8g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680638271599",
+        "legacyResourceId": "43680638271599",
+        "title": "Default Title",
+        "sku": "KOUS-DPERFU-CE8G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664492655",
+    "legacyResourceId": "7895664492655",
+    "handle": "axxzia-beauty-eyes-routine-care-cream-premium-hydrating-eye-treatment-15g",
+    "title": "AXXZIA Beauty Eyes Routine Care Cream - Premium Hydrating Eye Treatment 15g",
+    "vendor": "AXXZIA",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/axxzia-beauty-eyes-routine-care-cream-premium-hydrating-eye-treatment-15g",
+    "createdAt": "2025-09-27T13:34:29Z",
+    "updatedAt": "2026-07-10T13:31:45Z",
+    "sources": {
+      "legacyResourceId": "7895664492655",
+      "sourceUrl": "https://japanesetaste.com//products/axzzia-beauty-eyes-routine-care-cream-premium-eye-cream-15g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680638238831",
+        "legacyResourceId": "43680638238831",
+        "title": "Default Title",
+        "sku": "AXZZ-REESSE-15ML",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664525423",
+    "legacyResourceId": "7895664525423",
+    "handle": "harimaen-organic-premium-sencha-first-harvest-green-tea-80g",
+    "title": "Harimaen Organic Premium Sencha - First Harvest Uji Green Tea (80g)",
+    "vendor": "Harimaen",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/harimaen-organic-premium-sencha-first-harvest-green-tea-80g",
+    "createdAt": "2025-09-27T13:34:29Z",
+    "updatedAt": "2026-07-10T13:31:45Z",
+    "sources": {
+      "legacyResourceId": "7895664525423",
+      "sourceUrl": "https://japanesetaste.com//products/harimaen-organic-premium-sencha-first-harvest-new-green-tea-80g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680638304367",
+        "legacyResourceId": "43680638304367",
+        "title": "Default Title",
+        "sku": "HARI-IUMSEN-A80G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664558191",
+    "legacyResourceId": "7895664558191",
+    "handle": "kousaido-hanga-10-season-japanese-incense-assortment-with-elegant-holder",
+    "title": "Kousaido Hanga 10-Season Japanese Incense Assortment with Elegant Holder",
+    "vendor": "Kousaido",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kousaido-hanga-10-season-japanese-incense-assortment-with-elegant-holder",
+    "createdAt": "2025-09-27T13:35:03Z",
+    "updatedAt": "2026-07-10T13:31:46Z",
+    "sources": {
+      "legacyResourceId": "7895664558191",
+      "sourceUrl": "https://japanesetaste.com//products/kousaido-hanga-incense-assortment-10-seasonal-scents-holder-gift-set"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680638828655",
+        "legacyResourceId": "43680638828655",
+        "title": "Default Title",
+        "sku": "KOUS-EASSOR-TSET",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664590959",
+    "legacyResourceId": "7895664590959",
+    "handle": "kousaido-premium-kitayama-cedar-incense-20-natural-sugi-sticks",
+    "title": "Kousaido Premium Kitayama Cedar Incense - 20 Natural Sugi Sticks",
+    "vendor": "Kousaido",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kousaido-premium-kitayama-cedar-incense-20-natural-sugi-sticks",
+    "createdAt": "2025-09-27T13:35:03Z",
+    "updatedAt": "2026-07-10T13:31:46Z",
+    "sources": {
+      "legacyResourceId": "7895664590959",
+      "sourceUrl": "https://japanesetaste.com//products/kousaido-all-natural-kitayama-sugi-cedar-incense-in-wooden-box-20-sticks"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680638730351",
+        "legacyResourceId": "43680638730351",
+        "title": "Default Title",
+        "sku": "KOUS-RALKIT-20CT",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664623727",
+    "legacyResourceId": "7895664623727",
+    "handle": "kousaido-kyoto-white-camphor-incense-20-sticks-artisan-wood-box",
+    "title": "Kousaido Kyoto White Camphor Incense - 20 Sticks in Artisan Wood Box",
+    "vendor": "Kousaido",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kousaido-kyoto-white-camphor-incense-20-sticks-artisan-wood-box",
+    "createdAt": "2025-09-27T13:35:03Z",
+    "updatedAt": "2026-07-10T13:31:46Z",
+    "sources": {
+      "legacyResourceId": "7895664623727",
+      "sourceUrl": "https://japanesetaste.com//products/kousaido-all-natural-white-camphor-incense-in-wooden-box-20-sticks"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680638664815",
+        "legacyResourceId": "43680638664815",
+        "title": "Default Title",
+        "sku": "KOUS-LWHITE-20CT",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664656495",
+    "legacyResourceId": "7895664656495",
+    "handle": "kousaido-natural-hinoki-cypress-incense-20-sticks-wood-box",
+    "title": "Kousaido Natural Hinoki Cypress Incense - 20 Premium Sticks in Wood Box",
+    "vendor": "Kousaido",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kousaido-natural-hinoki-cypress-incense-20-sticks-wood-box",
+    "createdAt": "2025-09-27T13:35:03Z",
+    "updatedAt": "2026-07-10T13:31:46Z",
+    "sources": {
+      "legacyResourceId": "7895664656495",
+      "sourceUrl": "https://japanesetaste.com//products/kousaido-all-natural-hinoki-cypress-incense-in-wooden-box-20-sticks"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680638763119",
+        "legacyResourceId": "43680638763119",
+        "title": "Default Title",
+        "sku": "KOUS-YPRESS-20CT",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664689263",
+    "legacyResourceId": "7895664689263",
+    "handle": "kousaido-all-natural-aomori-hiba-incense-20-japanese-cypress-sticks",
+    "title": "Kousaido All-Natural Aomori Hiba Incense - 20 Japanese Cypress Sticks",
+    "vendor": "Kousaido",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kousaido-all-natural-aomori-hiba-incense-20-japanese-cypress-sticks",
+    "createdAt": "2025-09-27T13:35:03Z",
+    "updatedAt": "2026-07-10T13:31:47Z",
+    "sources": {
+      "legacyResourceId": "7895664689263",
+      "sourceUrl": "https://japanesetaste.com//products/kousaido-all-natural-aomori-hiba-incense-in-wooden-box-20-sticks"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680638697583",
+        "legacyResourceId": "43680638697583",
+        "title": "Default Title",
+        "sku": "KOUS-RIHIBA-20CT",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664722031",
+    "legacyResourceId": "7895664722031",
+    "handle": "kousaido-kyoto-solid-perfume-balm-sakura-cherry-blossom-8g",
+    "title": "Kousaido Kyoto Solid Perfume Balm - Sakura Cherry Blossom Scent - 8g",
+    "vendor": "Kousaido",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kousaido-kyoto-solid-perfume-balm-sakura-cherry-blossom-8g",
+    "createdAt": "2025-09-27T13:35:03Z",
+    "updatedAt": "2026-07-10T13:31:47Z",
+    "sources": {
+      "legacyResourceId": "7895664722031",
+      "sourceUrl": "https://japanesetaste.com//products/kousaido-solid-perfume-balm-cherry-blossom-sakura-scent-8g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680638795887",
+        "legacyResourceId": "43680638795887",
+        "title": "Default Title",
+        "sku": "KOUS-MEBALM-NT8G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664787567",
+    "legacyResourceId": "7895664787567",
+    "handle": "kousaido-sweet-honey-lip-balm-kyoto-crafted-moisturizing-tin-10g",
+    "title": "Kousaido Sweet Honey Lip Balm - Kyoto Crafted Moisturizing Tin 10g",
+    "vendor": "Kousaido",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kousaido-sweet-honey-lip-balm-kyoto-crafted-moisturizing-tin-10g",
+    "createdAt": "2025-09-27T13:35:25Z",
+    "updatedAt": "2026-07-10T13:31:47Z",
+    "sources": {
+      "legacyResourceId": "7895664787567",
+      "sourceUrl": "https://japanesetaste.com//products/kousaido-sweet-honey-lip-balm-moisturizing-lip-treatment-10g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680639090799",
+        "legacyResourceId": "43680639090799",
+        "title": "Default Title",
+        "sku": "KOUS-PBALMM-NT4G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664820335",
+    "legacyResourceId": "7895664820335",
+    "handle": "kousaido-japanese-5-flower-incense-gift-set-premium-relaxing-scents",
+    "title": "Kousaido Japanese 5-Flower Incense Gift Set - Premium Relaxing Scents",
+    "vendor": "Kousaido",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kousaido-japanese-5-flower-incense-gift-set-premium-relaxing-scents",
+    "createdAt": "2025-09-27T13:35:26Z",
+    "updatedAt": "2026-07-10T13:31:47Z",
+    "sources": {
+      "legacyResourceId": "7895664820335",
+      "sourceUrl": "https://japanesetaste.com//products/kousaido-5-flowers-scent-short-incense-sticks-6-pack-box"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680639025263",
+        "legacyResourceId": "43680639025263",
+        "title": "Default Title",
+        "sku": "KOUS-IFTSET-NBOX",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664853103",
+    "legacyResourceId": "7895664853103",
+    "handle": "kousaido-japanese-red-pine-incense-20-sticks-wooden-box",
+    "title": "Kousaido Japanese Red Pine Incense - 20 Sticks with Elegant Wooden Box",
+    "vendor": "Kousaido",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kousaido-japanese-red-pine-incense-20-sticks-wooden-box",
+    "createdAt": "2025-09-27T13:35:26Z",
+    "updatedAt": "2026-07-10T13:31:48Z",
+    "sources": {
+      "legacyResourceId": "7895664853103",
+      "sourceUrl": "https://japanesetaste.com//products/kousaido-all-natural-red-pine-incense-in-wooden-box-20-sticks"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680639058031",
+        "legacyResourceId": "43680639058031",
+        "title": "Default Title",
+        "sku": "KOUS-ALREDP-20CT",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664885871",
+    "legacyResourceId": "7895664885871",
+    "handle": "kousaido-yuzu-citrus-solid-perfume-balm-8g",
+    "title": "Kousaido Yuzu Citrus Solid Perfume Balm - Japanese Fragrance 8g",
+    "vendor": "Kousaido",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kousaido-yuzu-citrus-solid-perfume-balm-8g",
+    "createdAt": "2025-09-27T13:35:40Z",
+    "updatedAt": "2026-07-10T13:31:48Z",
+    "sources": {
+      "legacyResourceId": "7895664885871",
+      "sourceUrl": "https://japanesetaste.com//products/kousaido-yuzu-solid-perfume-balm-fresh-and-revitalizing-citrus-scent-8g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680639221871",
+        "legacyResourceId": "43680639221871",
+        "title": "Default Title",
+        "sku": "KOUS-UMEBAL-NT8G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664918639",
+    "legacyResourceId": "7895664918639",
+    "handle": "kousaido-camellia-shea-butter-moisturizing-skin-balm-8g-travel-size",
+    "title": "Kousaido Camellia & Shea Butter Moisturizing Skin Balm - 8g Travel Size",
+    "vendor": "Kousaido",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kousaido-camellia-shea-butter-moisturizing-skin-balm-8g-travel-size",
+    "createdAt": "2025-09-27T13:35:40Z",
+    "updatedAt": "2026-07-10T13:31:48Z",
+    "sources": {
+      "legacyResourceId": "7895664918639",
+      "sourceUrl": "https://japanesetaste.com//products/kousaido-camellia-shea-butter-moisturizing-scented-skin-balm-8g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680639254639",
+        "legacyResourceId": "43680639254639",
+        "title": "Default Title",
+        "sku": "KOUS-TERSOL-LM8G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895664951407",
+    "legacyResourceId": "7895664951407",
+    "handle": "kousaido-yuzu-shea-butter-moisturizing-skin-balm-travel-size-8g",
+    "title": "Kousaido Yuzu Shea Butter Moisturizing Skin Balm - Travel Size 8g",
+    "vendor": "Kousaido",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kousaido-yuzu-shea-butter-moisturizing-skin-balm-travel-size-8g",
+    "createdAt": "2025-09-27T13:35:40Z",
+    "updatedAt": "2026-07-10T13:31:48Z",
+    "sources": {
+      "legacyResourceId": "7895664951407",
+      "sourceUrl": "https://japanesetaste.com//products/kousaido-yuzu-shea-butter-moisturizing-scented-skin-balm-8g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680639287407",
+        "legacyResourceId": "43680639287407",
+        "title": "Default Title",
+        "sku": "KOUS-RBALMM-IR8G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895665082479",
+    "legacyResourceId": "7895665082479",
+    "handle": "jogan-japanese-quick-dry-sauna-hat-hair-protection-towel-cap-38x25cm",
+    "title": "Jogan Japanese Quick-Dry Sauna Hat & Hair Protection Towel Cap - 38x25cm",
+    "vendor": "Jogan",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/jogan-japanese-quick-dry-sauna-hat-hair-protection-towel-cap-38x25cm",
+    "createdAt": "2025-09-27T13:36:35Z",
+    "updatedAt": "2026-07-10T13:31:48Z",
+    "sources": {
+      "legacyResourceId": "7895665082479",
+      "sourceUrl": "https://japanesetaste.com//products/jogan-sauna-hat-ultra-absorbent-quick-dry-towel-cap-3825cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680639549551",
+        "legacyResourceId": "43680639549551",
+        "title": "Default Title",
+        "sku": "JOGA-ICKDRY-BLUE",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43680639582319",
+        "legacyResourceId": "43680639582319",
+        "title": "Khaki",
+        "sku": "JOGA-ICKDRY-HAKI",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Khaki"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43680639615087",
+        "legacyResourceId": "43680639615087",
+        "title": "Pink",
+        "sku": "JOGA-ICKDRY-PINK",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Pink"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895665115247",
+    "legacyResourceId": "7895665115247",
+    "handle": "matsunaga-12-cup-non-stick-teflon-canele-baking-tray",
+    "title": "Matsunaga 12-Cup Non-Stick Teflon Canelé Baking Tray - Made in Japan",
+    "vendor": "Matsunaga Seisakusho",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/matsunaga-12-cup-non-stick-teflon-canele-baking-tray",
+    "createdAt": "2025-09-27T13:36:35Z",
+    "updatedAt": "2026-07-10T13:31:49Z",
+    "sources": {
+      "legacyResourceId": "7895665115247",
+      "sourceUrl": "https://japanesetaste.com//products/matsunaga-nonstick-teflon-coated-canele-baking-mold-tray-12-cups"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680639516783",
+        "legacyResourceId": "43680639516783",
+        "title": "Default Title",
+        "sku": "MATS-FLONCO-CUPS",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895665148015",
+    "legacyResourceId": "7895665148015",
+    "handle": "jogan-baby-alpaca-wool-thermal-scarf-premium-japanese-stole",
+    "title": "Jogan Baby Alpaca Wool Scarf - Premium Japanese Thermal Stole (75x45cm)",
+    "vendor": "Jogan",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/jogan-baby-alpaca-wool-thermal-scarf-premium-japanese-stole",
+    "createdAt": "2025-09-27T13:36:48Z",
+    "updatedAt": "2026-07-18T11:54:07Z",
+    "sources": {
+      "legacyResourceId": "7895665148015",
+      "sourceUrl": "https://japanesetaste.com//products/jogan-baby-alpaca-wool-neck-warmer-fluffy-thermal-scarf-7545cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680639746159",
+        "legacyResourceId": "43680639746159",
+        "title": "Default Title",
+        "sku": "JOGA-GRAYWA-45CM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895665180783",
+    "legacyResourceId": "7895665180783",
+    "handle": "kawac-quick-dry-microfiber-face-towel-beige-34x80cm",
+    "title": "Kawac Quick-Dry Microfiber Face Towel - Ultra-Absorbent Beige 34x80cm",
+    "vendor": "Kawac",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kawac-quick-dry-microfiber-face-towel-beige-34x80cm",
+    "createdAt": "2025-09-27T13:36:48Z",
+    "updatedAt": "2026-07-14T16:23:45Z",
+    "sources": {
+      "legacyResourceId": "7895665180783",
+      "sourceUrl": "https://japanesetaste.com//products/kawac-quick-dry-water-absorbent-soft-face-towel-beige-3480cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680639713391",
+        "legacyResourceId": "43680639713391",
+        "title": "Default Title",
+        "sku": "KAWA-SOFTFA-80CM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895665213551",
+    "legacyResourceId": "7895665213551",
+    "handle": "orim-hand-dyed-amami-oshima-mud-dye-cotton-scarf-earthy-brown",
+    "title": "ORIM Hand-Dyed Amami Oshima Mud-Dye Cotton Scarf - Earthy Brown",
+    "vendor": "ORIM Amami Oshima Artisan Collective",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/orim-hand-dyed-amami-oshima-mud-dye-cotton-scarf-earthy-brown",
+    "createdAt": "2025-09-27T13:36:55Z",
+    "updatedAt": "2026-07-18T09:35:28Z",
+    "sources": {
+      "legacyResourceId": "7895665213551",
+      "sourceUrl": "https://japanesetaste.com//products/amami-oshima-naturally-mud-dyed-cotton-scarf-brown-and-tan"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680639877231",
+        "legacyResourceId": "43680639877231",
+        "title": "Default Title",
+        "sku": "ORIM-UDDYED-ROWN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895665344623",
+    "legacyResourceId": "7895665344623",
+    "handle": "amami-oshima-hand-dyed-mud-dye-cotton-scarf-brown-purple",
+    "title": "Amami Oshima Hand-Dyed Mud Dye Cotton Scarf – Brown Purple",
+    "vendor": "Orim Co., Ltd.",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/amami-oshima-hand-dyed-mud-dye-cotton-scarf-brown-purple",
+    "createdAt": "2025-09-27T13:38:18Z",
+    "updatedAt": "2026-07-17T01:12:56Z",
+    "sources": {
+      "legacyResourceId": "7895665344623",
+      "sourceUrl": "https://japanesetaste.com//products/amami-oshima-naturally-mud-dyed-cotton-scarf-brown-and-purple"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680640335983",
+        "legacyResourceId": "43680640335983",
+        "title": "Default Title",
+        "sku": "ORIM-ANTDYE-RPLE",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895665377391",
+    "legacyResourceId": "7895665377391",
+    "handle": "fukuyamasu-bilberry-aged-black-rice-drinking-vinegar-200ml",
+    "title": "Fukuyamasu Bilberry & Aged Black Rice Drinking Vinegar (200ml)",
+    "vendor": "Fukuyamasu",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fukuyamasu-bilberry-aged-black-rice-drinking-vinegar-200ml",
+    "createdAt": "2025-09-27T13:38:18Z",
+    "updatedAt": "2026-07-10T13:31:50Z",
+    "sources": {
+      "legacyResourceId": "7895665377391",
+      "sourceUrl": "https://japanesetaste.com//products/fukuyamasu-bilberry-aged-black-rice-drinking-vinegar-200ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680640368751",
+        "legacyResourceId": "43680640368751",
+        "title": "Default Title",
+        "sku": "FUKU-KVINEG-00ML",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895665442927",
+    "legacyResourceId": "7895665442927",
+    "handle": "japanese-indigo-blue-lacquered-maki-e-case-samurai-horseback-design",
+    "title": "Japanese Indigo Blue Lacquered Maki-e Case - Samurai Horseback Design",
+    "vendor": "Sakura Treasures",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/japanese-indigo-blue-lacquered-maki-e-case-samurai-horseback-design",
+    "createdAt": "2025-09-27T13:38:33Z",
+    "updatedAt": "2026-07-10T13:31:50Z",
+    "sources": {
+      "legacyResourceId": "7895665442927",
+      "sourceUrl": "https://japanesetaste.com//products/indigo-blue-lacquered-small-case-samurai-on-horseback-design"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680640467055",
+        "legacyResourceId": "43680640467055",
+        "title": "Default Title",
+        "sku": "TAMA-CQUERE-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895665475695",
+    "legacyResourceId": "7895665475695",
+    "handle": "red-lacquered-japanese-cherry-blossom-accessory-case-handcrafted-box",
+    "title": "Red Lacquered Japanese Cherry Blossom Accessory Case - Handcrafted Box",
+    "vendor": "Kishu Lacquerware (Kishu Shikki)",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/red-lacquered-japanese-cherry-blossom-accessory-case-handcrafted-box",
+    "createdAt": "2025-09-27T13:38:42Z",
+    "updatedAt": "2026-07-10T13:31:50Z",
+    "sources": {
+      "legacyResourceId": "7895665475695",
+      "sourceUrl": "https://japanesetaste.com//products/red-lacquered-small-accessory-case-cherry-blossom-design"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680640663663",
+        "legacyResourceId": "43680640663663",
+        "title": "Default Title",
+        "sku": "TAMA-DSMALL-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895665508463",
+    "legacyResourceId": "7895665508463",
+    "handle": "indigo-blue-lacquered-hand-mirror-crescent-moon",
+    "title": "Indigo Blue Lacquered Hand Mirror - Japanese Crescent Moon Artisan Craft",
+    "vendor": "Yamada Heiando",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/indigo-blue-lacquered-hand-mirror-crescent-moon",
+    "createdAt": "2025-09-27T13:38:42Z",
+    "updatedAt": "2026-07-10T13:31:51Z",
+    "sources": {
+      "legacyResourceId": "7895665508463",
+      "sourceUrl": "https://japanesetaste.com//products/indigo-blue-lacquered-hand-mirror-crescent-moon-design"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680640630895",
+        "legacyResourceId": "43680640630895",
+        "title": "Default Title",
+        "sku": "TAMA-ELACQU-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895665541231",
+    "legacyResourceId": "7895665541231",
+    "handle": "indigo-blue-lacquered-standing-mirror-crescent-moon-makie",
+    "title": "Indigo Blue Lacquered Standing Mirror - Crescent Moon Makie Artistry",
+    "vendor": "Yamada Heiando",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/indigo-blue-lacquered-standing-mirror-crescent-moon-makie",
+    "createdAt": "2025-09-27T13:38:42Z",
+    "updatedAt": "2026-07-10T13:31:51Z",
+    "sources": {
+      "legacyResourceId": "7895665541231",
+      "sourceUrl": "https://japanesetaste.com//products/indigo-blue-lacquered-standing-mirror-crescent-moon-design"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680640598127",
+        "legacyResourceId": "43680640598127",
+        "title": "Default Title",
+        "sku": "TAMA-QUERED-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895665573999",
+    "legacyResourceId": "7895665573999",
+    "handle": "red-lacquer-hand-mirror-camellia-japanese-craftsmanship",
+    "title": "Red Lacquer Hand Mirror with Camellia - Authentic Japanese Craftsmanship",
+    "vendor": "Tamahashi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/red-lacquer-hand-mirror-camellia-japanese-craftsmanship",
+    "createdAt": "2025-09-27T13:38:49Z",
+    "updatedAt": "2026-07-10T13:31:51Z",
+    "sources": {
+      "legacyResourceId": "7895665573999",
+      "sourceUrl": "https://japanesetaste.com//products/red-lacquered-hand-mirror-camelia-flower-design"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680640761967",
+        "legacyResourceId": "43680640761967",
+        "title": "Default Title",
+        "sku": "TAMA-NDMIRR-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895665606767",
+    "legacyResourceId": "7895665606767",
+    "handle": "yamaco-mt-fuji-glass-water-bottle-400ml",
+    "title": "Yamaco Mt. Fuji Glass Water Bottle - 400ml Authentic Japanese Design",
+    "vendor": "Yamaco",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yamaco-mt-fuji-glass-water-bottle-400ml",
+    "createdAt": "2025-09-27T13:38:49Z",
+    "updatedAt": "2026-07-10T13:31:51Z",
+    "sources": {
+      "legacyResourceId": "7895665606767",
+      "sourceUrl": "https://japanesetaste.com//products/mt-fuji-shaped-glass-bottle-water-server-with-cap-400ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680640794735",
+        "legacyResourceId": "43680640794735",
+        "title": "Default Title",
+        "sku": "YAMA-BOTTLE-80ML",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895665672303",
+    "legacyResourceId": "7895665672303",
+    "handle": "katariki-3-pack-aluminum-ice-cream-spoons-dragonfly-design",
+    "title": "Katariki 3-Pack Aluminum Ice Cream Spoons - Dragonfly Design",
+    "vendor": "Katariki",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/katariki-3-pack-aluminum-ice-cream-spoons-dragonfly-design",
+    "createdAt": "2025-09-27T13:39:17Z",
+    "updatedAt": "2026-07-10T13:31:51Z",
+    "sources": {
+      "legacyResourceId": "7895665672303",
+      "sourceUrl": "https://japanesetaste.com//products/katariki-premium-aluminum-ice-cream-spoon-dragonfly-design-set-of-3"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680641056879",
+        "legacyResourceId": "43680641056879",
+        "title": "Default Title",
+        "sku": "KATA-ALUMIN-TOF3",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895665770607",
+    "legacyResourceId": "7895665770607",
+    "handle": "teraoka-yuzu-teriyaki-soy-sauce-150ml-premium-japanese-citrus-glaze",
+    "title": "Teraoka Yuzu Teriyaki Soy Sauce - 150ml Japanese Premium Citrus Glaze",
+    "vendor": "Teraoka",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/teraoka-yuzu-teriyaki-soy-sauce-150ml-premium-japanese-citrus-glaze",
+    "createdAt": "2025-09-27T13:39:17Z",
+    "updatedAt": "2026-07-10T13:31:52Z",
+    "sources": {
+      "legacyResourceId": "7895665770607",
+      "sourceUrl": "https://japanesetaste.com//products/teraoka-teriyaki-soy-sauce-yuzu-flavor-dipping-sauce-150ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680641122415",
+        "legacyResourceId": "43680641122415",
+        "title": "Default Title",
+        "sku": "TERA-YSAUCE-50ML",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895665803375",
+    "legacyResourceId": "7895665803375",
+    "handle": "multi-purpose-non-slip-kitchen-opener-5-in-1-jar-bottle-tool",
+    "title": "Multi-Purpose Non-Slip Kitchen Opener - 5-in-1 Jar and Bottle Tool",
+    "vendor": "Kataoka & Co., Ltd.",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/multi-purpose-non-slip-kitchen-opener-5-in-1-jar-bottle-tool",
+    "createdAt": "2025-09-27T13:39:17Z",
+    "updatedAt": "2026-07-10T13:31:52Z",
+    "sources": {
+      "legacyResourceId": "7895665803375",
+      "sourceUrl": "https://japanesetaste.com//products/multipurpose-non-slip-easy-opener-for-cans-bottles-and-jars"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680641155183",
+        "legacyResourceId": "43680641155183",
+        "title": "Default Title",
+        "sku": "KATA-IPGRIP-JARS",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895665836143",
+    "legacyResourceId": "7895665836143",
+    "handle": "japanese-hinoki-cypress-bath-balls-natural-forest-onsen-experience",
+    "title": "Japanese Hinoki Cypress Bath Balls - Natural Forest Onsen Experience",
+    "vendor": "Yamako",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/japanese-hinoki-cypress-bath-balls-natural-forest-onsen-experience",
+    "createdAt": "2025-09-27T13:39:27Z",
+    "updatedAt": "2026-07-10T13:31:52Z",
+    "sources": {
+      "legacyResourceId": "7895665836143",
+      "sourceUrl": "https://japanesetaste.com//products/hinoki-onsen-bath-balls-natural-cypress-wood-air-freshener-5-pack"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680641220719",
+        "legacyResourceId": "43680641220719",
+        "title": "Default Title",
+        "sku": "YAMA-SENBAT-PACK",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895665868911",
+    "legacyResourceId": "7895665868911",
+    "handle": "shiseido-integrate-pro-finish-cushion-foundation-spf50-pa",
+    "title": "Shiseido Integrate Pro Finish Cushion Foundation SPF50+ PA+++",
+    "vendor": "Shiseido",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/shiseido-integrate-pro-finish-cushion-foundation-spf50-pa",
+    "createdAt": "2025-09-27T13:40:06Z",
+    "updatedAt": "2026-07-10T13:31:52Z",
+    "sources": {
+      "legacyResourceId": "7895665868911",
+      "sourceUrl": "https://japanesetaste.com//products/shiseido-integrate-pro-finish-cushion-foundation-spf50"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680641319023",
+        "legacyResourceId": "43680641319023",
+        "title": "Default Title",
+        "sku": "SHIS-ROFINI-LHER",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43680641351791",
+        "legacyResourceId": "43680641351791",
+        "title": "Ocher",
+        "sku": "SHIS-ROFINI-CHER",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Ocher"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895665901679",
+    "legacyResourceId": "7895665901679",
+    "handle": "manten-gomania-spicy-sesame-chili-oil-topping-60g",
+    "title": "Manten Gomania Spicy Sesame Chili Oil Topping - Japanese Umami Crunch 60g",
+    "vendor": "Manten",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/manten-gomania-spicy-sesame-chili-oil-topping-60g",
+    "createdAt": "2025-09-27T13:40:06Z",
+    "updatedAt": "2026-07-10T13:31:52Z",
+    "sources": {
+      "legacyResourceId": "7895665901679",
+      "sourceUrl": "https://japanesetaste.com//products/manten-gomania-spicy-sesame-chili-oil-topping-for-rice-and-noodles-60g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680641384559",
+        "legacyResourceId": "43680641384559",
+        "title": "Default Title",
+        "sku": "MANT-OILTOP-S60G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895665967215",
+    "legacyResourceId": "7895665967215",
+    "handle": "inaho-ultra-moisturizing-rice-bran-body-cream-200g",
+    "title": "Inaho Ultra-Moisturizing Rice Bran Body Cream - 200g Made in Japan",
+    "vendor": "Inaho",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/inaho-ultra-moisturizing-rice-bran-body-cream-200g",
+    "createdAt": "2025-09-27T13:41:05Z",
+    "updatedAt": "2026-07-10T13:31:53Z",
+    "sources": {
+      "legacyResourceId": "7895665967215",
+      "sourceUrl": "https://japanesetaste.com//products/inaho-highly-moisturizing-rice-bran-body-cream-for-smooth-skin-200g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680642203759",
+        "legacyResourceId": "43680642203759",
+        "title": "Default Title",
+        "sku": "EDOB-GENTLE-00ML",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895665999983",
+    "legacyResourceId": "7895665999983",
+    "handle": "muso-organic-corn-flakes-150g-additive-free-cereal",
+    "title": "Muso Organic Corn Flakes - 150g Additive-Free Gluten-Free Cereal",
+    "vendor": "Muso",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/muso-organic-corn-flakes-150g-additive-free-cereal",
+    "createdAt": "2025-09-27T13:41:05Z",
+    "updatedAt": "2026-07-10T13:31:53Z",
+    "sources": {
+      "legacyResourceId": "7895665999983",
+      "sourceUrl": "https://japanesetaste.com//products/muso-additive-free-organic-corn-flakes-plain-flavor-150g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680642170991",
+        "legacyResourceId": "43680642170991",
+        "title": "Default Title",
+        "sku": "JAPA-ORGANI-150G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666032751",
+    "legacyResourceId": "7895666032751",
+    "handle": "aderia-fujin-raijin-glass-plate-set-authentic-japanese-art-mamezara",
+    "title": "Aderia Fujin Raijin Glass Plate Set - Authentic Japanese Art Mamezara",
+    "vendor": "Aderia",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/aderia-fujin-raijin-glass-plate-set-authentic-japanese-art-mamezara",
+    "createdAt": "2025-09-27T13:41:05Z",
+    "updatedAt": "2026-07-10T13:31:53Z",
+    "sources": {
+      "legacyResourceId": "7895666032751",
+      "sourceUrl": "https://japanesetaste.com//products/aderia-fujin-raijin-small-glass-plate-japanese-glassware-dish-set-s-6229"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680642138223",
+        "legacyResourceId": "43680642138223",
+        "title": "Default Title",
+        "sku": "ADRA-GLASET-S6229",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666098287",
+    "legacyResourceId": "7895666098287",
+    "handle": "handcrafted-hasami-porcelain-pink-matcha-bowl-wooden-gift-box",
+    "title": "Handcrafted Hasami Porcelain Pink Matcha Bowl with Wooden Gift Box",
+    "vendor": "Saikai Toki (Hasami Porcelain)",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/handcrafted-hasami-porcelain-pink-matcha-bowl-wooden-gift-box",
+    "createdAt": "2025-09-27T13:41:45Z",
+    "updatedAt": "2026-07-10T13:31:53Z",
+    "sources": {
+      "legacyResourceId": "7895666098287",
+      "sourceUrl": "https://japanesetaste.com//products/hasami-porcelain-matchawan-pink-matcha-tea-bowl-with-wooden-box"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680642334831",
+        "legacyResourceId": "43680642334831",
+        "title": "Default Title",
+        "sku": "HASA-TCHATE-68CM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666131055",
+    "legacyResourceId": "7895666131055",
+    "handle": "hasami-porcelain-matchawan-minimalist-japanese-matcha-bowl-black-brown",
+    "title": "Hasami Porcelain Matchawan - Minimalist Japanese Matcha Bowl Black & Brown",
+    "vendor": "Hasami Porcelain",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/hasami-porcelain-matchawan-minimalist-japanese-matcha-bowl-black-brown",
+    "createdAt": "2025-09-27T13:41:53Z",
+    "updatedAt": "2026-07-13T23:57:09Z",
+    "sources": {
+      "legacyResourceId": "7895666131055",
+      "sourceUrl": "https://japanesetaste.com//products/hasami-porcelain-matchawan-lightweight-black-and-brown-matcha-tea-bowl"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680642465903",
+        "legacyResourceId": "43680642465903",
+        "title": "Default Title",
+        "sku": "HASA-KMATCH-68CM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666163823",
+    "legacyResourceId": "7895666163823",
+    "handle": "inaho-rice-bran-balancing-beauty-oil-30ml",
+    "title": "Inaho Rice Bran Balancing Beauty Oil - Silky Hydration & Radiance 30ml",
+    "vendor": "Inaho",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/inaho-rice-bran-balancing-beauty-oil-30ml",
+    "createdAt": "2025-09-27T13:41:53Z",
+    "updatedAt": "2026-07-10T13:31:54Z",
+    "sources": {
+      "legacyResourceId": "7895666163823",
+      "sourceUrl": "https://japanesetaste.com//products/inaho-balancing-rice-bran-beauty-oil-non-sticky-skincare-oil-30ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680642433135",
+        "legacyResourceId": "43680642433135",
+        "title": "Default Title",
+        "sku": "EDOB-IVEHYD-30ML",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666196591",
+    "legacyResourceId": "7895666196591",
+    "handle": "daihoku-crispy-roasted-garlic-snack-100g",
+    "title": "Daihoku Crispy Roasted Garlic Snack - 100g Premium Japanese Umami",
+    "vendor": "Daihoku",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/daihoku-crispy-roasted-garlic-snack-100g",
+    "createdAt": "2025-09-27T13:42:08Z",
+    "updatedAt": "2026-07-10T13:31:54Z",
+    "sources": {
+      "legacyResourceId": "7895666196591",
+      "sourceUrl": "https://japanesetaste.com//products/daihoku-ready-to-eat-healthy-seasoned-roasted-garlic-snack-100g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680642728047",
+        "legacyResourceId": "43680642728047",
+        "title": "Default Title",
+        "sku": "DAIH-RLICSN-100G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666229359",
+    "legacyResourceId": "7895666229359",
+    "handle": "kiyosen-hojicha-roasted-green-tea-soba-noodles-3-bag-gourmet-pack",
+    "title": "Kiyosen Hojicha Roasted Green Tea Soba Noodles - 3-Bag Gourmet Pack",
+    "vendor": "Kiyosen",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kiyosen-hojicha-roasted-green-tea-soba-noodles-3-bag-gourmet-pack",
+    "createdAt": "2025-09-27T13:42:08Z",
+    "updatedAt": "2026-07-10T13:31:54Z",
+    "sources": {
+      "legacyResourceId": "7895666229359",
+      "sourceUrl": "https://japanesetaste.com//products/kiyosen-hojicha-fragrant-roasted-green-tea-soba-noodles-3-bag-pack"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680642662511",
+        "legacyResourceId": "43680642662511",
+        "title": "Default Title",
+        "sku": "NSSN-DMARMN-86",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666294895",
+    "legacyResourceId": "7895666294895",
+    "handle": "hasami-rustic-yohen-matcha-tea-bowl-wooden-gift-box",
+    "title": "Hasami Rustic Yohen Matcha Tea Bowl - Authentic Handcrafted Ceramic",
+    "vendor": "Hasami Porcelain",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/hasami-rustic-yohen-matcha-tea-bowl-wooden-gift-box",
+    "createdAt": "2025-09-27T13:42:08Z",
+    "updatedAt": "2026-07-10T13:31:54Z",
+    "sources": {
+      "legacyResourceId": "7895666294895",
+      "sourceUrl": "https://japanesetaste.com//products/hasami-porcelain-matchawan-rustic-matcha-tea-bowl-with-wooden-box"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680642760815",
+        "legacyResourceId": "43680642760815",
+        "title": "Default Title",
+        "sku": "HASA-MATCHA-68CM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666327663",
+    "legacyResourceId": "7895666327663",
+    "handle": "100-rayon-thank-you-multi-cloth-absorbent-dish-towel-30x30cm",
+    "title": "100% Rayon Thank You Multi-Cloth - Absorbent Dish Towel 30x30cm",
+    "vendor": "Carna Japan",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/100-rayon-thank-you-multi-cloth-absorbent-dish-towel-30x30cm",
+    "createdAt": "2025-09-27T13:42:08Z",
+    "updatedAt": "2026-07-10T13:31:55Z",
+    "sources": {
+      "legacyResourceId": "7895666327663",
+      "sourceUrl": "https://japanesetaste.com//products/100-rayon-dish-towel-thank-you-multi-cloth-made-in-japan-30x30cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680642695279",
+        "legacyResourceId": "43680642695279",
+        "title": "Default Title",
+        "sku": "100R-ULTICL-30CM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666360431",
+    "legacyResourceId": "7895666360431",
+    "handle": "yamako-handcrafted-hinoki-wood-greek-yogurt-maker-strainer-1-5l",
+    "title": "Yamako Handcrafted Hinoki Wood Greek Yogurt Maker & Strainer - 1.5L",
+    "vendor": "Yamako",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yamako-handcrafted-hinoki-wood-greek-yogurt-maker-strainer-1-5l",
+    "createdAt": "2025-09-27T13:42:20Z",
+    "updatedAt": "2026-07-10T13:31:55Z",
+    "sources": {
+      "legacyResourceId": "7895666360431",
+      "sourceUrl": "https://japanesetaste.com//products/hinoki-wood-strainer-greek-yogurt-maker-and-strainer-set-1-5l"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680643022959",
+        "legacyResourceId": "43680643022959",
+        "title": "Default Title",
+        "sku": "YAMA-GREEKY-38CM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666393199",
+    "legacyResourceId": "7895666393199",
+    "handle": "ikehiko-70cm-japanese-rush-grass-tatami-mat",
+    "title": "Ikehiko 70cm Japanese Rush Grass Tatami Mat - Authentic Igusa Floor",
+    "vendor": "Ikehiko",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/ikehiko-70cm-japanese-rush-grass-tatami-mat",
+    "createdAt": "2025-09-27T13:42:20Z",
+    "updatedAt": "2026-07-10T13:31:55Z",
+    "sources": {
+      "legacyResourceId": "7895666393199",
+      "sourceUrl": "https://japanesetaste.com//products/ikehiko-raised-tatami-mat-flooring-tatami-furniture-70cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680643055727",
+        "legacyResourceId": "43680643055727",
+        "title": "Default Title",
+        "sku": "IKEH-TFLOOR-REEN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43680643088495",
+        "legacyResourceId": "43680643088495",
+        "title": "Grey",
+        "sku": "IKEH-TFLOOR-GREY",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Grey"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43680643121263",
+        "legacyResourceId": "43680643121263",
+        "title": "Plain",
+        "sku": "IKEH-TFLOOR-LAIN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Plain"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666425967",
+    "legacyResourceId": "7895666425967",
+    "handle": "yamaco-extra-large-hinoki-wood-onigiri-mold-18-2cm",
+    "title": "Yamaco Extra-Large Hinoki Wood Onigiri Mold - 18.2cm Traditional Press",
+    "vendor": "Yamaco",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yamaco-extra-large-hinoki-wood-onigiri-mold-18-2cm",
+    "createdAt": "2025-09-27T13:42:28Z",
+    "updatedAt": "2026-07-10T13:31:55Z",
+    "sources": {
+      "legacyResourceId": "7895666425967",
+      "sourceUrl": "https://japanesetaste.com//products/hinoki-onigiri-mold-extra-large-rice-ball-maker-18-2cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680643186799",
+        "legacyResourceId": "43680643186799",
+        "title": "Default Title",
+        "sku": "YAMA-IGIRIM-82CM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666458735",
+    "legacyResourceId": "7895666458735",
+    "handle": "etvos-mineral-classy-shadow-eyes-palette",
+    "title": "Etvos Mineral Classy Shadow - Elegant 4-Color Eyeshadow Palette",
+    "vendor": "Etvos",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/etvos-mineral-classy-shadow-eyes-palette",
+    "createdAt": "2025-09-27T13:42:31Z",
+    "updatedAt": "2026-07-10T13:31:55Z",
+    "sources": {
+      "legacyResourceId": "7895666458735",
+      "sourceUrl": "https://japanesetaste.com//products/etvos-mineral-classy-shadow-semi-matte-and-shimmer-eyeshadow-palette"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680643252335",
+        "legacyResourceId": "43680643252335",
+        "title": "Default Title",
+        "sku": "ETVO-ESHIMM-HFIG",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43680643285103",
+        "legacyResourceId": "43680643285103",
+        "title": "Slow Beige",
+        "sku": "ETVO-ESHIMM-EIGE",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Slow Beige"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43680643317871",
+        "legacyResourceId": "43680643317871",
+        "title": "Brick Orange",
+        "sku": "ETVO-ESHIMM-ANGE",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Brick Orange"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43680643350639",
+        "legacyResourceId": "43680643350639",
+        "title": "Ginger Camel",
+        "sku": "ETVO-ESHIMM-AMEL",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Ginger Camel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666491503",
+    "legacyResourceId": "7895666491503",
+    "handle": "etvos-night-mineral-radiant-skin-balm-5g",
+    "title": "Etvos Night Mineral Radiant Skin Balm 5g - Overnight Moisture & Glow",
+    "vendor": "Etvos",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/etvos-night-mineral-radiant-skin-balm-5g",
+    "createdAt": "2025-09-27T13:42:36Z",
+    "updatedAt": "2026-07-10T13:31:56Z",
+    "sources": {
+      "legacyResourceId": "7895666491503",
+      "sourceUrl": "https://japanesetaste.com//products/etvos-night-mineral-radiant-skin-balm-moist-highlighting-balm-5g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680643448943",
+        "legacyResourceId": "43680643448943",
+        "title": "Default Title",
+        "sku": "ETVO-NMRSKN-5G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666524271",
+    "legacyResourceId": "7895666524271",
+    "handle": "premium-hinoki-cypress-onigiri-mold-traditional-japanese-rice-press-17cm",
+    "title": "Premium Hinoki Cypress Onigiri Mold - Traditional Japanese Rice Press 17cm",
+    "vendor": "Yamako",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/premium-hinoki-cypress-onigiri-mold-traditional-japanese-rice-press-17cm",
+    "createdAt": "2025-09-27T13:42:36Z",
+    "updatedAt": "2026-07-10T13:31:56Z",
+    "sources": {
+      "legacyResourceId": "7895666524271",
+      "sourceUrl": "https://japanesetaste.com//products/hinoki-onigiri-mold-handcrafter-wooden-rice-ball-shaper-17cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680643481711",
+        "legacyResourceId": "43680643481711",
+        "title": "Default Title",
+        "sku": "YAMA-NIGIRI-75CM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666557039",
+    "legacyResourceId": "7895666557039",
+    "handle": "etvos-night-mineral-foundation-translucent-overnight-setting-powder-5g",
+    "title": "Etvos Night Mineral Foundation - Translucent Overnight Setting Powder 5g",
+    "vendor": "Etvos",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/etvos-night-mineral-foundation-translucent-overnight-setting-powder-5g",
+    "createdAt": "2025-09-27T13:42:53Z",
+    "updatedAt": "2026-07-10T13:31:56Z",
+    "sources": {
+      "legacyResourceId": "7895666557039",
+      "sourceUrl": "https://japanesetaste.com//products/etvos-night-mineral-foundation-translucent-setting-face-powder-5g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680643612783",
+        "legacyResourceId": "43680643612783",
+        "title": "Default Title",
+        "sku": "ETVO-NDATIO-ER5G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666589807",
+    "legacyResourceId": "7895666589807",
+    "handle": "manuka-honey-citrus-handcrafted-bar-soap-75g",
+    "title": "Manuka Honey & Citrus Handcrafted Bar Soap - 75g Radiant Skin",
+    "vendor": "Manuka Health",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/manuka-honey-citrus-handcrafted-bar-soap-75g",
+    "createdAt": "2025-09-27T13:42:53Z",
+    "updatedAt": "2026-07-10T13:31:56Z",
+    "sources": {
+      "legacyResourceId": "7895666589807",
+      "sourceUrl": "https://japanesetaste.com//products/honey-mother-natural-manuka-honey-bar-soap-honey-citrus-scent-75g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680643678319",
+        "legacyResourceId": "43680643678319",
+        "title": "Default Title",
+        "sku": "HONE-NEYSOA-T75G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666622575",
+    "legacyResourceId": "7895666622575",
+    "handle": "kiyosen-uji-sencha-gyokuro-green-tea-gift-set",
+    "title": "Kiyosen Uji Sencha & Gyokuro Green Tea Gift Set - Premium Kyoto Selection",
+    "vendor": "Kiyosen",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kiyosen-uji-sencha-gyokuro-green-tea-gift-set",
+    "createdAt": "2025-09-27T13:42:53Z",
+    "updatedAt": "2026-07-10T13:31:56Z",
+    "sources": {
+      "legacyResourceId": "7895666622575",
+      "sourceUrl": "https://japanesetaste.com//products/kiyosen-premium-sencha-and-gyokuro-loose-leaf-uji-green-tea-gift-set"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680643645551",
+        "legacyResourceId": "43680643645551",
+        "title": "Default Title",
+        "sku": "KIYO-ENCHAG-150G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666655343",
+    "legacyResourceId": "7895666655343",
+    "handle": "traditional-japanese-sawara-wood-pickling-barrel-6kg-tsukemono-tub",
+    "title": "Traditional Japanese Sawara Wood Pickling Barrel - 6kg Tsukemono Tub",
+    "vendor": "Yamako",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/traditional-japanese-sawara-wood-pickling-barrel-6kg-tsukemono-tub",
+    "createdAt": "2025-09-27T13:43:03Z",
+    "updatedAt": "2026-07-10T13:31:57Z",
+    "sources": {
+      "legacyResourceId": "7895666655343",
+      "sourceUrl": "https://japanesetaste.com//products/wooden-pickling-barrel-for-making-japanese-pickles-6kg-capacity"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680643743855",
+        "legacyResourceId": "43680643743855",
+        "title": "Default Title",
+        "sku": "YAMA-GBARRE-DIUM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666688111",
+    "legacyResourceId": "7895666688111",
+    "handle": "yamaco-hinoki-wood-oshizushi-press-22cm-square-sushi-mold",
+    "title": "Yamaco Hinoki Wood Oshizushi Press - Authentic 22cm Square Sushi Mold",
+    "vendor": "Yamaco",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yamaco-hinoki-wood-oshizushi-press-22cm-square-sushi-mold",
+    "createdAt": "2025-09-27T13:43:13Z",
+    "updatedAt": "2026-07-10T13:31:57Z",
+    "sources": {
+      "legacyResourceId": "7895666688111",
+      "sourceUrl": "https://japanesetaste.com//products/square-oshizushi-press-hinoki-wood-pressed-sushi-mold-22cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680643842159",
+        "legacyResourceId": "43680643842159",
+        "title": "Default Title",
+        "sku": "YAMA-EOSHIZ-22CM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666720879",
+    "legacyResourceId": "7895666720879",
+    "handle": "yamako-handcrafted-sawara-cypress-miso-aging-barrel-1-5kg",
+    "title": "Yamako Handcrafted Sawara Cypress Miso Aging Barrel - 1.5kg Capacity",
+    "vendor": "Yamako",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yamako-handcrafted-sawara-cypress-miso-aging-barrel-1-5kg",
+    "createdAt": "2025-09-27T13:43:13Z",
+    "updatedAt": "2026-07-10T13:31:57Z",
+    "sources": {
+      "legacyResourceId": "7895666720879",
+      "sourceUrl": "https://japanesetaste.com//products/wooden-aging-barrel-for-homemade-miso-paste-1-5kg-capacity"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680643874927",
+        "legacyResourceId": "43680643874927",
+        "title": "Default Title",
+        "sku": "YAMA-INGBAR-CITY",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666753647",
+    "legacyResourceId": "7895666753647",
+    "handle": "noda-horo-activated-carbon-filter-cartridges-2-pack",
+    "title": "Noda Horo Activated Carbon Filter Cartridges - 2 Pack for Oil Pots",
+    "vendor": "Noda Horo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/noda-horo-activated-carbon-filter-cartridges-2-pack",
+    "createdAt": "2025-09-27T13:43:29Z",
+    "updatedAt": "2026-07-10T13:31:57Z",
+    "sources": {
+      "legacyResourceId": "7895666753647",
+      "sourceUrl": "https://japanesetaste.com//products/noda-horo-activated-carbon-filter-cartridge-for-oil-pot-2-pcs"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680643940463",
+        "legacyResourceId": "43680643940463",
+        "title": "Default Title",
+        "sku": "NODA-AMELCO-00ML",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666786415",
+    "legacyResourceId": "7895666786415",
+    "handle": "axxzia-le-ciel-de-laube-silky-emulsion-55ml",
+    "title": "Axxzia Le Ciel de L'aube Silky Emulsion - 55ml Milky Moisturizer",
+    "vendor": "Axxzia",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/axxzia-le-ciel-de-laube-silky-emulsion-55ml",
+    "createdAt": "2025-09-27T13:43:30Z",
+    "updatedAt": "2026-07-10T13:31:57Z",
+    "sources": {
+      "legacyResourceId": "7895666786415",
+      "sourceUrl": "https://japanesetaste.com//products/axxzia-ag-theory-silky-emulsion-milky-moisturizer-55ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680644005999",
+        "legacyResourceId": "43680644005999",
+        "title": "Default Title",
+        "sku": "HAB-SQA-SO-30",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666819183",
+    "legacyResourceId": "7895666819183",
+    "handle": "etvos-mineral-lip-plumper-deep-serum-gloss",
+    "title": "Etvos Mineral Lip Plumper Deep - High-Pigment Hydrating Serum Gloss",
+    "vendor": "Etvos",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/etvos-mineral-lip-plumper-deep-serum-gloss",
+    "createdAt": "2025-09-27T13:43:38Z",
+    "updatedAt": "2026-07-10T13:31:58Z",
+    "sources": {
+      "legacyResourceId": "7895666819183",
+      "sourceUrl": "https://japanesetaste.com//products/etvos-mineral-lip-plumper-deep-high-pigment-serum-lip-gloss"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680644071535",
+        "legacyResourceId": "43680644071535",
+        "title": "Default Title",
+        "sku": "ETVO-PPLUMP-OTTA",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43680644104303",
+        "legacyResourceId": "43680644104303",
+        "title": "Baked Chestnut",
+        "sku": "ETVO-PPLUMP-BCHT",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Baked Chestnut"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43680644137071",
+        "legacyResourceId": "43680644137071",
+        "title": "Dusty Pink",
+        "sku": "ETVO-PPLUMP-PINK",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Dusty Pink"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43680644169839",
+        "legacyResourceId": "43680644169839",
+        "title": "Milky Cocoa",
+        "sku": "ETVO-PPLUMP-OCOA",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Milky Cocoa"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666851951",
+    "legacyResourceId": "7895666851951",
+    "handle": "katariki-whale-aluminum-ice-cream-spoon-instant-melt",
+    "title": "Katariki Whale Aluminum Ice Cream Spoon - Instant Melt Thermal Conductivity",
+    "vendor": "Katariki",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/katariki-whale-aluminum-ice-cream-spoon-instant-melt",
+    "createdAt": "2025-09-27T13:43:40Z",
+    "updatedAt": "2026-07-10T13:31:58Z",
+    "sources": {
+      "legacyResourceId": "7895666851951",
+      "sourceUrl": "https://japanesetaste.com//products/katariki-cute-aluminum-ice-cream-spoon-whale-marine-blue-11-6cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680644268143",
+        "legacyResourceId": "43680644268143",
+        "title": "Default Title",
+        "sku": "KATA-BACTER-HIEF",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666884719",
+    "legacyResourceId": "7895666884719",
+    "handle": "marushige-premium-black-ginger-vinegar-drink-185ml",
+    "title": "Marushige Premium Black Ginger Vinegar Drink - 185ml Japanese Wellness Elixir",
+    "vendor": "Marushige",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/marushige-premium-black-ginger-vinegar-drink-185ml",
+    "createdAt": "2025-09-27T13:43:40Z",
+    "updatedAt": "2026-07-10T13:31:58Z",
+    "sources": {
+      "legacyResourceId": "7895666884719",
+      "sourceUrl": "https://japanesetaste.com//products/marushige-versatile-drinkable-black-ginger-vinegar-185ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680644333679",
+        "legacyResourceId": "43680644333679",
+        "title": "Default Title",
+        "sku": "SHIG-NEGARD-85ML",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666917487",
+    "legacyResourceId": "7895666917487",
+    "handle": "hartwell-stretchable-antibacterial-pillowcase-greige-40x60cm",
+    "title": "Hartwell Stretchable Antibacterial Pillowcase - Greige 40x60cm",
+    "vendor": "Hartwell",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/hartwell-stretchable-antibacterial-pillowcase-greige-40x60cm",
+    "createdAt": "2025-09-27T13:43:41Z",
+    "updatedAt": "2026-07-10T13:31:58Z",
+    "sources": {
+      "legacyResourceId": "7895666917487",
+      "sourceUrl": "https://japanesetaste.com//products/hartwell-stretchable-antibacterial-gentle-pillowcase-greige-40x60cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680644366447",
+        "legacyResourceId": "43680644366447",
+        "title": "Default Title",
+        "sku": "HART-NLESSP-EIGE",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895666983023",
+    "legacyResourceId": "7895666983023",
+    "handle": "ikehiko-double-japanese-tatami-mattress-set-natural-igusa-anti-slip",
+    "title": "Ikehiko Double Japanese Tatami Mattress Set - Natural Igusa with Anti-Slip",
+    "vendor": "Ikehiko",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/ikehiko-double-japanese-tatami-mattress-set-natural-igusa-anti-slip",
+    "createdAt": "2025-09-27T13:44:11Z",
+    "updatedAt": "2026-07-10T13:31:58Z",
+    "sources": {
+      "legacyResourceId": "7895666983023",
+      "sourceUrl": "https://japanesetaste.com//products/ikehiko-3-piece-japanese-tatami-mat-mattress-futon-base-double"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680644726895",
+        "legacyResourceId": "43680644726895",
+        "title": "Default Title",
+        "sku": "IKEH-ETATAM-UBLE",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895667015791",
+    "legacyResourceId": "7895667015791",
+    "handle": "marushige-concentrated-pomegranate-vinegar-beauty-drink-185ml",
+    "title": "Marushige Concentrated Pomegranate Vinegar Beauty Drink - 185ml",
+    "vendor": "Marushige",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/marushige-concentrated-pomegranate-vinegar-beauty-drink-185ml",
+    "createdAt": "2025-09-27T13:44:11Z",
+    "updatedAt": "2026-07-10T13:31:59Z",
+    "sources": {
+      "legacyResourceId": "7895667015791",
+      "sourceUrl": "https://japanesetaste.com//products/marushige-aged-concentrated-pomegranate-vinegar-beauty-drink-185ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680644661359",
+        "legacyResourceId": "43680644661359",
+        "title": "Default Title",
+        "sku": "SHIG-EAUTYD-85ML",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895667048559",
+    "legacyResourceId": "7895667048559",
+    "handle": "katariki-aluminum-sea-otter-ice-cream-spoon-pink-gold-11-6cm",
+    "title": "Katariki Aluminum Sea Otter Ice Cream Spoon - Pink Gold 11.6cm",
+    "vendor": "Katariki",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/katariki-aluminum-sea-otter-ice-cream-spoon-pink-gold-11-6cm",
+    "createdAt": "2025-09-27T13:44:11Z",
+    "updatedAt": "2026-07-27T17:49:37Z",
+    "sources": {
+      "legacyResourceId": "7895667048559",
+      "sourceUrl": "https://japanesetaste.com//products/katariki-cute-aluminum-ice-cream-spoon-sea-otter-pink-gold-11-6cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680644694127",
+        "legacyResourceId": "43680644694127",
+        "title": "Default Title",
+        "sku": "KATA-EALUMI-16CM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895667081327",
+    "legacyResourceId": "7895667081327",
+    "handle": "hartwell-premium-imabari-sauna-hat-cotton-rayon-waterproof-case",
+    "title": "Hartwell Premium Imabari Sauna Hat - Cotton-Rayon Blend with Waterproof Case",
+    "vendor": "Hartwell",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/hartwell-premium-imabari-sauna-hat-cotton-rayon-waterproof-case",
+    "createdAt": "2025-09-27T13:44:49Z",
+    "updatedAt": "2026-07-15T03:13:22Z",
+    "sources": {
+      "legacyResourceId": "7895667081327",
+      "sourceUrl": "https://japanesetaste.com//products/hartwell-durable-cute-sauna-hat-with-waterproof-case"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680644857967",
+        "legacyResourceId": "43680644857967",
+        "title": "Default Title",
+        "sku": "HART-BARISA-ANGE",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43680644890735",
+        "legacyResourceId": "43680644890735",
+        "title": "Navy",
+        "sku": "HART-BARISA-NAVY",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Navy"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43680644923503",
+        "legacyResourceId": "43680644923503",
+        "title": "Beige",
+        "sku": "HART-BARISA-EIGE",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Beige"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895667114095",
+    "legacyResourceId": "7895667114095",
+    "handle": "wadaman-organic-roasted-golden-sesame-seeds-premium-aroma-50g",
+    "title": "Wadaman Organic Roasted Golden Sesame Seeds - Premium Japanese Aroma (50g)",
+    "vendor": "Wadaman",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/wadaman-organic-roasted-golden-sesame-seeds-premium-aroma-50g",
+    "createdAt": "2025-09-27T13:44:49Z",
+    "updatedAt": "2026-07-10T13:31:59Z",
+    "sources": {
+      "legacyResourceId": "7895667114095",
+      "sourceUrl": "https://japanesetaste.com//products/wadaman-organic-roasted-golden-sesame-seeds-rich-aroma-50g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680644825199",
+        "legacyResourceId": "43680644825199",
+        "title": "Default Title",
+        "sku": "WADA-ESEEDS-A50G",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895667146863",
+    "legacyResourceId": "7895667146863",
+    "handle": "ikehiko-semi-double-japanese-tatami-futon-base-premium-rush-grass-set",
+    "title": "Ikehiko Semi-Double Japanese Tatami Futon Base - Premium Rush Grass Set",
+    "vendor": "Ikehiko",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/ikehiko-semi-double-japanese-tatami-futon-base-premium-rush-grass-set",
+    "createdAt": "2025-09-27T13:45:20Z",
+    "updatedAt": "2026-07-10T13:31:59Z",
+    "sources": {
+      "legacyResourceId": "7895667146863",
+      "sourceUrl": "https://japanesetaste.com//products/ikehiko-3-piece-japanese-tatami-mat-mattress-futon-base-semi-double"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680644989039",
+        "legacyResourceId": "43680644989039",
+        "title": "Default Title",
+        "sku": "IKEH-ATAMIM-UBLE",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895667212399",
+    "legacyResourceId": "7895667212399",
+    "handle": "cuol-ultra-gentle-face-towel-imabari-skincare-towel-34x80cm",
+    "title": "Cuol Ultra Gentle Face Towel - Imabari Skincare Towel for Sensitive Skin",
+    "vendor": "Cuol",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/cuol-ultra-gentle-face-towel-imabari-skincare-towel-34x80cm",
+    "createdAt": "2025-09-27T13:45:38Z",
+    "updatedAt": "2026-07-10T13:32:00Z",
+    "sources": {
+      "legacyResourceId": "7895667212399",
+      "sourceUrl": "https://japanesetaste.com//products/cuol-ultra-gentle-face-towel-soft-and-highly-absorbent-34x80cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680645349487",
+        "legacyResourceId": "43680645349487",
+        "title": "Default Title",
+        "sku": "HART-IONLES-PINK",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43680645382255",
+        "legacyResourceId": "43680645382255",
+        "title": "Mocha",
+        "sku": "HART-IONLES-OCHA",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Mocha"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43680645415023",
+        "legacyResourceId": "43680645415023",
+        "title": "White",
+        "sku": "HART-IONLES-HITE",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "White"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43680645447791",
+        "legacyResourceId": "43680645447791",
+        "title": "Mint",
+        "sku": "HART-IONLES-MINT",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Mint"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895667245167",
+    "legacyResourceId": "7895667245167",
+    "handle": "cuol-ultra-gentle-bath-towel-premium-imabari-cotton-60x120cm",
+    "title": "Cuol Ultra Gentle Bath Towel - Premium Imabari Cotton for Sensitive Skin",
+    "vendor": "Cuol",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/cuol-ultra-gentle-bath-towel-premium-imabari-cotton-60x120cm",
+    "createdAt": "2025-09-27T13:45:38Z",
+    "updatedAt": "2026-07-10T13:32:00Z",
+    "sources": {
+      "legacyResourceId": "7895667245167",
+      "sourceUrl": "https://japanesetaste.com//products/cuol-ultra-gentle-bath-towel-soft-and-highly-absorbent-60x120cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680645218415",
+        "legacyResourceId": "43680645218415",
+        "title": "Default Title",
+        "sku": "HART-ALFRIC-PINK",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43680645251183",
+        "legacyResourceId": "43680645251183",
+        "title": "Mocha",
+        "sku": "HART-ACTERI-OCHA",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Mocha"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43680645283951",
+        "legacyResourceId": "43680645283951",
+        "title": "White",
+        "sku": "HART-ALFRIC-HITE",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "White"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43680645316719",
+        "legacyResourceId": "43680645316719",
+        "title": "Mint",
+        "sku": "HART-ALFRIC-MINT",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Mint"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895667310703",
+    "legacyResourceId": "7895667310703",
+    "handle": "eco-friendly-green-foil-reusable-book-cover-bell-bird-me",
+    "title": "Eco-Friendly Green Foil Reusable Book Cover by Bell, Bird & Me",
+    "vendor": "Bell, Bird & Me",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/eco-friendly-green-foil-reusable-book-cover-bell-bird-me",
+    "createdAt": "2025-09-27T13:45:48Z",
+    "updatedAt": "2026-07-10T13:32:00Z",
+    "sources": {
+      "legacyResourceId": "7895667310703",
+      "sourceUrl": "https://japanesetaste.com//products/reusable-book-cover-green-foil-stamped-a-bell-a-bird-and-me-design"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43680645611631",
+        "legacyResourceId": "43680645611631",
+        "title": "Default Title",
+        "sku": "ROKK-BOOKCO-SIGN",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  }
+]

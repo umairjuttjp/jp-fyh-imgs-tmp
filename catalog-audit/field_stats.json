@@ -1,0 +1,509 @@
+{
+  "root_product_rows": 3139,
+  "child_variant_rows": 3368,
+  "products_with_children": 3139,
+  "root_keys": {
+    "createdAt": {
+      "count": 3139,
+      "types": {
+        "str": 3139
+      }
+    },
+    "description": {
+      "count": 3139,
+      "types": {
+        "str": 3139
+      }
+    },
+    "handle": {
+      "count": 3139,
+      "types": {
+        "str": 3139
+      }
+    },
+    "id": {
+      "count": 3139,
+      "types": {
+        "str": 3139
+      }
+    },
+    "legacyResourceId": {
+      "count": 3139,
+      "types": {
+        "str": 3139
+      }
+    },
+    "onlineStoreUrl": {
+      "count": 3139,
+      "types": {
+        "str": 3122,
+        "NoneType": 17
+      }
+    },
+    "productType": {
+      "count": 3139,
+      "types": {
+        "str": 3139
+      }
+    },
+    "sourceUrl": {
+      "count": 3139,
+      "types": {
+        "dict": 1619,
+        "NoneType": 1520
+      }
+    },
+    "status": {
+      "count": 3139,
+      "types": {
+        "str": 3139
+      }
+    },
+    "tags": {
+      "count": 3139,
+      "types": {
+        "list": 3139
+      }
+    },
+    "title": {
+      "count": 3139,
+      "types": {
+        "str": 3139
+      }
+    },
+    "updatedAt": {
+      "count": 3139,
+      "types": {
+        "str": 3139
+      }
+    },
+    "vendor": {
+      "count": 3139,
+      "types": {
+        "str": 3139
+      }
+    }
+  },
+  "source_identifier_field_population": {
+    "legacyResourceId": 3139,
+    "sourceUrl": 1619
+  },
+  "source_domains": {
+    "japanesetaste.com": 1615,
+    "www.yesstyle.com": 1,
+    "kokonoesaika.myshopify.com": 1,
+    "store.shopping.yahoo.co.jp": 1,
+    "int.japanesetaste.com": 1
+  },
+  "status_counts": {
+    "ACTIVE": 3129,
+    "DRAFT": 3,
+    "ARCHIVED": 6,
+    "UNLISTED": 1
+  },
+  "unique_vendors": 843,
+  "top_vendors": [
+    [
+      "Kose",
+      845
+    ],
+    [
+      "DHC",
+      88
+    ],
+    [
+      "Asahi",
+      80
+    ],
+    [
+      "Decorté",
+      50
+    ],
+    [
+      "FINE JAPAN",
+      47
+    ],
+    [
+      "Kousaido",
+      33
+    ],
+    [
+      "Shiseido",
+      31
+    ],
+    [
+      "DECORTÉ",
+      27
+    ],
+    [
+      "UHA Mikakuto",
+      24
+    ],
+    [
+      "Fancl",
+      20
+    ],
+    [
+      "Sori Yanagi",
+      18
+    ],
+    [
+      "Aderia",
+      18
+    ],
+    [
+      "Morinaga",
+      17
+    ],
+    [
+      "Meiji",
+      15
+    ],
+    [
+      "Tombow",
+      14
+    ],
+    [
+      "Calbee",
+      14
+    ],
+    [
+      "Ikehiko",
+      13
+    ],
+    [
+      "Milbon",
+      13
+    ],
+    [
+      "matsukiyo",
+      13
+    ],
+    [
+      "Kewpie",
+      12
+    ],
+    [
+      "Nehan Tokyo",
+      12
+    ],
+    [
+      "Sumikama",
+      11
+    ],
+    [
+      "Yamaco",
+      11
+    ],
+    [
+      "&honey",
+      11
+    ],
+    [
+      "Umezawa",
+      10
+    ],
+    [
+      "Vita Craft",
+      10
+    ],
+    [
+      "Orihiro",
+      10
+    ],
+    [
+      "Manten",
+      10
+    ],
+    [
+      "Dr.Select",
+      10
+    ],
+    [
+      "Kiya",
+      9
+    ],
+    [
+      "Zebra",
+      9
+    ],
+    [
+      "Yamako",
+      9
+    ],
+    [
+      "Adachi Jozo",
+      9
+    ],
+    [
+      "Wadaman",
+      9
+    ],
+    [
+      "Rokkaku",
+      9
+    ],
+    [
+      "Glico",
+      9
+    ],
+    [
+      "Asahi Group Foods",
+      9
+    ],
+    [
+      "Leye",
+      8
+    ],
+    [
+      "Musubi (Yamada Sen-i)",
+      8
+    ],
+    [
+      "Akashiya",
+      8
+    ],
+    [
+      "Ozora",
+      8
+    ],
+    [
+      "Takamura Hamono",
+      8
+    ],
+    [
+      "House Foods",
+      8
+    ],
+    [
+      "Seiki",
+      8
+    ],
+    [
+      "Wakasapri",
+      8
+    ],
+    [
+      "DECORTE",
+      8
+    ],
+    [
+      "Kanebo",
+      7
+    ],
+    [
+      "Green Bell",
+      7
+    ],
+    [
+      "Life Stationery",
+      7
+    ],
+    [
+      "Kenema",
+      7
+    ],
+    [
+      "Daitoku Shoyu",
+      7
+    ],
+    [
+      "Koh Gen Do",
+      7
+    ],
+    [
+      "Hario",
+      7
+    ],
+    [
+      "Hichifuku",
+      7
+    ],
+    [
+      "Canary",
+      7
+    ],
+    [
+      "Noda Horo",
+      7
+    ],
+    [
+      "Kitaboshi",
+      7
+    ],
+    [
+      "Takusei",
+      7
+    ],
+    [
+      "Mitsubishi Pencil",
+      7
+    ],
+    [
+      "Tohato",
+      7
+    ],
+    [
+      "Ragueneau",
+      7
+    ],
+    [
+      "Ikenaga",
+      7
+    ],
+    [
+      "Suisouen",
+      7
+    ],
+    [
+      "LOOKLOOK",
+      7
+    ],
+    [
+      "JapansPrime",
+      7
+    ],
+    [
+      "Kokuyo",
+      6
+    ],
+    [
+      "Kuretake",
+      6
+    ],
+    [
+      "Daiko Foods",
+      6
+    ],
+    [
+      "Musubi",
+      6
+    ],
+    [
+      "Tajima Jozo",
+      6
+    ],
+    [
+      "Kasugai",
+      6
+    ],
+    [
+      "FANCL",
+      6
+    ],
+    [
+      "Okinawa Harvest",
+      6
+    ],
+    [
+      "Etvos",
+      6
+    ],
+    [
+      "Aujua",
+      6
+    ],
+    [
+      "Seki Kanetsugu",
+      6
+    ],
+    [
+      "Kracie",
+      6
+    ],
+    [
+      "Yaokin",
+      6
+    ],
+    [
+      "Oboro",
+      6
+    ],
+    [
+      "Itoh Kanpo",
+      6
+    ],
+    [
+      "POLA",
+      6
+    ],
+    [
+      "Rokkado",
+      6
+    ],
+    [
+      "Hakuza",
+      6
+    ],
+    [
+      "Copic",
+      5
+    ],
+    [
+      "Kao",
+      5
+    ],
+    [
+      "J Taste",
+      5
+    ],
+    [
+      "Matsunaga Seisakusho",
+      5
+    ],
+    [
+      "Iwachu",
+      5
+    ],
+    [
+      "Yamagi",
+      5
+    ],
+    [
+      "Ishida",
+      5
+    ],
+    [
+      "Tanabe",
+      5
+    ],
+    [
+      "Yawataya Isogoro",
+      5
+    ],
+    [
+      "Koikeya",
+      5
+    ],
+    [
+      "Frito Lay Japan",
+      5
+    ],
+    [
+      "Starbucks",
+      5
+    ],
+    [
+      "Misono",
+      5
+    ],
+    [
+      "Nobel",
+      5
+    ],
+    [
+      "Axxzia",
+      5
+    ],
+    [
+      "Delight Labo",
+      5
+    ],
+    [
+      "Honey Mother",
+      5
+    ]
+  ],
+  "chunk_count": 32,
+  "chunk_size": 100
+}

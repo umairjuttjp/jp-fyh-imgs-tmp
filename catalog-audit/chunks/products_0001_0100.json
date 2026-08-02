@@ -1,0 +1,3624 @@
+[
+  {
+    "id": "gid://shopify/Product/7895542038639",
+    "legacyResourceId": "7895542038639",
+    "handle": "kewpie-verde-melon-pan-whip-toast-spread-100g",
+    "title": "Kewpie Verde Melon Pan Whip Toast Spread - 100g Authentic Japanese Flavor",
+    "vendor": "Kewpie",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kewpie-verde-melon-pan-whip-toast-spread-100g",
+    "createdAt": "2025-09-27T04:25:40Z",
+    "updatedAt": "2026-07-10T13:30:12Z",
+    "sources": {
+      "legacyResourceId": "7895542038639",
+      "sourceUrl": "https://japanesetaste.com//products/verde-melon-pan-whip-japanese-melon-bread-toast-spread-100g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677201760367",
+        "legacyResourceId": "43677201760367",
+        "title": "Default Title",
+        "sku": "KWPI-MPNSPD-100",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895542071407",
+    "legacyResourceId": "7895542071407",
+    "handle": "shu-uemura-botanic-yuzu-cleansing-oil-450ml",
+    "title": "Shu Uemura Botanic Yuzu Cleansing Oil 450ml - Soothing Face Cleanser",
+    "vendor": "Shu Uemura",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/shu-uemura-botanic-yuzu-cleansing-oil-450ml",
+    "createdAt": "2025-09-27T04:25:51Z",
+    "updatedAt": "2026-07-10T13:30:12Z",
+    "sources": {
+      "legacyResourceId": "7895542071407",
+      "sourceUrl": "https://japanesetaste.com//products/shu-uemura-botanic-cleansing-oil-450ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677201891439",
+        "legacyResourceId": "43677201891439",
+        "title": "Default Title",
+        "sku": "SHUE-BCLOIL-450",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895542104175",
+    "legacyResourceId": "7895542104175",
+    "handle": "akagawa-20cm-stainless-steel-yukihira-pan-non-stick-silkware-finish",
+    "title": "Akagawa 20cm Stainless Steel Yukihira Pan - Non-Stick Silkware Finish",
+    "vendor": "Akagawa Kibutsu",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/akagawa-20cm-stainless-steel-yukihira-pan-non-stick-silkware-finish",
+    "createdAt": "2025-09-27T04:25:51Z",
+    "updatedAt": "2026-07-10T13:30:13Z",
+    "sources": {
+      "legacyResourceId": "7895542104175",
+      "sourceUrl": "https://japanesetaste.com//products/yukihira-pot-stainless-steel-deep-saucepan-20cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677201858671",
+        "legacyResourceId": "43677201858671",
+        "title": "Default Title",
+        "sku": "AKGW-YKIPAN-19120",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895542792303",
+    "legacyResourceId": "7895542792303",
+    "handle": "akagawa-18cm-oyakodon-pan",
+    "title": "Akagawa 18cm Oyakodon Pan: Authentic Japanese Flavor with Non-Stick Silkware Coating & Ergonomic Wooden Handle",
+    "vendor": "Akagawa",
+    "productType": "Oyakodon Pan",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/akagawa-18cm-oyakodon-pan",
+    "createdAt": "2025-09-27T04:30:50Z",
+    "updatedAt": "2026-07-10T13:30:13Z",
+    "sources": {
+      "legacyResourceId": "7895542792303",
+      "sourceUrl": "https://japanesetaste.com//products/japanese-oyako-nabe-pan-ih-compatible-oyakodon-pan-178mm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677208608879",
+        "legacyResourceId": "43677208608879",
+        "title": "Default Title",
+        "sku": "AKGW-OYKPAN-91031",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895542890607",
+    "legacyResourceId": "7895542890607",
+    "handle": "dr-ci-labo-enrich-lift-up-lotion-ex-firming-anti-aging-toner-150ml",
+    "title": "Dr.Ci:Labo Enrich Lift Up Lotion EX - Firming Anti-Aging Toner 150ml",
+    "vendor": "Dr.Ci:Labo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dr-ci-labo-enrich-lift-up-lotion-ex-firming-anti-aging-toner-150ml",
+    "createdAt": "2025-09-27T04:33:08Z",
+    "updatedAt": "2026-07-10T13:30:13Z",
+    "sources": {
+      "legacyResourceId": "7895542890607",
+      "sourceUrl": "https://japanesetaste.com//products/dr-ci-labo-enrich-lift-up-lotion-150ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677208838255",
+        "legacyResourceId": "43677208838255",
+        "title": "Default Title",
+        "sku": "DCLB-ELUPLO-150",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895542923375",
+    "legacyResourceId": "7895542923375",
+    "handle": "copic-sketch-marker-set-24-professional-alcohol-based-colors",
+    "title": "Copic Sketch Marker Set - 24 Professional Alcohol-Based Colors",
+    "vendor": "Copic",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/copic-sketch-marker-set-24-professional-alcohol-based-colors",
+    "createdAt": "2025-09-27T04:33:08Z",
+    "updatedAt": "2026-07-10T13:30:13Z",
+    "sources": {
+      "legacyResourceId": "7895542923375",
+      "sourceUrl": "https://japanesetaste.com//products/copic-markers-sketch-marker-set-24-colors"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677208805487",
+        "legacyResourceId": "43677208805487",
+        "title": "Default Title",
+        "sku": "CPIC-SKTMRK-SET24",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895542956143",
+    "legacyResourceId": "7895542956143",
+    "handle": "kao-clear-clean-natural-mint-toothpaste-120g",
+    "title": "Kao Clear Clean Natural Mint Toothpaste 120g - Deep Cleaning Cavity Care",
+    "vendor": "Kao",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kao-clear-clean-natural-mint-toothpaste-120g",
+    "createdAt": "2025-09-27T04:36:49Z",
+    "updatedAt": "2026-07-10T13:30:14Z",
+    "sources": {
+      "legacyResourceId": "7895542956143",
+      "sourceUrl": "https://japanesetaste.com//products/kao-clear-clean-natural-mint-periodontal-toothpaste-120g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677208969327",
+        "legacyResourceId": "43677208969327",
+        "title": "Default Title",
+        "sku": "KAO-PRDTPA-MI120",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895542988911",
+    "legacyResourceId": "7895542988911",
+    "handle": "j-taste-premium-hidaka-kombu-100g-authentic-japanese-kelp",
+    "title": "J Taste Premium Hidaka Kombu - 100g Authentic Japanese Kelp for Dashi",
+    "vendor": "J Taste",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/j-taste-premium-hidaka-kombu-100g-authentic-japanese-kelp",
+    "createdAt": "2025-09-27T04:36:49Z",
+    "updatedAt": "2026-07-10T13:30:14Z",
+    "sources": {
+      "legacyResourceId": "7895542988911",
+      "sourceUrl": "https://japanesetaste.com//products/j-taste-hidaka-kombu-seaweed-dried-japanese-kelp-100g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677209034863",
+        "legacyResourceId": "43677209034863",
+        "title": "Default Title",
+        "sku": "JPNT-HDKKMB-100",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895543021679",
+    "legacyResourceId": "7895543021679",
+    "handle": "ipsa-time-reset-aqua-w-medicated-hydrating-lotion-200ml",
+    "title": "IPSA Time Reset Aqua W Medicated Hydrating Lotion 200ml",
+    "vendor": "IPSA",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/ipsa-time-reset-aqua-w-medicated-hydrating-lotion-200ml",
+    "createdAt": "2025-09-27T04:36:49Z",
+    "updatedAt": "2026-07-10T13:30:14Z",
+    "sources": {
+      "legacyResourceId": "7895543021679",
+      "sourceUrl": "https://japanesetaste.com//products/ipsa-the-time-reset-aqua-moisturizing-lotion-200ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677209002095",
+        "legacyResourceId": "43677209002095",
+        "title": "Default Title",
+        "sku": "IPSA-TTRLOT-200",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895543119983",
+    "legacyResourceId": "7895543119983",
+    "handle": "kanebo-kate-double-line-expert-lb-1-ultralight-brown-eyeliner",
+    "title": "Kanebo KATE Double Line Expert LB-1 - Ultralight Brown Eye Contour Liner",
+    "vendor": "Kanebo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kanebo-kate-double-line-expert-lb-1-ultralight-brown-eyeliner",
+    "createdAt": "2025-09-27T04:38:26Z",
+    "updatedAt": "2026-07-10T13:30:14Z",
+    "sources": {
+      "legacyResourceId": "7895543119983",
+      "sourceUrl": "https://japanesetaste.com//products/kanebo-kate-double-line-expert-eyeliner-lb-1-ultralight-brown-0-5ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677209231471",
+        "legacyResourceId": "43677209231471",
+        "title": "Default Title",
+        "sku": "KATE-DBLEYL-LB1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895543152751",
+    "legacyResourceId": "7895543152751",
+    "handle": "kiya-no-180-edelweiss-japanese-bread-knife-225mm-professional-serrated",
+    "title": "Kiya No.180 Edelweiss Japanese Bread Knife - 225mm Professional Serrated",
+    "vendor": "Nihonbashi Kiya",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kiya-no-180-edelweiss-japanese-bread-knife-225mm-professional-serrated",
+    "createdAt": "2025-09-27T04:38:26Z",
+    "updatedAt": "2026-07-10T13:30:14Z",
+    "sources": {
+      "legacyResourceId": "7895543152751",
+      "sourceUrl": "https://japanesetaste.com//products/kiya-no-180-edelweiss-steel-japanese-bread-knife-225mm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677209264239",
+        "legacyResourceId": "43677209264239",
+        "title": "Default Title",
+        "sku": "KIYA-BRDKNF-225",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895543185519",
+    "legacyResourceId": "7895543185519",
+    "handle": "kiya-no-160-edelweiss-steel-18cm-kamagata-usuba-vegetable-knife",
+    "title": "Kiya No. 160 Edelweiss Steel 18cm Kamagata Usuba Vegetable Knife",
+    "vendor": "Kiya",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kiya-no-160-edelweiss-steel-18cm-kamagata-usuba-vegetable-knife",
+    "createdAt": "2025-09-27T04:38:26Z",
+    "updatedAt": "2026-07-10T13:30:15Z",
+    "sources": {
+      "legacyResourceId": "7895543185519",
+      "sourceUrl": "https://japanesetaste.com//products/kiya-no-160-edelweiss-steel-japanese-kamagata-usuba-knife-18cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677209297007",
+        "legacyResourceId": "43677209297007",
+        "title": "Default Title",
+        "sku": "KIYA-USBKNF-180",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895547445359",
+    "legacyResourceId": "7895547445359",
+    "handle": "kiya-no-160-edelweiss-steel-petty-knife-120mm",
+    "title": "Kiya No. 160 Edelweiss Steel Petty Knife - 120mm Professional Paring Knife",
+    "vendor": "Kiya",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kiya-no-160-edelweiss-steel-petty-knife-120mm",
+    "createdAt": "2025-09-27T04:45:23Z",
+    "updatedAt": "2026-07-10T13:30:15Z",
+    "sources": {
+      "legacyResourceId": "7895547445359",
+      "sourceUrl": "https://japanesetaste.com//products/kiya-no-160-edelweiss-steel-japanese-petty-knife-12cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677517774959",
+        "legacyResourceId": "43677517774959",
+        "title": "Default Title",
+        "sku": "KIYA-PTYKNF-120",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895547478127",
+    "legacyResourceId": "7895547478127",
+    "handle": "kokuyo-harinacs-10-sheet-stapleless-stapler-sln-msh110",
+    "title": "Kokuyo Harinacs 10-Sheet Stapleless Stapler - SLN-MSH110 Eco-Friendly Binder",
+    "vendor": "Kokuyo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kokuyo-harinacs-10-sheet-stapleless-stapler-sln-msh110",
+    "createdAt": "2025-09-27T04:45:23Z",
+    "updatedAt": "2026-07-10T13:30:15Z",
+    "sources": {
+      "legacyResourceId": "7895547478127",
+      "sourceUrl": "https://japanesetaste.com//products/kokuyo-harinacs-stapleless-stapler-sln-msh110"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677517611119",
+        "legacyResourceId": "43677517611119",
+        "title": "Default Title",
+        "sku": "KKYO-HARSTA-SLNMSH110BK",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43677517643887",
+        "legacyResourceId": "43677517643887",
+        "title": "Green",
+        "sku": "KKYO-HARSTA-SLNMSH110GR",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Green"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43677517676655",
+        "legacyResourceId": "43677517676655",
+        "title": "Light Blue",
+        "sku": "KKYO-HARSTA-SLNMSH110LB",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Light Blue"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43677517709423",
+        "legacyResourceId": "43677517709423",
+        "title": "Pink",
+        "sku": "KKYO-HARSTA-SLNMSH110PK",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Pink"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43677517742191",
+        "legacyResourceId": "43677517742191",
+        "title": "White",
+        "sku": "KKYO-HARSTA-SLNMSH110WH",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "White"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895547510895",
+    "legacyResourceId": "7895547510895",
+    "handle": "kiya-edelweiss-stainless-steel-kitchen-scissors-professional-japanese-multi-tool",
+    "title": "Kiya Edelweiss Stainless Steel Kitchen Scissors - Professional Japanese Multi-Tool",
+    "vendor": "Kiya",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kiya-edelweiss-stainless-steel-kitchen-scissors-professional-japanese-multi-tool",
+    "createdAt": "2025-09-27T04:45:23Z",
+    "updatedAt": "2026-07-10T13:30:15Z",
+    "sources": {
+      "legacyResourceId": "7895547510895",
+      "sourceUrl": "https://japanesetaste.com//products/kiya-edelweiss-steel-japanese-kitchen-scissors-bly09"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677517807727",
+        "legacyResourceId": "43677517807727",
+        "title": "Default Title",
+        "sku": "KIYA-SCISOR-BLY09",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895547674735",
+    "legacyResourceId": "7895547674735",
+    "handle": "kuretake-zig-clean-color-real-brush-marker-set-36-vibrant-japanese-colors",
+    "title": "Kuretake ZIG Clean Color Real Brush Marker Set - 36 Vibrant Japanese Colors",
+    "vendor": "Kuretake",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kuretake-zig-clean-color-real-brush-marker-set-36-vibrant-japanese-colors",
+    "createdAt": "2025-09-27T04:45:36Z",
+    "updatedAt": "2026-07-25T11:59:26Z",
+    "sources": {
+      "legacyResourceId": "7895547674735",
+      "sourceUrl": "https://japanesetaste.com//products/kuretake-zig-clean-color-real-brush-marker-36-colors-rb-6000at-36v"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677526163567",
+        "legacyResourceId": "43677526163567",
+        "title": "Default Title",
+        "sku": "KTKE-ZIGMRK-RB6000AT36V",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895547707503",
+    "legacyResourceId": "7895547707503",
+    "handle": "kousyo-okinawa-brown-sugar-syrup-1000g-premium-japanese-kuromitsu",
+    "title": "Kousyo Okinawa Brown Sugar Syrup 1000g - Premium Japanese Kuromitsu",
+    "vendor": "Kousyo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kousyo-okinawa-brown-sugar-syrup-1000g-premium-japanese-kuromitsu",
+    "createdAt": "2025-09-27T04:45:36Z",
+    "updatedAt": "2026-07-10T13:30:16Z",
+    "sources": {
+      "legacyResourceId": "7895547707503",
+      "sourceUrl": "https://japanesetaste.com//products/kousyo-kuromitsu-okinawa-brown-sugar-syrup-1000g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677526130799",
+        "legacyResourceId": "43677526130799",
+        "title": "Default Title",
+        "sku": "KSYO-KROMSU-500",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895554195567",
+    "legacyResourceId": "7895554195567",
+    "handle": "kokuyo-harinacs-press-needleless-stapler-5-sheet-eco-binding",
+    "title": "Kokuyo Harinacs Press Needleless Stapler - 5-Sheet Eco-Binding",
+    "vendor": "Kokuyo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kokuyo-harinacs-press-needleless-stapler-5-sheet-eco-binding",
+    "createdAt": "2025-09-27T04:52:01Z",
+    "updatedAt": "2026-07-10T13:30:16Z",
+    "sources": {
+      "legacyResourceId": "7895554195567",
+      "sourceUrl": "https://japanesetaste.com//products/kokuyo-harinacs-press-stapleless-stapler-sln-mph105"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677926228079",
+        "legacyResourceId": "43677926228079",
+        "title": "Default Title",
+        "sku": "KKYO-HARSTA-SLNMPH105BL",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43677926260847",
+        "legacyResourceId": "43677926260847",
+        "title": "Green",
+        "sku": "KKYO-HARSTA-SLNMPH105GR",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Green"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43677926293615",
+        "legacyResourceId": "43677926293615",
+        "title": "Pink",
+        "sku": "KKYO-HARSTA-SLNMPH105PK",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Pink"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43677926326383",
+        "legacyResourceId": "43677926326383",
+        "title": "White",
+        "sku": "KKYO-HARSTA-SLNMPH105WH",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "White"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895554293871",
+    "legacyResourceId": "7895554293871",
+    "handle": "kuretake-no-8-fountain-brush-pen-professional-japanese-calligraphy-set",
+    "title": "Kuretake No. 8 Fountain Brush Pen - Professional Japanese Calligraphy Set",
+    "vendor": "Kuretake",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kuretake-no-8-fountain-brush-pen-professional-japanese-calligraphy-set",
+    "createdAt": "2025-09-27T04:52:15Z",
+    "updatedAt": "2026-07-16T20:09:41Z",
+    "sources": {
+      "legacyResourceId": "7895554293871",
+      "sourceUrl": "https://japanesetaste.com//products/kuretake-japanese-fountain-pen-dp150-8b"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43677931929711",
+        "legacyResourceId": "43677931929711",
+        "title": "Default Title",
+        "sku": "KTKE-FNTPEN-DP1508B",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895555735663",
+    "legacyResourceId": "7895555735663",
+    "handle": "kuretake-handcrafted-fountain-brush-pen-tortoise-shell-pattern",
+    "title": "Kuretake Handcrafted Fountain Brush Pen - Elegant Tortoise Shell Pattern",
+    "vendor": "Kuretake",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kuretake-handcrafted-fountain-brush-pen-tortoise-shell-pattern",
+    "createdAt": "2025-09-27T04:53:49Z",
+    "updatedAt": "2026-07-15T06:29:13Z",
+    "sources": {
+      "legacyResourceId": "7895555735663",
+      "sourceUrl": "https://japanesetaste.com//products/kuretake-handcrafted-calligraphy-brush-pen-tortoise-shell-pattern"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43678026203247",
+        "legacyResourceId": "43678026203247",
+        "title": "Default Title",
+        "sku": "KTKE-FNTPEN-DW14150",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895555768431",
+    "legacyResourceId": "7895555768431",
+    "handle": "kuretake-genuine-black-leather-fountain-brush-pen-gold-accents-3-refills",
+    "title": "Kuretake Genuine Black Leather Fountain Brush Pen - Gold Accents & 3 Refills",
+    "vendor": "Kuretake",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kuretake-genuine-black-leather-fountain-brush-pen-gold-accents-3-refills",
+    "createdAt": "2025-09-27T04:53:49Z",
+    "updatedAt": "2026-07-10T13:30:17Z",
+    "sources": {
+      "legacyResourceId": "7895555768431",
+      "sourceUrl": "https://japanesetaste.com//products/kuretake-brush-pen-gold-black-leather-pattern-3-ink-pen-refills"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43678026170479",
+        "legacyResourceId": "43678026170479",
+        "title": "Default Title",
+        "sku": "KTKE-FNTPEN-DV14040",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895558553711",
+    "legacyResourceId": "7895558553711",
+    "handle": "kuretake-gansai-tambi-24-color-watercolor-set-professional-artist-quality",
+    "title": "Kuretake Gansai Tambi 24-Color Watercolor Set - Professional Artist Quality",
+    "vendor": "Kuretake",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kuretake-gansai-tambi-24-color-watercolor-set-professional-artist-quality",
+    "createdAt": "2025-09-27T04:56:24Z",
+    "updatedAt": "2026-07-10T13:30:17Z",
+    "sources": {
+      "legacyResourceId": "7895558553711",
+      "sourceUrl": "https://japanesetaste.com//products/kuretake-gansai-tambi-watercolor-paint-set-24-colors-mc20-24v"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43678197579887",
+        "legacyResourceId": "43678197579887",
+        "title": "Default Title",
+        "sku": "KTKE-WTCPNT-MC2024V",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895558586479",
+    "legacyResourceId": "7895558586479",
+    "handle": "kuretake-zig-clean-color-real-brush-markers-48-vibrant-color-set",
+    "title": "Kuretake ZIG Clean Color Real Brush Markers - 48 Vibrant Color Set",
+    "vendor": "Kuretake",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kuretake-zig-clean-color-real-brush-markers-48-vibrant-color-set",
+    "createdAt": "2025-09-27T04:56:24Z",
+    "updatedAt": "2026-07-10T13:30:17Z",
+    "sources": {
+      "legacyResourceId": "7895558586479",
+      "sourceUrl": "https://japanesetaste.com//products/kuretake-zig-clean-color-real-brush-marker-48-colors-rb-6000at-48v"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43678197547119",
+        "legacyResourceId": "43678197547119",
+        "title": "Default Title",
+        "sku": "KTKE-ZIGMRK-RB6000AT48V",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895558619247",
+    "legacyResourceId": "7895558619247",
+    "handle": "morinaga-hi-chew-fruit-candy-assortment-3-iconic-flavors-86g",
+    "title": "Morinaga Hi-Chew Fruit Candy Assortment - 3 Iconic Flavors (86g)",
+    "vendor": "Morinaga",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/morinaga-hi-chew-fruit-candy-assortment-3-iconic-flavors-86g",
+    "createdAt": "2025-09-27T04:56:24Z",
+    "updatedAt": "2026-07-10T13:30:17Z",
+    "sources": {
+      "legacyResourceId": "7895558619247",
+      "sourceUrl": "https://japanesetaste.com//products/morinaga-hi-chew-japanese-soft-candy-3-flavors-assortment-86g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43678197612655",
+        "legacyResourceId": "43678197612655",
+        "title": "Default Title",
+        "sku": "MRNG-HICHEW-AS94",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895561109615",
+    "legacyResourceId": "7895561109615",
+    "handle": "morinaga-moonlight-cookies-14-pack-premium-japanese-butter-biscuits",
+    "title": "Morinaga Moonlight Cookies - Premium Japanese Egg-Yolk Butter Biscuits (14pc)",
+    "vendor": "Morinaga",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/morinaga-moonlight-cookies-14-pack-premium-japanese-butter-biscuits",
+    "createdAt": "2025-09-27T04:59:16Z",
+    "updatedAt": "2026-07-10T13:30:18Z",
+    "sources": {
+      "legacyResourceId": "7895561109615",
+      "sourceUrl": "https://japanesetaste.com//products/morinaga-moonlight-cookies-14-pieces"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43678340382831",
+        "legacyResourceId": "43678340382831",
+        "title": "Default Title",
+        "sku": "MRNG-MOONLG-14",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895561142383",
+    "legacyResourceId": "7895561142383",
+    "handle": "matsunaga-premium-non-stick-shokupan-loaf-pan-1-5lb",
+    "title": "Matsunaga Premium Non-Stick Shokupan Loaf Pan - 1.5lb Japanese Bread Mold",
+    "vendor": "Matsunaga Seisakusho",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/matsunaga-premium-non-stick-shokupan-loaf-pan-1-5lb",
+    "createdAt": "2025-09-27T04:59:16Z",
+    "updatedAt": "2026-07-10T13:30:18Z",
+    "sources": {
+      "legacyResourceId": "7895561142383",
+      "sourceUrl": "https://japanesetaste.com//products/matsunaga-premium-shokupan-mold-japanese-milk-bread-pan-1-5-lb-loaf-pan"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43678340415599",
+        "legacyResourceId": "43678340415599",
+        "title": "Default Title",
+        "sku": "MSGA-GBRMLD-LF15",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895561175151",
+    "legacyResourceId": "7895561175151",
+    "handle": "matsunaga-premium-shokupan-bread-loaf-pan-professional-non-stick-mold",
+    "title": "Matsunaga Premium Shokupan Bread Loaf Pan - Professional Non-Stick Mold",
+    "vendor": "Matsunaga Seisakusho",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/matsunaga-premium-shokupan-bread-loaf-pan-professional-non-stick-mold",
+    "createdAt": "2025-09-27T04:59:16Z",
+    "updatedAt": "2026-07-10T13:30:18Z",
+    "sources": {
+      "legacyResourceId": "7895561175151",
+      "sourceUrl": "https://japanesetaste.com//products/matsunaga-premium-shokupan-mold-japanese-milk-bread-pan-1-lb-loaf-pan"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43678340448367",
+        "legacyResourceId": "43678340448367",
+        "title": "Default Title",
+        "sku": "MSGA-GBRMLD-LF1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895561437295",
+    "legacyResourceId": "7895561437295",
+    "handle": "stalogy-thin-sticky-notes-12-vivid-colors-ultra-slim-7-5x50mm",
+    "title": "Stalogy Thin Sticky Notes - 12 Vivid Colors - Ultra-Slim 7.5x50mm",
+    "vendor": "Stalogy",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/stalogy-thin-sticky-notes-12-vivid-colors-ultra-slim-7-5x50mm",
+    "createdAt": "2025-09-27T04:59:31Z",
+    "updatedAt": "2026-07-10T13:30:18Z",
+    "sources": {
+      "legacyResourceId": "7895561437295",
+      "sourceUrl": "https://japanesetaste.com//products/nitto-stalogy-thin-sticky-notes-12-colors-s3010"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43678359191663",
+        "legacyResourceId": "43678359191663",
+        "title": "Default Title",
+        "sku": "NITO-STKNTS-S3010",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895561732207",
+    "legacyResourceId": "7895561732207",
+    "handle": "stalogy-b6-365-days-notebook-black-minimalist-grid-planner",
+    "title": "Stalogy B6 365 Days Notebook - Black Minimalist Grid Planner",
+    "vendor": "Stalogy",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/stalogy-b6-365-days-notebook-black-minimalist-grid-planner",
+    "createdAt": "2025-09-27T04:59:52Z",
+    "updatedAt": "2026-07-10T13:30:19Z",
+    "sources": {
+      "legacyResourceId": "7895561732207",
+      "sourceUrl": "https://japanesetaste.com//products/nitto-stalogy-b6-editors-series-365-days-notebook-grid-paper-notebook-black"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43678377410671",
+        "legacyResourceId": "43678377410671",
+        "title": "Default Title",
+        "sku": "NITO-365NOT-B6BK",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895561764975",
+    "legacyResourceId": "7895561764975",
+    "handle": "nitto-stalogy-editors-series-365days-a5-grid-notebook",
+    "title": "Nitto Stalogy Editor's Series 365Days A5 Grid Notebook - Made in Japan",
+    "vendor": "Nitto Stalogy",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/nitto-stalogy-editors-series-365days-a5-grid-notebook",
+    "createdAt": "2025-09-27T04:59:52Z",
+    "updatedAt": "2026-07-10T13:30:19Z",
+    "sources": {
+      "legacyResourceId": "7895561764975",
+      "sourceUrl": "https://japanesetaste.com//products/nitto-stalogy-a5-editors-series-365-days-notebook-grid-paper-notebook"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43678377443439",
+        "legacyResourceId": "43678377443439",
+        "title": "Default Title",
+        "sku": "NITO-STNOTB-A5BK",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43678377476207",
+        "legacyResourceId": "43678377476207",
+        "title": "S4105 (Red)",
+        "sku": "NITO-STNOTB-A5RD",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "S4105 (Red)"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43678377508975",
+        "legacyResourceId": "43678377508975",
+        "title": "S4106 (Blue)",
+        "sku": "NITO-STNOTB-A5BL",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "S4106 (Blue)"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43678377541743",
+        "legacyResourceId": "43678377541743",
+        "title": "S4107 (Yellow)",
+        "sku": "NITO-STNOTB-A5YW",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "S4107 (Yellow)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895563403375",
+    "legacyResourceId": "7895563403375",
+    "handle": "namisato-sugarless-gluten-free-rice-flour-pancake-mix-200g",
+    "title": "Namisato Sugarless & Gluten-Free Rice Flour Pancake Mix (200g)",
+    "vendor": "Namisato",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/namisato-sugarless-gluten-free-rice-flour-pancake-mix-200g",
+    "createdAt": "2025-09-27T05:01:40Z",
+    "updatedAt": "2026-07-10T13:30:19Z",
+    "sources": {
+      "legacyResourceId": "7895563403375",
+      "sourceUrl": "https://japanesetaste.com//products/namisato-sugarless-gluten-free-rice-flour-pancake-mix-200g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43678481317999",
+        "legacyResourceId": "43678481317999",
+        "title": "Default Title",
+        "sku": "NMST-RFLPNK-200",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895563436143",
+    "legacyResourceId": "7895563436143",
+    "handle": "nitto-stainless-steel-label-remover-pentagonal-precision-tool",
+    "title": "Nitto Stainless Steel Label Remover - Pentagonal Precision Tool",
+    "vendor": "Nitto",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/nitto-stainless-steel-label-remover-pentagonal-precision-tool",
+    "createdAt": "2025-09-27T05:01:40Z",
+    "updatedAt": "2026-07-10T13:30:19Z",
+    "sources": {
+      "legacyResourceId": "7895563436143",
+      "sourceUrl": "https://japanesetaste.com//products/nitto-peeler-stainless-steel-label-remover-t0860"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43678481285231",
+        "legacyResourceId": "43678481285231",
+        "title": "Default Title",
+        "sku": "NITO-STKRMV-T0860",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895563534447",
+    "legacyResourceId": "7895563534447",
+    "handle": "oigen-nambu-cast-iron-tetsubin-kettle-1-2l-arare-japanese-teapot",
+    "title": "Oigen Nambu Cast Iron Tetsubin Kettle - 1.2L Arare Japanese Teapot",
+    "vendor": "Oigen",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/oigen-nambu-cast-iron-tetsubin-kettle-1-2l-arare-japanese-teapot",
+    "createdAt": "2025-09-27T05:01:53Z",
+    "updatedAt": "2026-07-10T13:30:19Z",
+    "sources": {
+      "legacyResourceId": "7895563534447",
+      "sourceUrl": "https://japanesetaste.com//products/oigen-nambu-iron-kettle-tetsubin-kangetsu-arare-h159s-1-2l"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43678484463727",
+        "legacyResourceId": "43678484463727",
+        "title": "Default Title",
+        "sku": "OIGN-TTSBIN-H159S",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895563567215",
+    "legacyResourceId": "7895563567215",
+    "handle": "nissin-hayashi-meshi-instant-beef-curry-rice-rich-demi-glace-flavor",
+    "title": "Nissin Hayashi Meshi Instant Beef Curry Rice - Rich Demi-Glace Flavor",
+    "vendor": "Nissin",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/nissin-hayashi-meshi-instant-beef-curry-rice-rich-demi-glace-flavor",
+    "createdAt": "2025-09-27T05:01:53Z",
+    "updatedAt": "2026-07-10T13:30:20Z",
+    "sources": {
+      "legacyResourceId": "7895563567215",
+      "sourceUrl": "https://japanesetaste.com//products/nissin-hayashi-meshi-demi-glace-instant-beef-hayashi-rice-103g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43678484430959",
+        "legacyResourceId": "43678484430959",
+        "title": "Default Title",
+        "sku": "NSSN-HYAMSH-103",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895563829359",
+    "legacyResourceId": "7895563829359",
+    "handle": "oigen-nambu-cast-iron-taiyaki-maker-japanese-fish-shaped-pan",
+    "title": "Oigen Nambu Cast Iron Taiyaki Maker - Authentic Japanese Fish-Shaped Pan",
+    "vendor": "Oigen",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/oigen-nambu-cast-iron-taiyaki-maker-japanese-fish-shaped-pan",
+    "createdAt": "2025-09-27T05:02:07Z",
+    "updatedAt": "2026-07-10T13:30:20Z",
+    "sources": {
+      "legacyResourceId": "7895563829359",
+      "sourceUrl": "https://japanesetaste.com//products/oigen-nambu-cast-iron-taiyaki-maker-f-463"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43678497243247",
+        "legacyResourceId": "43678497243247",
+        "title": "Default Title",
+        "sku": "OIGN-TAIYKI-F463",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895566909551",
+    "legacyResourceId": "7895566909551",
+    "handle": "pilot-frixion-waai-erasable-gel-pen-8-color-set",
+    "title": "Pilot Frixion Waai Erasable Gel Pen 8-Color Set - 0.5mm Japanese Stationery",
+    "vendor": "Pilot",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/pilot-frixion-waai-erasable-gel-pen-8-color-set",
+    "createdAt": "2025-09-27T05:05:26Z",
+    "updatedAt": "2026-07-10T13:30:20Z",
+    "sources": {
+      "legacyResourceId": "7895566909551",
+      "sourceUrl": "https://japanesetaste.com//products/pilot-waai-frixion-erasable-gel-ink-ballpoint-pen-8-color-set"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43678674878575",
+        "legacyResourceId": "43678674878575",
+        "title": "Default Title",
+        "sku": "PLOT-KNKPEN-LFBK230EF10C",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895566942319",
+    "legacyResourceId": "7895566942319",
+    "handle": "namisato-gluten-free-rice-flour-panko-flakes-100g",
+    "title": "Namisato Gluten-Free Rice Flour Panko Flakes - 100g Crispy Japanese Coating",
+    "vendor": "Namisato",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/namisato-gluten-free-rice-flour-panko-flakes-100g",
+    "createdAt": "2025-09-27T05:05:26Z",
+    "updatedAt": "2026-07-10T13:30:20Z",
+    "sources": {
+      "legacyResourceId": "7895566942319",
+      "sourceUrl": "https://japanesetaste.com//products/kanpy-gluten-free-breadcrumbs-rice-flour-panko-flakes-100g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43678674845807",
+        "legacyResourceId": "43678674845807",
+        "title": "Default Title",
+        "sku": "NMST-GFPNKO-120",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895566975087",
+    "legacyResourceId": "7895566975087",
+    "handle": "pentel-graphgear-1000-professional-drafting-mechanical-pencil-0-3mm",
+    "title": "Pentel GraphGear 1000 Professional Drafting Mechanical Pencil - 0.3mm",
+    "vendor": "Pentel",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/pentel-graphgear-1000-professional-drafting-mechanical-pencil-0-3mm",
+    "createdAt": "2025-09-27T05:05:26Z",
+    "updatedAt": "2026-07-10T13:30:20Z",
+    "sources": {
+      "legacyResourceId": "7895566975087",
+      "sourceUrl": "https://japanesetaste.com//products/pentel-graphgear-1000-mechanical-pencil"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43678674911343",
+        "legacyResourceId": "43678674911343",
+        "title": "Default Title",
+        "sku": "PNTL-GPGEAR-PG1013",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43678674944111",
+        "legacyResourceId": "43678674944111",
+        "title": "PG1014 (0.4mm)",
+        "sku": "PNTL-GPGEAR-PG1014",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "PG1014 (0.4mm)"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43678674976879",
+        "legacyResourceId": "43678674976879",
+        "title": "PG1015 (0.5mm)",
+        "sku": "PNTL-GPGEAR-PG1015",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "PG1015 (0.5mm)"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43678675009647",
+        "legacyResourceId": "43678675009647",
+        "title": "PG1017 (0.7mm)",
+        "sku": "PNTL-GPGEAR-PG1017",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "PG1017 (0.7mm)"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43678675042415",
+        "legacyResourceId": "43678675042415",
+        "title": "PG1019 (0.9mm)",
+        "sku": "PNTL-GPGEAR-PG1019",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "PG1019 (0.9mm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895567564911",
+    "legacyResourceId": "7895567564911",
+    "handle": "naturaglace-all-in-one-makeup-cream-natural-beige-spf50-30g",
+    "title": "Naturaglace All-In-One Makeup Cream SPF50+ PA++++ Natural Beige 30g",
+    "vendor": "Naturaglace",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/naturaglace-all-in-one-makeup-cream-natural-beige-spf50-30g",
+    "createdAt": "2025-09-27T05:06:09Z",
+    "updatedAt": "2026-07-10T13:30:21Z",
+    "sources": {
+      "legacyResourceId": "7895567564911",
+      "sourceUrl": "https://japanesetaste.com//products/naturaglace-all-in-one-makeup-cream-natural-beige-spf50-30g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43678708695151",
+        "legacyResourceId": "43678708695151",
+        "title": "Default Title",
+        "sku": "SGAO-CCCRFO-PN25",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895567597679",
+    "legacyResourceId": "7895567597679",
+    "handle": "ribon-raw-yuzu-citrus-herbal-throat-drops-vitamin-c-90g",
+    "title": "Ribon Raw Yuzu Citrus Herbal Throat Drops with Vitamin C - 90g",
+    "vendor": "Ribon",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/ribon-raw-yuzu-citrus-herbal-throat-drops-vitamin-c-90g",
+    "createdAt": "2025-09-27T05:06:09Z",
+    "updatedAt": "2026-07-10T13:30:21Z",
+    "sources": {
+      "legacyResourceId": "7895567597679",
+      "sourceUrl": "https://japanesetaste.com//products/ribon-raw-yuzu-citrus-herbal-cough-drops-78g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43678708662383",
+        "legacyResourceId": "43678708662383",
+        "title": "Default Title",
+        "sku": "RBON-YZUDRP-90",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895567630447",
+    "legacyResourceId": "7895567630447",
+    "handle": "pentel-energel-rtx-retractable-liquid-gel-pen-set",
+    "title": "Pentel EnerGel RTX Retractable Liquid Gel Pen Set - Smooth Quick-Dry Ink",
+    "vendor": "Pentel",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/pentel-energel-rtx-retractable-liquid-gel-pen-set",
+    "createdAt": "2025-09-27T05:06:09Z",
+    "updatedAt": "2026-07-10T13:30:21Z",
+    "sources": {
+      "legacyResourceId": "7895567630447",
+      "sourceUrl": "https://japanesetaste.com//products/pentel-energel-liquid-gel-ink-ballpoint-pen"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43678708727919",
+        "legacyResourceId": "43678708727919",
+        "title": "Default Title",
+        "sku": "PNTL-ENRGEL-BLN73A",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43678708760687",
+        "legacyResourceId": "43678708760687",
+        "title": "BLN74-A (0.4mm needle point)",
+        "sku": "PNTL-ENRGEL-BLN74A",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "BLN74-A (0.4mm needle point)"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43678708793455",
+        "legacyResourceId": "43678708793455",
+        "title": "BLN75Z-A (0.5mm needle point)",
+        "sku": "PNTL-ENRGEL-BLN75ZA",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "BLN75Z-A (0.5mm needle point)"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43678708826223",
+        "legacyResourceId": "43678708826223",
+        "title": "BL77-A (0.7mm ball point)",
+        "sku": "PNTL-ENRGEL-BL77A",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "BL77-A (0.7mm ball point)"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43678708858991",
+        "legacyResourceId": "43678708858991",
+        "title": "BL80-A (1.0mm ball point)",
+        "sku": "PNTL-ENRGEL-BL80A",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "BL80-A (1.0mm ball point)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895567827055",
+    "legacyResourceId": "7895567827055",
+    "handle": "naturaglace-6-in-1-cc-cream-spf50-lavender-pink-30g",
+    "title": "Naturaglace 6-in-1 CC Cream SPF50 - Lavender Pink 30g",
+    "vendor": "Naturaglace",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/naturaglace-6-in-1-cc-cream-spf50-lavender-pink-30g",
+    "createdAt": "2025-09-27T05:06:19Z",
+    "updatedAt": "2026-07-10T13:30:22Z",
+    "sources": {
+      "legacyResourceId": "7895567827055",
+      "sourceUrl": "https://japanesetaste.com//products/naturaglace-all-in-one-color-correcting-makeup-cream-lavender-pink-spf50-30g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43678718099567",
+        "legacyResourceId": "43678718099567",
+        "title": "Default Title",
+        "sku": "SGAO-CCCRFO-PO25",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895567859823",
+    "legacyResourceId": "7895567859823",
+    "handle": "naturaglace-skin-balancing-base-spf31-pa-25ml-hydrating-primer",
+    "title": "Naturaglacé Skin Balancing Base SPF31 PA++ - 25ml Hydrating Primer",
+    "vendor": "Naturaglacé",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/naturaglace-skin-balancing-base-spf31-pa-25ml-hydrating-primer",
+    "createdAt": "2025-09-27T05:06:20Z",
+    "updatedAt": "2026-07-10T13:30:22Z",
+    "sources": {
+      "legacyResourceId": "7895567859823",
+      "sourceUrl": "https://japanesetaste.com//products/naturaglace-skin-balancing-makeup-base-spf31-25ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43678718132335",
+        "legacyResourceId": "43678718132335",
+        "title": "Default Title",
+        "sku": "SGAO-SWCFND-WH25",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895576215663",
+    "legacyResourceId": "7895576215663",
+    "handle": "naturaglace-uv-protection-base-natural-sunscreen-spf50-pa-30ml",
+    "title": "Naturaglace UV Protection Base Natural Sunscreen SPF50+ PA++++ - 30ml",
+    "vendor": "Naturaglace",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/naturaglace-uv-protection-base-natural-sunscreen-spf50-pa-30ml",
+    "createdAt": "2025-09-27T05:15:12Z",
+    "updatedAt": "2026-07-10T13:30:22Z",
+    "sources": {
+      "legacyResourceId": "7895576215663",
+      "sourceUrl": "https://japanesetaste.com//products/naturaglace-uv-protection-base-naturally-derived-sunscreen-spf50-30ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679129272431",
+        "legacyResourceId": "43679129272431",
+        "title": "Default Title",
+        "sku": "SGAO-SWCFND-PK25",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895580475503",
+    "legacyResourceId": "7895580475503",
+    "handle": "tombow-8900-hb-graphite-pencils-professional-12-piece-set",
+    "title": "Tombow 8900 HB Graphite Pencils - Professional 12-Piece Set",
+    "vendor": "Tombow",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tombow-8900-hb-graphite-pencils-professional-12-piece-set",
+    "createdAt": "2025-09-27T05:25:27Z",
+    "updatedAt": "2026-07-10T13:30:22Z",
+    "sources": {
+      "legacyResourceId": "7895580475503",
+      "sourceUrl": "https://japanesetaste.com//products/tombow-8900-graphite-pencils-hb-12-pieces"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679343476847",
+        "legacyResourceId": "43679343476847",
+        "title": "Default Title",
+        "sku": "TMBW-GRPNCL-HB12",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895580639343",
+    "legacyResourceId": "7895580639343",
+    "handle": "tombow-fudenosuke-brush-pen-set-10-professional-colors",
+    "title": "Tombow Fudenosuke Brush Pen Set - 10 Professional Water-Based Colors",
+    "vendor": "Tombow",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tombow-fudenosuke-brush-pen-set-10-professional-colors",
+    "createdAt": "2025-09-27T05:28:31Z",
+    "updatedAt": "2026-07-10T13:30:22Z",
+    "sources": {
+      "legacyResourceId": "7895580639343",
+      "sourceUrl": "https://japanesetaste.com//products/tombow-fudenosuke-brush-pen-10-colors-ws-bh10c"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679343902831",
+        "legacyResourceId": "43679343902831",
+        "title": "Default Title",
+        "sku": "TMBW-BSHPEN-WSBH10C",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895580672111",
+    "legacyResourceId": "7895580672111",
+    "handle": "tojiro-dp-cobalt-150mm-boning-knife-poultry-blade",
+    "title": "Tojiro DP Cobalt 150mm Boning Knife - Professional Japanese Poultry Blade",
+    "vendor": "Tojiro",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tojiro-dp-cobalt-150mm-boning-knife-poultry-blade",
+    "createdAt": "2025-09-27T05:28:31Z",
+    "updatedAt": "2026-07-10T13:30:23Z",
+    "sources": {
+      "legacyResourceId": "7895580672111",
+      "sourceUrl": "https://japanesetaste.com//products/tojiro-fujitora-dp-cobalt-boning-knife-150mm-fu-803"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679343837295",
+        "legacyResourceId": "43679343837295",
+        "title": "Default Title",
+        "sku": "TJRO-BONKNF-FU803",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895580704879",
+    "legacyResourceId": "7895580704879",
+    "handle": "shiseido-bio-performance-advanced-renewing-cream-50g",
+    "title": "Shiseido Bio-Performance Advanced Super Revitalizing Cream - 50g Anti-Aging",
+    "vendor": "Shiseido",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/shiseido-bio-performance-advanced-renewing-cream-50g",
+    "createdAt": "2025-09-27T05:28:31Z",
+    "updatedAt": "2026-07-10T13:30:23Z",
+    "sources": {
+      "legacyResourceId": "7895580704879",
+      "sourceUrl": "https://japanesetaste.com//products/shiseido-bio-performance-advanced-renewing-cream-skin-moisturizer-50g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679343870063",
+        "legacyResourceId": "43679343870063",
+        "title": "Default Title",
+        "sku": "SHIS-BIOARC-50",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895580737647",
+    "legacyResourceId": "7895580737647",
+    "handle": "tunemakers-undiluted-alpha-arbutin-essence-10ml",
+    "title": "Tunemakers Undiluted Alpha Arbutin Essence 10ml - Brightening Serum",
+    "vendor": "Tunemakers",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tunemakers-undiluted-alpha-arbutin-essence-10ml",
+    "createdAt": "2025-09-27T05:28:31Z",
+    "updatedAt": "2026-07-10T13:30:23Z",
+    "sources": {
+      "legacyResourceId": "7895580737647",
+      "sourceUrl": "https://japanesetaste.com//products/tunemakers-undiluted-alpha-arbutin-essence-10ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679343935599",
+        "legacyResourceId": "43679343935599",
+        "title": "Default Title",
+        "sku": "TNMK-ARBTIN-10",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895580770415",
+    "legacyResourceId": "7895580770415",
+    "handle": "tojiro-dp-cobalt-alloy-steel-240mm-gyuto-knife-fu-809",
+    "title": "Tojiro DP Cobalt Alloy Steel 240mm Gyuto Knife FU-809",
+    "vendor": "Tojiro",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tojiro-dp-cobalt-alloy-steel-240mm-gyuto-knife-fu-809",
+    "createdAt": "2025-09-27T05:28:31Z",
+    "updatedAt": "2026-07-10T13:30:23Z",
+    "sources": {
+      "legacyResourceId": "7895580770415",
+      "sourceUrl": "https://japanesetaste.com//products/tojiro-fujitora-dp-cobalt-gyuto-knife-240mm-fu-809"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679343804527",
+        "legacyResourceId": "43679343804527",
+        "title": "Default Title",
+        "sku": "TJRO-GYUKNF-FU809",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895580803183",
+    "legacyResourceId": "7895580803183",
+    "handle": "unicharm-softalk-3-layer-surgical-face-mask-100-count-box",
+    "title": "Unicharm Softalk 3-Layer Surgical Face Mask - 100 Count Box Made in Japan",
+    "vendor": "Unicharm",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/unicharm-softalk-3-layer-surgical-face-mask-100-count-box",
+    "createdAt": "2025-09-27T05:28:54Z",
+    "updatedAt": "2026-07-10T13:30:23Z",
+    "sources": {
+      "legacyResourceId": "7895580803183",
+      "sourceUrl": "https://japanesetaste.com//products/unicharm-softalk-white-surgical-face-mask-three-layer-mask-100-ct"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679344033903",
+        "legacyResourceId": "43679344033903",
+        "title": "Default Title",
+        "sku": "UCRM-SURMSK-M100",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895580835951",
+    "legacyResourceId": "7895580835951",
+    "handle": "tsujiri-authentic-japanese-sencha-green-tea-bags-50-count",
+    "title": "Tsujiri Authentic Japanese Sencha Green Tea Bags - 50 Count Premium Uji Tea",
+    "vendor": "Tsujiri",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tsujiri-authentic-japanese-sencha-green-tea-bags-50-count",
+    "createdAt": "2025-09-27T05:28:54Z",
+    "updatedAt": "2026-07-10T13:30:24Z",
+    "sources": {
+      "legacyResourceId": "7895580835951",
+      "sourceUrl": "https://japanesetaste.com//products/tsujiri-japanese-sencha-green-tea-bags-50-ct"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679344066671",
+        "legacyResourceId": "43679344066671",
+        "title": "Default Title",
+        "sku": "TSUJ-SENCHA-TB50",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895580967023",
+    "legacyResourceId": "7895580967023",
+    "handle": "tsujiri-premium-japanese-genmaicha-tea-bags-50ct",
+    "title": "Tsujiri Premium Japanese Genmaicha Tea Bags - Roasted Rice Green Tea 50ct",
+    "vendor": "Tsujiri",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tsujiri-premium-japanese-genmaicha-tea-bags-50ct",
+    "createdAt": "2025-09-27T05:31:07Z",
+    "updatedAt": "2026-07-10T13:30:24Z",
+    "sources": {
+      "legacyResourceId": "7895580967023",
+      "sourceUrl": "https://japanesetaste.com//products/tsujiri-japanese-genmaicha-brown-rice-green-tea-bags-50-ct"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679344754799",
+        "legacyResourceId": "43679344754799",
+        "title": "Default Title",
+        "sku": "TSUJ-GENCHA-TB50",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895580999791",
+    "legacyResourceId": "7895580999791",
+    "handle": "zebra-mildliner-dual-tip-highlighter-set-elegant-muted-colors",
+    "title": "Zebra Mildliner Dual-Tip Highlighter Set - Elegant Muted Colors",
+    "vendor": "Zebra",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/zebra-mildliner-dual-tip-highlighter-set-elegant-muted-colors",
+    "createdAt": "2025-09-27T05:31:07Z",
+    "updatedAt": "2026-07-10T13:30:24Z",
+    "sources": {
+      "legacyResourceId": "7895580999791",
+      "sourceUrl": "https://japanesetaste.com//products/zebra-mildliner-highlighter-markers-elegant-colors-wft8-5c-nc-n"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679344722031",
+        "legacyResourceId": "43679344722031",
+        "title": "Default Title",
+        "sku": "ZBRA-MRKELC-WFT85CNC",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895581032559",
+    "legacyResourceId": "7895581032559",
+    "handle": "zebra-mildliner-dual-tip-highlighter-set-5-vibrant-bright-colors",
+    "title": "Zebra Mildliner Dual-Tip Highlighter Set - 5 Vibrant Bright Colors",
+    "vendor": "Zebra",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/zebra-mildliner-dual-tip-highlighter-set-5-vibrant-bright-colors",
+    "createdAt": "2025-09-27T05:31:07Z",
+    "updatedAt": "2026-07-10T13:30:24Z",
+    "sources": {
+      "legacyResourceId": "7895581032559",
+      "sourceUrl": "https://japanesetaste.com//products/zebra-mildliner-highlighter-markers-bright-colors-wft8-5c-hc-n"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679344689263",
+        "legacyResourceId": "43679344689263",
+        "title": "Default Title",
+        "sku": "ZBRA-MRKBRC-WFT85CHC",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895581229167",
+    "legacyResourceId": "7895581229167",
+    "handle": "umezawa-sawara-cypress-36cm-hangiri-wooden-sushi-oke-bowl",
+    "title": "Umezawa Sawara Cypress 36cm Hangiri - Authentic Japanese Sushi Bowl",
+    "vendor": "Umezawa",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/umezawa-sawara-cypress-36cm-hangiri-wooden-sushi-oke-bowl",
+    "createdAt": "2025-09-27T05:34:01Z",
+    "updatedAt": "2026-07-16T11:12:00Z",
+    "sources": {
+      "legacyResourceId": "7895581229167",
+      "sourceUrl": "https://japanesetaste.com//products/umezawa-sawara-cypress-hangiri-wooden-sushi-oke-bowl-36cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679345279087",
+        "legacyResourceId": "43679345279087",
+        "title": "Default Title",
+        "sku": "UMZW-SAWOKE-36",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895581261935",
+    "legacyResourceId": "7895581261935",
+    "handle": "zebra-sarasa-clip-gel-pen-set-0-5mm-5-colors",
+    "title": "Zebra Sarasa Clip Gel Pen Set - 0.5mm Fine Point, 5 Vibrant Colors",
+    "vendor": "Zebra",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/zebra-sarasa-clip-gel-pen-set-0-5mm-5-colors",
+    "createdAt": "2025-09-27T05:34:01Z",
+    "updatedAt": "2026-07-10T13:30:25Z",
+    "sources": {
+      "legacyResourceId": "7895581261935",
+      "sourceUrl": "https://japanesetaste.com//products/zebra-sarasa-clip-gel-ink-pens-5-colors-0-5mm-p-jj15-5a"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679345311855",
+        "legacyResourceId": "43679345311855",
+        "title": "Default Title",
+        "sku": "ZBRA-GELPEN-PJJ155A",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895581294703",
+    "legacyResourceId": "7895581294703",
+    "handle": "zebra-mildliner-dual-tip-highlighters-5-soothing-colors-set",
+    "title": "Zebra Mildliner Dual-Tip Highlighters - 5 Soothing Colors Set",
+    "vendor": "Zebra",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/zebra-mildliner-dual-tip-highlighters-5-soothing-colors-set",
+    "createdAt": "2025-09-27T05:34:01Z",
+    "updatedAt": "2026-07-10T13:30:25Z",
+    "sources": {
+      "legacyResourceId": "7895581294703",
+      "sourceUrl": "https://japanesetaste.com//products/zebra-mildliner-highlighter-markers-soothing-colors-wkt7-5c-rc-n"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679345246319",
+        "legacyResourceId": "43679345246319",
+        "title": "Default Title",
+        "sku": "ZBRA-MRKSOC-WKT75CRC",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895581786223",
+    "legacyResourceId": "7895581786223",
+    "handle": "umezawa-sawara-cypress-36cm-sushi-oke-lid",
+    "title": "Umezawa Sawara Cypress 36cm Sushi Oke Lid - Japanese Handcrafted Wood",
+    "vendor": "Umezawa",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/umezawa-sawara-cypress-36cm-sushi-oke-lid",
+    "createdAt": "2025-09-27T05:41:09Z",
+    "updatedAt": "2026-07-17T17:02:56Z",
+    "sources": {
+      "legacyResourceId": "7895581786223",
+      "sourceUrl": "https://japanesetaste.com//products/umezawa-sawara-cypress-lid-for-sushi-oke-wooden-bowl-36cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679346425967",
+        "legacyResourceId": "43679346425967",
+        "title": "Default Title",
+        "sku": "UMZW-SAWOKE-LID36",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895581818991",
+    "legacyResourceId": "7895581818991",
+    "handle": "umezawa-oni-sudare-27cm-handcrafted-bamboo-mat-datemaki",
+    "title": "Umezawa Oni Sudare 27cm - Handcrafted Bamboo Mat for Authentic Datemaki",
+    "vendor": "Umezawa",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/umezawa-oni-sudare-27cm-handcrafted-bamboo-mat-datemaki",
+    "createdAt": "2025-09-27T05:41:09Z",
+    "updatedAt": "2026-07-10T13:30:26Z",
+    "sources": {
+      "legacyResourceId": "7895581818991",
+      "sourceUrl": "https://japanesetaste.com//products/umezawa-oni-sudare-bamboo-mat-for-datemaki-27cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679346458735",
+        "legacyResourceId": "43679346458735",
+        "title": "Default Title",
+        "sku": "UMZW-ONISUD-27",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895581851759",
+    "legacyResourceId": "7895581851759",
+    "handle": "umezawa-premium-hinoki-cypress-bath-stool",
+    "title": "Umezawa Premium Hinoki Cypress Bath Stool - Authentic Japanese Spa",
+    "vendor": "Umezawa",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/umezawa-premium-hinoki-cypress-bath-stool",
+    "createdAt": "2025-09-27T05:41:09Z",
+    "updatedAt": "2026-07-10T13:30:26Z",
+    "sources": {
+      "legacyResourceId": "7895581851759",
+      "sourceUrl": "https://japanesetaste.com//products/umezawa-japanese-hinoki-cypress-wooden-bath-stool"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679346491503",
+        "legacyResourceId": "43679346491503",
+        "title": "Default Title",
+        "sku": "UMZW-BTHSTL-1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895581917295",
+    "legacyResourceId": "7895581917295",
+    "handle": "umezawa-premium-aomori-hiba-round-wood-cutting-board-antibacterial",
+    "title": "Umezawa Premium Aomori Hiba Round Wood Cutting Board - Antibacterial",
+    "vendor": "Umezawa",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/umezawa-premium-aomori-hiba-round-wood-cutting-board-antibacterial",
+    "createdAt": "2025-09-27T05:41:35Z",
+    "updatedAt": "2026-07-10T13:30:26Z",
+    "sources": {
+      "legacyResourceId": "7895581917295",
+      "sourceUrl": "https://japanesetaste.com//products/umezawa-round-hinoki-cutting-board"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679346786415",
+        "legacyResourceId": "43679346786415",
+        "title": "Default Title",
+        "sku": "UMZW-CUTBRD-S25",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43679346819183",
+        "legacyResourceId": "43679346819183",
+        "title": "Medium (œÜ30cm)",
+        "sku": "UMZW-CUTBRD-M30",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Medium (œÜ30cm)"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43679346851951",
+        "legacyResourceId": "43679346851951",
+        "title": "Large (35cm)",
+        "sku": "UMZW-CUTBRD-L35",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Large (35cm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895581950063",
+    "legacyResourceId": "7895581950063",
+    "handle": "morinaga-marie-biscuits-21-japanese-milk-cookies",
+    "title": "Morinaga Marie Biscuits - 21 Traditional Japanese Crispy Milk Cookies",
+    "vendor": "Morinaga",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/morinaga-marie-biscuits-21-japanese-milk-cookies",
+    "createdAt": "2025-09-27T05:41:35Z",
+    "updatedAt": "2026-07-10T13:30:26Z",
+    "sources": {
+      "legacyResourceId": "7895581950063",
+      "sourceUrl": "https://japanesetaste.com//products/morinaga-marie-biscuit-japanese-marie-cookies-21-pieces"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679346655343",
+        "legacyResourceId": "43679346655343",
+        "title": "Default Title",
+        "sku": "MRNG-MARIEB-21",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895581982831",
+    "legacyResourceId": "7895581982831",
+    "handle": "umezawa-premium-hinoki-wood-bath-mat-authentic-japanese-cypress-sunoko",
+    "title": "Umezawa Premium Hinoki Wood Bath Mat - Authentic Japanese Cypress Sunoko",
+    "vendor": "Umezawa",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/umezawa-premium-hinoki-wood-bath-mat-authentic-japanese-cypress-sunoko",
+    "createdAt": "2025-09-27T05:41:35Z",
+    "updatedAt": "2026-07-10T13:30:27Z",
+    "sources": {
+      "legacyResourceId": "7895581982831",
+      "sourceUrl": "https://japanesetaste.com//products/umezawa-wooden-sunoko-hinoki-bath-mat"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679346688111",
+        "legacyResourceId": "43679346688111",
+        "title": "Default Title",
+        "sku": "UMZW-BTHMAT-S",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43679346720879",
+        "legacyResourceId": "43679346720879",
+        "title": "Medium (85 x 51cm)",
+        "sku": "UMZW-BTHMAT-M",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Medium (85 x 51cm)"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43679346753647",
+        "legacyResourceId": "43679346753647",
+        "title": "Large (85 x 59cm)",
+        "sku": "UMZW-BTHMAT-L",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Large (85 x 59cm)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895583817839",
+    "legacyResourceId": "7895583817839",
+    "handle": "heinz-classic-barbecue-sauce-590g-authentic-smoky-sweet",
+    "title": "Heinz Classic Barbecue Sauce 590g - Authentic Smoky & Sweet Flavor",
+    "vendor": "Heinz",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/heinz-classic-barbecue-sauce-590g-authentic-smoky-sweet",
+    "createdAt": "2025-09-27T05:55:19Z",
+    "updatedAt": "2026-07-10T13:30:27Z",
+    "sources": {
+      "legacyResourceId": "7895583817839",
+      "sourceUrl": "https://japanesetaste.com//products/heinz-classic-barbecue-bbq-sauce-590g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679353733231",
+        "legacyResourceId": "43679353733231",
+        "title": "Default Title",
+        "sku": "HENZ-BBQSAU-590",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895583850607",
+    "legacyResourceId": "7895583850607",
+    "handle": "iwachu-cast-iron-jingisukan-grill-pot-authentic-nanbu-tekki-bbq-pan",
+    "title": "Iwachu Cast Iron Jingisukan Grill Pot - Authentic Nanbu Tekki BBQ Pan",
+    "vendor": "Iwachu",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/iwachu-cast-iron-jingisukan-grill-pot-authentic-nanbu-tekki-bbq-pan",
+    "createdAt": "2025-09-27T05:57:44Z",
+    "updatedAt": "2026-07-10T13:30:27Z",
+    "sources": {
+      "legacyResourceId": "7895583850607",
+      "sourceUrl": "https://japanesetaste.com//products/iwachu-cast-iron-jingisukan-grill-pot-with-handle-23006"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679353864303",
+        "legacyResourceId": "43679353864303",
+        "title": "Default Title",
+        "sku": "IWCH-JNGKAN-23006",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895583883375",
+    "legacyResourceId": "7895583883375",
+    "handle": "iwachu-nambu-cast-iron-taiyaki-maker-traditional-fish-shaped-cake-pan",
+    "title": "Iwachu Nambu Cast Iron Taiyaki Maker - Traditional Fish-Shaped Cake Pan",
+    "vendor": "Iwachu",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/iwachu-nambu-cast-iron-taiyaki-maker-traditional-fish-shaped-cake-pan",
+    "createdAt": "2025-09-27T05:57:44Z",
+    "updatedAt": "2026-07-10T13:30:27Z",
+    "sources": {
+      "legacyResourceId": "7895583883375",
+      "sourceUrl": "https://japanesetaste.com//products/iwachu-nambu-japanese-cast-iron-taiyaki-maker-24030"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679353831535",
+        "legacyResourceId": "43679353831535",
+        "title": "Default Title",
+        "sku": "IWCH-TAIYAK-24030",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895584014447",
+    "legacyResourceId": "7895584014447",
+    "handle": "iwachu-nambu-cast-iron-tamagoyaki-pan-18cm",
+    "title": "Iwachu Nambu Cast Iron Tamagoyaki Pan - 18cm Authentic Omelet Maker",
+    "vendor": "Iwachu",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/iwachu-nambu-cast-iron-tamagoyaki-pan-18cm",
+    "createdAt": "2025-09-27T06:00:44Z",
+    "updatedAt": "2026-07-10T13:30:27Z",
+    "sources": {
+      "legacyResourceId": "7895584014447",
+      "sourceUrl": "https://japanesetaste.com//products/iwachu-nambu-japanese-cast-iron-tamagoyaki-pan-24017"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679354126447",
+        "legacyResourceId": "43679354126447",
+        "title": "Default Title",
+        "sku": "IWCH-TMGPAN-24017",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895584047215",
+    "legacyResourceId": "7895584047215",
+    "handle": "kevnhaun-270mm-stainless-steel-kitchen-tongs",
+    "title": "Kevnhaun 270mm Stainless Steel Kitchen Tongs - Premium Culinary Grip",
+    "vendor": "Kevnhaun",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kevnhaun-270mm-stainless-steel-kitchen-tongs",
+    "createdAt": "2025-09-27T06:00:44Z",
+    "updatedAt": "2026-07-10T13:30:28Z",
+    "sources": {
+      "legacyResourceId": "7895584047215",
+      "sourceUrl": "https://japanesetaste.com//products/kevnhaun-global-tongs-stainless-steel-kitchen-tongs-270mm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679354159215",
+        "legacyResourceId": "43679354159215",
+        "title": "Default Title",
+        "sku": "KEVN-GTONGS-KVTG01",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895584079983",
+    "legacyResourceId": "7895584079983",
+    "handle": "iwachu-nambu-cast-iron-omelette-pan-24cm",
+    "title": "Iwachu Nambu Cast Iron Omelette Pan - 24cm Authentic Japanese Cookware",
+    "vendor": "Iwachu",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/iwachu-nambu-cast-iron-omelette-pan-24cm",
+    "createdAt": "2025-09-27T06:00:44Z",
+    "updatedAt": "2026-07-10T13:30:28Z",
+    "sources": {
+      "legacyResourceId": "7895584079983",
+      "sourceUrl": "https://japanesetaste.com//products/iwachu-nambu-cast-iron-omelette-frying-pan-24cm-24601"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679354093679",
+        "legacyResourceId": "43679354093679",
+        "title": "Default Title",
+        "sku": "IWCH-OMLPAN-24601",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895584112751",
+    "legacyResourceId": "7895584112751",
+    "handle": "miyabi-5000fcd-110mm-petty-knife-handcrafted-japanese-damascus-steel",
+    "title": "Miyabi 5000FCD 110mm Petty Knife - Handcrafted Japanese Damascus Steel",
+    "vendor": "Miyabi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/miyabi-5000fcd-110mm-petty-knife-handcrafted-japanese-damascus-steel",
+    "createdAt": "2025-09-27T06:00:57Z",
+    "updatedAt": "2026-07-10T13:30:28Z",
+    "sources": {
+      "legacyResourceId": "7895584112751",
+      "sourceUrl": "https://japanesetaste.com//products/miyabi-5000fc-d-damascus-steel-petty-knife-110mm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679354257519",
+        "legacyResourceId": "43679354257519",
+        "title": "Default Title",
+        "sku": "MYAB-PTYKNF-34680111",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895584145519",
+    "legacyResourceId": "7895584145519",
+    "handle": "takumi-japan-19cm-iron-tamagoyaki-pan-professional-magma-plate-omelette-pan",
+    "title": "Takumi Japan 19cm Iron Tamagoyaki Pan - Professional Magma Plate Omelette Pan",
+    "vendor": "Takumi Japan",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/takumi-japan-19cm-iron-tamagoyaki-pan-professional-magma-plate-omelette-pan",
+    "createdAt": "2025-09-27T06:00:57Z",
+    "updatedAt": "2026-07-10T13:30:28Z",
+    "sources": {
+      "legacyResourceId": "7895584145519",
+      "sourceUrl": "https://japanesetaste.com//products/takumi-japan-iron-tamagoyaki-pan-japanese-omelette-pan"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679354290287",
+        "legacyResourceId": "43679354290287",
+        "title": "Default Title",
+        "sku": "TKMI-TMGPAN-MGEGM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895584178287",
+    "legacyResourceId": "7895584178287",
+    "handle": "shiseido-anessa-all-in-one-uv-powder-foundation-spf50-10g",
+    "title": "Shiseido Anessa All-in-One UV Powder Foundation SPF50+ PA+++ 10g",
+    "vendor": "Shiseido Anessa",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/shiseido-anessa-all-in-one-uv-powder-foundation-spf50-10g",
+    "createdAt": "2025-09-27T06:01:00Z",
+    "updatedAt": "2026-07-10T13:30:28Z",
+    "sources": {
+      "legacyResourceId": "7895584178287",
+      "sourceUrl": "https://japanesetaste.com//products/shiseido-anessa-all-in-one-beauty-pact-uv-powder-foundation-spf50-10g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679354355823",
+        "legacyResourceId": "43679354355823",
+        "title": "Default Title",
+        "sku": "ANSS-BTPFND-BO1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/ProductVariant/43679354388591",
+        "legacyResourceId": "43679354388591",
+        "title": "2. Medium Ocher",
+        "sku": "ANSS-BTPFND-MO1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "2. Medium Ocher"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895584833647",
+    "legacyResourceId": "7895584833647",
+    "handle": "miyabi-5000fcd-santoku-knife-180mm-damascus-steel-japanese-chef-knife",
+    "title": "Miyabi 5000FCD Santoku Knife - 180mm Damascus Steel Japanese Chef Knife",
+    "vendor": "Miyabi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/miyabi-5000fcd-santoku-knife-180mm-damascus-steel-japanese-chef-knife",
+    "createdAt": "2025-09-27T06:10:03Z",
+    "updatedAt": "2026-07-10T13:30:29Z",
+    "sources": {
+      "legacyResourceId": "7895584833647",
+      "sourceUrl": "https://japanesetaste.com//products/miyabi-5000fc-d-damascus-steel-santoku-knife-180mm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679356813423",
+        "legacyResourceId": "43679356813423",
+        "title": "Default Title",
+        "sku": "MYAB-SANKNF-34684181",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895584866415",
+    "legacyResourceId": "7895584866415",
+    "handle": "miyabi-5000fcd-160mm-damascus-steel-gyuto-japanese-chefs-knife",
+    "title": "Miyabi 5000FCD 160mm Damascus Steel Gyuto - Japanese Chef's Knife",
+    "vendor": "Miyabi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/miyabi-5000fcd-160mm-damascus-steel-gyuto-japanese-chefs-knife",
+    "createdAt": "2025-09-27T06:10:03Z",
+    "updatedAt": "2026-07-10T13:30:29Z",
+    "sources": {
+      "legacyResourceId": "7895584866415",
+      "sourceUrl": "https://japanesetaste.com//products/miyabi-5000fc-d-damascus-steel-gyuto-knife-160mm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679356846191",
+        "legacyResourceId": "43679356846191",
+        "title": "Default Title",
+        "sku": "MYAB-GYUKNF-3468161",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895584899183",
+    "legacyResourceId": "7895584899183",
+    "handle": "miyabi-5000fcd-240mm-sujihiki-japanese-damascus-slicing-knife",
+    "title": "Miyabi 5000FCD 240mm Sujihiki - Japanese Damascus Slicing Knife",
+    "vendor": "Miyabi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/miyabi-5000fcd-240mm-sujihiki-japanese-damascus-slicing-knife",
+    "createdAt": "2025-09-27T06:10:03Z",
+    "updatedAt": "2026-07-10T13:30:29Z",
+    "sources": {
+      "legacyResourceId": "7895584899183",
+      "sourceUrl": "https://japanesetaste.com//products/miyabi-5000fc-d-damascus-steel-sujihiki-knife-240mm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679356780655",
+        "legacyResourceId": "43679356780655",
+        "title": "Default Title",
+        "sku": "MYAB-SUJKNF-34680241",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895584964719",
+    "legacyResourceId": "7895584964719",
+    "handle": "pmel-perfect-long-curl-mascara-waterproof-lash-enhancer",
+    "title": "Pmel Perfect Long & Curl Mascara - Waterproof Lash Enhancer",
+    "vendor": "pdc",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/pmel-perfect-long-curl-mascara-waterproof-lash-enhancer",
+    "createdAt": "2025-09-27T06:11:31Z",
+    "updatedAt": "2026-07-10T13:30:29Z",
+    "sources": {
+      "legacyResourceId": "7895584964719",
+      "sourceUrl": "https://japanesetaste.com//products/pdc-pmel-perfect-long-curl-natural-mascara"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679359139951",
+        "legacyResourceId": "43679359139951",
+        "title": "Default Title",
+        "sku": "PMEL-PLCMAS-1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895584997487",
+    "legacyResourceId": "7895584997487",
+    "handle": "green-bell-takumi-no-waza-g-1203-large-japanese-nail-clipper-96mm",
+    "title": "Green Bell Takumi No Waza G-1203 Large Japanese Nail Clipper - 96mm",
+    "vendor": "Green Bell",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/green-bell-takumi-no-waza-g-1203-large-japanese-nail-clipper-96mm",
+    "createdAt": "2025-09-27T06:11:31Z",
+    "updatedAt": "2026-07-10T13:30:29Z",
+    "sources": {
+      "legacyResourceId": "7895584997487",
+      "sourceUrl": "https://japanesetaste.com//products/green-bell-takumi-no-waza-handmade-nail-clipper-g-1203"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679359107183",
+        "legacyResourceId": "43679359107183",
+        "title": "Default Title",
+        "sku": "GRNB-TNWNCL-G1203",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895585652847",
+    "legacyResourceId": "7895585652847",
+    "handle": "feather-japan-fg-l-professional-large-nail-clipper-with-integrated-catcher",
+    "title": "Feather Japan FG-L Professional Large Nail Clipper with Integrated Catcher",
+    "vendor": "Feather Japan",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/feather-japan-fg-l-professional-large-nail-clipper-with-integrated-catcher",
+    "createdAt": "2025-09-27T06:29:44Z",
+    "updatedAt": "2026-07-10T13:30:30Z",
+    "sources": {
+      "legacyResourceId": "7895585652847",
+      "sourceUrl": "https://japanesetaste.com//products/feather-japan-large-sized-nail-clipper-fg-l"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679366447215",
+        "legacyResourceId": "43679366447215",
+        "title": "Default Title",
+        "sku": "FTHR-NALCLP-FGL",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895585685615",
+    "legacyResourceId": "7895585685615",
+    "handle": "heinz-japanese-kabocha-squash-potage-creamy-pumpkin-soup-160g",
+    "title": "Heinz Japanese Kabocha Squash Potage - Creamy Pumpkin Soup 160g",
+    "vendor": "Heinz",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/heinz-japanese-kabocha-squash-potage-creamy-pumpkin-soup-160g",
+    "createdAt": "2025-09-27T06:29:44Z",
+    "updatedAt": "2026-07-10T13:30:30Z",
+    "sources": {
+      "legacyResourceId": "7895585685615",
+      "sourceUrl": "https://japanesetaste.com//products/heinz-japanese-kabocha-squash-potage-soup-160g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679366414447",
+        "legacyResourceId": "43679366414447",
+        "title": "Default Title",
+        "sku": "HENZ-KABSUP-160",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895585718383",
+    "legacyResourceId": "7895585718383",
+    "handle": "midori-md-notebook-a5-grid-premium-japanese-paper",
+    "title": "Midori MD Notebook A5 Grid - Premium Japanese Paper for Writing",
+    "vendor": "Midori",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/midori-md-notebook-a5-grid-premium-japanese-paper",
+    "createdAt": "2025-09-27T06:29:44Z",
+    "updatedAt": "2026-07-18T21:22:27Z",
+    "sources": {
+      "legacyResourceId": "7895585718383",
+      "sourceUrl": "https://japanesetaste.com//products/midori-md-a5-notebook-5mm-gridded-paper-15003006"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679366479983",
+        "legacyResourceId": "43679366479983",
+        "title": "Default Title",
+        "sku": "MDRI-MD5NTB-15003006",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895585751151",
+    "legacyResourceId": "7895585751151",
+    "handle": "feather-japan-professional-medium-nail-clipper-precision-stainless-steel",
+    "title": "Feather Japan Professional Medium Nail Clipper - Precision Stainless Steel",
+    "vendor": "Feather Japan",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/feather-japan-professional-medium-nail-clipper-precision-stainless-steel",
+    "createdAt": "2025-09-27T06:29:44Z",
+    "updatedAt": "2026-07-10T13:30:30Z",
+    "sources": {
+      "legacyResourceId": "7895585751151",
+      "sourceUrl": "https://japanesetaste.com//products/feather-japan-medium-sized-nail-clipper-fg-m"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679366512751",
+        "legacyResourceId": "43679366512751",
+        "title": "Default Title",
+        "sku": "FTHR-NALCLP-FGM",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895585783919",
+    "legacyResourceId": "7895585783919",
+    "handle": "japanese-dried-kikurage-wood-ear-mushrooms-100g",
+    "title": "Japanese Dried Kikurage Wood Ear Mushrooms - 100g Premium Dried Fungus",
+    "vendor": "Mori Mushroom Research Institute",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/japanese-dried-kikurage-wood-ear-mushrooms-100g",
+    "createdAt": "2025-09-27T06:29:56Z",
+    "updatedAt": "2026-07-10T13:30:31Z",
+    "sources": {
+      "legacyResourceId": "7895585783919",
+      "sourceUrl": "https://japanesetaste.com//products/dried-kikurage-wood-ear-mushrooms-100g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679366611055",
+        "legacyResourceId": "43679366611055",
+        "title": "Default Title",
+        "sku": "MORI-KKRAGE-100",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895585882223",
+    "legacyResourceId": "7895585882223",
+    "handle": "megmilk-hokkaido-sweetened-condensed-milk-480g-tube",
+    "title": "Megmilk Hokkaido Sweetened Condensed Milk - 480g Premium Tube",
+    "vendor": "Megmilk Snow Brand",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/megmilk-hokkaido-sweetened-condensed-milk-480g-tube",
+    "createdAt": "2025-09-27T06:30:40Z",
+    "updatedAt": "2026-07-10T13:30:31Z",
+    "sources": {
+      "legacyResourceId": "7895585882223",
+      "sourceUrl": "https://japanesetaste.com//products/megmilk-japan-hokkaido-condensed-milk-tube-480g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679366774895",
+        "legacyResourceId": "43679366774895",
+        "title": "Default Title",
+        "sku": "MEGM-CONMLK-480",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895585914991",
+    "legacyResourceId": "7895585914991",
+    "handle": "feather-tokusen-premium-large-nail-clipper-japanese-steel",
+    "title": "Feather Tokusen Premium Large Nail Clipper - Sharp Japanese Steel",
+    "vendor": "Feather",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/feather-tokusen-premium-large-nail-clipper-japanese-steel",
+    "createdAt": "2025-09-27T06:30:40Z",
+    "updatedAt": "2026-07-10T13:30:31Z",
+    "sources": {
+      "legacyResourceId": "7895585914991",
+      "sourceUrl": "https://japanesetaste.com//products/feather-tokusen-premium-nail-clipper-large-size-tn-lh"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679366742127",
+        "legacyResourceId": "43679366742127",
+        "title": "Default Title",
+        "sku": "FTHR-TKSNCL-TNLH",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895587553391",
+    "legacyResourceId": "7895587553391",
+    "handle": "tiger-crown-professional-japanese-palette-knife-8-inch-icing-spatula",
+    "title": "Tiger Crown Professional Japanese Palette Knife - 8-Inch Icing Spatula",
+    "vendor": "Tiger Crown",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tiger-crown-professional-japanese-palette-knife-8-inch-icing-spatula",
+    "createdAt": "2025-09-27T06:50:48Z",
+    "updatedAt": "2026-07-10T13:30:31Z",
+    "sources": {
+      "legacyResourceId": "7895587553391",
+      "sourceUrl": "https://japanesetaste.com//products/tiger-crown-palette-knife-icing-spatula-1049"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679374770287",
+        "legacyResourceId": "43679374770287",
+        "title": "Default Title",
+        "sku": "TGCR-PALKNF-1049",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895587586159",
+    "legacyResourceId": "7895587586159",
+    "handle": "tiger-crown-professional-18-0-stainless-steel-pizza-cutter",
+    "title": "Tiger Crown Professional 18/0 Stainless Steel Pizza Cutter - Made in Japan",
+    "vendor": "Tiger Crown",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/tiger-crown-professional-18-0-stainless-steel-pizza-cutter",
+    "createdAt": "2025-09-27T06:50:48Z",
+    "updatedAt": "2026-07-10T13:30:31Z",
+    "sources": {
+      "legacyResourceId": "7895587586159",
+      "sourceUrl": "https://japanesetaste.com//products/tiger-crown-pizza-cutter-wheel-542"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679374803055",
+        "legacyResourceId": "43679374803055",
+        "title": "Default Title",
+        "sku": "TGCR-PZACUT-542",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895587618927",
+    "legacyResourceId": "7895587618927",
+    "handle": "raymay-fujii-pencut-portable-foldable-pen-style-scissors-with-safety-cap",
+    "title": "Raymay Fujii Pencut Portable Foldable Pen-Style Scissors with Safety Cap",
+    "vendor": "Raymay Fujii",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/raymay-fujii-pencut-portable-foldable-pen-style-scissors-with-safety-cap",
+    "createdAt": "2025-09-27T06:50:48Z",
+    "updatedAt": "2026-07-10T13:30:31Z",
+    "sources": {
+      "legacyResourceId": "7895587618927",
+      "sourceUrl": "https://japanesetaste.com//products/raymay-fujii-pencut-pen-type-foldable-scissors-sh601b"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679374737519",
+        "legacyResourceId": "43679374737519",
+        "title": "Default Title",
+        "sku": "RFJI-PENCUT-SH601B",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895587848303",
+    "legacyResourceId": "7895587848303",
+    "handle": "otsuka-pocari-sweat-electrolyte-jelly-drink-180g-pack-of-six",
+    "title": "Otsuka Pocari Sweat Electrolyte Jelly Drink - 180g Pack of Six",
+    "vendor": "Otsuka Pharmaceutical",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/otsuka-pocari-sweat-electrolyte-jelly-drink-180g-pack-of-six",
+    "createdAt": "2025-09-27T06:53:36Z",
+    "updatedAt": "2026-07-10T13:30:32Z",
+    "sources": {
+      "legacyResourceId": "7895587848303",
+      "sourceUrl": "https://japanesetaste.com//products/otsuka-pocari-sweat-jelly-ion-supply-jelly-drink-180g-pack-of-6-units"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679375229039",
+        "legacyResourceId": "43679375229039",
+        "title": "Default Title",
+        "sku": "OTSK-POCJLY-P6",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895587913839",
+    "legacyResourceId": "7895587913839",
+    "handle": "ishizawa-lab-toumei-shirohada-brightening-lotion-400ml",
+    "title": "Ishizawa Lab Toumei Shirohada Brightening Lotion - 400ml White Lotion",
+    "vendor": "Ishizawa Lab",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/ishizawa-lab-toumei-shirohada-brightening-lotion-400ml",
+    "createdAt": "2025-09-27T06:55:36Z",
+    "updatedAt": "2026-07-10T13:30:32Z",
+    "sources": {
+      "legacyResourceId": "7895587913839",
+      "sourceUrl": "https://japanesetaste.com//products/ishizawa-lab-toumei-shirohada-soy-milk-collagen-lotion-400ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679375425647",
+        "legacyResourceId": "43679375425647",
+        "title": "Default Title",
+        "sku": "ISKW-TOULOT-400",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895587946607",
+    "legacyResourceId": "7895587946607",
+    "handle": "ishizawa-lab-toumei-shirohada-brightening-foaming-face-wash-100g",
+    "title": "Ishizawa Lab Toumei Shirohada Brightening Foaming Face Wash - 100g",
+    "vendor": "Ishizawa Lab",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/ishizawa-lab-toumei-shirohada-brightening-foaming-face-wash-100g",
+    "createdAt": "2025-09-27T06:55:36Z",
+    "updatedAt": "2026-07-10T13:30:32Z",
+    "sources": {
+      "legacyResourceId": "7895587946607",
+      "sourceUrl": "https://japanesetaste.com//products/ishizawa-lab-toumei-shirohada-foaming-face-wash-100g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679375458415",
+        "legacyResourceId": "43679375458415",
+        "title": "Default Title",
+        "sku": "ISKW-TOUFWA-100",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895587979375",
+    "legacyResourceId": "7895587979375",
+    "handle": "daiko-salted-nori-lotus-root-renkon-chips-savory-japanese-snack",
+    "title": "Daiko Salted Nori Lotus Root Renkon Chips - Savory Japanese Snack",
+    "vendor": "Daiko Foods",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/daiko-salted-nori-lotus-root-renkon-chips-savory-japanese-snack",
+    "createdAt": "2025-09-27T06:55:48Z",
+    "updatedAt": "2026-07-10T13:30:32Z",
+    "sources": {
+      "legacyResourceId": "7895587979375",
+      "sourceUrl": "https://japanesetaste.com//products/daiko-nori-renkon-chips-salted-nori-seaweed-lotus-root-snack-50g"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679375589487",
+        "legacyResourceId": "43679375589487",
+        "title": "Default Title",
+        "sku": "DAIK-RNKCHP-1",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895588012143",
+    "legacyResourceId": "7895588012143",
+    "handle": "maruman-mnemosyne-a4-5mm-grid-notebook-professional-japanese-stationery",
+    "title": "Maruman Mnemosyne A4 5mm Grid Notebook - Professional Japanese Stationery",
+    "vendor": "Maruman",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/maruman-mnemosyne-a4-5mm-grid-notebook-professional-japanese-stationery",
+    "createdAt": "2025-09-27T06:55:48Z",
+    "updatedAt": "2026-07-10T13:30:33Z",
+    "sources": {
+      "legacyResourceId": "7895588012143",
+      "sourceUrl": "https://japanesetaste.com//products/maruman-mnemosyne-notebook-a4-size-5mm-grid-lined-n180a"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679375556719",
+        "legacyResourceId": "43679375556719",
+        "title": "Default Title",
+        "sku": "MMAN-MNMNTB-A4N180A",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895588044911",
+    "legacyResourceId": "7895588044911",
+    "handle": "maruman-mnemosyne-b5-notebook-premium-ruled-paper",
+    "title": "Maruman Mnemosyne B5 Notebook - Premium Ruled Paper for Business",
+    "vendor": "Maruman",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/maruman-mnemosyne-b5-notebook-premium-ruled-paper",
+    "createdAt": "2025-09-27T06:56:05Z",
+    "updatedAt": "2026-07-10T13:30:33Z",
+    "sources": {
+      "legacyResourceId": "7895588044911",
+      "sourceUrl": "https://japanesetaste.com//products/maruman-mnemosyne-notebook-b5-size-7mm-horizontal-lined-paper-n194a"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679375655023",
+        "legacyResourceId": "43679375655023",
+        "title": "Default Title",
+        "sku": "MMAN-MNMNTB-B5N194A",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895588143215",
+    "legacyResourceId": "7895588143215",
+    "handle": "asamurasaki-premium-gomadare-japanese-sesame-dressing-350ml",
+    "title": "Asamurasaki Premium Gomadare Japanese Sesame Dressing - 350ml",
+    "vendor": "Asamurasaki",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asamurasaki-premium-gomadare-japanese-sesame-dressing-350ml",
+    "createdAt": "2025-09-27T06:57:25Z",
+    "updatedAt": "2026-07-10T13:30:33Z",
+    "sources": {
+      "legacyResourceId": "7895588143215",
+      "sourceUrl": "https://japanesetaste.com//products/asamurasaki-gomadare-japanese-sesame-dressing-350ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679375884399",
+        "legacyResourceId": "43679375884399",
+        "title": "Default Title",
+        "sku": "ASMU-GOMDRE-350",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895588175983",
+    "legacyResourceId": "7895588175983",
+    "handle": "asamurasaki-kingoma-wasabi-sesame-dressing-220ml",
+    "title": "Asamurasaki Kingoma Wasabi Sesame Dressing - 220ml Premium Japanese Sauce",
+    "vendor": "Asamurasaki",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asamurasaki-kingoma-wasabi-sesame-dressing-220ml",
+    "createdAt": "2025-09-27T06:57:25Z",
+    "updatedAt": "2026-07-10T13:30:33Z",
+    "sources": {
+      "legacyResourceId": "7895588175983",
+      "sourceUrl": "https://japanesetaste.com//products/asamurasaki-kingoma-wasabi-sesame-dressing-220ml"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679375949935",
+        "legacyResourceId": "43679375949935",
+        "title": "Default Title",
+        "sku": "ASMU-WSEDRE-220",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895607017583",
+    "legacyResourceId": "7895607017583",
+    "handle": "asso-long-reach-sponge-brush-replacement-heads-2-pack-quick-dry-foam",
+    "title": "Asso Long Reach Sponge Brush Replacement Heads - 2 Pack Quick-Dry Foam",
+    "vendor": "Asso",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": null,
+    "createdAt": "2025-09-27T09:31:40Z",
+    "updatedAt": "2026-07-10T13:30:33Z",
+    "sources": {
+      "legacyResourceId": "7895607017583",
+      "sourceUrl": "https://japanesetaste.com//products/asso-replacement-heads-for-long-reach-sponge-brush"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679533400175",
+        "legacyResourceId": "43679533400175",
+        "title": "Default Title",
+        "sku": "ASSO-LNGSPO-AS022",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895610949743",
+    "legacyResourceId": "7895610949743",
+    "handle": "leye-stainless-steel-precision-butter-cutter-perfect-5g-portions",
+    "title": "Leye Stainless Steel Precision Butter Cutter - Perfect 5g Portions",
+    "vendor": "Leye",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/leye-stainless-steel-precision-butter-cutter-perfect-5g-portions",
+    "createdAt": "2025-09-27T09:45:43Z",
+    "updatedAt": "2026-07-10T13:30:34Z",
+    "sources": {
+      "legacyResourceId": "7895610949743",
+      "sourceUrl": "https://japanesetaste.com//products/leye-wire-grid-butter-cutter-easy-to-use-stainless-steel-butter-slicer"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679546409071",
+        "legacyResourceId": "43679546409071",
+        "title": "Default Title",
+        "sku": "LEYE-BUTCUT-LS1551",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895611015279",
+    "legacyResourceId": "7895611015279",
+    "handle": "red-fuji-ukiyo-e-furoshiki-traditional-japanese-cotton-wrapping-cloth-48cm",
+    "title": "Red Fuji Ukiyo-e Furoshiki - Traditional Japanese Cotton Wrapping Cloth (48cm)",
+    "vendor": "Musubi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/red-fuji-ukiyo-e-furoshiki-traditional-japanese-cotton-wrapping-cloth-48cm",
+    "createdAt": "2025-09-27T09:46:01Z",
+    "updatedAt": "2026-07-10T13:30:34Z",
+    "sources": {
+      "legacyResourceId": "7895611015279",
+      "sourceUrl": "https://japanesetaste.com//products/furoshiki-red-fuji-ukiyo-e-art-cotton-wrapping-cloth-48x48cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679546605679",
+        "legacyResourceId": "43679546605679",
+        "title": "Default Title",
+        "sku": "NRMI-FROSKI-03211",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7895611080815",
+    "legacyResourceId": "7895611080815",
+    "handle": "musubi-ukiyo-e-furoshiki-70cm-woman-blowing-glass",
+    "title": "Musubi Ukiyo-e Furoshiki 70cm - Woman Blowing Glass Japanese Wrap",
+    "vendor": "Musubi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/musubi-ukiyo-e-furoshiki-70cm-woman-blowing-glass",
+    "createdAt": "2025-09-27T09:46:01Z",
+    "updatedAt": "2026-07-10T13:30:34Z",
+    "sources": {
+      "legacyResourceId": "7895611080815",
+      "sourceUrl": "https://japanesetaste.com//products/furoshiki-woman-blowing-glass-pipe-ukiyo-e-art-wrapping-cloth-70x70cm"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/43679546638447",
+        "legacyResourceId": "43679546638447",
+        "title": "Default Title",
+        "sku": "NRMI-FROSKI-03250",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  }
+]

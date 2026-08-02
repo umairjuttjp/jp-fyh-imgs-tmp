@@ -1,0 +1,3202 @@
+[
+  {
+    "id": "gid://shopify/Product/7987347423343",
+    "legacyResourceId": "7987347423343",
+    "handle": "kose-moisture-mild-white-milky-lotion-brightening-hydrating-emulsion",
+    "title": "Kose Moisture Mild White Milky Lotion - Brightening & Hydrating Emulsion",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-moisture-mild-white-milky-lotion-brightening-hydrating-emulsion",
+    "createdAt": "2025-12-25T13:15:06Z",
+    "updatedAt": "2026-07-10T14:41:44Z",
+    "sources": {
+      "legacyResourceId": "7987347423343"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016401252463",
+        "legacyResourceId": "44016401252463",
+        "title": "Default Title",
+        "sku": "1051094334",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987347456111",
+    "legacyResourceId": "7987347456111",
+    "handle": "kose-predia-fango-head-cleanse-spa-sanrio-edition-pochacco-hangyodon",
+    "title": "Kose Predia Fango Head Cleanse SPA+ Sanrio Edition Pochacco Hangyodon",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-predia-fango-head-cleanse-spa-sanrio-edition-pochacco-hangyodon",
+    "createdAt": "2025-12-25T13:15:09Z",
+    "updatedAt": "2026-07-10T14:41:45Z",
+    "sources": {
+      "legacyResourceId": "7987347456111"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016401285231",
+        "legacyResourceId": "44016401285231",
+        "title": "Default Title",
+        "sku": "1132199562",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987347488879",
+    "legacyResourceId": "7987347488879",
+    "handle": "kose-softymo-ceramide-foam-face-wash-gentle-hydration-for-sensitive-skin",
+    "title": "Kose Softymo Ceramide Foam Face Wash - Gentle Hydration for Sensitive Skin",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-softymo-ceramide-foam-face-wash-gentle-hydration-for-sensitive-skin",
+    "createdAt": "2025-12-25T13:15:10Z",
+    "updatedAt": "2026-07-10T14:41:45Z",
+    "sources": {
+      "legacyResourceId": "7987347488879"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016401317999",
+        "legacyResourceId": "44016401317999",
+        "title": "Default Title",
+        "sku": "1132389214",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987347521647",
+    "legacyResourceId": "7987347521647",
+    "handle": "kose-clear-turn-sorry-bare-skin-morning-awakening-mask-32-sheets",
+    "title": "Kose Clear Turn Sorry Bare Skin Morning Awakening Mask - 32 Sheets",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-clear-turn-sorry-bare-skin-morning-awakening-mask-32-sheets",
+    "createdAt": "2025-12-25T13:15:11Z",
+    "updatedAt": "2026-07-10T14:41:45Z",
+    "sources": {
+      "legacyResourceId": "7987347521647"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016401350767",
+        "legacyResourceId": "44016401350767",
+        "title": "Default Title",
+        "sku": "1130822600",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987347554415",
+    "legacyResourceId": "7987347554415",
+    "handle": "kose-grace-one-whitening-essence-all-in-one-anti-aging-serum",
+    "title": "Kose Grace One Whitening Essence - All-in-One Anti-Aging Serum",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-grace-one-whitening-essence-all-in-one-anti-aging-serum",
+    "createdAt": "2025-12-25T13:15:12Z",
+    "updatedAt": "2026-07-10T14:41:45Z",
+    "sources": {
+      "legacyResourceId": "7987347554415"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016401383535",
+        "legacyResourceId": "44016401383535",
+        "title": "Default Title",
+        "sku": "1086795934",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987347587183",
+    "legacyResourceId": "7987347587183",
+    "handle": "kose-clear-turn-keana-komachi-yellow-peel-off-pack",
+    "title": "Kose Clear Turn Keana Komachi Yellow Peel Off Pack - Pore Refining Mask",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-clear-turn-keana-komachi-yellow-peel-off-pack",
+    "createdAt": "2025-12-25T13:15:15Z",
+    "updatedAt": "2026-07-10T14:41:45Z",
+    "sources": {
+      "legacyResourceId": "7987347587183"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016401416303",
+        "legacyResourceId": "44016401416303",
+        "title": "Default Title",
+        "sku": "1117455322",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987347619951",
+    "legacyResourceId": "7987347619951",
+    "handle": "kose-clear-turn-hyaluro-tune-micro-patch-2000-intensive-eye-treatment",
+    "title": "Kose Clear Turn Hyaluro Tune Micro Patch 2000 - Intensive Eye Treatment",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-clear-turn-hyaluro-tune-micro-patch-2000-intensive-eye-treatment",
+    "createdAt": "2025-12-25T13:15:16Z",
+    "updatedAt": "2026-07-10T14:41:46Z",
+    "sources": {
+      "legacyResourceId": "7987347619951"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016401449071",
+        "legacyResourceId": "44016401449071",
+        "title": "Default Title",
+        "sku": "1127731113",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987347652719",
+    "legacyResourceId": "7987347652719",
+    "handle": "kose-one-by-kose-clear-peel-serum",
+    "title": "Kose One By Kose Clear Peel Serum - Pore Refining Exfoliating Essence",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-one-by-kose-clear-peel-serum",
+    "createdAt": "2025-12-25T13:15:17Z",
+    "updatedAt": "2026-07-10T14:41:46Z",
+    "sources": {
+      "legacyResourceId": "7987347652719"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016401481839",
+        "legacyResourceId": "44016401481839",
+        "title": "Default Title",
+        "sku": "1129088368",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987347685487",
+    "legacyResourceId": "7987347685487",
+    "handle": "kose-sekkisei-brightening-essence-lotion-medicated-radiance-hydration",
+    "title": "Kose Sekkisei Brightening Essence Lotion - Medicated Radiance & Hydration",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-sekkisei-brightening-essence-lotion-medicated-radiance-hydration",
+    "createdAt": "2025-12-25T13:15:18Z",
+    "updatedAt": "2026-07-10T14:41:46Z",
+    "sources": {
+      "legacyResourceId": "7987347685487"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016401514607",
+        "legacyResourceId": "44016401514607",
+        "title": "Default Title",
+        "sku": "1129152005",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987347718255",
+    "legacyResourceId": "7987347718255",
+    "handle": "kose-coenrich-q10-whitening-moist-gel-hand-cream-white-floral-80g",
+    "title": "Kose CoenRich Q10 Whitening Moist Gel Hand Cream White Floral 80g",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-coenrich-q10-whitening-moist-gel-hand-cream-white-floral-80g",
+    "createdAt": "2025-12-25T13:15:22Z",
+    "updatedAt": "2026-07-10T14:41:46Z",
+    "sources": {
+      "legacyResourceId": "7987347718255"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016401547375",
+        "legacyResourceId": "44016401547375",
+        "title": "Default Title",
+        "sku": "1130051457",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987347751023",
+    "legacyResourceId": "7987347751023",
+    "handle": "decorte-phytotune-softening-cleanse-cleansing-cream-mini-30g",
+    "title": "Decorté Phytotune Softening Cleanse Cleansing Cream Mini 30g",
+    "vendor": "Kose DECORTÉ",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/decorte-phytotune-softening-cleanse-cleansing-cream-mini-30g",
+    "createdAt": "2025-12-25T13:15:22Z",
+    "updatedAt": "2026-07-10T14:41:46Z",
+    "sources": {
+      "legacyResourceId": "7987347751023"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016401580143",
+        "legacyResourceId": "44016401580143",
+        "title": "Default Title",
+        "sku": "1134217049",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987347783791",
+    "legacyResourceId": "7987347783791",
+    "handle": "kose-clear-turn-gomenne-suhada-whitening-mask-7-sheets",
+    "title": "Kose Clear Turn Gomenne Suhada Whitening Mask - Premium Anti-Aging 7 Sheets",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-clear-turn-gomenne-suhada-whitening-mask-7-sheets",
+    "createdAt": "2025-12-25T13:15:24Z",
+    "updatedAt": "2026-07-10T14:41:47Z",
+    "sources": {
+      "legacyResourceId": "7987347783791"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016401612911",
+        "legacyResourceId": "44016401612911",
+        "title": "Default Title",
+        "sku": "1135683816",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987347816559",
+    "legacyResourceId": "7987347816559",
+    "handle": "decorte-liposome-advanced-repair-serum",
+    "title": "Decorté Liposome Advanced Repair Serum - Deep Hydrating Anti-Aging Essence",
+    "vendor": "Decorté",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/decorte-liposome-advanced-repair-serum",
+    "createdAt": "2025-12-25T13:15:26Z",
+    "updatedAt": "2026-07-10T14:41:47Z",
+    "sources": {
+      "legacyResourceId": "7987347816559"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016401645679",
+        "legacyResourceId": "44016401645679",
+        "title": "Default Title",
+        "sku": "1132214634",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987347849327",
+    "legacyResourceId": "7987347849327",
+    "handle": "kose-bioliss-botanical-polish-oil-shine-frizz-control",
+    "title": "Kose Bioliss Botanical Polish Oil - Natural Shine & Frizz Control",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-bioliss-botanical-polish-oil-shine-frizz-control",
+    "createdAt": "2025-12-25T13:15:28Z",
+    "updatedAt": "2026-07-10T14:41:47Z",
+    "sources": {
+      "legacyResourceId": "7987347849327"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016401678447",
+        "legacyResourceId": "44016401678447",
+        "title": "Default Title",
+        "sku": "1128348745",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987347882095",
+    "legacyResourceId": "7987347882095",
+    "handle": "kose-clear-turn-100-made-in-japan-rice-mask-ex-hydrating-sheet-mask",
+    "title": "Kose Clear Turn 100% Made In Japan Rice Mask EX - Hydrating Sheet Mask",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-clear-turn-100-made-in-japan-rice-mask-ex-hydrating-sheet-mask",
+    "createdAt": "2025-12-25T13:15:28Z",
+    "updatedAt": "2026-07-10T14:41:47Z",
+    "sources": {
+      "legacyResourceId": "7987347882095"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016401711215",
+        "legacyResourceId": "44016401711215",
+        "title": "Default Title",
+        "sku": "1070439127",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987347914863",
+    "legacyResourceId": "7987347914863",
+    "handle": "kose-clear-turn-glutathione-bomb-face-mask-radiance",
+    "title": "Kose Clear Turn Glutathione Bomb Mask - Brightening & Radiance (7 Sheets)",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-clear-turn-glutathione-bomb-face-mask-radiance",
+    "createdAt": "2025-12-25T13:15:30Z",
+    "updatedAt": "2026-07-10T14:41:47Z",
+    "sources": {
+      "legacyResourceId": "7987347914863"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016401743983",
+        "legacyResourceId": "44016401743983",
+        "title": "Default Title",
+        "sku": "1134115292",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987347947631",
+    "legacyResourceId": "7987347947631",
+    "handle": "kose-vitapuru-medicated-repair-aquary-gel-cream",
+    "title": "Kose VITAPURU Medicated Repair Aquary Gel Cream - All-in-One Skincare",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-vitapuru-medicated-repair-aquary-gel-cream",
+    "createdAt": "2025-12-25T13:15:33Z",
+    "updatedAt": "2026-07-10T14:41:48Z",
+    "sources": {
+      "legacyResourceId": "7987347947631"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016401776751",
+        "legacyResourceId": "44016401776751",
+        "title": "Default Title",
+        "sku": "1128029460",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987347980399",
+    "legacyResourceId": "7987347980399",
+    "handle": "kose-bioliss-botanical-deep-moist-conditioner",
+    "title": "Kose Bioliss Botanical Deep Moist Conditioner - Intense Hydration 480ml",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-bioliss-botanical-deep-moist-conditioner",
+    "createdAt": "2025-12-25T13:15:34Z",
+    "updatedAt": "2026-07-10T14:41:48Z",
+    "sources": {
+      "legacyResourceId": "7987347980399"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016401809519",
+        "legacyResourceId": "44016401809519",
+        "title": "Default Title",
+        "sku": "1131614825",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987348013167",
+    "legacyResourceId": "7987348013167",
+    "handle": "kose-softymo-speedy-cleansing-liquid-230ml",
+    "title": "Kose Softymo Speedy Cleansing Liquid - Oil-Free Makeup Remover 230ml",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-softymo-speedy-cleansing-liquid-230ml",
+    "createdAt": "2025-12-25T13:15:35Z",
+    "updatedAt": "2026-07-10T14:41:48Z",
+    "sources": {
+      "legacyResourceId": "7987348013167"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016401842287",
+        "legacyResourceId": "44016401842287",
+        "title": "Default Title",
+        "sku": "1128059952",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987348045935",
+    "legacyResourceId": "7987348045935",
+    "handle": "kose-grace-one-whitening-perfect-milk",
+    "title": "Kose Grace One Whitening Perfect Milk - 5-in-1 Anti-Aging Moisturizer",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-grace-one-whitening-perfect-milk",
+    "createdAt": "2025-12-25T13:15:36Z",
+    "updatedAt": "2026-07-10T14:41:48Z",
+    "sources": {
+      "legacyResourceId": "7987348045935"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016401875055",
+        "legacyResourceId": "44016401875055",
+        "title": "Default Title",
+        "sku": "1127920740",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987348078703",
+    "legacyResourceId": "7987348078703",
+    "handle": "kose-sekkisei-white-milky-wash-brightening-facial-cleanser",
+    "title": "Kose Sekkisei White Milky Wash - Brightening Facial Cleanser",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-sekkisei-white-milky-wash-brightening-facial-cleanser",
+    "createdAt": "2025-12-25T13:15:39Z",
+    "updatedAt": "2026-07-10T14:41:48Z",
+    "sources": {
+      "legacyResourceId": "7987348078703"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016401907823",
+        "legacyResourceId": "44016401907823",
+        "title": "Default Title",
+        "sku": "1024689885",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987348111471",
+    "legacyResourceId": "7987348111471",
+    "handle": "kose-coenrich-premium-light-up-moist-guard-hand-cream-spf25",
+    "title": "Kose CoenRich Premium Light Up Moist Guard Hand Cream SPF25 PA++",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-coenrich-premium-light-up-moist-guard-hand-cream-spf25",
+    "createdAt": "2025-12-25T13:15:39Z",
+    "updatedAt": "2026-07-10T14:41:49Z",
+    "sources": {
+      "legacyResourceId": "7987348111471"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016401940591",
+        "legacyResourceId": "44016401940591",
+        "title": "Default Title",
+        "sku": "1126882370",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987348144239",
+    "legacyResourceId": "7987348144239",
+    "handle": "kose-coenrich-q10-brightening-tone-up-hand-cream-80g",
+    "title": "Kose CoenRich Q10 Brightening Tone Up Hand Cream - 80g",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-coenrich-q10-brightening-tone-up-hand-cream-80g",
+    "createdAt": "2025-12-25T13:15:41Z",
+    "updatedAt": "2026-07-10T14:41:49Z",
+    "sources": {
+      "legacyResourceId": "7987348144239"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016401973359",
+        "legacyResourceId": "44016401973359",
+        "title": "Default Title",
+        "sku": "1130051440",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987348177007",
+    "legacyResourceId": "7987348177007",
+    "handle": "kose-bioliss-botanical-smooth-sleek-shampoo-frizz-control",
+    "title": "Kose Bioliss Botanical Smooth & Sleek Shampoo - Frizz Control (480ml)",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-bioliss-botanical-smooth-sleek-shampoo-frizz-control",
+    "createdAt": "2025-12-25T13:15:43Z",
+    "updatedAt": "2026-07-10T14:41:49Z",
+    "sources": {
+      "legacyResourceId": "7987348177007"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016402006127",
+        "legacyResourceId": "44016402006127",
+        "title": "Default Title",
+        "sku": "1128582997",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987348209775",
+    "legacyResourceId": "7987348209775",
+    "handle": "kose-sekkisei-skincare-uv-defense-essence-milk-spf-50-pa",
+    "title": "Kose Sekkisei Skincare UV Defense Essence Milk SPF 50+ PA++++",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-sekkisei-skincare-uv-defense-essence-milk-spf-50-pa",
+    "createdAt": "2025-12-25T13:15:45Z",
+    "updatedAt": "2026-07-10T14:41:49Z",
+    "sources": {
+      "legacyResourceId": "7987348209775"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016402038895",
+        "legacyResourceId": "44016402038895",
+        "title": "Default Title",
+        "sku": "1128289363",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987348242543",
+    "legacyResourceId": "7987348242543",
+    "handle": "kose-clear-turn-babyish-moisturizing-mask",
+    "title": "Kose Clear Turn Babyish Moisturizing Mask - For Baby-Soft Hydrated Skin",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-clear-turn-babyish-moisturizing-mask",
+    "createdAt": "2025-12-25T13:15:46Z",
+    "updatedAt": "2026-07-10T14:41:49Z",
+    "sources": {
+      "legacyResourceId": "7987348242543"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016402071663",
+        "legacyResourceId": "44016402071663",
+        "title": "Default Title",
+        "sku": "1072962150",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987348275311",
+    "legacyResourceId": "7987348275311",
+    "handle": "kose-grace-one-perfect-cream-100g-all-in-one-anti-aging-moisturizer",
+    "title": "Kose Grace One Perfect Cream - 100g All-in-One Anti-Aging Moisturizer",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-grace-one-perfect-cream-100g-all-in-one-anti-aging-moisturizer",
+    "createdAt": "2025-12-25T13:15:47Z",
+    "updatedAt": "2026-07-10T14:41:50Z",
+    "sources": {
+      "legacyResourceId": "7987348275311"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016402104431",
+        "legacyResourceId": "44016402104431",
+        "title": "Default Title",
+        "sku": "1060308062",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987348308079",
+    "legacyResourceId": "7987348308079",
+    "handle": "kose-vitapuru-medicated-deep-repair-serum-vitamin-c-anti-aging-essence",
+    "title": "Kose Vitapuru Medicated Deep Repair Serum - Vitamin C Anti-Aging Essence",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-vitapuru-medicated-deep-repair-serum-vitamin-c-anti-aging-essence",
+    "createdAt": "2025-12-25T13:15:51Z",
+    "updatedAt": "2026-07-10T14:41:50Z",
+    "sources": {
+      "legacyResourceId": "7987348308079"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016402137199",
+        "legacyResourceId": "44016402137199",
+        "title": "Default Title",
+        "sku": "1128029458",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987348340847",
+    "legacyResourceId": "7987348340847",
+    "handle": "kose-grace-one-wrinkle-care-moist-lift-essence-anti-aging-serum",
+    "title": "Kose Grace One Wrinkle Care Moist Lift Essence - Anti-Aging Serum",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-grace-one-wrinkle-care-moist-lift-essence-anti-aging-serum",
+    "createdAt": "2025-12-25T13:15:51Z",
+    "updatedAt": "2026-07-10T14:41:50Z",
+    "sources": {
+      "legacyResourceId": "7987348340847"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016402169967",
+        "legacyResourceId": "44016402169967",
+        "title": "Default Title",
+        "sku": "1095987000",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987348373615",
+    "legacyResourceId": "7987348373615",
+    "handle": "kose-bioliss-botanical-drawing-hair-mascara-gray-root-touch-up",
+    "title": "Kose Bioliss Botanical Drawing Hair Mascara - Instant Gray Root Touch-Up",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-bioliss-botanical-drawing-hair-mascara-gray-root-touch-up",
+    "createdAt": "2025-12-25T13:15:52Z",
+    "updatedAt": "2026-07-10T14:41:50Z",
+    "sources": {
+      "legacyResourceId": "7987348373615"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016402202735",
+        "legacyResourceId": "44016402202735",
+        "title": "Default Title",
+        "sku": "1133646649",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987348406383",
+    "legacyResourceId": "7987348406383",
+    "handle": "kose-suncut-light-up-uv-essence-spf-50-pa-brightening-sunscreen",
+    "title": "Kose Suncut Light Up UV Essence SPF 50+ PA++++ Brightening Sunscreen",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-suncut-light-up-uv-essence-spf-50-pa-brightening-sunscreen",
+    "createdAt": "2025-12-25T13:15:54Z",
+    "updatedAt": "2026-07-10T14:41:51Z",
+    "sources": {
+      "legacyResourceId": "7987348406383"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016402235503",
+        "legacyResourceId": "44016402235503",
+        "title": "Default Title",
+        "sku": "1127079568",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987348439151",
+    "legacyResourceId": "7987348439151",
+    "handle": "kose-bioliss-pure-retouch-silky-straight-conditioner-480ml",
+    "title": "Kose Bioliss Pure Retouch Silky Straight Conditioner - 480ml",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-bioliss-pure-retouch-silky-straight-conditioner-480ml",
+    "createdAt": "2025-12-25T13:15:57Z",
+    "updatedAt": "2026-07-10T14:41:51Z",
+    "sources": {
+      "legacyResourceId": "7987348439151"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016402268271",
+        "legacyResourceId": "44016402268271",
+        "title": "Default Title",
+        "sku": "1130837993",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987348471919",
+    "legacyResourceId": "7987348471919",
+    "handle": "kose-clear-turn-sorry-bare-skin-mukumi-chan-repair-eye-serum",
+    "title": "Kose Clear Turn Sorry Bare Skin Mukumi-chan Repair Eye Serum",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-clear-turn-sorry-bare-skin-mukumi-chan-repair-eye-serum",
+    "createdAt": "2025-12-25T13:15:58Z",
+    "updatedAt": "2026-07-10T14:41:51Z",
+    "sources": {
+      "legacyResourceId": "7987348471919"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016402301039",
+        "legacyResourceId": "44016402301039",
+        "title": "Default Title",
+        "sku": "1135683815",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987348504687",
+    "legacyResourceId": "7987348504687",
+    "handle": "kose-grace-one-perfect-milk-anti-aging-firming-emulsion",
+    "title": "Kose Grace One Perfect Milk - Anti-Aging Firming Emulsion for Mature Skin",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-grace-one-perfect-milk-anti-aging-firming-emulsion",
+    "createdAt": "2025-12-25T13:15:58Z",
+    "updatedAt": "2026-07-10T14:41:51Z",
+    "sources": {
+      "legacyResourceId": "7987348504687"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016402333807",
+        "legacyResourceId": "44016402333807",
+        "title": "Default Title",
+        "sku": "1128584210",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987348537455",
+    "legacyResourceId": "7987348537455",
+    "handle": "kose-salon-style-hair-wax-professional-sculpting-flexible-hold",
+    "title": "Kose Salon Style Hair Wax - Professional Sculpting & Flexible Hold",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-salon-style-hair-wax-professional-sculpting-flexible-hold",
+    "createdAt": "2025-12-25T13:16:02Z",
+    "updatedAt": "2026-07-10T14:41:52Z",
+    "sources": {
+      "legacyResourceId": "7987348537455"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016402366575",
+        "legacyResourceId": "44016402366575",
+        "title": "Default Title",
+        "sku": "1077351683",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987348570223",
+    "legacyResourceId": "7987348570223",
+    "handle": "kose-softymo-white-cleansing-foam-minions-limited-edition-150g",
+    "title": "Kose Softymo White Cleansing Foam - Minions Limited Edition 150g",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-softymo-white-cleansing-foam-minions-limited-edition-150g",
+    "createdAt": "2025-12-25T13:16:04Z",
+    "updatedAt": "2026-07-10T14:41:52Z",
+    "sources": {
+      "legacyResourceId": "7987348570223"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016402399343",
+        "legacyResourceId": "44016402399343",
+        "title": "Default Title",
+        "sku": "1133580809",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987348602991",
+    "legacyResourceId": "7987348602991",
+    "handle": "kose-suncut-light-up-uv-spray-spf-50-pa",
+    "title": "Kose Suncut Light Up UV Spray SPF 50+ PA++++ Tone-Up Sunscreen",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-suncut-light-up-uv-spray-spf-50-pa",
+    "createdAt": "2025-12-25T13:16:04Z",
+    "updatedAt": "2026-07-10T14:41:52Z",
+    "sources": {
+      "legacyResourceId": "7987348602991"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016402432111",
+        "legacyResourceId": "44016402432111",
+        "title": "Default Title",
+        "sku": "1129912626",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987348635759",
+    "legacyResourceId": "7987348635759",
+    "handle": "kose-predia-fango-head-cleanse-spa-mineral-scalp-treatment",
+    "title": "Kose Predia Fango Head Cleanse SPA+ Mineral Scalp Treatment",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-predia-fango-head-cleanse-spa-mineral-scalp-treatment",
+    "createdAt": "2025-12-25T13:16:06Z",
+    "updatedAt": "2026-07-10T14:41:52Z",
+    "sources": {
+      "legacyResourceId": "7987348635759"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016402464879",
+        "legacyResourceId": "44016402464879",
+        "title": "Default Title",
+        "sku": "1130977416",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987348668527",
+    "legacyResourceId": "7987348668527",
+    "handle": "kose-bioliss-botanical-repair-hair-oil",
+    "title": "Kose Bioliss Botanical Repair Hair Oil - Silky & Manageable Hair",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-bioliss-botanical-repair-hair-oil",
+    "createdAt": "2025-12-25T13:16:10Z",
+    "updatedAt": "2026-07-10T14:41:52Z",
+    "sources": {
+      "legacyResourceId": "7987348668527"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016402497647",
+        "legacyResourceId": "44016402497647",
+        "title": "Default Title",
+        "sku": "1126882366",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987348701295",
+    "legacyResourceId": "7987348701295",
+    "handle": "kose-coenrich-q10-whitening-deep-moisture-hand-cream-fresh-peach",
+    "title": "Kose CoenRich Q10 Whitening Deep Moisture Hand Cream - Fresh Peach",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-coenrich-q10-whitening-deep-moisture-hand-cream-fresh-peach",
+    "createdAt": "2025-12-25T13:16:10Z",
+    "updatedAt": "2026-07-10T14:41:53Z",
+    "sources": {
+      "legacyResourceId": "7987348701295"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016402530415",
+        "legacyResourceId": "44016402530415",
+        "title": "Default Title",
+        "sku": "1130051450",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987348734063",
+    "legacyResourceId": "7987348734063",
+    "handle": "kose-salon-style-moist-uv-hair-mist-hydrating-sun-protection",
+    "title": "Kose Salon Style Moist UV Hair Mist - Hydrating Sun Protection",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-salon-style-moist-uv-hair-mist-hydrating-sun-protection",
+    "createdAt": "2025-12-25T13:16:10Z",
+    "updatedAt": "2026-07-10T14:41:53Z",
+    "sources": {
+      "legacyResourceId": "7987348734063"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016402563183",
+        "legacyResourceId": "44016402563183",
+        "title": "Default Title",
+        "sku": "1099626479",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987429965935",
+    "legacyResourceId": "7987429965935",
+    "handle": "kose-grace-one-wrinkle-care-moist-lift-gel-all-in-one-repair-cream",
+    "title": "Kose Grace One Wrinkle Care Moist Lift Gel - All-in-One Repair Cream",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-grace-one-wrinkle-care-moist-lift-gel-all-in-one-repair-cream",
+    "createdAt": "2025-12-25T16:29:37Z",
+    "updatedAt": "2026-07-10T14:41:53Z",
+    "sources": {
+      "legacyResourceId": "7987429965935"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016731160687",
+        "legacyResourceId": "44016731160687",
+        "title": "Default Title",
+        "sku": "1131123048",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987429998703",
+    "legacyResourceId": "7987429998703",
+    "handle": "kose-softymo-clear-pro-cleansing-balm-cica-sensitive-skin",
+    "title": "Kose Softymo Clear Pro Cleansing Balm CICA - Sensitive Skin Pore Care",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-softymo-clear-pro-cleansing-balm-cica-sensitive-skin",
+    "createdAt": "2025-12-25T16:29:37Z",
+    "updatedAt": "2026-07-10T14:41:53Z",
+    "sources": {
+      "legacyResourceId": "7987429998703"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016731193455",
+        "legacyResourceId": "44016731193455",
+        "title": "Default Title",
+        "sku": "1127731097",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430031471",
+    "legacyResourceId": "7987430031471",
+    "handle": "kose-coenrich-q10-whitening-hand-cream-deep-moisture-anti-aging-80g",
+    "title": "Kose CoenRich Q10 Whitening Hand Cream - Deep Moisture & Anti-Aging 80g",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-coenrich-q10-whitening-hand-cream-deep-moisture-anti-aging-80g",
+    "createdAt": "2025-12-25T16:29:37Z",
+    "updatedAt": "2026-07-10T14:41:53Z",
+    "sources": {
+      "legacyResourceId": "7987430031471"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016731258991",
+        "legacyResourceId": "44016731258991",
+        "title": "Default Title",
+        "sku": "1077269893",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430064239",
+    "legacyResourceId": "7987430064239",
+    "handle": "kose-bioliss-veganee-botanical-shampoo-480ml",
+    "title": "Kose Bioliss Veganee Botanical Shampoo - 480ml Vegan Hair Care",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-bioliss-veganee-botanical-shampoo-480ml",
+    "createdAt": "2025-12-25T16:29:37Z",
+    "updatedAt": "2026-07-10T14:41:54Z",
+    "sources": {
+      "legacyResourceId": "7987430064239"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016731226223",
+        "legacyResourceId": "44016731226223",
+        "title": "Default Title",
+        "sku": "1099333045",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430097007",
+    "legacyResourceId": "7987430097007",
+    "handle": "kose-sekkisei-brightening-facial-foam-cleanser-130g",
+    "title": "Kose Sekkisei Brightening Facial Foam Cleanser - 130g",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-sekkisei-brightening-facial-foam-cleanser-130g",
+    "createdAt": "2025-12-25T16:29:45Z",
+    "updatedAt": "2026-07-10T14:41:54Z",
+    "sources": {
+      "legacyResourceId": "7987430097007"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016731291759",
+        "legacyResourceId": "44016731291759",
+        "title": "Default Title",
+        "sku": "1134658645",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430129775",
+    "legacyResourceId": "7987430129775",
+    "handle": "kose-softymo-super-point-makeup-remover-minions-limited-edition",
+    "title": "Kose Softymo Super Point Makeup Remover - Minions Limited Edition",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-softymo-super-point-makeup-remover-minions-limited-edition",
+    "createdAt": "2025-12-25T16:29:46Z",
+    "updatedAt": "2026-07-10T14:41:54Z",
+    "sources": {
+      "legacyResourceId": "7987430129775"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016731324527",
+        "legacyResourceId": "44016731324527",
+        "title": "Default Title",
+        "sku": "1134093994",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430162543",
+    "legacyResourceId": "7987430162543",
+    "handle": "kose-deo-carat-medicated-deodorant-body-wash-odor-control-radiant-skin",
+    "title": "Kose Deo Carat Medicated Deodorant Body Wash - Odor Control & Radiant Skin",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-deo-carat-medicated-deodorant-body-wash-odor-control-radiant-skin",
+    "createdAt": "2025-12-25T16:29:46Z",
+    "updatedAt": "2026-07-10T14:41:54Z",
+    "sources": {
+      "legacyResourceId": "7987430162543"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016731357295",
+        "legacyResourceId": "44016731357295",
+        "title": "Default Title",
+        "sku": "1127609789",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430195311",
+    "legacyResourceId": "7987430195311",
+    "handle": "kose-clear-turn-keana-shiny-genji-mask-pore-refining-sheet-mask",
+    "title": "Kose Clear Turn Keana Shiny Genji Mask - Pore Refining Sheet Mask",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-clear-turn-keana-shiny-genji-mask-pore-refining-sheet-mask",
+    "createdAt": "2025-12-25T16:29:47Z",
+    "updatedAt": "2026-07-10T14:41:54Z",
+    "sources": {
+      "legacyResourceId": "7987430195311"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016731390063",
+        "legacyResourceId": "44016731390063",
+        "title": "Default Title",
+        "sku": "1120601949",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430228079",
+    "legacyResourceId": "7987430228079",
+    "handle": "kose-clear-turn-vitamin-bomb-face-mask-7-sheets",
+    "title": "Kose Clear Turn Vitamin Bomb Face Mask - Brightening & Hydration (7 Sheets)",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-clear-turn-vitamin-bomb-face-mask-7-sheets",
+    "createdAt": "2025-12-25T16:29:51Z",
+    "updatedAt": "2026-07-10T14:41:55Z",
+    "sources": {
+      "legacyResourceId": "7987430228079"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016731422831",
+        "legacyResourceId": "44016731422831",
+        "title": "Default Title",
+        "sku": "1128613053",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430260847",
+    "legacyResourceId": "7987430260847",
+    "handle": "kose-clear-turn-keana-komachi-daily-pore-care-sheet-masks-32-sheets",
+    "title": "Kose Clear Turn Keana Komachi Daily Pore Care Sheet Masks - 32 Sheets",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-clear-turn-keana-komachi-daily-pore-care-sheet-masks-32-sheets",
+    "createdAt": "2025-12-25T16:29:52Z",
+    "updatedAt": "2026-07-10T14:41:55Z",
+    "sources": {
+      "legacyResourceId": "7987430260847"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016731455599",
+        "legacyResourceId": "44016731455599",
+        "title": "Default Title",
+        "sku": "1130822599",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430293615",
+    "legacyResourceId": "7987430293615",
+    "handle": "kose-softymo-collagen-cleansing-wash-hydrating-foaming-cleanser",
+    "title": "Kose Softymo Collagen Cleansing Wash - Hydrating Foaming Cleanser",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-softymo-collagen-cleansing-wash-hydrating-foaming-cleanser",
+    "createdAt": "2025-12-25T16:29:52Z",
+    "updatedAt": "2026-07-10T14:41:55Z",
+    "sources": {
+      "legacyResourceId": "7987430293615"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016731488367",
+        "legacyResourceId": "44016731488367",
+        "title": "Default Title",
+        "sku": "1049135635",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430326383",
+    "legacyResourceId": "7987430326383",
+    "handle": "kose-clear-turn-premium-wrinkle-care-serum-mask-anti-aging-hydration",
+    "title": "Kose Clear Turn Premium Wrinkle Care Serum Mask - Anti-Aging Hydration",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-clear-turn-premium-wrinkle-care-serum-mask-anti-aging-hydration",
+    "createdAt": "2025-12-25T16:29:53Z",
+    "updatedAt": "2026-07-10T14:41:55Z",
+    "sources": {
+      "legacyResourceId": "7987430326383"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016731521135",
+        "legacyResourceId": "44016731521135",
+        "title": "Default Title",
+        "sku": "1123519534",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430359151",
+    "legacyResourceId": "7987430359151",
+    "handle": "kose-clear-turn-tigeraid-cica-repair-mask-7-sheets",
+    "title": "Kose Clear Turn Tigeraid CICA Repair Mask - Soothing Sheet Mask (7 Sheets)",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-clear-turn-tigeraid-cica-repair-mask-7-sheets",
+    "createdAt": "2025-12-25T16:29:58Z",
+    "updatedAt": "2026-07-10T14:41:55Z",
+    "sources": {
+      "legacyResourceId": "7987430359151"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016731553903",
+        "legacyResourceId": "44016731553903",
+        "title": "Default Title",
+        "sku": "1127536555",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430391919",
+    "legacyResourceId": "7987430391919",
+    "handle": "kose-clear-turn-premium-royal-jelly-mask-deep-hydration-5-sheets",
+    "title": "Kose Clear Turn Premium Royal Jelly Mask - Deep Hydration (5 Sheets)",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-clear-turn-premium-royal-jelly-mask-deep-hydration-5-sheets",
+    "createdAt": "2025-12-25T16:29:58Z",
+    "updatedAt": "2026-07-10T14:41:56Z",
+    "sources": {
+      "legacyResourceId": "7987430391919"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016731586671",
+        "legacyResourceId": "44016731586671",
+        "title": "Default Title",
+        "sku": "1077269338",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430424687",
+    "legacyResourceId": "7987430424687",
+    "handle": "kose-sekkisei-white-bb-cream-spf-40-pa",
+    "title": "Kose Sekkisei White BB Cream SPF 40 PA+++ - Brightening Foundation",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-sekkisei-white-bb-cream-spf-40-pa",
+    "createdAt": "2025-12-25T16:29:58Z",
+    "updatedAt": "2026-07-10T14:41:56Z",
+    "sources": {
+      "legacyResourceId": "7987430424687"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016731619439",
+        "legacyResourceId": "44016731619439",
+        "title": "Default Title",
+        "sku": "1077145906",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430457455",
+    "legacyResourceId": "7987430457455",
+    "handle": "kose-suncut-multi-vitamin-uv-essence-spf-50-pa-80g",
+    "title": "Kose Suncut Multi Vitamin UV Essence SPF 50+ PA++++ (80g)",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-suncut-multi-vitamin-uv-essence-spf-50-pa-80g",
+    "createdAt": "2025-12-25T16:29:59Z",
+    "updatedAt": "2026-07-10T14:41:56Z",
+    "sources": {
+      "legacyResourceId": "7987430457455"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016731652207",
+        "legacyResourceId": "44016731652207",
+        "title": "Default Title",
+        "sku": "1133240551",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430522991",
+    "legacyResourceId": "7987430522991",
+    "handle": "kose-bioliss-pure-retouch-silky-straight-shampoo-frizz-damage-repair",
+    "title": "Kose Bioliss Pure Retouch Silky Straight Shampoo - Frizz & Damage Repair",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-bioliss-pure-retouch-silky-straight-shampoo-frizz-damage-repair",
+    "createdAt": "2025-12-25T16:30:04Z",
+    "updatedAt": "2026-07-10T14:41:56Z",
+    "sources": {
+      "legacyResourceId": "7987430522991"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016731717743",
+        "legacyResourceId": "44016731717743",
+        "title": "Default Title",
+        "sku": "1130837990",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430555759",
+    "legacyResourceId": "7987430555759",
+    "handle": "kose-ceramiaid-face-body-milk-deep-moisturizing-japanese-ceramide-care",
+    "title": "Kose Ceramiaid Face & Body Milk - Deep Moisturizing Japanese Ceramide Care",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-ceramiaid-face-body-milk-deep-moisturizing-japanese-ceramide-care",
+    "createdAt": "2025-12-25T16:30:04Z",
+    "updatedAt": "2026-07-10T14:41:56Z",
+    "sources": {
+      "legacyResourceId": "7987430555759"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016731750511",
+        "legacyResourceId": "44016731750511",
+        "title": "Default Title",
+        "sku": "1127536247",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430588527",
+    "legacyResourceId": "7987430588527",
+    "handle": "kose-deo-carat-medicated-deodorant-stick-long-lasting-citrus-freshness",
+    "title": "Kose Deo Carat Medicated Deodorant Stick - Long-Lasting Citrus Freshness",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-deo-carat-medicated-deodorant-stick-long-lasting-citrus-freshness",
+    "createdAt": "2025-12-25T16:30:04Z",
+    "updatedAt": "2026-07-10T14:41:57Z",
+    "sources": {
+      "legacyResourceId": "7987430588527"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016731783279",
+        "legacyResourceId": "44016731783279",
+        "title": "Default Title",
+        "sku": "1127609766",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430621295",
+    "legacyResourceId": "7987430621295",
+    "handle": "kose-clear-turn-hada-fukkura-moisture-eyezone-mask",
+    "title": "Kose Clear Turn Hada Fukkura Moisture Eyezone Mask - 32 Pairs (64 Sheets)",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-clear-turn-hada-fukkura-moisture-eyezone-mask",
+    "createdAt": "2025-12-25T16:30:06Z",
+    "updatedAt": "2026-07-10T14:41:57Z",
+    "sources": {
+      "legacyResourceId": "7987430621295"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016731816047",
+        "legacyResourceId": "44016731816047",
+        "title": "Default Title",
+        "sku": "1050834415",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430654063",
+    "legacyResourceId": "7987430654063",
+    "handle": "kose-je-laime-relax-midnight-repair-trial-set-straight-gloss-jasmine",
+    "title": "Kose Je l'aime Relax Midnight Repair Trial Set - Straight & Gloss Jasmine",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-je-laime-relax-midnight-repair-trial-set-straight-gloss-jasmine",
+    "createdAt": "2025-12-25T16:30:10Z",
+    "updatedAt": "2026-07-10T14:41:57Z",
+    "sources": {
+      "legacyResourceId": "7987430654063"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016731848815",
+        "legacyResourceId": "44016731848815",
+        "title": "Default Title",
+        "sku": "1123313986",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430686831",
+    "legacyResourceId": "7987430686831",
+    "handle": "kose-je-laime-relax-midnight-repair-shampoo-straight-rich",
+    "title": "Kose Je l'aime Relax Midnight Repair Shampoo - Straight & Rich 480ml",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-je-laime-relax-midnight-repair-shampoo-straight-rich",
+    "createdAt": "2025-12-25T16:30:10Z",
+    "updatedAt": "2026-07-10T14:41:57Z",
+    "sources": {
+      "legacyResourceId": "7987430686831"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016731881583",
+        "legacyResourceId": "44016731881583",
+        "title": "Default Title",
+        "sku": "1133641516",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430719599",
+    "legacyResourceId": "7987430719599",
+    "handle": "kose-grace-one-wrinkle-care-wrinkle-lift-v-essence",
+    "title": "Kose Grace One Wrinkle Care Wrinkle Lift V Essence - Japanese Anti-Aging Serum",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-grace-one-wrinkle-care-wrinkle-lift-v-essence",
+    "createdAt": "2025-12-25T16:30:10Z",
+    "updatedAt": "2026-07-10T14:41:58Z",
+    "sources": {
+      "legacyResourceId": "7987430719599"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016731914351",
+        "legacyResourceId": "44016731914351",
+        "title": "Default Title",
+        "sku": "1133525557",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430785135",
+    "legacyResourceId": "7987430785135",
+    "handle": "kose-decorte-loose-face-powder-silk-texture-luminous-finishing-glow",
+    "title": "Kose DECORTE Loose Face Powder - Silk Texture Luminous Finishing Glow",
+    "vendor": "Kose DECORTE",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-decorte-loose-face-powder-silk-texture-luminous-finishing-glow",
+    "createdAt": "2025-12-25T16:30:13Z",
+    "updatedAt": "2026-07-10T14:41:58Z",
+    "sources": {
+      "legacyResourceId": "7987430785135"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016731979887",
+        "legacyResourceId": "44016731979887",
+        "title": "Default Title",
+        "sku": "1100031912",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430817903",
+    "legacyResourceId": "7987430817903",
+    "handle": "kose-softymo-speedy-cleansing-oil-minions-edition",
+    "title": "Kose Softymo Speedy Cleansing Oil Minions Edition - 230ml",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-softymo-speedy-cleansing-oil-minions-edition",
+    "createdAt": "2025-12-25T16:30:18Z",
+    "updatedAt": "2026-07-10T14:41:58Z",
+    "sources": {
+      "legacyResourceId": "7987430817903"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732012655",
+        "legacyResourceId": "44016732012655",
+        "title": "Default Title",
+        "sku": "1133580806",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430850671",
+    "legacyResourceId": "7987430850671",
+    "handle": "kose-grace-one-wrinkle-care-moist-lift-milky-lotion",
+    "title": "Kose Grace One Wrinkle Care Moist Lift Milky Lotion - Anti-Aging Care",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-grace-one-wrinkle-care-moist-lift-milky-lotion",
+    "createdAt": "2025-12-25T16:30:18Z",
+    "updatedAt": "2026-07-10T14:41:58Z",
+    "sources": {
+      "legacyResourceId": "7987430850671"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732045423",
+        "legacyResourceId": "44016732045423",
+        "title": "Default Title",
+        "sku": "1131123049",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430916207",
+    "legacyResourceId": "7987430916207",
+    "handle": "kose-clear-turn-uruuru-bomb-face-mask-7-sheets",
+    "title": "Kose Clear Turn Uruuru Bomb Face Mask - Deep Hydration (7 Sheets)",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-clear-turn-uruuru-bomb-face-mask-7-sheets",
+    "createdAt": "2025-12-25T16:30:20Z",
+    "updatedAt": "2026-07-10T14:41:58Z",
+    "sources": {
+      "legacyResourceId": "7987430916207"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732110959",
+        "legacyResourceId": "44016732110959",
+        "title": "Default Title",
+        "sku": "1105407087",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430948975",
+    "legacyResourceId": "7987430948975",
+    "handle": "kose-grace-one-wrinkle-care-white-moist-repair-gel-cream-ex-100g",
+    "title": "Kose Grace One Wrinkle Care White Moist Repair Gel Cream EX 100g",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-grace-one-wrinkle-care-white-moist-repair-gel-cream-ex-100g",
+    "createdAt": "2025-12-25T16:30:21Z",
+    "updatedAt": "2026-07-10T14:41:59Z",
+    "sources": {
+      "legacyResourceId": "7987430948975"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732143727",
+        "legacyResourceId": "44016732143727",
+        "title": "Default Title",
+        "sku": "1133525556",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987430981743",
+    "legacyResourceId": "7987430981743",
+    "handle": "kose-clear-turn-pore-komachi-sheet-mask-7-sheets",
+    "title": "Kose Clear Turn Pore Komachi Sheet Mask - Refining & Hydrating (7 Sheets)",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-clear-turn-pore-komachi-sheet-mask-7-sheets",
+    "createdAt": "2025-12-25T16:30:24Z",
+    "updatedAt": "2026-07-10T14:41:59Z",
+    "sources": {
+      "legacyResourceId": "7987430981743"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732176495",
+        "legacyResourceId": "44016732176495",
+        "title": "Default Title",
+        "sku": "1111793569",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431014511",
+    "legacyResourceId": "7987431014511",
+    "handle": "kose-moisture-mild-white-perfect-gel-uv-spf-50-pa-90g-all-in-one",
+    "title": "Kose Moisture Mild White Perfect Gel UV SPF 50+ PA++++ - 90g All-in-One",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-moisture-mild-white-perfect-gel-uv-spf-50-pa-90g-all-in-one",
+    "createdAt": "2025-12-25T16:30:24Z",
+    "updatedAt": "2026-07-10T14:41:59Z",
+    "sources": {
+      "legacyResourceId": "7987431014511"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732209263",
+        "legacyResourceId": "44016732209263",
+        "title": "Default Title",
+        "sku": "1095712972",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431047279",
+    "legacyResourceId": "7987431047279",
+    "handle": "kose-moisture-mild-white-perfect-essence-5-in-1-brightening-serum",
+    "title": "Kose Moisture Mild White Perfect Essence - 5-in-1 Brightening Serum",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-moisture-mild-white-perfect-essence-5-in-1-brightening-serum",
+    "createdAt": "2025-12-25T16:30:27Z",
+    "updatedAt": "2026-07-10T14:41:59Z",
+    "sources": {
+      "legacyResourceId": "7987431047279"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732242031",
+        "legacyResourceId": "44016732242031",
+        "title": "Default Title",
+        "sku": "1126743430",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431080047",
+    "legacyResourceId": "7987431080047",
+    "handle": "kose-make-keep-powder-ex-long-lasting-matte-setting-powder",
+    "title": "Kose Make Keep Powder EX - Long-Lasting Matte Setting Powder",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-make-keep-powder-ex-long-lasting-matte-setting-powder",
+    "createdAt": "2025-12-25T16:30:27Z",
+    "updatedAt": "2026-07-10T14:41:59Z",
+    "sources": {
+      "legacyResourceId": "7987431080047"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732274799",
+        "legacyResourceId": "44016732274799",
+        "title": "Default Title",
+        "sku": "1134861870",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431112815",
+    "legacyResourceId": "7987431112815",
+    "handle": "kose-grace-one-bb-cream-spf-35-pa-anti-aging-all-in-one-makeup",
+    "title": "Kose Grace One BB Cream SPF 35 PA+++ - Anti-Aging All-in-One Makeup",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-grace-one-bb-cream-spf-35-pa-anti-aging-all-in-one-makeup",
+    "createdAt": "2025-12-25T16:30:31Z",
+    "updatedAt": "2026-07-10T14:42:00Z",
+    "sources": {
+      "legacyResourceId": "7987431112815"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732307567",
+        "legacyResourceId": "44016732307567",
+        "title": "Default Title",
+        "sku": "1077324157",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431145583",
+    "legacyResourceId": "7987431145583",
+    "handle": "kose-make-keep-uv-protector-spf-50-pa",
+    "title": "Kose Make Keep UV Protector SPF 50+ PA++++ - Makeup Setting Sunscreen Mist",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-make-keep-uv-protector-spf-50-pa",
+    "createdAt": "2025-12-25T16:30:31Z",
+    "updatedAt": "2026-07-10T14:42:00Z",
+    "sources": {
+      "legacyResourceId": "7987431145583"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732340335",
+        "legacyResourceId": "44016732340335",
+        "title": "Default Title",
+        "sku": "1133406980",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431178351",
+    "legacyResourceId": "7987431178351",
+    "handle": "kose-clear-turn-sorry-bare-skin-face-mask-poreless-soothing-care-7pcs",
+    "title": "Kose Clear Turn Sorry Bare Skin Face Mask - Poreless Soothing Care 7pcs",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-clear-turn-sorry-bare-skin-face-mask-poreless-soothing-care-7pcs",
+    "createdAt": "2025-12-25T16:30:33Z",
+    "updatedAt": "2026-07-10T14:42:00Z",
+    "sources": {
+      "legacyResourceId": "7987431178351"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732373103",
+        "legacyResourceId": "44016732373103",
+        "title": "Default Title",
+        "sku": "1105407340",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431211119",
+    "legacyResourceId": "7987431211119",
+    "handle": "kose-s-carat-snoopy-peanuts-deodorant-cool-body-sheets-40ct",
+    "title": "Kose S-CARAT Snoopy Peanuts Deodorant Cool Body Sheets - 40ct",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-s-carat-snoopy-peanuts-deodorant-cool-body-sheets-40ct",
+    "createdAt": "2025-12-25T16:30:36Z",
+    "updatedAt": "2026-07-10T14:42:00Z",
+    "sources": {
+      "legacyResourceId": "7987431211119"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732405871",
+        "legacyResourceId": "44016732405871",
+        "title": "Default Title",
+        "sku": "1090045456",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431243887",
+    "legacyResourceId": "7987431243887",
+    "handle": "kose-make-keep-oil-block-powder-paper",
+    "title": "Kose Make Keep Oil Block Powder Paper - Instant Matte & Poreless Finish",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-make-keep-oil-block-powder-paper",
+    "createdAt": "2025-12-25T16:30:37Z",
+    "updatedAt": "2026-07-10T14:42:00Z",
+    "sources": {
+      "legacyResourceId": "7987431243887"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732438639",
+        "legacyResourceId": "44016732438639",
+        "title": "Default Title",
+        "sku": "1134914008",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431276655",
+    "legacyResourceId": "7987431276655",
+    "handle": "kose-softymo-osmanthus-hyaluronic-acid-cleansing-foam-190g",
+    "title": "Kose Softymo Osmanthus & Hyaluronic Acid Cleansing Foam - 190g",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-softymo-osmanthus-hyaluronic-acid-cleansing-foam-190g",
+    "createdAt": "2025-12-25T16:30:38Z",
+    "updatedAt": "2026-07-10T14:42:01Z",
+    "sources": {
+      "legacyResourceId": "7987431276655"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732471407",
+        "legacyResourceId": "44016732471407",
+        "title": "Default Title",
+        "sku": "1135173188",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431309423",
+    "legacyResourceId": "7987431309423",
+    "handle": "kose-decorte-sun-shelter-tone-up-cc-spf-50-pa-plus-plus-plus-plus",
+    "title": "Kose Decorté Sun Shelter Tone Up CC Cream SPF 50+ PA++++",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-decorte-sun-shelter-tone-up-cc-spf-50-pa-plus-plus-plus-plus",
+    "createdAt": "2025-12-25T16:30:40Z",
+    "updatedAt": "2026-07-10T14:42:01Z",
+    "sources": {
+      "legacyResourceId": "7987431309423"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732504175",
+        "legacyResourceId": "44016732504175",
+        "title": "Default Title",
+        "sku": "1109009261",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431342191",
+    "legacyResourceId": "7987431342191",
+    "handle": "kose-suncut-uv-protect-spray-unscented-spf-50-pa-high-performance",
+    "title": "Kose Suncut UV Protect Spray Unscented SPF 50+ PA++++ (High-Performance)",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-suncut-uv-protect-spray-unscented-spf-50-pa-high-performance",
+    "createdAt": "2025-12-25T16:30:42Z",
+    "updatedAt": "2026-07-10T14:42:01Z",
+    "sources": {
+      "legacyResourceId": "7987431342191"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732536943",
+        "legacyResourceId": "44016732536943",
+        "title": "Default Title",
+        "sku": "1129917339",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431374959",
+    "legacyResourceId": "7987431374959",
+    "handle": "kose-bioliss-pure-retouch-moist-shine-shampoo-conditioner-sachet-trial-set",
+    "title": "Kose Bioliss Pure Retouch Moist Shine Shampoo & Conditioner Sachet Trial Set",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-bioliss-pure-retouch-moist-shine-shampoo-conditioner-sachet-trial-set",
+    "createdAt": "2025-12-25T16:30:43Z",
+    "updatedAt": "2026-07-10T14:42:01Z",
+    "sources": {
+      "legacyResourceId": "7987431374959"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732569711",
+        "legacyResourceId": "44016732569711",
+        "title": "Default Title",
+        "sku": "1130838002",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431407727",
+    "legacyResourceId": "7987431407727",
+    "handle": "kose-suncut-tone-up-uv-essence-spf50-pa-brightening-sunscreen-80g",
+    "title": "Kose Suncut Tone Up UV Essence SPF50+ PA++++ Brightening Sunscreen 80g",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-suncut-tone-up-uv-essence-spf50-pa-brightening-sunscreen-80g",
+    "createdAt": "2025-12-25T16:30:44Z",
+    "updatedAt": "2026-07-10T14:42:01Z",
+    "sources": {
+      "legacyResourceId": "7987431407727"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732602479",
+        "legacyResourceId": "44016732602479",
+        "title": "Default Title",
+        "sku": "1127080281",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431440495",
+    "legacyResourceId": "7987431440495",
+    "handle": "kose-vitapuru-deep-repair-mask-hydraderma-skin-barrier-recovery",
+    "title": "Kose VITAPURU Deep Repair Mask - Hydraderma Skin Barrier Recovery",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-vitapuru-deep-repair-mask-hydraderma-skin-barrier-recovery",
+    "createdAt": "2025-12-25T16:30:46Z",
+    "updatedAt": "2026-07-10T14:42:02Z",
+    "sources": {
+      "legacyResourceId": "7987431440495"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732635247",
+        "legacyResourceId": "44016732635247",
+        "title": "Default Title",
+        "sku": "1134126565",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431473263",
+    "legacyResourceId": "7987431473263",
+    "handle": "kose-bioliss-pure-retouch-moist-shine-shampoo-frizz-control-radiant-shine",
+    "title": "Kose Bioliss Pure Retouch Moist Shine Shampoo - Frizz Control & Radiant Shine",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-bioliss-pure-retouch-moist-shine-shampoo-frizz-control-radiant-shine",
+    "createdAt": "2025-12-25T16:30:48Z",
+    "updatedAt": "2026-07-10T14:42:02Z",
+    "sources": {
+      "legacyResourceId": "7987431473263"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732668015",
+        "legacyResourceId": "44016732668015",
+        "title": "Default Title",
+        "sku": "1130838004",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431506031",
+    "legacyResourceId": "7987431506031",
+    "handle": "decorte-eye-glow-gem-skin-shadow-kose-high-pigment-luminous-eyeshadow",
+    "title": "DECORTE Eye Glow Gem Skin Shadow - Kose High-Pigment Luminous Eyeshadow",
+    "vendor": "DECORTE",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/decorte-eye-glow-gem-skin-shadow-kose-high-pigment-luminous-eyeshadow",
+    "createdAt": "2025-12-25T16:30:50Z",
+    "updatedAt": "2026-07-10T14:42:02Z",
+    "sources": {
+      "legacyResourceId": "7987431506031"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732700783",
+        "legacyResourceId": "44016732700783",
+        "title": "Default Title",
+        "sku": "1125983733",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431538799",
+    "legacyResourceId": "7987431538799",
+    "handle": "kose-softymo-oil-free-black-cleansing-sheets-deep-pore-detox",
+    "title": "Kose Softymo Oil-Free Black Cleansing Sheets - Deep Pore Detox",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-softymo-oil-free-black-cleansing-sheets-deep-pore-detox",
+    "createdAt": "2025-12-25T16:30:52Z",
+    "updatedAt": "2026-07-10T14:42:02Z",
+    "sources": {
+      "legacyResourceId": "7987431538799"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732733551",
+        "legacyResourceId": "44016732733551",
+        "title": "Default Title",
+        "sku": "1023567048",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431571567",
+    "legacyResourceId": "7987431571567",
+    "handle": "kose-softymo-black-pack-nose-face-deep-cleansing-pore-strips",
+    "title": "Kose Softymo Black Pack Nose & Face - Deep Cleansing Pore Strips",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-softymo-black-pack-nose-face-deep-cleansing-pore-strips",
+    "createdAt": "2025-12-25T16:30:52Z",
+    "updatedAt": "2026-07-10T14:42:02Z",
+    "sources": {
+      "legacyResourceId": "7987431571567"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732766319",
+        "legacyResourceId": "44016732766319",
+        "title": "Default Title",
+        "sku": "1049134534",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431604335",
+    "legacyResourceId": "7987431604335",
+    "handle": "kose-coenrich-q10-extra-guard-moist-shield-hand-cream-80g",
+    "title": "Kose CoenRich Q10 Extra Guard Moist Shield Hand Cream - 80g",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-coenrich-q10-extra-guard-moist-shield-hand-cream-80g",
+    "createdAt": "2025-12-25T16:30:54Z",
+    "updatedAt": "2026-07-10T14:42:03Z",
+    "sources": {
+      "legacyResourceId": "7987431604335"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732799087",
+        "legacyResourceId": "44016732799087",
+        "title": "Default Title",
+        "sku": "1130051443",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431637103",
+    "legacyResourceId": "7987431637103",
+    "handle": "kose-bioliss-pure-retouch-silky-straight-shampoo-conditioner-trial-set",
+    "title": "Kose Bioliss Pure Retouch Silky Straight Shampoo & Conditioner Trial Set",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-bioliss-pure-retouch-silky-straight-shampoo-conditioner-trial-set",
+    "createdAt": "2025-12-25T16:30:56Z",
+    "updatedAt": "2026-07-10T14:42:03Z",
+    "sources": {
+      "legacyResourceId": "7987431637103"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732831855",
+        "legacyResourceId": "44016732831855",
+        "title": "Default Title",
+        "sku": "1130837988",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431702639",
+    "legacyResourceId": "7987431702639",
+    "handle": "kose-suncut-uv-protect-mist-spf-50-pa-plus-plus-plus-plus",
+    "title": "Kose Suncut UV Protect Mist SPF 50+ PA++++ High-Performance Sunscreen Spray",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-suncut-uv-protect-mist-spf-50-pa-plus-plus-plus-plus",
+    "createdAt": "2025-12-25T16:30:57Z",
+    "updatedAt": "2026-07-10T14:42:03Z",
+    "sources": {
+      "legacyResourceId": "7987431702639"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732897391",
+        "legacyResourceId": "44016732897391",
+        "title": "Default Title",
+        "sku": "1133240553",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431735407",
+    "legacyResourceId": "7987431735407",
+    "handle": "kose-clear-turn-sorry-bare-skin-pore-care-mask-7-sheets",
+    "title": "Kose Clear Turn Sorry Bare Skin Pore Care Mask - 7 Sheets Japan",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-clear-turn-sorry-bare-skin-pore-care-mask-7-sheets",
+    "createdAt": "2025-12-25T16:30:58Z",
+    "updatedAt": "2026-07-10T14:42:03Z",
+    "sources": {
+      "legacyResourceId": "7987431735407"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732930159",
+        "legacyResourceId": "44016732930159",
+        "title": "Default Title",
+        "sku": "1123050991",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431768175",
+    "legacyResourceId": "7987431768175",
+    "handle": "kose-suncut-uv-protect-spray-spf-50-pa-super-waterproof",
+    "title": "Kose Suncut UV Protect Spray SPF 50+ PA++++ - Super Waterproof Sunscreen",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-suncut-uv-protect-spray-spf-50-pa-super-waterproof",
+    "createdAt": "2025-12-25T16:31:00Z",
+    "updatedAt": "2026-07-10T14:42:03Z",
+    "sources": {
+      "legacyResourceId": "7987431768175"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732962927",
+        "legacyResourceId": "44016732962927",
+        "title": "Default Title",
+        "sku": "1129917340",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431800943",
+    "legacyResourceId": "7987431800943",
+    "handle": "kose-je-laime-relax-midnight-repair-water-treatment-200ml",
+    "title": "Kose Je l'aime Relax Midnight Repair Water Treatment 200ml",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-je-laime-relax-midnight-repair-water-treatment-200ml",
+    "createdAt": "2025-12-25T16:31:04Z",
+    "updatedAt": "2026-07-10T14:42:04Z",
+    "sources": {
+      "legacyResourceId": "7987431800943"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016732995695",
+        "legacyResourceId": "44016732995695",
+        "title": "Default Title",
+        "sku": "1126882379",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431833711",
+    "legacyResourceId": "7987431833711",
+    "handle": "kose-make-keep-primer-long-lasting-matte-finish-oil-control-base",
+    "title": "Kose Make Keep Primer - Long-Lasting Matte Finish & Oil Control Base",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-make-keep-primer-long-lasting-matte-finish-oil-control-base",
+    "createdAt": "2025-12-25T16:31:04Z",
+    "updatedAt": "2026-07-10T14:42:04Z",
+    "sources": {
+      "legacyResourceId": "7987431833711"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016733028463",
+        "legacyResourceId": "44016733028463",
+        "title": "Default Title",
+        "sku": "1124225084",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431866479",
+    "legacyResourceId": "7987431866479",
+    "handle": "kose-softymo-washing-foam-gentle-facial-cleanser",
+    "title": "Kose Softymo Washing Foam - Gentle Facial Cleanser for Radiant Skin",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-softymo-washing-foam-gentle-facial-cleanser",
+    "createdAt": "2025-12-25T16:31:05Z",
+    "updatedAt": "2026-07-10T14:42:04Z",
+    "sources": {
+      "legacyResourceId": "7987431866479"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016733061231",
+        "legacyResourceId": "44016733061231",
+        "title": "Default Title",
+        "sku": "1077352127",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431899247",
+    "legacyResourceId": "7987431899247",
+    "handle": "kose-suncut-uv-perfect-spray-spf-50-pa-waterproof-sunscreen",
+    "title": "Kose Suncut UV Perfect Spray SPF 50+ PA++++ Waterproof Sunscreen",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-suncut-uv-perfect-spray-spf-50-pa-waterproof-sunscreen",
+    "createdAt": "2025-12-25T16:31:07Z",
+    "updatedAt": "2026-07-10T14:42:04Z",
+    "sources": {
+      "legacyResourceId": "7987431899247"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016733093999",
+        "legacyResourceId": "44016733093999",
+        "title": "Default Title",
+        "sku": "1129911812",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431932015",
+    "legacyResourceId": "7987431932015",
+    "handle": "kose-clear-turn-hyaluro-tune-1500-micro-patch",
+    "title": "Kose Clear Turn Hyaluro Tune 1500 Micro Patch - Hyaluronic Microneedles",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-clear-turn-hyaluro-tune-1500-micro-patch",
+    "createdAt": "2025-12-25T16:31:10Z",
+    "updatedAt": "2026-07-10T14:42:04Z",
+    "sources": {
+      "legacyResourceId": "7987431932015"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016733126767",
+        "legacyResourceId": "44016733126767",
+        "title": "Default Title",
+        "sku": "1127297955",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431964783",
+    "legacyResourceId": "7987431964783",
+    "handle": "kose-bioliss-pure-retouch-moist-shine-conditioner",
+    "title": "Kose Bioliss Pure Retouch Moist Shine Conditioner - Anti-Frizz & Gloss",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-bioliss-pure-retouch-moist-shine-conditioner",
+    "createdAt": "2025-12-25T16:31:10Z",
+    "updatedAt": "2026-07-10T14:42:05Z",
+    "sources": {
+      "legacyResourceId": "7987431964783"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016733159535",
+        "legacyResourceId": "44016733159535",
+        "title": "Default Title",
+        "sku": "1130838007",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7987431997551",
+    "legacyResourceId": "7987431997551",
+    "handle": "kose-coenrich-the-premium-q10-white-wrinkle-care-hand-cream",
+    "title": "Kose CoenRich The Premium Q10 White Wrinkle Care Hand Cream - 60g",
+    "vendor": "Kose",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/kose-coenrich-the-premium-q10-white-wrinkle-care-hand-cream",
+    "createdAt": "2025-12-25T16:31:12Z",
+    "updatedAt": "2026-07-10T14:42:05Z",
+    "sources": {
+      "legacyResourceId": "7987431997551"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44016733192303",
+        "legacyResourceId": "44016733192303",
+        "title": "Default Title",
+        "sku": "1130051460",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  }
+]

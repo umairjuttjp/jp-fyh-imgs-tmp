@@ -1,0 +1,3202 @@
+[
+  {
+    "id": "gid://shopify/Product/7986581045359",
+    "legacyResourceId": "7986581045359",
+    "handle": "dhc-tongkat-ali-extract-capsule",
+    "title": "DHC Tongkat Ali Extract Capsules - Boost Vitality, Energy & Performance",
+    "vendor": "DHC",
+    "productType": "",
+    "status": "DRAFT",
+    "onlineStoreUrl": null,
+    "createdAt": "2025-12-24T11:57:26Z",
+    "updatedAt": "2026-07-09T08:16:34Z",
+    "sources": {
+      "legacyResourceId": "7986581045359"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014493139055",
+        "legacyResourceId": "44014493139055",
+        "title": "Default Title",
+        "sku": "1122647502",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986581110895",
+    "legacyResourceId": "7986581110895",
+    "handle": "fine-japan-undenatured-type-ii-collagen-uc-ii-joint-support-250-tablets",
+    "title": "Fine Japan Undenatured Type II Collagen UC-II Joint Support - 250 Tablets",
+    "vendor": "FINE JAPAN",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fine-japan-undenatured-type-ii-collagen-uc-ii-joint-support-250-tablets",
+    "createdAt": "2025-12-24T11:57:27Z",
+    "updatedAt": "2026-07-10T14:39:02Z",
+    "sources": {
+      "legacyResourceId": "7986581110895"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014493270127",
+        "legacyResourceId": "44014493270127",
+        "title": "Default Title",
+        "sku": "1122648738",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986581143663",
+    "legacyResourceId": "7986581143663",
+    "handle": "fine-japan-ion-drink-vitamin-plus-sugar-free-electrolyte-sticks",
+    "title": "Fine Japan Ion Drink Vitamin Plus+ Sugar-Free Electrolyte Sticks",
+    "vendor": "FINE JAPAN",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fine-japan-ion-drink-vitamin-plus-sugar-free-electrolyte-sticks",
+    "createdAt": "2025-12-24T11:57:27Z",
+    "updatedAt": "2026-07-10T14:39:02Z",
+    "sources": {
+      "legacyResourceId": "7986581143663"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014493302895",
+        "legacyResourceId": "44014493302895",
+        "title": "Default Title",
+        "sku": "1122697695",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986581176431",
+    "legacyResourceId": "7986581176431",
+    "handle": "fine-japan-sharp-vision-capsules-lutein-40-eye-health-support",
+    "title": "Fine Japan Sharp Vision Capsules - Lutein 40 & Eye Health Support",
+    "vendor": "FINE JAPAN",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fine-japan-sharp-vision-capsules-lutein-40-eye-health-support",
+    "createdAt": "2025-12-24T11:57:27Z",
+    "updatedAt": "2026-07-10T14:39:03Z",
+    "sources": {
+      "legacyResourceId": "7986581176431"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014493335663",
+        "legacyResourceId": "44014493335663",
+        "title": "Default Title",
+        "sku": "1122697701",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986581209199",
+    "legacyResourceId": "7986581209199",
+    "handle": "fine-japan-coenzyme-q10-capsules-high-absorption-cellular-energy-support",
+    "title": "Fine Japan Coenzyme Q10 Capsules - High Absorption Cellular Energy Support",
+    "vendor": "FINE JAPAN",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fine-japan-coenzyme-q10-capsules-high-absorption-cellular-energy-support",
+    "createdAt": "2025-12-24T11:57:32Z",
+    "updatedAt": "2026-07-10T14:39:03Z",
+    "sources": {
+      "legacyResourceId": "7986581209199"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014493368431",
+        "legacyResourceId": "44014493368431",
+        "title": "Default Title",
+        "sku": "1122697705",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986581274735",
+    "legacyResourceId": "7986581274735",
+    "handle": "fine-japan-r18-capsule-natural-stamina-and-vitality-support",
+    "title": "Fine Japan R18 Capsule - Natural Stamina and Vitality Support",
+    "vendor": "FINE JAPAN",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fine-japan-r18-capsule-natural-stamina-and-vitality-support",
+    "createdAt": "2025-12-24T11:57:32Z",
+    "updatedAt": "2026-07-10T14:39:03Z",
+    "sources": {
+      "legacyResourceId": "7986581274735"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014493499503",
+        "legacyResourceId": "44014493499503",
+        "title": "Default Title",
+        "sku": "1122770128",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986581340271",
+    "legacyResourceId": "7986581340271",
+    "handle": "yamamoto-kanpo-genpi-tea-herbal-detox-digestive-support",
+    "title": "Yamamoto Kanpo Genpi Tea - Japanese Herbal Detox & Digestive Support",
+    "vendor": "Yamamoto Kanpo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yamamoto-kanpo-genpi-tea-herbal-detox-digestive-support",
+    "createdAt": "2025-12-24T11:57:34Z",
+    "updatedAt": "2026-07-10T14:39:03Z",
+    "sources": {
+      "legacyResourceId": "7986581340271"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014493565039",
+        "legacyResourceId": "44014493565039",
+        "title": "Default Title",
+        "sku": "1122854872",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986581405807",
+    "legacyResourceId": "7986581405807",
+    "handle": "yamamoto-jerusalem-artichoke-inulin-powder-pure-prebiotic-gut-health",
+    "title": "Yamamoto Jerusalem Artichoke Inulin Powder - Pure Prebiotic Gut Health",
+    "vendor": "Yamamoto Kanpoh Pharmaceutical",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yamamoto-jerusalem-artichoke-inulin-powder-pure-prebiotic-gut-health",
+    "createdAt": "2025-12-24T11:57:38Z",
+    "updatedAt": "2026-07-10T14:39:03Z",
+    "sources": {
+      "legacyResourceId": "7986581405807"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014493696111",
+        "legacyResourceId": "44014493696111",
+        "title": "Default Title",
+        "sku": "1122854874",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986581438575",
+    "legacyResourceId": "7986581438575",
+    "handle": "yamamoto-kanpoh-jerusalem-artichoke-tea-100-pure-kikuimo",
+    "title": "Yamamoto Kanpoh Jerusalem Artichoke Tea 100% - Pure Kikuimo Health Tea",
+    "vendor": "Yamamoto Kanpoh",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/yamamoto-kanpoh-jerusalem-artichoke-tea-100-pure-kikuimo",
+    "createdAt": "2025-12-24T11:57:38Z",
+    "updatedAt": "2026-07-10T14:39:03Z",
+    "sources": {
+      "legacyResourceId": "7986581438575"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014493728879",
+        "legacyResourceId": "44014493728879",
+        "title": "Default Title",
+        "sku": "1122854875",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986581471343",
+    "legacyResourceId": "7986581471343",
+    "handle": "itoh-kanpo-deep-sleep-night-supplement-natural-japanese-sleep-aid-20-days",
+    "title": "Itoh Kanpo Deep Sleep Night Supplement - Natural Japanese Sleep Aid - 20 Days",
+    "vendor": "Itoh Kanpo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/itoh-kanpo-deep-sleep-night-supplement-natural-japanese-sleep-aid-20-days",
+    "createdAt": "2025-12-24T11:57:39Z",
+    "updatedAt": "2026-07-10T14:39:04Z",
+    "sources": {
+      "legacyResourceId": "7986581471343"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014493761647",
+        "legacyResourceId": "44014493761647",
+        "title": "Default Title",
+        "sku": "1122898047",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986581504111",
+    "legacyResourceId": "7986581504111",
+    "handle": "itoh-kanpo-citric-acid-stick-natural-energy-fatigue-relief-15-days",
+    "title": "Itoh Kanpo Citric Acid Stick - Natural Energy & Fatigue Relief (15 Days)",
+    "vendor": "Itoh Kanpo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/itoh-kanpo-citric-acid-stick-natural-energy-fatigue-relief-15-days",
+    "createdAt": "2025-12-24T11:57:40Z",
+    "updatedAt": "2026-07-10T14:39:04Z",
+    "sources": {
+      "legacyResourceId": "7986581504111"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014493794415",
+        "legacyResourceId": "44014493794415",
+        "title": "Default Title",
+        "sku": "1122916618",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986581569647",
+    "legacyResourceId": "7986581569647",
+    "handle": "itoh-kanpo-citric-acid-stick-30-days-fatigue-recovery",
+    "title": "Itoh Kanpo Citric Acid Stick 30 Days - Japanese Fatigue Recovery Supplement",
+    "vendor": "Itoh Kanpo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/itoh-kanpo-citric-acid-stick-30-days-fatigue-recovery",
+    "createdAt": "2025-12-24T11:57:44Z",
+    "updatedAt": "2026-07-10T14:39:04Z",
+    "sources": {
+      "legacyResourceId": "7986581569647"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014493925487",
+        "legacyResourceId": "44014493925487",
+        "title": "Default Title",
+        "sku": "1122916619",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986581602415",
+    "legacyResourceId": "7986581602415",
+    "handle": "karadani-eiyou-nakakara-motema-advanced-slimming-tablet",
+    "title": "Karadani Eiyou Nakakara Motema - Advanced Japanese Slimming Tablet",
+    "vendor": "Karada ni Eiyou",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/karadani-eiyou-nakakara-motema-advanced-slimming-tablet",
+    "createdAt": "2025-12-24T11:57:45Z",
+    "updatedAt": "2026-07-10T14:39:04Z",
+    "sources": {
+      "legacyResourceId": "7986581602415"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014493958255",
+        "legacyResourceId": "44014493958255",
+        "title": "Default Title",
+        "sku": "1123072265",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986581635183",
+    "legacyResourceId": "7986581635183",
+    "handle": "karadani-eiyou-nakakara-motema-slim-tablet",
+    "title": "Karadani Eiyou Nakakara Motema Slim Tablet - Japanese Metabolic Support",
+    "vendor": "Karadani Eiyou",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/karadani-eiyou-nakakara-motema-slim-tablet",
+    "createdAt": "2025-12-24T11:57:45Z",
+    "updatedAt": "2026-07-10T14:39:04Z",
+    "sources": {
+      "legacyResourceId": "7986581635183"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014493991023",
+        "legacyResourceId": "44014493991023",
+        "title": "Default Title",
+        "sku": "1123072266",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986581733487",
+    "legacyResourceId": "7986581733487",
+    "handle": "itoh-kanpo-maca-22000-polar-teramax-vitality-supplement",
+    "title": "Itoh Kanpo Maca 22000 Polar TERAMAX - High-Potency Vitality & Energy Supplement",
+    "vendor": "Itoh Kanpo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/itoh-kanpo-maca-22000-polar-teramax-vitality-supplement",
+    "createdAt": "2025-12-24T11:57:51Z",
+    "updatedAt": "2026-07-10T14:39:05Z",
+    "sources": {
+      "legacyResourceId": "7986581733487"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014494154863",
+        "legacyResourceId": "44014494154863",
+        "title": "Default Title",
+        "sku": "1123374701",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986581831791",
+    "legacyResourceId": "7986581831791",
+    "handle": "fancl-digestive-probiotic-support-30-day-supply-gentle-gut-health-supplement",
+    "title": "Fancl Digestive Probiotic Support - 30-Day Supply Gentle Gut Health Supplement",
+    "vendor": "Fancl",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fancl-digestive-probiotic-support-30-day-supply-gentle-gut-health-supplement",
+    "createdAt": "2025-12-24T11:57:52Z",
+    "updatedAt": "2026-07-10T14:39:05Z",
+    "sources": {
+      "legacyResourceId": "7986581831791"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014494253167",
+        "legacyResourceId": "44014494253167",
+        "title": "Default Title",
+        "sku": "1125378338",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986581897327",
+    "legacyResourceId": "7986581897327",
+    "handle": "fancl-turmeric-supplement-ex-high-bioavailability-liver-support",
+    "title": "Fancl Turmeric Supplement EX - High Bioavailability Liver Support",
+    "vendor": "Fancl",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fancl-turmeric-supplement-ex-high-bioavailability-liver-support",
+    "createdAt": "2025-12-24T11:57:57Z",
+    "updatedAt": "2026-07-10T14:39:05Z",
+    "sources": {
+      "legacyResourceId": "7986581897327"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014494384239",
+        "legacyResourceId": "44014494384239",
+        "title": "Default Title",
+        "sku": "1125378340",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986581930095",
+    "legacyResourceId": "7986581930095",
+    "handle": "japan-healthcare-institute-krill-oil-high-absorption-omega-3-astaxanthin",
+    "title": "Japan Healthcare Institute Krill Oil - High-Absorption Omega-3 & Astaxanthin",
+    "vendor": "Japan Healthcare Institute Inc.",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/japan-healthcare-institute-krill-oil-high-absorption-omega-3-astaxanthin",
+    "createdAt": "2025-12-24T11:57:57Z",
+    "updatedAt": "2026-07-10T14:39:05Z",
+    "sources": {
+      "legacyResourceId": "7986581930095"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014494417007",
+        "legacyResourceId": "44014494417007",
+        "title": "Default Title",
+        "sku": "1125406652",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986581962863",
+    "legacyResourceId": "7986581962863",
+    "handle": "dr-serum-bfss-balancer-advanced-japanese-skin-barrier-treatment",
+    "title": "Dr. Serum BFSS Balancer - Advanced Japanese Skin Barrier Treatment",
+    "vendor": "Dr. Serum co., Ltd.",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dr-serum-bfss-balancer-advanced-japanese-skin-barrier-treatment",
+    "createdAt": "2025-12-24T11:57:57Z",
+    "updatedAt": "2026-07-10T14:39:05Z",
+    "sources": {
+      "legacyResourceId": "7986581962863"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014494449775",
+        "legacyResourceId": "44014494449775",
+        "title": "Default Title",
+        "sku": "1125406663",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986581995631",
+    "legacyResourceId": "7986581995631",
+    "handle": "pola-white-shot-inner-lock-liquid-ixs-n-10-bottles",
+    "title": "POLA White Shot Inner Lock Liquid IXS N - 10 Bottles Brightening Supplement",
+    "vendor": "POLA",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/pola-white-shot-inner-lock-liquid-ixs-n-10-bottles",
+    "createdAt": "2025-12-24T11:57:59Z",
+    "updatedAt": "2026-07-10T14:39:05Z",
+    "sources": {
+      "legacyResourceId": "7986581995631"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014494482543",
+        "legacyResourceId": "44014494482543",
+        "title": "Default Title",
+        "sku": "1126108535",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986582061167",
+    "legacyResourceId": "7986582061167",
+    "handle": "looklook-inulin-plus-premium-prebiotic-gut-health-supplement-30-day-supply",
+    "title": "LOOKLOOK Inulin Plus: Premium Prebiotic Gut Health Supplement (30-Day Supply)",
+    "vendor": "LOOKLOOK",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/looklook-inulin-plus-premium-prebiotic-gut-health-supplement-30-day-supply",
+    "createdAt": "2025-12-24T11:58:03Z",
+    "updatedAt": "2026-07-10T14:39:06Z",
+    "sources": {
+      "legacyResourceId": "7986582061167"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014494613615",
+        "legacyResourceId": "44014494613615",
+        "title": "Default Title",
+        "sku": "1126724323",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986582093935",
+    "legacyResourceId": "7986582093935",
+    "handle": "looklook-good-sleep-time-natural-herbal-sleep-support-supplement",
+    "title": "LOOKLOOK Good Sleep Time - Natural Herbal Sleep Support Supplement",
+    "vendor": "LOOKLOOK",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/looklook-good-sleep-time-natural-herbal-sleep-support-supplement",
+    "createdAt": "2025-12-24T11:58:03Z",
+    "updatedAt": "2026-07-10T14:39:06Z",
+    "sources": {
+      "legacyResourceId": "7986582093935"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014494646383",
+        "legacyResourceId": "44014494646383",
+        "title": "Default Title",
+        "sku": "1126724324",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986582126703",
+    "legacyResourceId": "7986582126703",
+    "handle": "looklook-berry-advanced-eye-health-supplement-bilberry-lutein",
+    "title": "LOOKLOOK Berry Advanced Eye Health Supplement - Bilberry & Lutein",
+    "vendor": "LOOKLOOK",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/looklook-berry-advanced-eye-health-supplement-bilberry-lutein",
+    "createdAt": "2025-12-24T11:58:04Z",
+    "updatedAt": "2026-07-10T14:39:06Z",
+    "sources": {
+      "legacyResourceId": "7986582126703"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014494679151",
+        "legacyResourceId": "44014494679151",
+        "title": "Default Title",
+        "sku": "1126724326",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986582159471",
+    "legacyResourceId": "7986582159471",
+    "handle": "looklook-sakana-care-premium-japanese-dha-epa-omega-3-supplement",
+    "title": "LOOKLOOK SAKANA Care - Premium Japanese DHA & EPA Omega-3 Supplement",
+    "vendor": "LOOKLOOK",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/looklook-sakana-care-premium-japanese-dha-epa-omega-3-supplement",
+    "createdAt": "2025-12-24T11:58:05Z",
+    "updatedAt": "2026-07-10T14:39:06Z",
+    "sources": {
+      "legacyResourceId": "7986582159471"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014494711919",
+        "legacyResourceId": "44014494711919",
+        "title": "Default Title",
+        "sku": "1126724329",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986582225007",
+    "legacyResourceId": "7986582225007",
+    "handle": "looklook-kuro-no-kouso-fermented-black-enzyme-supplement",
+    "title": "LOOKLOOK KURO no KOUSO: Fermented Black Enzyme for Digestion & Vitality",
+    "vendor": "LOOKLOOK",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/looklook-kuro-no-kouso-fermented-black-enzyme-supplement",
+    "createdAt": "2025-12-24T11:58:09Z",
+    "updatedAt": "2026-07-10T14:39:06Z",
+    "sources": {
+      "legacyResourceId": "7986582225007"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014494842991",
+        "legacyResourceId": "44014494842991",
+        "title": "Default Title",
+        "sku": "1126724331",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986582257775",
+    "legacyResourceId": "7986582257775",
+    "handle": "looklook-jerusalem-artichoke-burdock-tea-gut-health-detox-blend",
+    "title": "LOOKLOOK Jerusalem Artichoke & Burdock Tea - Gut Health & Detox Blend",
+    "vendor": "LOOKLOOK",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/looklook-jerusalem-artichoke-burdock-tea-gut-health-detox-blend",
+    "createdAt": "2025-12-24T11:58:10Z",
+    "updatedAt": "2026-07-10T14:39:07Z",
+    "sources": {
+      "legacyResourceId": "7986582257775"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014494875759",
+        "legacyResourceId": "44014494875759",
+        "title": "Default Title",
+        "sku": "1126724332",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986582290543",
+    "legacyResourceId": "7986582290543",
+    "handle": "looklook-mamo-ru-eye-advanced-vision-support-eye-health-supplement",
+    "title": "LOOKLOOK Mamo-ru Eye: Advanced Vision Support & Eye Health Supplement",
+    "vendor": "LOOKLOOK",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/looklook-mamo-ru-eye-advanced-vision-support-eye-health-supplement",
+    "createdAt": "2025-12-24T11:58:10Z",
+    "updatedAt": "2026-07-10T14:39:07Z",
+    "sources": {
+      "legacyResourceId": "7986582290543"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014494908527",
+        "legacyResourceId": "44014494908527",
+        "title": "Default Title",
+        "sku": "1126724333",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986582323311",
+    "legacyResourceId": "7986582323311",
+    "handle": "matsukiyo-lab-fiber-plus-lactobacillus-gut-health-supplement-30-sticks",
+    "title": "matsukiyo LAB Fiber Plus Lactobacillus - Gut Health Supplement 30 Sticks",
+    "vendor": "matsukiyo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/matsukiyo-lab-fiber-plus-lactobacillus-gut-health-supplement-30-sticks",
+    "createdAt": "2025-12-24T11:58:11Z",
+    "updatedAt": "2026-07-10T14:39:07Z",
+    "sources": {
+      "legacyResourceId": "7986582323311"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014494941295",
+        "legacyResourceId": "44014494941295",
+        "title": "Default Title",
+        "sku": "1127136777",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986582388847",
+    "legacyResourceId": "7986582388847",
+    "handle": "matsukiyo-lab-collagen-powder-sp-5000mg-premium-beauty-supplement",
+    "title": "matsukiyo LAB Collagen Powder SP - 5000mg Premium Beauty Supplement",
+    "vendor": "matsukiyo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/matsukiyo-lab-collagen-powder-sp-5000mg-premium-beauty-supplement",
+    "createdAt": "2025-12-24T11:58:16Z",
+    "updatedAt": "2026-07-10T14:39:07Z",
+    "sources": {
+      "legacyResourceId": "7986582388847"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014495072367",
+        "legacyResourceId": "44014495072367",
+        "title": "Default Title",
+        "sku": "1127154586",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986582421615",
+    "legacyResourceId": "7986582421615",
+    "handle": "matsukiyo-lab-glucosylceramide-granules-skin-hydration-supplement-30pk",
+    "title": "Matsukiyo LAB Glucosylceramide Granules - Skin Hydration Supplement 30pk",
+    "vendor": "Matsukiyo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/matsukiyo-lab-glucosylceramide-granules-skin-hydration-supplement-30pk",
+    "createdAt": "2025-12-24T11:58:16Z",
+    "updatedAt": "2026-07-10T14:39:07Z",
+    "sources": {
+      "legacyResourceId": "7986582421615"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014495105135",
+        "legacyResourceId": "44014495105135",
+        "title": "Default Title",
+        "sku": "1127173383",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986582487151",
+    "legacyResourceId": "7986582487151",
+    "handle": "nature-japan-glammy-plus-advanced-body-care-supplement-for-femininity",
+    "title": "Nature Japan Glammy Plus: Advanced Body Care Supplement for Femininity",
+    "vendor": "Nature Japan",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/nature-japan-glammy-plus-advanced-body-care-supplement-for-femininity",
+    "createdAt": "2025-12-24T11:58:17Z",
+    "updatedAt": "2026-07-10T14:39:08Z",
+    "sources": {
+      "legacyResourceId": "7986582487151"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014495170671",
+        "legacyResourceId": "44014495170671",
+        "title": "Default Title",
+        "sku": "1127302098",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986582552687",
+    "legacyResourceId": "7986582552687",
+    "handle": "nature-japan-totonore-probiotic-skin-renewal-tablets",
+    "title": "Nature Japan totonore Probiotic Skin Renewal Tablets - 30 Count",
+    "vendor": "Nature Japan",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/nature-japan-totonore-probiotic-skin-renewal-tablets",
+    "createdAt": "2025-12-24T11:58:23Z",
+    "updatedAt": "2026-07-10T14:39:08Z",
+    "sources": {
+      "legacyResourceId": "7986582552687"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014495301743",
+        "legacyResourceId": "44014495301743",
+        "title": "Default Title",
+        "sku": "1127302099",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986582585455",
+    "legacyResourceId": "7986582585455",
+    "handle": "fine-japan-saw-palmetto-supplement-prostate-support-restful-sleep",
+    "title": "Fine Japan Saw Palmetto Supplement - Prostate Support & Restful Sleep",
+    "vendor": "FINE JAPAN",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fine-japan-saw-palmetto-supplement-prostate-support-restful-sleep",
+    "createdAt": "2025-12-24T11:58:23Z",
+    "updatedAt": "2026-07-10T14:39:08Z",
+    "sources": {
+      "legacyResourceId": "7986582585455"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014495334511",
+        "legacyResourceId": "44014495334511",
+        "title": "Default Title",
+        "sku": "1127474395",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986582618223",
+    "legacyResourceId": "7986582618223",
+    "handle": "hikarimirai-hyaluronic-acid-collagen-japanese-anti-aging-supplement",
+    "title": "HIKARIMIRAI Hyaluronic Acid Collagen - Japanese Anti-Aging Supplement",
+    "vendor": "HIKARIMIRAI",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/hikarimirai-hyaluronic-acid-collagen-japanese-anti-aging-supplement",
+    "createdAt": "2025-12-24T11:58:23Z",
+    "updatedAt": "2026-07-10T14:39:08Z",
+    "sources": {
+      "legacyResourceId": "7986582618223"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014495367279",
+        "legacyResourceId": "44014495367279",
+        "title": "Default Title",
+        "sku": "1128320644",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986582716527",
+    "legacyResourceId": "7986582716527",
+    "handle": "resul-kyura-mun-advanced-skin-brightening-rejuvenating-supplement",
+    "title": "Resul Kyura Mun Advanced Skin Brightening & Rejuvenating Supplement",
+    "vendor": "Resul",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/resul-kyura-mun-advanced-skin-brightening-rejuvenating-supplement",
+    "createdAt": "2025-12-24T11:58:29Z",
+    "updatedAt": "2026-07-11T13:38:56Z",
+    "sources": {
+      "legacyResourceId": "7986582716527"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014495531119",
+        "legacyResourceId": "44014495531119",
+        "title": "Default Title",
+        "sku": "1130149185",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986582749295",
+    "legacyResourceId": "7986582749295",
+    "handle": "metabolic-swelling-specialist-japanese-leg-fluid-balance-supplement",
+    "title": "Metabolic Swelling Specialist: Japanese Leg Fluid Balance Supplement",
+    "vendor": "Metabolic",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/metabolic-swelling-specialist-japanese-leg-fluid-balance-supplement",
+    "createdAt": "2025-12-24T11:58:29Z",
+    "updatedAt": "2026-07-10T14:39:08Z",
+    "sources": {
+      "legacyResourceId": "7986582749295"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014495563887",
+        "legacyResourceId": "44014495563887",
+        "title": "Default Title",
+        "sku": "1131173172",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986582782063",
+    "legacyResourceId": "7986582782063",
+    "handle": "metabolic-metaplus-west-max-belly-fat-reduction-metabolic-support",
+    "title": "Metabolic Metaplus West Max - Belly Fat Reduction & Metabolic Support",
+    "vendor": "Metabolic",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/metabolic-metaplus-west-max-belly-fat-reduction-metabolic-support",
+    "createdAt": "2025-12-24T11:58:30Z",
+    "updatedAt": "2026-07-10T14:39:09Z",
+    "sources": {
+      "legacyResourceId": "7986582782063"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014495596655",
+        "legacyResourceId": "44014495596655",
+        "title": "Default Title",
+        "sku": "1131173188",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986582847599",
+    "legacyResourceId": "7986582847599",
+    "handle": "happy-natural-bio-activated-hemp-charcoal",
+    "title": "Happy Natural Bio Activated Hemp Charcoal - Premium Japanese Detox Powder",
+    "vendor": "Happy Natural",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/happy-natural-bio-activated-hemp-charcoal",
+    "createdAt": "2025-12-24T11:58:31Z",
+    "updatedAt": "2026-07-10T14:39:09Z",
+    "sources": {
+      "legacyResourceId": "7986582847599"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014495727727",
+        "legacyResourceId": "44014495727727",
+        "title": "Default Title",
+        "sku": "1131505688",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986582880367",
+    "legacyResourceId": "7986582880367",
+    "handle": "ange-beaute-support-slim-kotharadiet-advanced-metabolic-weight-support",
+    "title": "Ange Beaute Support Slim Kotharadiet - Advanced Metabolic Weight Support",
+    "vendor": "ANGE BEAUTE",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/ange-beaute-support-slim-kotharadiet-advanced-metabolic-weight-support",
+    "createdAt": "2025-12-24T11:58:35Z",
+    "updatedAt": "2026-07-10T14:39:09Z",
+    "sources": {
+      "legacyResourceId": "7986582880367"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014495760495",
+        "legacyResourceId": "44014495760495",
+        "title": "Default Title",
+        "sku": "1131517446",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986582945903",
+    "legacyResourceId": "7986582945903",
+    "handle": "rokkado-inner-beauty-nmn-supplement-anti-aging-vitality",
+    "title": "Rokkado Inner Beauty NMN Supplement - High-Purity Anti-Aging & Vitality",
+    "vendor": "Rokkado",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/rokkado-inner-beauty-nmn-supplement-anti-aging-vitality",
+    "createdAt": "2025-12-24T11:58:36Z",
+    "updatedAt": "2026-07-10T14:39:09Z",
+    "sources": {
+      "legacyResourceId": "7986582945903"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014495891567",
+        "legacyResourceId": "44014495891567",
+        "title": "Default Title",
+        "sku": "1132489465",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986582978671",
+    "legacyResourceId": "7986582978671",
+    "handle": "rokkado-enzyme-supplement-metabolic-support-slimming-30-day-supply",
+    "title": "Rokkado Enzyme Supplement - Metabolic Support & Slimming (30-Day Supply)",
+    "vendor": "Rokkado",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/rokkado-enzyme-supplement-metabolic-support-slimming-30-day-supply",
+    "createdAt": "2025-12-24T11:58:36Z",
+    "updatedAt": "2026-07-10T14:39:10Z",
+    "sources": {
+      "legacyResourceId": "7986582978671"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014495924335",
+        "legacyResourceId": "44014495924335",
+        "title": "Default Title",
+        "sku": "1132489466",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986583011439",
+    "legacyResourceId": "7986583011439",
+    "handle": "rokkado-outer-beauty-supplement-premium-japanese-inner-skin-glow-formula",
+    "title": "Rokkado Outer Beauty Supplement - Premium Japanese Inner Skin Glow Formula",
+    "vendor": "Rokkado",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/rokkado-outer-beauty-supplement-premium-japanese-inner-skin-glow-formula",
+    "createdAt": "2025-12-24T11:58:37Z",
+    "updatedAt": "2026-07-10T14:39:10Z",
+    "sources": {
+      "legacyResourceId": "7986583011439"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014495957103",
+        "legacyResourceId": "44014495957103",
+        "title": "Default Title",
+        "sku": "1132489467",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986583076975",
+    "legacyResourceId": "7986583076975",
+    "handle": "rokkado-everyday-diet-stick-metabolism-gut-health-support",
+    "title": "Rokkado Everyday Diet Stick - Metabolism & Gut Health Support",
+    "vendor": "Rokkado",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/rokkado-everyday-diet-stick-metabolism-gut-health-support",
+    "createdAt": "2025-12-24T11:58:43Z",
+    "updatedAt": "2026-07-10T14:39:10Z",
+    "sources": {
+      "legacyResourceId": "7986583076975"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014496088175",
+        "legacyResourceId": "44014496088175",
+        "title": "Default Title",
+        "sku": "1132489468",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986583109743",
+    "legacyResourceId": "7986583109743",
+    "handle": "rokkado-japanese-vitality-tea-premium-ancient-herbal-energy-blend",
+    "title": "Rokkado Japanese Vitality Tea - Premium Ancient Herbal Energy Blend",
+    "vendor": "Rokkado",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/rokkado-japanese-vitality-tea-premium-ancient-herbal-energy-blend",
+    "createdAt": "2025-12-24T11:58:43Z",
+    "updatedAt": "2026-07-10T14:39:10Z",
+    "sources": {
+      "legacyResourceId": "7986583109743"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014496120943",
+        "legacyResourceId": "44014496120943",
+        "title": "Default Title",
+        "sku": "1132489470",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986583142511",
+    "legacyResourceId": "7986583142511",
+    "handle": "rokkado-spicy-ginger-tea-authentic-japanese-warming-wellness-blend",
+    "title": "Rokkado Spicy Ginger Tea - Authentic Japanese Warming Wellness Blend",
+    "vendor": "Rokkado",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/rokkado-spicy-ginger-tea-authentic-japanese-warming-wellness-blend",
+    "createdAt": "2025-12-24T11:58:44Z",
+    "updatedAt": "2026-07-10T14:39:10Z",
+    "sources": {
+      "legacyResourceId": "7986583142511"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014496153711",
+        "legacyResourceId": "44014496153711",
+        "title": "Default Title",
+        "sku": "1132489469",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986583175279",
+    "legacyResourceId": "7986583175279",
+    "handle": "wakasapri-high-absorption-vitamin-c-3000mg-30-packets",
+    "title": "Wakasapri High-Absorption Vitamin C 3000mg - 30 Individual Packets",
+    "vendor": "Wakasapri",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/wakasapri-high-absorption-vitamin-c-3000mg-30-packets",
+    "createdAt": "2025-12-24T11:58:45Z",
+    "updatedAt": "2026-07-10T14:39:11Z",
+    "sources": {
+      "legacyResourceId": "7986583175279"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014496186479",
+        "legacyResourceId": "44014496186479",
+        "title": "Default Title",
+        "sku": "1132930401",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986583240815",
+    "legacyResourceId": "7986583240815",
+    "handle": "wakasapri-alpha-lipoic-acid-premium-japanese-antioxidant-supplement",
+    "title": "Wakasapri Alpha-Lipoic Acid - Premium Japanese Antioxidant Supplement",
+    "vendor": "Wakasapri",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/wakasapri-alpha-lipoic-acid-premium-japanese-antioxidant-supplement",
+    "createdAt": "2025-12-24T11:58:50Z",
+    "updatedAt": "2026-07-10T14:39:11Z",
+    "sources": {
+      "legacyResourceId": "7986583240815"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014496317551",
+        "legacyResourceId": "44014496317551",
+        "title": "Default Title",
+        "sku": "1132930403",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986583273583",
+    "legacyResourceId": "7986583273583",
+    "handle": "wakasapri-collagen-hyaluronic-acid-premium-japanese-beauty-supplement",
+    "title": "Wakasapri Collagen & Hyaluronic Acid - Premium Japanese Beauty Supplement",
+    "vendor": "Wakasapri",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/wakasapri-collagen-hyaluronic-acid-premium-japanese-beauty-supplement",
+    "createdAt": "2025-12-24T11:58:50Z",
+    "updatedAt": "2026-07-10T14:39:11Z",
+    "sources": {
+      "legacyResourceId": "7986583273583"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014496350319",
+        "legacyResourceId": "44014496350319",
+        "title": "Default Title",
+        "sku": "1132930404",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986583306351",
+    "legacyResourceId": "7986583306351",
+    "handle": "wakasapri-high-purity-soy-protein-premium-japanese-plant-based",
+    "title": "Wakasapri High-Purity Soy Protein - Premium Japanese Plant-Based Supplement",
+    "vendor": "Wakasapri",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/wakasapri-high-purity-soy-protein-premium-japanese-plant-based",
+    "createdAt": "2025-12-24T11:58:50Z",
+    "updatedAt": "2026-07-10T14:39:11Z",
+    "sources": {
+      "legacyResourceId": "7986583306351"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014496383087",
+        "legacyResourceId": "44014496383087",
+        "title": "Default Title",
+        "sku": "1132930406",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986583339119",
+    "legacyResourceId": "7986583339119",
+    "handle": "wakasapri-vitamin-b-group-high-potency-complex",
+    "title": "Wakasapri Vitamin B Group - High-Potency Complex for Energy & Metabolism",
+    "vendor": "Wakasapri",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/wakasapri-vitamin-b-group-high-potency-complex",
+    "createdAt": "2025-12-24T11:58:51Z",
+    "updatedAt": "2026-07-10T14:39:11Z",
+    "sources": {
+      "legacyResourceId": "7986583339119"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014496415855",
+        "legacyResourceId": "44014496415855",
+        "title": "Default Title",
+        "sku": "1132930407",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986583437423",
+    "legacyResourceId": "7986583437423",
+    "handle": "wakasapri-premium-lutein-30-softgels-eye-health-blue-light-support",
+    "title": "Wakasapri Premium Lutein - 30 Softgels Eye Health & Blue Light Support",
+    "vendor": "Wakasapri",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/wakasapri-premium-lutein-30-softgels-eye-health-blue-light-support",
+    "createdAt": "2025-12-24T11:58:55Z",
+    "updatedAt": "2026-07-10T14:39:12Z",
+    "sources": {
+      "legacyResourceId": "7986583437423"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014496612463",
+        "legacyResourceId": "44014496612463",
+        "title": "Default Title",
+        "sku": "1132930408",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986583470191",
+    "legacyResourceId": "7986583470191",
+    "handle": "morinaga-in-jelly-energy-muscat-flavor-180g-quick-energy-boost",
+    "title": "Morinaga in Jelly Energy Muscat Flavor - 180g Quick Energy Boost",
+    "vendor": "Morinaga",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/morinaga-in-jelly-energy-muscat-flavor-180g-quick-energy-boost",
+    "createdAt": "2025-12-24T11:58:56Z",
+    "updatedAt": "2026-07-10T14:39:12Z",
+    "sources": {
+      "legacyResourceId": "7986583470191"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014496645231",
+        "legacyResourceId": "44014496645231",
+        "title": "Default Title",
+        "sku": "1133246134",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986583502959",
+    "legacyResourceId": "7986583502959",
+    "handle": "dr-zero-volume-a-anti-aging-hair-growth-supplement-for-men",
+    "title": "DR ZERO Volume-a Anti-Aging Hair Growth Supplement for Men",
+    "vendor": "EWI Lab",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dr-zero-volume-a-anti-aging-hair-growth-supplement-for-men",
+    "createdAt": "2025-12-24T11:58:56Z",
+    "updatedAt": "2026-07-10T14:39:12Z",
+    "sources": {
+      "legacyResourceId": "7986583502959"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014496710767",
+        "legacyResourceId": "44014496710767",
+        "title": "Default Title",
+        "sku": "1134066409",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986583601263",
+    "legacyResourceId": "7986583601263",
+    "handle": "reed-health-care-placentia-supplement-youthful-vitality-skin-radiance",
+    "title": "Reed Health Care Placentia Supplement - Youthful Vitality & Skin Radiance",
+    "vendor": "Reed Health Care",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/reed-health-care-placentia-supplement-youthful-vitality-skin-radiance",
+    "createdAt": "2025-12-24T11:59:02Z",
+    "updatedAt": "2026-07-10T14:39:12Z",
+    "sources": {
+      "legacyResourceId": "7986583601263"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014496841839",
+        "legacyResourceId": "44014496841839",
+        "title": "Default Title",
+        "sku": "1134190420",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986583634031",
+    "legacyResourceId": "7986583634031",
+    "handle": "decorte-sun-shelter-inner-white-uv-defense-brightening-supplement",
+    "title": "Decorté Sun Shelter Inner White UV Defense & Brightening Supplement",
+    "vendor": "Decorté",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/decorte-sun-shelter-inner-white-uv-defense-brightening-supplement",
+    "createdAt": "2025-12-24T11:59:02Z",
+    "updatedAt": "2026-07-10T14:39:12Z",
+    "sources": {
+      "legacyResourceId": "7986583634031"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014496874607",
+        "legacyResourceId": "44014496874607",
+        "title": "Default Title",
+        "sku": "1134263115",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986583666799",
+    "legacyResourceId": "7986583666799",
+    "handle": "happy-natural-bio-activated-hemp-charcoal-powder-detox-digestive-health",
+    "title": "Happy Natural Bio Activated Hemp Charcoal Powder - Detox & Digestive Health",
+    "vendor": "Happy Natural",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/happy-natural-bio-activated-hemp-charcoal-powder-detox-digestive-health",
+    "createdAt": "2025-12-24T11:59:02Z",
+    "updatedAt": "2026-07-10T14:39:12Z",
+    "sources": {
+      "legacyResourceId": "7986583666799"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014496907375",
+        "legacyResourceId": "44014496907375",
+        "title": "Default Title",
+        "sku": "1134379776",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986583699567",
+    "legacyResourceId": "7986583699567",
+    "handle": "asahi-dear-natura-multivitamin-drink-powder-daily-wellness-boost",
+    "title": "Asahi Dear-Natura Multivitamin Drink Powder - Daily Wellness Boost",
+    "vendor": "Asahi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-dear-natura-multivitamin-drink-powder-daily-wellness-boost",
+    "createdAt": "2025-12-24T11:59:03Z",
+    "updatedAt": "2026-07-10T14:39:13Z",
+    "sources": {
+      "legacyResourceId": "7986583699567"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014496940143",
+        "legacyResourceId": "44014496940143",
+        "title": "Default Title",
+        "sku": "1134448838",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986583797871",
+    "legacyResourceId": "7986583797871",
+    "handle": "asahi-dear-natura-gold-l-92-lactobacillus-dietary-fiber-60-tablets",
+    "title": "Asahi Dear-Natura Gold L-92 Lactobacillus & Dietary Fiber - 60 Tablets",
+    "vendor": "Asahi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-dear-natura-gold-l-92-lactobacillus-dietary-fiber-60-tablets",
+    "createdAt": "2025-12-24T11:59:09Z",
+    "updatedAt": "2026-07-10T14:39:13Z",
+    "sources": {
+      "legacyResourceId": "7986583797871"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014497103983",
+        "legacyResourceId": "44014497103983",
+        "title": "Default Title",
+        "sku": "1134524714",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986583830639",
+    "legacyResourceId": "7986583830639",
+    "handle": "asahi-dear-natura-active-whey-protein-powder-muscle-growth-360g",
+    "title": "Asahi Dear-Natura Active Whey Protein Powder - Muscle Growth 360g",
+    "vendor": "Asahi Group Foods",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-dear-natura-active-whey-protein-powder-muscle-growth-360g",
+    "createdAt": "2025-12-24T11:59:09Z",
+    "updatedAt": "2026-07-10T14:39:13Z",
+    "sources": {
+      "legacyResourceId": "7986583830639"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014497136751",
+        "legacyResourceId": "44014497136751",
+        "title": "Default Title",
+        "sku": "1134524732",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986583863407",
+    "legacyResourceId": "7986583863407",
+    "handle": "asahi-dear-natura-active-whey-casein-protein-powder",
+    "title": "Asahi Dear-Natura Active Whey + Casein Protein - Sustained Muscle Support",
+    "vendor": "Asahi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-dear-natura-active-whey-casein-protein-powder",
+    "createdAt": "2025-12-24T11:59:10Z",
+    "updatedAt": "2026-07-10T14:39:13Z",
+    "sources": {
+      "legacyResourceId": "7986583863407"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014497169519",
+        "legacyResourceId": "44014497169519",
+        "title": "Default Title",
+        "sku": "1134524735",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986583928943",
+    "legacyResourceId": "7986583928943",
+    "handle": "asahi-lalafem-jelly-peach-tea-beauty-collagen-drink",
+    "title": "Asahi Lalafem Jelly Peach Tea - Low Calorie Beauty & Collagen Drink",
+    "vendor": "Asahi Group Foods",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-lalafem-jelly-peach-tea-beauty-collagen-drink",
+    "createdAt": "2025-12-24T11:59:15Z",
+    "updatedAt": "2026-07-10T14:39:13Z",
+    "sources": {
+      "legacyResourceId": "7986583928943"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014497300591",
+        "legacyResourceId": "44014497300591",
+        "title": "Default Title",
+        "sku": "1134551932",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986583961711",
+    "legacyResourceId": "7986583961711",
+    "handle": "asahi-super-beer-yeast-z-zinc-vitamin-b-metabolic-support",
+    "title": "Asahi Super Beer Yeast Z - Zinc & Vitamin B Complex Metabolic Support",
+    "vendor": "Asahi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-super-beer-yeast-z-zinc-vitamin-b-metabolic-support",
+    "createdAt": "2025-12-24T11:59:16Z",
+    "updatedAt": "2026-07-10T14:39:14Z",
+    "sources": {
+      "legacyResourceId": "7986583961711"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014497333359",
+        "legacyResourceId": "44014497333359",
+        "title": "Default Title",
+        "sku": "1134551950",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986583994479",
+    "legacyResourceId": "7986583994479",
+    "handle": "titimumu-okinawa-shell-ginger-seed-tea-vitality-skin-health",
+    "title": "TITIMUMU Okinawa Shell Ginger Seed Tea - Natural Vitality & Skin Health",
+    "vendor": "TITIMUMU",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/titimumu-okinawa-shell-ginger-seed-tea-vitality-skin-health",
+    "createdAt": "2025-12-24T11:59:16Z",
+    "updatedAt": "2026-07-17T23:45:26Z",
+    "sources": {
+      "legacyResourceId": "7986583994479"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014497366127",
+        "legacyResourceId": "44014497366127",
+        "title": "Default Title",
+        "sku": "1134706742",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986584027247",
+    "legacyResourceId": "7986584027247",
+    "handle": "lamilaho-organic-baobab-miracle-powder-africas-superfruit",
+    "title": "Lamilaho Organic Baobab Miracle Powder - Africa's Superfruit for Wellness",
+    "vendor": "Lamilaho",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/lamilaho-organic-baobab-miracle-powder-africas-superfruit",
+    "createdAt": "2025-12-24T11:59:16Z",
+    "updatedAt": "2026-07-10T14:39:14Z",
+    "sources": {
+      "legacyResourceId": "7986584027247"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014497398895",
+        "legacyResourceId": "44014497398895",
+        "title": "Default Title",
+        "sku": "1134850391",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986584092783",
+    "legacyResourceId": "7986584092783",
+    "handle": "chronuva-non-da-clair-night-advanced-skin-brightening-supplement",
+    "title": "CHRONUVA Non da clair Night - Advanced Skin Brightening Supplement",
+    "vendor": "CHRONUVA",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/chronuva-non-da-clair-night-advanced-skin-brightening-supplement",
+    "createdAt": "2025-12-24T11:59:21Z",
+    "updatedAt": "2026-07-10T14:39:14Z",
+    "sources": {
+      "legacyResourceId": "7986584092783"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014497529967",
+        "legacyResourceId": "44014497529967",
+        "title": "Default Title",
+        "sku": "1134861856",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986584125551",
+    "legacyResourceId": "7986584125551",
+    "handle": "chronuva-ora-reborn-cellular-revitalization-anti-aging-tablets",
+    "title": "CHRONUVA ORA REBORN Cellular Revitalization & Anti-Aging Tablets",
+    "vendor": "CHRONUVA",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/chronuva-ora-reborn-cellular-revitalization-anti-aging-tablets",
+    "createdAt": "2025-12-24T11:59:22Z",
+    "updatedAt": "2026-07-10T14:39:14Z",
+    "sources": {
+      "legacyResourceId": "7986584125551"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014497562735",
+        "legacyResourceId": "44014497562735",
+        "title": "Default Title",
+        "sku": "1134861860",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986584158319",
+    "legacyResourceId": "7986584158319",
+    "handle": "chronuva-chronostar-high-sod-enzyme-supplement-advanced-anti-aging",
+    "title": "Chronuva Chronostar High SOD Enzyme Supplement - Advanced Anti-Aging",
+    "vendor": "CHRONUVA",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/chronuva-chronostar-high-sod-enzyme-supplement-advanced-anti-aging",
+    "createdAt": "2025-12-24T11:59:22Z",
+    "updatedAt": "2026-07-10T14:39:15Z",
+    "sources": {
+      "legacyResourceId": "7986584158319"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014497595503",
+        "legacyResourceId": "44014497595503",
+        "title": "Default Title",
+        "sku": "1134861867",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986584223855",
+    "legacyResourceId": "7986584223855",
+    "handle": "dhc-protein-diet-meal-replacement-shake-multi-flavor-weight-loss",
+    "title": "DHC Protein Diet Meal Replacement Shake - Multi-Flavor Weight Loss",
+    "vendor": "DHC",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dhc-protein-diet-meal-replacement-shake-multi-flavor-weight-loss",
+    "createdAt": "2025-12-24T11:59:23Z",
+    "updatedAt": "2026-07-10T14:39:15Z",
+    "sources": {
+      "legacyResourceId": "7986584223855"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014497726575",
+        "legacyResourceId": "44014497726575",
+        "title": "Default Title",
+        "sku": "1134969868",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986584256623",
+    "legacyResourceId": "7986584256623",
+    "handle": "uha-multimineral-cocoa-gummy-supplement-40-gummies",
+    "title": "UHA Multimineral Cocoa Gummy Supplement - 40 Delicious Gummies",
+    "vendor": "UHA Mikakuto",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/uha-multimineral-cocoa-gummy-supplement-40-gummies",
+    "createdAt": "2025-12-24T11:59:27Z",
+    "updatedAt": "2026-07-10T14:39:15Z",
+    "sources": {
+      "legacyResourceId": "7986584256623"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014497759343",
+        "legacyResourceId": "44014497759343",
+        "title": "Default Title",
+        "sku": "1135060517",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986584322159",
+    "legacyResourceId": "7986584322159",
+    "handle": "uha-blueberry-ex-gummy-supplement-eye-support-and-antioxidant-made-in-japan",
+    "title": "UHA Blueberry EX Gummy Supplement - Eye Support & Antioxidant - Made in Japan",
+    "vendor": "UHA Mikakuto",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/uha-blueberry-ex-gummy-supplement-eye-support-and-antioxidant-made-in-japan",
+    "createdAt": "2025-12-24T11:59:28Z",
+    "updatedAt": "2026-07-10T14:39:15Z",
+    "sources": {
+      "legacyResourceId": "7986584322159"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014497792111",
+        "legacyResourceId": "44014497792111",
+        "title": "Default Title",
+        "sku": "1135060521",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986584354927",
+    "legacyResourceId": "7986584354927",
+    "handle": "fine-japan-uv-care-plus-premium-oral-sun-defense",
+    "title": "Fine Japan UV Care Plus Premium - Advanced Oral Sun Defense (60 Capsules)",
+    "vendor": "FINE JAPAN",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fine-japan-uv-care-plus-premium-oral-sun-defense",
+    "createdAt": "2025-12-24T11:59:28Z",
+    "updatedAt": "2026-07-10T14:39:15Z",
+    "sources": {
+      "legacyResourceId": "7986584354927"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014497824879",
+        "legacyResourceId": "44014497824879",
+        "title": "Default Title",
+        "sku": "1135084978",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986584387695",
+    "legacyResourceId": "7986584387695",
+    "handle": "select-alpha-select-05-probiotics-gut-health-support",
+    "title": "seléct α Select 05 Probiotics - Japanese Gut Health & Immune Support",
+    "vendor": "seléct α",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/select-alpha-select-05-probiotics-gut-health-support",
+    "createdAt": "2025-12-24T11:59:29Z",
+    "updatedAt": "2026-07-10T14:39:16Z",
+    "sources": {
+      "legacyResourceId": "7986584387695"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014497955951",
+        "legacyResourceId": "44014497955951",
+        "title": "Default Title",
+        "sku": "1135101627",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986584420463",
+    "legacyResourceId": "7986584420463",
+    "handle": "uha-minions-iron-calcium-kids-gummy-supplement-pineapple-mango",
+    "title": "UHA Minions Iron & Calcium Kids Gummy Supplement - Pineapple & Mango",
+    "vendor": "UHA",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/uha-minions-iron-calcium-kids-gummy-supplement-pineapple-mango",
+    "createdAt": "2025-12-24T11:59:33Z",
+    "updatedAt": "2026-07-10T14:39:16Z",
+    "sources": {
+      "legacyResourceId": "7986584420463"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014497988719",
+        "legacyResourceId": "44014497988719",
+        "title": "Default Title",
+        "sku": "1135204762",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986584485999",
+    "legacyResourceId": "7986584485999",
+    "handle": "uha-minions-gummy-supplement-multivitamin-blueberry-strawberry-yogurt",
+    "title": "UHA Minions Gummy Supplement Multivitamin - Blueberry & Strawberry Yogurt",
+    "vendor": "UHA Mikakuto",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/uha-minions-gummy-supplement-multivitamin-blueberry-strawberry-yogurt",
+    "createdAt": "2025-12-24T11:59:34Z",
+    "updatedAt": "2026-07-10T14:39:16Z",
+    "sources": {
+      "legacyResourceId": "7986584485999"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014498119791",
+        "legacyResourceId": "44014498119791",
+        "title": "Default Title",
+        "sku": "1135204763",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986584518767",
+    "legacyResourceId": "7986584518767",
+    "handle": "uha-minions-vegetable-plus-apple-banana-gummies-kids",
+    "title": "UHA Minions Vegetable Plus Apple & Banana Gummies for Kids",
+    "vendor": "UHA Mikakuto",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/uha-minions-vegetable-plus-apple-banana-gummies-kids",
+    "createdAt": "2025-12-24T11:59:34Z",
+    "updatedAt": "2026-07-10T14:39:16Z",
+    "sources": {
+      "legacyResourceId": "7986584518767"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014498152559",
+        "legacyResourceId": "44014498152559",
+        "title": "Default Title",
+        "sku": "1135204764",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986584551535",
+    "legacyResourceId": "7986584551535",
+    "handle": "dr-select-reibi-smart-pack-japanese-beauty-wellness-supplement",
+    "title": "Dr.Select Reibi Smart Pack - Japanese Beauty & Wellness Supplement",
+    "vendor": "Dr.Select",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dr-select-reibi-smart-pack-japanese-beauty-wellness-supplement",
+    "createdAt": "2025-12-24T11:59:35Z",
+    "updatedAt": "2026-07-10T14:39:16Z",
+    "sources": {
+      "legacyResourceId": "7986584551535"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014498185327",
+        "legacyResourceId": "44014498185327",
+        "title": "Default Title",
+        "sku": "1135303645",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986584584303",
+    "legacyResourceId": "7986584584303",
+    "handle": "happy-natural-molecular-hydrogen-powder-capsules-60ct",
+    "title": "Happy Natural Molecular Hydrogen Powder Capsules - 60ct Wellness Supplement",
+    "vendor": "Happy Natural",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/happy-natural-molecular-hydrogen-powder-capsules-60ct",
+    "createdAt": "2025-12-24T11:59:39Z",
+    "updatedAt": "2026-07-10T14:39:17Z",
+    "sources": {
+      "legacyResourceId": "7986584584303"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014498218095",
+        "legacyResourceId": "44014498218095",
+        "title": "Default Title",
+        "sku": "1135360861",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986584649839",
+    "legacyResourceId": "7986584649839",
+    "handle": "finjia-japanese-scalp-supplement-advanced-hair-growth-vitality",
+    "title": "Finjia Japanese Scalp Supplement for Advanced Hair Growth & Vitality",
+    "vendor": "Finjia",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/finjia-japanese-scalp-supplement-advanced-hair-growth-vitality",
+    "createdAt": "2025-12-24T11:59:40Z",
+    "updatedAt": "2026-07-10T14:39:17Z",
+    "sources": {
+      "legacyResourceId": "7986584649839"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014498349167",
+        "legacyResourceId": "44014498349167",
+        "title": "Default Title",
+        "sku": "1135360866",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986584682607",
+    "legacyResourceId": "7986584682607",
+    "handle": "joie-cellule-seiou92-premium-placental-drink-anti-aging",
+    "title": "JOIE CELLULE SEIOU92 Premium Placental Drink - High Potency Anti-Aging Elixir",
+    "vendor": "JOIE CELLULE",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/joie-cellule-seiou92-premium-placental-drink-anti-aging",
+    "createdAt": "2025-12-24T11:59:40Z",
+    "updatedAt": "2026-07-10T14:39:17Z",
+    "sources": {
+      "legacyResourceId": "7986584682607"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014498381935",
+        "legacyResourceId": "44014498381935",
+        "title": "Default Title",
+        "sku": "1135538465",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986584715375",
+    "legacyResourceId": "7986584715375",
+    "handle": "joie-cellule-seiou92-premium-jelly",
+    "title": "JOIE CELLULE SEIOU92 Premium Jelly - Advanced Human Stem Cell Skincare",
+    "vendor": "JOIE CELLULE",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/joie-cellule-seiou92-premium-jelly",
+    "createdAt": "2025-12-24T11:59:42Z",
+    "updatedAt": "2026-07-10T14:39:17Z",
+    "sources": {
+      "legacyResourceId": "7986584715375"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014498414703",
+        "legacyResourceId": "44014498414703",
+        "title": "Default Title",
+        "sku": "1135538466",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986584748143",
+    "legacyResourceId": "7986584748143",
+    "handle": "joie-cellule-rg92-elastin-drink-plus-anti-aging-joint-support",
+    "title": "JOIE CELLULE RG92 Elastin Drink Plus - Anti-Aging & Joint Support",
+    "vendor": "JOIE CELLULE",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/joie-cellule-rg92-elastin-drink-plus-anti-aging-joint-support",
+    "createdAt": "2025-12-24T11:59:45Z",
+    "updatedAt": "2026-07-10T14:39:18Z",
+    "sources": {
+      "legacyResourceId": "7986584748143"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014498447471",
+        "legacyResourceId": "44014498447471",
+        "title": "Default Title",
+        "sku": "1135538468",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986584813679",
+    "legacyResourceId": "7986584813679",
+    "handle": "joie-cellule-rg92-meguri-drink-plus-vitality-circulation-support",
+    "title": "JOIE CELLULE RG92 Meguri Drink Plus - Vitality & Circulation Support",
+    "vendor": "JOIE CELLULE",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/joie-cellule-rg92-meguri-drink-plus-vitality-circulation-support",
+    "createdAt": "2025-12-24T11:59:46Z",
+    "updatedAt": "2026-07-10T14:39:18Z",
+    "sources": {
+      "legacyResourceId": "7986584813679"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014498578543",
+        "legacyResourceId": "44014498578543",
+        "title": "Default Title",
+        "sku": "1135538469",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986584846447",
+    "legacyResourceId": "7986584846447",
+    "handle": "pola-inner-liftia-the-liquid-collagen-iron-beauty-supplement",
+    "title": "POLA Inner Liftia The Liquid - Collagen & Iron Beauty Supplement",
+    "vendor": "POLA",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/pola-inner-liftia-the-liquid-collagen-iron-beauty-supplement",
+    "createdAt": "2025-12-24T11:59:46Z",
+    "updatedAt": "2026-07-10T14:39:18Z",
+    "sources": {
+      "legacyResourceId": "7986584846447"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014498611311",
+        "legacyResourceId": "44014498611311",
+        "title": "Default Title",
+        "sku": "1135921958",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986584879215",
+    "legacyResourceId": "7986584879215",
+    "handle": "pola-ba-liquid-advanced-anti-glycation-beauty-supplement",
+    "title": "POLA B.A Liquid - Advanced Anti-Glycation Beauty Supplement Drink",
+    "vendor": "POLA",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/pola-ba-liquid-advanced-anti-glycation-beauty-supplement",
+    "createdAt": "2025-12-24T11:59:47Z",
+    "updatedAt": "2026-07-10T14:39:18Z",
+    "sources": {
+      "legacyResourceId": "7986584879215"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014498644079",
+        "legacyResourceId": "44014498644079",
+        "title": "Default Title",
+        "sku": "1135921959",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986584944751",
+    "legacyResourceId": "7986584944751",
+    "handle": "dr-select-300000-placenta-collagen-beauty-drink-japanese-anti-aging",
+    "title": "Dr.Select 300000 Placenta & Collagen Beauty Drink - Japanese Anti-Aging",
+    "vendor": "Dr.Select",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dr-select-300000-placenta-collagen-beauty-drink-japanese-anti-aging",
+    "createdAt": "2025-12-24T11:59:52Z",
+    "updatedAt": "2026-07-10T14:39:19Z",
+    "sources": {
+      "legacyResourceId": "7986584944751"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014498676847",
+        "legacyResourceId": "44014498676847",
+        "title": "Default Title",
+        "sku": "1136090816",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986584977519",
+    "legacyResourceId": "7986584977519",
+    "handle": "specialize-ruby-fit-metabolic-support-supplement-leaner-you",
+    "title": "Specialize Ruby Fit Supplement: Advanced Metabolic Support for a Leaner You",
+    "vendor": "Specialize",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/specialize-ruby-fit-metabolic-support-supplement-leaner-you",
+    "createdAt": "2025-12-24T11:59:52Z",
+    "updatedAt": "2026-07-10T14:39:19Z",
+    "sources": {
+      "legacyResourceId": "7986584977519"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014498807919",
+        "legacyResourceId": "44014498807919",
+        "title": "Default Title",
+        "sku": "1136155118",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986585010287",
+    "legacyResourceId": "7986585010287",
+    "handle": "specialize-bi-magic-supplement-inner-radiance-beauty-wellness",
+    "title": "Specialize Bi Magic Supplement - Inner Radiance & Beauty Wellness",
+    "vendor": "Specialize",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/specialize-bi-magic-supplement-inner-radiance-beauty-wellness",
+    "createdAt": "2025-12-24T11:59:52Z",
+    "updatedAt": "2026-07-10T14:39:19Z",
+    "sources": {
+      "legacyResourceId": "7986585010287"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014498840687",
+        "legacyResourceId": "44014498840687",
+        "title": "Default Title",
+        "sku": "1136155121",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986585043055",
+    "legacyResourceId": "7986585043055",
+    "handle": "re-store-beauty-protein-strawberry-collagen-biotin-skin-and-hair",
+    "title": "Re.Store Beauty Protein Strawberry - Collagen & Biotin for Skin and Hair",
+    "vendor": "Re.Store",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/re-store-beauty-protein-strawberry-collagen-biotin-skin-and-hair",
+    "createdAt": "2025-12-24T11:59:54Z",
+    "updatedAt": "2026-07-10T14:39:19Z",
+    "sources": {
+      "legacyResourceId": "7986585043055"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014498873455",
+        "legacyResourceId": "44014498873455",
+        "title": "Default Title",
+        "sku": "1136155123",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986585108591",
+    "legacyResourceId": "7986585108591",
+    "handle": "fancl-natural-vitamin-e-mix-30-day-supply",
+    "title": "Fancl Natural Vitamin E Mix - 30 Day Supply Antioxidant Supplement",
+    "vendor": "Fancl",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fancl-natural-vitamin-e-mix-30-day-supply",
+    "createdAt": "2025-12-24T11:59:58Z",
+    "updatedAt": "2026-07-10T14:39:19Z",
+    "sources": {
+      "legacyResourceId": "7986585108591"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014499004527",
+        "legacyResourceId": "44014499004527",
+        "title": "Default Title",
+        "sku": "1082064889",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986585141359",
+    "legacyResourceId": "7986585141359",
+    "handle": "dhc-maca-supplement-30-day-supply-vitality-energy-booster",
+    "title": "DHC Maca Supplement - 30-Day Supply Vitality and Energy Booster",
+    "vendor": "DHC",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dhc-maca-supplement-30-day-supply-vitality-energy-booster",
+    "createdAt": "2025-12-24T11:59:58Z",
+    "updatedAt": "2026-07-10T14:39:20Z",
+    "sources": {
+      "legacyResourceId": "7986585141359"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014499037295",
+        "legacyResourceId": "44014499037295",
+        "title": "Default Title",
+        "sku": "1094441070",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986585174127",
+    "legacyResourceId": "7986585174127",
+    "handle": "dr-select-fk-mineral-supplement-set-of-2-japanese-cellular-vitality",
+    "title": "Dr.Select FK Mineral Supplement (Set of 2) - Japanese Cellular Vitality",
+    "vendor": "Dr.Select",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dr-select-fk-mineral-supplement-set-of-2-japanese-cellular-vitality",
+    "createdAt": "2025-12-24T11:59:59Z",
+    "updatedAt": "2026-07-10T14:39:20Z",
+    "sources": {
+      "legacyResourceId": "7986585174127"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014499070063",
+        "legacyResourceId": "44014499070063",
+        "title": "Default Title",
+        "sku": "1120163504",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986585206895",
+    "legacyResourceId": "7986585206895",
+    "handle": "dr-select-sunshade-uv-advanced-internal-sun-protection-anti-aging",
+    "title": "Dr.Select Sunshade UV - Advanced Internal Sun Protection & Anti-Aging",
+    "vendor": "Dr.Select",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dr-select-sunshade-uv-advanced-internal-sun-protection-anti-aging",
+    "createdAt": "2025-12-24T12:00:00Z",
+    "updatedAt": "2026-07-10T14:39:20Z",
+    "sources": {
+      "legacyResourceId": "7986585206895"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014499102831",
+        "legacyResourceId": "44014499102831",
+        "title": "Default Title",
+        "sku": "1120163505",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986585305199",
+    "legacyResourceId": "7986585305199",
+    "handle": "pola-white-shot-inner-lock-tablet-ixs-internal-skin-brightening-supplement",
+    "title": "POLA White Shot Inner Lock Tablet IXS - Internal Skin Brightening Supplement",
+    "vendor": "POLA",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/pola-white-shot-inner-lock-tablet-ixs-internal-skin-brightening-supplement",
+    "createdAt": "2025-12-24T12:00:05Z",
+    "updatedAt": "2026-07-10T14:39:20Z",
+    "sources": {
+      "legacyResourceId": "7986585305199"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014499266671",
+        "legacyResourceId": "44014499266671",
+        "title": "Default Title",
+        "sku": "1120282029",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986585337967",
+    "legacyResourceId": "7986585337967",
+    "handle": "matsukiyo-lab-nano-placenta-jelly-grape-30pk",
+    "title": "matsukiyo LAB Nano Placenta Jelly Grape - 30pk Skin Radiance Supplement",
+    "vendor": "matsukiyo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/matsukiyo-lab-nano-placenta-jelly-grape-30pk",
+    "createdAt": "2025-12-24T12:00:06Z",
+    "updatedAt": "2026-07-10T14:39:21Z",
+    "sources": {
+      "legacyResourceId": "7986585337967"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014499299439",
+        "legacyResourceId": "44014499299439",
+        "title": "Default Title",
+        "sku": "1120496085",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986585370735",
+    "legacyResourceId": "7986585370735",
+    "handle": "dr-select-meso-shape-advanced-body-contouring-supplement",
+    "title": "Dr.Select Meso Shape - Advanced Body Contouring & Metabolism Supplement",
+    "vendor": "Dr.Select",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dr-select-meso-shape-advanced-body-contouring-supplement",
+    "createdAt": "2025-12-24T12:00:06Z",
+    "updatedAt": "2026-07-10T14:39:21Z",
+    "sources": {
+      "legacyResourceId": "7986585370735"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014499332207",
+        "legacyResourceId": "44014499332207",
+        "title": "Default Title",
+        "sku": "1120542413",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986585436271",
+    "legacyResourceId": "7986585436271",
+    "handle": "matsukiyo-lab-zinc-with-bioperine-30-day-supply-high-absorption",
+    "title": "Matsukiyo LAB Zinc with BioPerine - 30 Day Supply High Absorption",
+    "vendor": "matsukiyo",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/matsukiyo-lab-zinc-with-bioperine-30-day-supply-high-absorption",
+    "createdAt": "2025-12-24T12:00:11Z",
+    "updatedAt": "2026-07-10T14:39:21Z",
+    "sources": {
+      "legacyResourceId": "7986585436271"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014499463279",
+        "legacyResourceId": "44014499463279",
+        "title": "Default Title",
+        "sku": "1120542423",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986585469039",
+    "legacyResourceId": "7986585469039",
+    "handle": "asahi-dear-natura-style-vitamin-c-mix-120-tablets-60-day-supply",
+    "title": "Asahi Dear-Natura Style Vitamin C Mix - 120 Tablets (60-Day Supply)",
+    "vendor": "Asahi",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/asahi-dear-natura-style-vitamin-c-mix-120-tablets-60-day-supply",
+    "createdAt": "2025-12-24T12:00:11Z",
+    "updatedAt": "2026-07-10T14:39:21Z",
+    "sources": {
+      "legacyResourceId": "7986585469039"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014499496047",
+        "legacyResourceId": "44014499496047",
+        "title": "Default Title",
+        "sku": "1122265887",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986585501807",
+    "legacyResourceId": "7986585501807",
+    "handle": "shiseido-rj-royal-jelly-granule-n-30-packets-for-beauty-and-vitality",
+    "title": "Shiseido RJ Royal Jelly Granule N - 30 Packets for Beauty and Vitality",
+    "vendor": "Shiseido",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/shiseido-rj-royal-jelly-granule-n-30-packets-for-beauty-and-vitality",
+    "createdAt": "2025-12-24T12:00:12Z",
+    "updatedAt": "2026-07-10T14:39:22Z",
+    "sources": {
+      "legacyResourceId": "7986585501807"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014499528815",
+        "legacyResourceId": "44014499528815",
+        "title": "Default Title",
+        "sku": "1122265912",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986585534575",
+    "legacyResourceId": "7986585534575",
+    "handle": "dhc-sustained-release-folic-acid-400mcg-long-lasting-daily-supplement",
+    "title": "DHC Sustained-Release Folic Acid - 400mcg Long-Lasting Daily Supplement",
+    "vendor": "DHC",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/dhc-sustained-release-folic-acid-400mcg-long-lasting-daily-supplement",
+    "createdAt": "2025-12-24T12:00:13Z",
+    "updatedAt": "2026-07-10T14:39:22Z",
+    "sources": {
+      "legacyResourceId": "7986585534575"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014499561583",
+        "legacyResourceId": "44014499561583",
+        "title": "Default Title",
+        "sku": "1122488629",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Product/7986585731183",
+    "legacyResourceId": "7986585731183",
+    "handle": "fine-japan-yeast-enzyme-219-diet-jelly-metabolism-digestion",
+    "title": "FINE JAPAN Yeast x Enzyme 219 Diet Jelly - Metabolism & Digestion",
+    "vendor": "FINE JAPAN",
+    "productType": "",
+    "status": "ACTIVE",
+    "onlineStoreUrl": "https://japansprime.com/products/fine-japan-yeast-enzyme-219-diet-jelly-metabolism-digestion",
+    "createdAt": "2025-12-24T12:00:18Z",
+    "updatedAt": "2026-07-10T14:39:22Z",
+    "sources": {
+      "legacyResourceId": "7986585731183"
+    },
+    "identifiers": {},
+    "variants": [
+      {
+        "id": "gid://shopify/ProductVariant/44014499823727",
+        "legacyResourceId": "44014499823727",
+        "title": "Default Title",
+        "sku": "1122559894",
+        "barcode": null,
+        "price": null,
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title"
+          }
+        ]
+      }
+    ]
+  }
+]

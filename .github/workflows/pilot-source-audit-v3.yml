@@ -1,0 +1,114 @@
+name: Pilot Yahoo Japan exact-source audit v3
+
+on:
+  push:
+    paths:
+      - '.github/workflows/pilot-source-audit-v3.yml'
+      - 'catalog-audit/source_audit_engine_v3.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pilot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 0
+
+      - name: Install dependencies
+        run: python3 -m pip install --disable-pip-version-check requests beautifulsoup4
+
+      - name: Compile and run pilot
+        shell: bash
+        run: |
+          rm -rf catalog-audit/pilot-v3
+          mkdir -p catalog-audit/pilot-v3
+          set +e
+          python3 -m py_compile catalog-audit/source_audit_engine_v3.py \
+            > catalog-audit/pilot-v3/compile_stdout.log \
+            2> catalog-audit/pilot-v3/compile_stderr.log
+          C=$?
+          echo "$C" > catalog-audit/pilot-v3/compile_status.txt
+          if [ "$C" -eq 0 ]; then
+            python3 catalog-audit/source_audit_engine_v3.py \
+              --input catalog-audit/chunks/products_0001_0100.json \
+              --output catalog-audit/pilot-v3/pilot_first_12.json \
+              --limit 12 --delay 0.05 \
+              > catalog-audit/pilot-v3/run_stdout.log \
+              2> catalog-audit/pilot-v3/run_stderr.log
+            R=$?
+          else
+            R=99
+            echo "compile failed" > catalog-audit/pilot-v3/run_stderr.log
+            : > catalog-audit/pilot-v3/run_stdout.log
+          fi
+          echo "$R" > catalog-audit/pilot-v3/run_status.txt
+          exit 0
+
+      - name: Build quality summary
+        if: always()
+        run: |
+          python3 - <<'PY'
+          import collections, json, pathlib
+          base = pathlib.Path('catalog-audit/pilot-v3')
+          p = base / 'pilot_first_12.json'
+          try:
+              rows = json.loads(p.read_text(encoding='utf-8')) if p.exists() else []
+          except Exception as exc:
+              rows = []
+          def read(name):
+              x = base / name
+              return x.read_text(encoding='utf-8', errors='replace')[-20000:] if x.exists() else ''
+          summary = {
+              'compile_status': read('compile_status.txt').strip(),
+              'run_status': read('run_status.txt').strip(),
+              'compile_stderr': read('compile_stderr.log'),
+              'run_stderr': read('run_stderr.log'),
+              'run_stdout_tail': read('run_stdout.log'),
+              'count': len(rows),
+              'status_counts': dict(collections.Counter(r.get('final_status') for r in rows)),
+              'verified_count': sum(1 for r in rows if str(r.get('final_status','')).startswith('VERIFIED_')),
+              'rows': [{
+                  'id': r.get('shopify_product_id'),
+                  'title': r.get('store_title'),
+                  'vendor': r.get('vendor'),
+                  'official_domains': r.get('official_domains'),
+                  'models': r.get('public_model_codes'),
+                  'localized': r.get('localized_identity_clues'),
+                  'status': r.get('final_status'),
+                  'url': r.get('final_source_url'),
+                  'source_type': r.get('source_type'),
+                  'confidence': r.get('confidence'),
+                  'best_candidate': r.get('best_candidate_url'),
+                  'best_status': r.get('best_candidate_status'),
+                  'score': r.get('best_candidate_score'),
+                  'evidence': r.get('verification_evidence'),
+                  'matched_models': r.get('matched_model_codes'),
+                  'matched_jans': r.get('matched_jans'),
+                  'matched_size': r.get('matched_size_count'),
+                  'elapsed': r.get('elapsed_seconds'),
+              } for r in rows],
+          }
+          (base / 'pilot_summary.json').write_text(
+              json.dumps(summary, ensure_ascii=False, indent=2), encoding='utf-8'
+          )
+          print(json.dumps(summary, ensure_ascii=False, indent=2))
+          PY
+
+      - name: Commit diagnostics and pilot results
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalog-audit/pilot-v3/
+          if git diff --cached --quiet; then
+            echo "No pilot files changed"
+          else
+            git commit -m "data: add Yahoo Japan exact-source pilot v3"
+            git push origin HEAD:master
+          fi

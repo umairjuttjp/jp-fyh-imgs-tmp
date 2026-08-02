@@ -1,0 +1,205 @@
+name: Analyze JapansPrime catalog export
+
+on:
+  push:
+    paths:
+      - '.github/workflows/analyze-japansprime-catalog.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  analyze-catalog:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 0
+
+      - name: Parse full catalog and create audit chunks
+        run: |
+          python3 - <<'PY'
+          import csv
+          import json
+          import pathlib
+          import collections
+          import re
+          from urllib.parse import urlparse
+
+          root = pathlib.Path('catalog-audit')
+          src = root / 'japansprime_catalog.jsonl'
+          chunks_dir = root / 'chunks'
+          chunks_dir.mkdir(parents=True, exist_ok=True)
+          for old in chunks_dir.glob('products_*.json'):
+              old.unlink()
+
+          roots = []
+          children = collections.defaultdict(list)
+          key_counts = collections.Counter()
+          key_types = collections.defaultdict(collections.Counter)
+          domains = collections.Counter()
+          vendor_counts = collections.Counter()
+          status_counts = collections.Counter()
+          source_fields = collections.Counter()
+
+          def scalar(v):
+              if isinstance(v, dict):
+                  if 'value' in v:
+                      return v.get('value')
+                  return json.dumps(v, ensure_ascii=False, separators=(',', ':'))
+              if isinstance(v, list):
+                  return json.dumps(v, ensure_ascii=False, separators=(',', ':'))
+              return v
+
+          for line in src.open(encoding='utf-8'):
+              obj = json.loads(line)
+              parent = obj.get('__parentId')
+              if parent:
+                  children[parent].append(obj)
+                  continue
+              roots.append(obj)
+              for k, v in obj.items():
+                  key_counts[k] += 1
+                  key_types[k][type(v).__name__] += 1
+              vendor_counts[str(obj.get('vendor') or '').strip()] += 1
+              status_counts[str(obj.get('status') or '').strip()] += 1
+              for k, v in obj.items():
+                  lk = k.lower()
+                  if any(term in lk for term in ('source', 'asin', 'jan', 'barcode', 'gtin')):
+                      val = scalar(v)
+                      if val not in (None, '', [], {}):
+                          source_fields[k] += 1
+                          if isinstance(val, str) and val.startswith(('http://', 'https://')):
+                              domains[urlparse(val).netloc.lower()] += 1
+
+          result = []
+          all_root_keys = sorted({k for p in roots for k in p.keys()})
+          for p in roots:
+              pid = p.get('id')
+              variants = children.get(pid, [])
+              variant_rows = []
+              for v in variants:
+                  variant_rows.append({
+                      'id': v.get('id'),
+                      'legacyResourceId': v.get('legacyResourceId'),
+                      'title': v.get('title'),
+                      'sku': v.get('sku'),
+                      'barcode': v.get('barcode'),
+                      'price': v.get('price'),
+                      'selectedOptions': v.get('selectedOptions'),
+                  })
+
+              sources = {}
+              identifiers = {}
+              for k, v in p.items():
+                  lk = k.lower()
+                  val = scalar(v)
+                  if val in (None, '', [], {}):
+                      continue
+                  if 'source' in lk or (isinstance(val, str) and val.startswith(('http://','https://')) and k != 'onlineStoreUrl'):
+                      sources[k] = val
+                  if any(term in lk for term in ('asin', 'jan', 'barcode', 'gtin', 'mpn', 'model')):
+                      identifiers[k] = val
+
+              result.append({
+                  'id': pid,
+                  'legacyResourceId': p.get('legacyResourceId'),
+                  'handle': p.get('handle'),
+                  'title': p.get('title'),
+                  'vendor': p.get('vendor'),
+                  'productType': p.get('productType'),
+                  'status': p.get('status'),
+                  'onlineStoreUrl': p.get('onlineStoreUrl'),
+                  'createdAt': p.get('createdAt'),
+                  'updatedAt': p.get('updatedAt'),
+                  'sources': sources,
+                  'identifiers': identifiers,
+                  'variants': variant_rows,
+              })
+
+          # Stable order by numeric legacy id where possible.
+          result.sort(key=lambda r: int(r.get('legacyResourceId') or 0))
+
+          chunk_size = 100
+          index = []
+          for start in range(0, len(result), chunk_size):
+              chunk = result[start:start+chunk_size]
+              first = start + 1
+              last = start + len(chunk)
+              name = f'products_{first:04d}_{last:04d}.json'
+              path = chunks_dir / name
+              path.write_text(json.dumps(chunk, ensure_ascii=False, indent=2), encoding='utf-8')
+              index.append({
+                  'file': str(path),
+                  'first_row': first,
+                  'last_row': last,
+                  'count': len(chunk),
+                  'first_product_id': chunk[0].get('legacyResourceId'),
+                  'last_product_id': chunk[-1].get('legacyResourceId'),
+              })
+
+          stats = {
+              'root_product_rows': len(roots),
+              'child_variant_rows': sum(len(v) for v in children.values()),
+              'products_with_children': sum(1 for p in roots if children.get(p.get('id'))),
+              'root_keys': {k: {'count': key_counts[k], 'types': dict(key_types[k])} for k in sorted(key_counts)},
+              'source_identifier_field_population': dict(source_fields),
+              'source_domains': dict(domains.most_common()),
+              'status_counts': dict(status_counts),
+              'unique_vendors': len([v for v in vendor_counts if v]),
+              'top_vendors': vendor_counts.most_common(100),
+              'chunk_count': len(index),
+              'chunk_size': chunk_size,
+          }
+          (root / 'field_stats.json').write_text(json.dumps(stats, ensure_ascii=False, indent=2), encoding='utf-8')
+          (root / 'sample_products.json').write_text(json.dumps(result[:10], ensure_ascii=False, indent=2), encoding='utf-8')
+          (root / 'chunk_index.json').write_text(json.dumps(index, ensure_ascii=False, indent=2), encoding='utf-8')
+
+          # Lean one-row-per-product CSV.
+          fields = [
+              'row','legacyResourceId','handle','title','vendor','productType','status','onlineStoreUrl',
+              'variant_count','variant_skus','variant_barcodes','existing_sources','existing_identifiers'
+          ]
+          with (root / 'audit_inventory.csv').open('w', encoding='utf-8-sig', newline='') as f:
+              w = csv.DictWriter(f, fieldnames=fields)
+              w.writeheader()
+              for i, r in enumerate(result, 1):
+                  w.writerow({
+                      'row': i,
+                      'legacyResourceId': r.get('legacyResourceId'),
+                      'handle': r.get('handle'),
+                      'title': r.get('title'),
+                      'vendor': r.get('vendor'),
+                      'productType': r.get('productType'),
+                      'status': r.get('status'),
+                      'onlineStoreUrl': r.get('onlineStoreUrl'),
+                      'variant_count': len(r['variants']),
+                      'variant_skus': ' | '.join(str(v.get('sku') or '') for v in r['variants']),
+                      'variant_barcodes': ' | '.join(str(v.get('barcode') or '') for v in r['variants']),
+                      'existing_sources': json.dumps(r['sources'], ensure_ascii=False, separators=(',', ':')),
+                      'existing_identifiers': json.dumps(r['identifiers'], ensure_ascii=False, separators=(',', ':')),
+                  })
+
+          print(json.dumps({
+              'products': len(result),
+              'variants': sum(len(r['variants']) for r in result),
+              'chunks': len(index),
+              'fields': all_root_keys,
+          }, ensure_ascii=False, indent=2))
+          PY
+
+      - name: Commit parsed audit inventory
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalog-audit/field_stats.json catalog-audit/sample_products.json catalog-audit/chunk_index.json catalog-audit/audit_inventory.csv catalog-audit/chunks/
+          if git diff --cached --quiet; then
+            echo "No analysis changes to commit"
+          else
+            git commit -m "data: parse full catalog into source-audit chunks"
+            git push origin HEAD:master
+          fi

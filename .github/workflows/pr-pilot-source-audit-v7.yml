@@ -1,0 +1,75 @@
+name: Observable PR pilot — production source audit v7
+
+on:
+  pull_request:
+    branches: [master]
+    paths:
+      - 'catalog-audit/pr-pilot-v7-trigger.txt'
+      - 'catalog-audit/source_audit_engine_v7.py'
+      - 'catalog-audit/source_audit_engine_v6.py'
+      - 'catalog-audit/source_audit_engine_v4.py'
+      - 'catalog-audit/source_audit_engine_v3.py'
+      - '.github/workflows/pr-pilot-source-audit-v7.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  pilot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 -m pip install --disable-pip-version-check requests beautifulsoup4
+      - name: Compile engines
+        run: |
+          python3 -m py_compile catalog-audit/source_audit_engine_v3.py
+          python3 -m py_compile catalog-audit/source_audit_engine_v4.py
+          python3 -m py_compile catalog-audit/source_audit_engine_v6.py
+          python3 -m py_compile catalog-audit/source_audit_engine_v7.py
+      - name: Run first 12 products
+        run: |
+          rm -rf source-audit-pilot-v7
+          mkdir -p source-audit-pilot-v7
+          python3 catalog-audit/source_audit_engine_v7.py \
+            --input catalog-audit/chunks/products_0001_0100.json \
+            --output source-audit-pilot-v7/pilot_first_12.json \
+            --limit 12 --delay 0.01 \
+            > source-audit-pilot-v7/run_stdout.log \
+            2> source-audit-pilot-v7/run_stderr.log
+      - name: Build summary
+        if: always()
+        run: |
+          python3 - <<'PY'
+          import collections,json,pathlib
+          base=pathlib.Path('source-audit-pilot-v7')
+          p=base/'pilot_first_12.json'
+          try: rows=json.loads(p.read_text(encoding='utf-8')) if p.exists() else []
+          except Exception: rows=[]
+          def read(n):
+              q=base/n
+              return q.read_text(encoding='utf-8',errors='replace')[-30000:] if q.exists() else ''
+          summary={
+            'count':len(rows),
+            'status_counts':dict(collections.Counter(r.get('final_status') for r in rows)),
+            'verified_count':sum(1 for r in rows if str(r.get('final_status','')).startswith('VERIFIED_')),
+            'engine_error_count':sum(1 for r in rows if r.get('final_status')=='ENGINE_ERROR'),
+            'stdout_tail':read('run_stdout.log'),'stderr_tail':read('run_stderr.log'),
+            'rows':[{k:r.get(k) for k in [
+              'shopify_product_id','store_title','vendor','official_domains','public_model_codes',
+              'localized_identity_clues','final_status','final_source_url','source_type','confidence',
+              'best_candidate_url','best_candidate_status','best_candidate_score','verification_evidence',
+              'matched_model_codes','matched_jans','matched_size_count','elapsed_seconds','engine_version'
+            ]} for r in rows]
+          }
+          (base/'pilot_summary.json').write_text(json.dumps(summary,ensure_ascii=False,indent=2),encoding='utf-8')
+          print(json.dumps(summary,ensure_ascii=False,indent=2))
+          PY
+      - name: Upload pilot artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: source-audit-pilot-v7
+          path: source-audit-pilot-v7/
+          if-no-files-found: error
+          retention-days: 7

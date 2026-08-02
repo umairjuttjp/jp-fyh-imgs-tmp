@@ -1,0 +1,42 @@
+name: Patch source audit engine syntax
+
+on:
+  push:
+    paths:
+      - '.github/workflows/fix-source-audit-engine.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 0
+
+      - name: Patch and compile audit engine
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('catalog-audit/source_audit_engine.py')
+          text = p.read_text(encoding='utf-8')
+          old = 'exact_models = sorted(m for m in model_tokens if len(m) >= 4 and m in ncombined, key=lambda x: (-len(x), x))'
+          new = 'exact_models = sorted((m for m in model_tokens if len(m) >= 4 and m in ncombined), key=lambda x: (-len(x), x))'
+          if old not in text:
+              raise SystemExit('target syntax line not found')
+          p.write_text(text.replace(old, new), encoding='utf-8')
+          PY
+          python3 -m py_compile catalog-audit/source_audit_engine.py
+
+      - name: Commit engine fix
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalog-audit/source_audit_engine.py
+          git commit -m "fix: parenthesize model-token generator in audit engine"
+          git push origin HEAD:master

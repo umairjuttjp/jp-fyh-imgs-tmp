@@ -1,0 +1,76 @@
+name: Diagnose search endpoints for source audit
+
+on:
+  push:
+    paths:
+      - '.github/workflows/search-endpoint-diagnostic.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  diagnose-search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 0
+      - run: python3 -m pip install --disable-pip-version-check requests beautifulsoup4
+      - name: Test search transports
+        run: |
+          mkdir -p catalog-audit/search-diagnostic
+          python3 - <<'PY'
+          import json, pathlib, requests, re
+          from bs4 import BeautifulSoup
+          from urllib.parse import quote_plus
+          from xml.etree import ElementTree as ET
+
+          ua = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/136.0 Safari/537.36'
+          queries = [
+              'Shu Uemura Botanic Cleansing Oil 450ml 公式',
+              'Copic Sketch 24色 公式',
+              'IPSA ザ タイムR アクア 200ml 公式',
+              '木屋 エーデルワイス パン切り 225mm',
+          ]
+          report = []
+          for q in queries:
+              endpoints = {
+                  'bing_rss': 'https://www.bing.com/search?format=rss&setlang=ja-JP&cc=jp&q=' + quote_plus(q),
+                  'bing_html': 'https://www.bing.com/search?setlang=ja-JP&cc=jp&q=' + quote_plus(q),
+                  'ddg_html': 'https://html.duckduckgo.com/html/?kl=jp-jp&q=' + quote_plus(q),
+                  'google_html': 'https://www.google.com/search?hl=ja&gl=jp&num=10&q=' + quote_plus(q),
+                  'yahoo_jp': 'https://search.yahoo.co.jp/search?p=' + quote_plus(q),
+              }
+              for name, url in endpoints.items():
+                  item = {'query': q, 'endpoint': name, 'url': url}
+                  try:
+                      r = requests.get(url, headers={'User-Agent': ua, 'Accept-Language':'ja-JP,ja;q=0.9'}, timeout=20)
+                      item.update({'status': r.status_code, 'bytes': len(r.content), 'final_url': r.url, 'content_type': r.headers.get('content-type','')})
+                      text = r.text
+                      item['title'] = BeautifulSoup(text, 'html.parser').title.get_text(' ', strip=True) if '<html' in text.lower() and BeautifulSoup(text, 'html.parser').title else ''
+                      item['snippet'] = re.sub(r'\s+', ' ', BeautifulSoup(text, 'html.parser').get_text(' ', strip=True))[:800]
+                      if name == 'bing_rss' and r.status_code == 200:
+                          try:
+                              root = ET.fromstring(r.content)
+                              item['rss_items'] = [
+                                  {'title': x.findtext('title'), 'link': x.findtext('link'), 'description': x.findtext('description')}
+                                  for x in root.findall('.//item')[:10]
+                              ]
+                          except Exception as e:
+                              item['rss_error'] = str(e)
+                  except Exception as e:
+                      item['error'] = f'{type(e).__name__}: {e}'
+                  report.append(item)
+          pathlib.Path('catalog-audit/search-diagnostic/report.json').write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding='utf-8')
+          print(json.dumps(report, ensure_ascii=False, indent=2))
+          PY
+      - name: Commit diagnostic report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalog-audit/search-diagnostic/report.json
+          git commit -m "data: add Japanese search endpoint diagnostic"
+          git push origin HEAD:master
